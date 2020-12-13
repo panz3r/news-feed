@@ -122,7 +122,7 @@ func parseFeedItem(feed feed, item *gofeed.Item) (*feedItem, error) {
 
 	post := &feedItem{
 		Title:      item.Title,
-		Date:       published.Format("2006-01-02"),
+		Date:       published.Format("2006-01-02 15:04:05"),
 		Slug:       slugify.Marshal(item.Title),
 		Author:     feed.Name,
 		AuthorLink: item.Link,

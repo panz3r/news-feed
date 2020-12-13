@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Hacker News Frontpage",
+    "url": "https://hnrss.org/frontpage"
+  },
+  {
+    "name": "Ars Technica",
+    "url": "http://feeds.arstechnica.com/arstechnica/index/"
+  },
+  {
+    "name": "The Verge",
+    "url": "https://www.theverge.com/rss/index.xml"
+  },
+  {
+    "name": "Six Colors",
+    "url": "http://feedpress.me/sixcolors"
+  },
+  {
+    "name": "The Devs",
+    "url": "https://rsshub.app/telegram/channel/thedevs"
+  }
+]

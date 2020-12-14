@@ -6,7 +6,7 @@ require (
 	github.com/PuerkitoBio/goquery v1.6.0 // indirect
 	github.com/andybalholm/cascadia v1.2.0 // indirect
 	github.com/ericaro/frontmatter v0.0.0-20200210094738-46863cd917e2
-	github.com/metal3d/go-slugify v0.0.0-20160607203414-7ac2014b2f23 // indirect
+	github.com/metal3d/go-slugify v0.0.0-20160607203414-7ac2014b2f23
 	github.com/mmcdole/gofeed v1.1.0
 	github.com/mmcdole/goxpp v0.0.0-20200921145534-2f3784f67354 // indirect
 	github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd // indirect

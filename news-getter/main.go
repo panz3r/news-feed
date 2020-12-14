@@ -144,7 +144,7 @@ func storePost(folder string, post *feedItem) error {
 		return err
 	}
 
-	fileName := strings.Join([]string{post.Slug, "md"}, ".")
+	fileName := strings.ToLower(strings.Join([]string{post.Slug, "md"}, "."))
 	if err = ioutil.WriteFile(path.Join(folder, fileName), data, 0700); err != nil {
 		return err
 	}

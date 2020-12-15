@@ -1,7 +1,7 @@
 [
   {
     "name": "Hacker News Frontpage",
-    "url": "https://hnrss.org/frontpage"
+    "url": "https://hnrss.org/frontpage?points=50"
   },
   {
     "name": "Ars Technica",
@@ -18,5 +18,17 @@
   {
     "name": "The Devs",
     "url": "https://rsshub.app/telegram/channel/thedevs"
+  },
+  {
+    "name": "Tech - The Next Web",
+    "url": "https://thenextweb.com/section/tech/feed/"
+  },
+  {
+    "name": "TechSpot",
+    "url": "https://www.techspot.com/backend.xml"
+  },
+  {
+    "name": "Forbes - Innovation",
+    "url": "https://www.forbes.com/innovation/feed/"
   }
 ]

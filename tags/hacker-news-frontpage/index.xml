@@ -1,18 +1,27 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hacker-News-Frontpage on Panz3r News</title><link>https://news.panz3r.dev/tags/hacker-news-frontpage/</link><description>Recent content in Hacker-News-Frontpage on news.panz3r.dev</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Panz3r 2020 | Vitae theme for Hugo</copyright><lastBuildDate>Tue, 15 Dec 2020 17:39:57 +0000</lastBuildDate><atom:link href="https://news.panz3r.dev/tags/hacker-news-frontpage/index.xml" rel="self" type="application/rss+xml"/><item><title>Amazon Managed Service for Grafana</title><link>https://news.panz3r.dev/post/amazon-managed-service-for-grafana/</link><pubDate>Tue, 15 Dec 2020 17:39:57 +0000</pubDate><guid>https://news.panz3r.dev/post/amazon-managed-service-for-grafana/</guid><description>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hacker-News-Frontpage on Panz3r News</title><link>https://news.panz3r.dev/tags/hacker-news-frontpage/</link><description>Recent content in Hacker-News-Frontpage on news.panz3r.dev</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Panz3r 2020 | Vitae theme for Hugo</copyright><lastBuildDate>Tue, 15 Dec 2020 18:05:33 +0000</lastBuildDate><atom:link href="https://news.panz3r.dev/tags/hacker-news-frontpage/index.xml" rel="self" type="application/rss+xml"/><item><title>EU reveals plan to regulate Big Tech</title><link>https://news.panz3r.dev/post/eu-reveals-plan-to-regulate-big-tech/</link><pubDate>Tue, 15 Dec 2020 18:05:33 +0000</pubDate><guid>https://news.panz3r.dev/post/eu-reveals-plan-to-regulate-big-tech/</guid><description>
+Article URL: https://www.bbc.com/news/technology-55318225
+Comments URL: https://news.ycombinator.com/item?id=25432985
+Po...</description></item><item><title>Amazon Managed Service for Prometheus</title><link>https://news.panz3r.dev/post/amazon-managed-service-for-prometheus/</link><pubDate>Tue, 15 Dec 2020 17:47:12 +0000</pubDate><guid>https://news.panz3r.dev/post/amazon-managed-service-for-prometheus/</guid><description>
+Article URL: https://aws.amazon.com/prometheus/
+Comments URL: https://news.ycombinator.com/item?id=25432729
+Points: 43
+#...</description></item><item><title>Amazon Managed Service for Grafana</title><link>https://news.panz3r.dev/post/amazon-managed-service-for-grafana/</link><pubDate>Tue, 15 Dec 2020 17:39:57 +0000</pubDate><guid>https://news.panz3r.dev/post/amazon-managed-service-for-grafana/</guid><description>
 Article URL: http://aws.amazon.com/grafana
 Comments URL: https://news.ycombinator.com/item?id=25432630
-Points: 60
-# Comm...</description></item><item><title>Neverware is now part of Google</title><link>https://news.panz3r.dev/post/neverware-is-now-part-of-google/</link><pubDate>Tue, 15 Dec 2020 17:39:01 +0000</pubDate><guid>https://news.panz3r.dev/post/neverware-is-now-part-of-google/</guid><description>
+Points: 111
+# Com...</description></item><item><title>Neverware is now part of Google</title><link>https://news.panz3r.dev/post/neverware-is-now-part-of-google/</link><pubDate>Tue, 15 Dec 2020 17:39:01 +0000</pubDate><guid>https://news.panz3r.dev/post/neverware-is-now-part-of-google/</guid><description>
 Article URL: https://cloudreadykb.neverware.com/s/article/Neverware-is-now-part-of-Google-FAQ
 Comments URL: https://news...</description></item><item><title>PINE64 December Update</title><link>https://news.panz3r.dev/post/pine64-december-update/</link><pubDate>Tue, 15 Dec 2020 17:32:22 +0000</pubDate><guid>https://news.panz3r.dev/post/pine64-december-update/</guid><description>
 Article URL: https://www.pine64.org/2020/12/15/december-update-the-longest-one-yet/
-Comments URL: https://news.ycombinat...</description></item><item><title>Cognitect and Nubank Are Sponsoring Open Source Developers</title><link>https://news.panz3r.dev/post/cognitect-and-nubank-are-sponsoring-open-source-developers/</link><pubDate>Tue, 15 Dec 2020 17:09:03 +0000</pubDate><guid>https://news.panz3r.dev/post/cognitect-and-nubank-are-sponsoring-open-source-developers/</guid><description>
+Comments URL: https://news.ycombinat...</description></item><item><title>Record Breaking Number of Journalists Arrested in the U.S. This Year</title><link>https://news.panz3r.dev/post/record-breaking-number-of-journalists-arrested-in-the-us-this-year/</link><pubDate>Tue, 15 Dec 2020 17:32:16 +0000</pubDate><guid>https://news.panz3r.dev/post/record-breaking-number-of-journalists-arrested-in-the-us-this-year/</guid><description>
+Article URL: https://freedom.press/news/2020-report-journalists-arrested-us/
+Comments URL: https://news.ycombinator.com/...</description></item><item><title>Cognitect and Nubank Are Sponsoring Open Source Developers</title><link>https://news.panz3r.dev/post/cognitect-and-nubank-are-sponsoring-open-source-developers/</link><pubDate>Tue, 15 Dec 2020 17:09:03 +0000</pubDate><guid>https://news.panz3r.dev/post/cognitect-and-nubank-are-sponsoring-open-source-developers/</guid><description>
 Article URL: https://cognitect.com/blog/2020/12/15/sponsoring-open-source-developers
 Comments URL: https://news.ycombina...</description></item><item><title>AWS Fault Injection Simulator</title><link>https://news.panz3r.dev/post/aws-fault-injection-simulator/</link><pubDate>Tue, 15 Dec 2020 17:08:16 +0000</pubDate><guid>https://news.panz3r.dev/post/aws-fault-injection-simulator/</guid><description>
 Article URL: https://aws.amazon.com/fis/
 Comments URL: https://news.ycombinator.com/item?id=25432235
-Points: 63
-# Commen...</description></item><item><title>REST vs. GraphQL – A search for evidence on which is better</title><link>https://news.panz3r.dev/post/rest-vs-graphql-a-search-for-evidence-on-which-is-better/</link><pubDate>Tue, 15 Dec 2020 17:08:09 +0000</pubDate><guid>https://news.panz3r.dev/post/rest-vs-graphql-a-search-for-evidence-on-which-is-better/</guid><description>
+Points: 115
+# Comme...</description></item><item><title>REST vs. GraphQL – A search for evidence on which is better</title><link>https://news.panz3r.dev/post/rest-vs-graphql-a-search-for-evidence-on-which-is-better/</link><pubDate>Tue, 15 Dec 2020 17:08:09 +0000</pubDate><guid>https://news.panz3r.dev/post/rest-vs-graphql-a-search-for-evidence-on-which-is-better/</guid><description>
 Article URL: https://42papers.com/p/rest-vs-graphql-a-controlled-experiment
 Comments URL: https://news.ycombinator.com/i...</description></item><item><title>Stacker (YC S20) Is Hiring React/Python Engineers (Remote, Europe)</title><link>https://news.panz3r.dev/post/stacker-yc-s20-is-hiring-reactpython-engineers-remote-europe/</link><pubDate>Tue, 15 Dec 2020 17:00:10 +0000</pubDate><guid>https://news.panz3r.dev/post/stacker-yc-s20-is-hiring-reactpython-engineers-remote-europe/</guid><description>
 Article URL: https://stackerhq.com/jobs
@@ -37,7 +46,7 @@ Poi...</description></item><item><title>Ask HN: How to run analytics on data wit
 I have little service for personal use, and I was considering opening it up to a general audience. Right now its process...</description></item><item><title>Show HN: Polotno Studio – Canva-like design editor, without signups or ads</title><link>https://news.panz3r.dev/post/show-hn-polotno-studio-canva-like-design-editor-without-signups-or-ads/</link><pubDate>Tue, 15 Dec 2020 12:35:11 +0000</pubDate><guid>https://news.panz3r.dev/post/show-hn-polotno-studio-canva-like-design-editor-without-signups-or-ads/</guid><description>
 Article URL: https://studio.polotno.dev/
 Comments URL: https://news.ycombinator.com/item?id=25429685
-Points: 123
+Points: 136
 # Comme...</description></item><item><title>Show HN: Polotno Studio – canva.com-like design editor. No signups, no ads</title><link>https://news.panz3r.dev/post/show-hn-polotno-studio-canvacom-like-design-editor-no-signups-no-ads/</link><pubDate>Tue, 15 Dec 2020 12:35:11 +0000</pubDate><guid>https://news.panz3r.dev/post/show-hn-polotno-studio-canvacom-like-design-editor-no-signups-no-ads/</guid><description>
 Article URL: https://studio.polotno.dev/
 Comments URL: https://news.ycombinator.com/item?id=25429685
@@ -56,7 +65,7 @@ Points: 12
 # Co...</description></item><item><title>Shitlist Driven Development (2016)</title><link>https://news.panz3r.dev/post/shitlist-driven-development-2016/</link><pubDate>Tue, 15 Dec 2020 12:05:04 +0000</pubDate><guid>https://news.panz3r.dev/post/shitlist-driven-development-2016/</guid><description>
 Article URL: https://sirupsen.com/shitlists/
 Comments URL: https://news.ycombinator.com/item?id=25429493
-Points: 247
+Points: 267
 # C...</description></item><item><title>Trexo Robotics (YC W19) Is Hiring</title><link>https://news.panz3r.dev/post/trexo-robotics-yc-w19-is-hiring/</link><pubDate>Tue, 15 Dec 2020 12:01:04 +0000</pubDate><guid>https://news.panz3r.dev/post/trexo-robotics-yc-w19-is-hiring/</guid><description>
 Article URL: https://angel.co/company/trexo-robotics/jobs/1085269-operations-manager
 Comments URL: https://news.ycombina...</description></item><item><title>The Man with the Golden Airline Ticket (2019)</title><link>https://news.panz3r.dev/post/the-man-with-the-golden-airline-ticket-2019/</link><pubDate>Tue, 15 Dec 2020 11:55:12 +0000</pubDate><guid>https://news.panz3r.dev/post/the-man-with-the-golden-airline-ticket-2019/</guid><description>

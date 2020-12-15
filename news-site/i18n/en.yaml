@@ -9,7 +9,7 @@
   translation: "Please enable JavaScript to load the comments."
 
 - id: authorpretext
-  translation: "Found on"
+  translation: "From"
 
 - id: 404title
   translation: "HTTP-404 Error"

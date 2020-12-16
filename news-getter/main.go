@@ -2,6 +2,8 @@ package main
 
 import (
 	"context"
+	"crypto/sha256"
+	"encoding/hex"
 	"encoding/json"
 	"errors"
 	"io/ioutil"
@@ -23,6 +25,7 @@ type feed struct {
 }
 
 type feedItem struct {
+	ID         string `yaml:"-"`
 	Title      string
 	Content    string `fm:"content" yaml:"-"`
 	Date       string
@@ -35,8 +38,8 @@ type feedItem struct {
 var (
 	wg sync.WaitGroup
 
-	// Show up to 10 days of posts
-	relevantDuration = 10 * 24 * time.Hour
+	// Show up to x days of posts
+	relevantDuration = 5 * (24 * time.Hour)
 
 	sourceJSON = "../feeds.json"
 	outputDir  = "../news-site/content/post" // So we can feed them to Hugo
@@ -95,12 +98,12 @@ func getFeedPosts(ctx context.Context, feed feed) {
 
 	var postsCount = 0
 	for _, item := range feedRes.Items {
-		post, err := parseFeedItem(feed, item)
+		post, err := parseFeedItem(&feed, item)
 		if err != nil {
 			break
 		}
 
-		if err := storePost(feedDir, post); err != nil {
+		if err := storePost(feedDir, &feed, post); err != nil {
 			log.Printf("[Error] Error saving post: %s\n", err.Error())
 			continue
 		}
@@ -111,16 +114,22 @@ func getFeedPosts(ctx context.Context, feed feed) {
 	log.Printf("Saved %d posts for feed '%s'. Source had %d.\n", postsCount, feed.Name, len(feedRes.Items))
 }
 
-func parseFeedItem(feed feed, item *gofeed.Item) (*feedItem, error) {
+func parseFeedItem(feed *feed, item *gofeed.Item) (*feedItem, error) {
+	if item.GUID == "" {
+		return nil, errors.New("Missing GUID")
+	}
+
 	published := item.PublishedParsed
-	if published == nil {
+	if published == nil || published.Before(*item.UpdatedParsed) {
 		published = item.UpdatedParsed
 	}
+
 	if published.Before(time.Now().Add(-relevantDuration)) {
 		return nil, errors.New("Skipped")
 	}
 
 	post := &feedItem{
+		ID:         item.GUID,
 		Title:      item.Title,
 		Date:       published.Format("2006-01-02 15:04:05"),
 		Slug:       slugify.Marshal(item.Title),
@@ -138,16 +147,26 @@ func parseFeedItem(feed feed, item *gofeed.Item) (*feedItem, error) {
 	return post, nil
 }
 
-func storePost(folder string, post *feedItem) error {
+func storePost(folder string, feed *feed, post *feedItem) error {
 	data, err := frontmatter.Marshal(post)
 	if err != nil {
 		return err
 	}
 
-	fileName := strings.ToLower(strings.Join([]string{post.Slug, "md"}, "."))
+	fileName := getPostIDHash(feed, post) + ".md"
 	if err = ioutil.WriteFile(path.Join(folder, fileName), data, 0700); err != nil {
 		return err
 	}
 
 	return nil
+}
+
+func getPostIDHash(feed *feed, post *feedItem) string {
+	return getHash(strings.ToLower(slugify.Marshal(feed.Name + "-" + post.ID)))
+}
+
+func getHash(text string) string {
+	hasher := sha256.New()
+	hasher.Write([]byte(text))
+	return hex.EncodeToString(hasher.Sum(nil))
 }

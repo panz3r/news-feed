@@ -120,7 +120,11 @@ func parseFeedItem(feed *feed, item *gofeed.Item) (*feedItem, error) {
 	}
 
 	published := item.PublishedParsed
-	if published == nil || published.Before(*item.UpdatedParsed) {
+	if published == nil {
+		published = item.UpdatedParsed
+	}
+
+	if item.UpdatedParsed != nil && published.Before(*item.UpdatedParsed) {
 		published = item.UpdatedParsed
 	}
 

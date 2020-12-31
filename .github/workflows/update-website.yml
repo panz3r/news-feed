@@ -1,0 +1,99 @@
+name: Update website
+
+on:
+  # workflow_run:
+  #   workflows: ['Fetch news']
+  #   branches: [main]
+  #   types:
+  #     - completed
+
+  schedule:
+    # Run 3 times a day
+    - cron: '0 6,11,17,23 * * *'
+
+  workflow_dispatch:
+    inputs:
+      reason:
+        description: 'Run reason'
+
+jobs:
+  update-news:
+    name: Update news
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Set up Go 1.x
+        uses: actions/setup-go@v2
+        with:
+          go-version: ^1.13
+        id: go
+
+      - name: Check out code
+        uses: actions/checkout@v2
+
+      - name: Restore cached Go Modules
+        uses: actions/cache@v2
+        with:
+          path: ~/go/pkg/mod
+          key: ${{ runner.os }}-go-${{ hashFiles('**/go.sum') }}
+          restore-keys: |
+            ${{ runner.os }}-go-
+
+      - name: Fetch news
+        run: go run main.go
+        working-directory: ./news-getter
+
+      - name: Cleanup old news
+        run: go run main.go
+        working-directory: ./news-cleaner
+
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: 'chore(news): Update news (automated)'
+          commit_author: 'GitHub Actions <actions@github.com>'
+
+  build-website:
+    name: Build website
+    runs-on: ubuntu-latest
+    needs: update-news
+
+    defaults:
+      run:
+        working-directory: ./news-site
+
+    steps:
+      - name: Set up Go 1.x
+        uses: actions/setup-go@v2
+        with:
+          go-version: ^1.13
+        id: go
+
+      - name: Check out code
+        uses: actions/checkout@v2
+        with:
+          ref: 'main' # Checkout latest commit on main - otherwise latest news retrieved by 'update-news' job are lost
+          submodules: 'true'
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: '0.79.0'
+
+      - name: Cache Hugo Modules
+        uses: actions/cache@v2
+        with:
+          path: /tmp/hugo_cache
+          key: ${{ runner.os }}-hugomod-${{ hashFiles('**/go.sum') }}
+          restore-keys: |
+            ${{ runner.os }}-hugomod-
+
+      - name: Build website
+        run: hugo --minify
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./news-site/public
+          cname: news.panz3r.dev

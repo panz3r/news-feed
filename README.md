@@ -28,11 +28,7 @@ The website is hosted by GitHub pages.
 
 ### Automation
 
-A [GitHub Action](/.github/workflows/fetch-news.yml) is used to run the `news-getter/main.go` every hour to fetch news and commit any changes to `news-site/content/post`.
-
-A [GitHub Action](/.github/workflows/build-website.yml) is used to build the website using [Hugo](https://gohugo.io) and deploy it to GitHub Pages ✨.
-
-A [GitHub Action](/.github/workflows/cleanup-news.yml) is used to delete old news from the `news-site/content/post` folder.
+A [GitHub Action](/.github/workflows/update-website.yml) is used to fetch the latets news, cleanup the old ones and build the website using [Hugo](https://gohugo.io) and deploy it to GitHub Pages ✨.
 
 ## Credits
 

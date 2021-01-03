@@ -1,8 +1,31 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hacker-News-Frontpage on Panz3r News</title><link>https://news.panz3r.dev/tags/hacker-news-frontpage/</link><description>Recent content in Hacker-News-Frontpage on news.panz3r.dev</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Panz3r 2020 | Vitae theme for Hugo</copyright><lastBuildDate>Sun, 03 Jan 2021 08:26:14 +0000</lastBuildDate><atom:link href="https://news.panz3r.dev/tags/hacker-news-frontpage/index.xml" rel="self" type="application/rss+xml"/><item><title>A new release for GNU Octave</title><link>https://news.panz3r.dev/post/5364cd4e9109952355bdcc43db8dbc3f565ae00e50791e1c09fe22c53b82a8ab/</link><pubDate>Sun, 03 Jan 2021 08:26:14 +0000</pubDate><guid>https://news.panz3r.dev/post/5364cd4e9109952355bdcc43db8dbc3f565ae00e50791e1c09fe22c53b82a8ab/</guid><description>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hacker-News-Frontpage on Panz3r News</title><link>https://news.panz3r.dev/tags/hacker-news-frontpage/</link><description>Recent content in Hacker-News-Frontpage on news.panz3r.dev</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Panz3r 2020 | Vitae theme for Hugo</copyright><lastBuildDate>Sun, 03 Jan 2021 17:04:02 +0000</lastBuildDate><atom:link href="https://news.panz3r.dev/tags/hacker-news-frontpage/index.xml" rel="self" type="application/rss+xml"/><item><title>I logged my activities at 15-minute intervals for the whole year</title><link>https://news.panz3r.dev/post/485c83b9dbe38059e5d2fd252374478c0b1e9dfa30a391347b7a46707d54a4df/</link><pubDate>Sun, 03 Jan 2021 17:04:02 +0000</pubDate><guid>https://news.panz3r.dev/post/485c83b9dbe38059e5d2fd252374478c0b1e9dfa30a391347b7a46707d54a4df/</guid><description>
+Article URL: https://samplesize.one/blog/posts/my_year_in_data/
+Comments URL: …</description></item><item><title>Why Clojure? (2018)</title><link>https://news.panz3r.dev/post/6be9e8f5116bbe0d356012b53edb37e22f499cf388b0af8f656320676f93ff2e/</link><pubDate>Sun, 03 Jan 2021 16:06:24 +0000</pubDate><guid>https://news.panz3r.dev/post/6be9e8f5116bbe0d356012b53edb37e22f499cf388b0af8f656320676f93ff2e/</guid><description>
+Article URL: https://briansunter.com/blog/why-clojure/
+Comments URL: https://news.ycombinator.com/item?id=25622528 …</description></item><item><title>Linus Torvalds: ECC matters</title><link>https://news.panz3r.dev/post/2ed44355b1e02cdebb4070388e146a7895d75be3b2d3975642c1034df0e62bcc/</link><pubDate>Sun, 03 Jan 2021 15:38:04 +0000</pubDate><guid>https://news.panz3r.dev/post/2ed44355b1e02cdebb4070388e146a7895d75be3b2d3975642c1034df0e62bcc/</guid><description>
+Article URL: https://www.realworldtech.com/forum/?threadid=198497&curpostid=198647
+Comments URL: …</description></item><item><title>How to Stop Endless Discussions</title><link>https://news.panz3r.dev/post/df77c9c8a933461fa9ef3a5d593fba2a42363fa15e1a5c090b5e86ae29485c11/</link><pubDate>Sun, 03 Jan 2021 15:07:38 +0000</pubDate><guid>https://news.panz3r.dev/post/df77c9c8a933461fa9ef3a5d593fba2a42363fa15e1a5c090b5e86ae29485c11/</guid><description>
+Article URL: https://candost.blog/how-to-stop-endless-discussions/
+Comments URL: …</description></item><item><title>Show HN: OpenScan – open-source document scanner app</title><link>https://news.panz3r.dev/post/f46e87305850bd0fe03a8f45ccc9e5042f35ae79d7daf0099b634acb6f77f975/</link><pubDate>Sun, 03 Jan 2021 14:57:19 +0000</pubDate><guid>https://news.panz3r.dev/post/f46e87305850bd0fe03a8f45ccc9e5042f35ae79d7daf0099b634acb6f77f975/</guid><description>
+Article URL: https://github.com/Ethereal-Developers-Inc/OpenScan
+Comments URL: …</description></item><item><title>The Great Suspender: New maintainer is probably malicious</title><link>https://news.panz3r.dev/post/b818813f14bad1f07af33632be459f6c04809f5a43716d28361d09697009a835/</link><pubDate>Sun, 03 Jan 2021 14:41:37 +0000</pubDate><guid>https://news.panz3r.dev/post/b818813f14bad1f07af33632be459f6c04809f5a43716d28361d09697009a835/</guid><description>
+Article URL: https://github.com/greatsuspender/thegreatsuspender/issues/1263
+Comments URL: …</description></item><item><title>Castlevania III Password Algorithm</title><link>https://news.panz3r.dev/post/82c39ed3d6d6e1ff24ab9d660254e051099839a4a8726b3c375d66208a1edf9f/</link><pubDate>Sun, 03 Jan 2021 14:33:17 +0000</pubDate><guid>https://news.panz3r.dev/post/82c39ed3d6d6e1ff24ab9d660254e051099839a4a8726b3c375d66208a1edf9f/</guid><description>
+Article URL: https://meatfighter.com/castlevania3-password/
+Comments URL: https://news.ycombinator.com/item?id=25621966 …</description></item><item><title>Indian Govt to buy bulk subscription of scientific journals and give free access</title><link>https://news.panz3r.dev/post/c48fa6c106a562533fd282beef135aa1b23b2f0f7fcf24dcbfd73ac5ad72a69c/</link><pubDate>Sun, 03 Jan 2021 14:03:52 +0000</pubDate><guid>https://news.panz3r.dev/post/c48fa6c106a562533fd282beef135aa1b23b2f0f7fcf24dcbfd73ac5ad72a69c/</guid><description>
+Article URL: https://indianexpress.com/article/india/pune/one-nation-one-subscription-govt-draft-policy-7128799/lite/ …</description></item><item><title>GTK4 for Graphical User Interfaces</title><link>https://news.panz3r.dev/post/f190083cf0d00286163724519662f5bc339c775c4e3a167779de16dc49dbb4f4/</link><pubDate>Sun, 03 Jan 2021 13:41:45 +0000</pubDate><guid>https://news.panz3r.dev/post/f190083cf0d00286163724519662f5bc339c775c4e3a167779de16dc49dbb4f4/</guid><description>
+Article URL: http://ssalewski.de/gtkprogramming.html
+Comments URL: https://news.ycombinator.com/item?id=25621700
+Points: …</description></item><item><title>Tell HN: Please update your DNS records when abandoning servers</title><link>https://news.panz3r.dev/post/f69a99b3c76636b7711414d4c9e69a5bd985e65643e4ab21a5ea29523058ec4d/</link><pubDate>Sun, 03 Jan 2021 13:00:04 +0000</pubDate><guid>https://news.panz3r.dev/post/f69a99b3c76636b7711414d4c9e69a5bd985e65643e4ab21a5ea29523058ec4d/</guid><description>
+I got contacted by someone wanting to buy the domain and was thoroughly surprised. It seems that the owner had it …</description></item><item><title>TreeCard: The wooden debit card that plants trees</title><link>https://news.panz3r.dev/post/e629cb2c3007e67137786960683839f0e1ffe8ee8d201e200fa783e00b1a33e6/</link><pubDate>Sun, 03 Jan 2021 12:32:16 +0000</pubDate><guid>https://news.panz3r.dev/post/e629cb2c3007e67137786960683839f0e1ffe8ee8d201e200fa783e00b1a33e6/</guid><description>
+Article URL: https://www.treecard.org/
+Comments URL: https://news.ycombinator.com/item?id=25621401
+Points: 67
+# …</description></item><item><title>A new release for GNU Octave</title><link>https://news.panz3r.dev/post/5364cd4e9109952355bdcc43db8dbc3f565ae00e50791e1c09fe22c53b82a8ab/</link><pubDate>Sun, 03 Jan 2021 08:26:14 +0000</pubDate><guid>https://news.panz3r.dev/post/5364cd4e9109952355bdcc43db8dbc3f565ae00e50791e1c09fe22c53b82a8ab/</guid><description>
 Article URL: https://lwn.net/Articles/840050/
 Comments URL: https://news.ycombinator.com/item?id=25620448
-Points: 64
-# …</description></item><item><title>New 2021 GPS Accuracy Issue Impacting Some Garmin, Suunto, Other GPS Devices</title><link>https://news.panz3r.dev/post/cb80289d9740daa3d134d8a0b1a885494ab552c9d7a4ce1d7ca64f2dcdfbc117/</link><pubDate>Sun, 03 Jan 2021 08:02:32 +0000</pubDate><guid>https://news.panz3r.dev/post/cb80289d9740daa3d134d8a0b1a885494ab552c9d7a4ce1d7ca64f2dcdfbc117/</guid><description>
+Points: 171
+# …</description></item><item><title>2021 GPS Accuracy Issue Impacting Some Garmin, Suunto, other GPS Devices</title><link>https://news.panz3r.dev/post/cb80289d9740daa3d134d8a0b1a885494ab552c9d7a4ce1d7ca64f2dcdfbc117/</link><pubDate>Sun, 03 Jan 2021 08:02:32 +0000</pubDate><guid>https://news.panz3r.dev/post/cb80289d9740daa3d134d8a0b1a885494ab552c9d7a4ce1d7ca64f2dcdfbc117/</guid><description>
 Article URL: https://www.dcrainmaker.com/2021/01/gps-accuracy-impacting-devices.html
 Comments URL: …</description></item><item><title>On Repl-Driven Programming</title><link>https://news.panz3r.dev/post/7adbfc853900ebdf2094863c773e113180783a7a9bcf3ba177481bc11ba60c83/</link><pubDate>Sun, 03 Jan 2021 07:35:08 +0000</pubDate><guid>https://news.panz3r.dev/post/7adbfc853900ebdf2094863c773e113180783a7a9bcf3ba177481bc11ba60c83/</guid><description>
 Article URL: http://mikelevins.github.io/posts/2020-12-18-repl-driven/
@@ -10,10 +33,13 @@ Comments URL: …</description></item><item><title>Rust Design Patterns as a Boo
 Article URL: https://rust-unofficial.github.io/patterns/
 Comments URL: https://news.ycombinator.com/item?id=25620110 …</description></item><item><title>Handtrack.js: A library for prototyping realtime hand detection in the browser</title><link>https://news.panz3r.dev/post/07c03a4618876b793a1f335a2232f61855febe2e78cea353ccbca3ea03e36b55/</link><pubDate>Sun, 03 Jan 2021 04:26:58 +0000</pubDate><guid>https://news.panz3r.dev/post/07c03a4618876b793a1f335a2232f61855febe2e78cea353ccbca3ea03e36b55/</guid><description>
 Article URL: https://github.com/victordibia/handtrack.js
-Comments URL: https://news.ycombinator.com/item?id=25619440 …</description></item><item><title>The Perfect Media Server</title><link>https://news.panz3r.dev/post/aa0f3674a071b44693d52bbe20eac75d995456014dbc33cd1521c1bc10d85f79/</link><pubDate>Sun, 03 Jan 2021 03:33:40 +0000</pubDate><guid>https://news.panz3r.dev/post/aa0f3674a071b44693d52bbe20eac75d995456014dbc33cd1521c1bc10d85f79/</guid><description>
+Comments URL: https://news.ycombinator.com/item?id=25619440 …</description></item><item><title>Dockerfile Best Practices</title><link>https://news.panz3r.dev/post/f7f972640df6fe1215da76302f8fee052fa31519ddeb7103080ffd078c37e4e8/</link><pubDate>Sun, 03 Jan 2021 04:04:13 +0000</pubDate><guid>https://news.panz3r.dev/post/f7f972640df6fe1215da76302f8fee052fa31519ddeb7103080ffd078c37e4e8/</guid><description>
+Article URL: https://github.com/hexops/dockerfile
+Comments URL: https://news.ycombinator.com/item?id=25619319
+Points: …</description></item><item><title>The Perfect Media Server</title><link>https://news.panz3r.dev/post/aa0f3674a071b44693d52bbe20eac75d995456014dbc33cd1521c1bc10d85f79/</link><pubDate>Sun, 03 Jan 2021 03:33:40 +0000</pubDate><guid>https://news.panz3r.dev/post/aa0f3674a071b44693d52bbe20eac75d995456014dbc33cd1521c1bc10d85f79/</guid><description>
 Article URL: https://perfectmediaserver.com/
 Comments URL: https://news.ycombinator.com/item?id=25619137
-Points: 63
+Points: 138
 # …</description></item><item><title>Encrypted Backup Shootout</title><link>https://news.panz3r.dev/post/bc7852021823ce9b2cd8bf869f49c735c925ab54c3f8d6f7baca1cf8bd6d9efa/</link><pubDate>Sun, 03 Jan 2021 01:04:47 +0000</pubDate><guid>https://news.panz3r.dev/post/bc7852021823ce9b2cd8bf869f49c735c925ab54c3f8d6f7baca1cf8bd6d9efa/</guid><description>
 Article URL: https://acha.ninja/blog/encrypted_backup_shootout/
 Comments URL: …</description></item><item><title>Zig in 30 Minutes</title><link>https://news.panz3r.dev/post/c8bbe0202d0b48cdc9753f86c1b90a203336569e5afebcdf4f9c2298773690af/</link><pubDate>Sun, 03 Jan 2021 00:58:13 +0000</pubDate><guid>https://news.panz3r.dev/post/c8bbe0202d0b48cdc9753f86c1b90a203336569e5afebcdf4f9c2298773690af/</guid><description>
@@ -71,7 +97,11 @@ Points: 642
 # …</description></item><item><title>Lets talk about changelogs (how I loathe 'bugfixes and performance improvements)</title><link>https://news.panz3r.dev/post/d68dc27e5ff3abd7a21fea5f49b9f9180f3d9d97d1b2efbe409dd93c149ce99c/</link><pubDate>Sat, 02 Jan 2021 11:53:39 +0000</pubDate><guid>https://news.panz3r.dev/post/d68dc27e5ff3abd7a21fea5f49b9f9180f3d9d97d1b2efbe409dd93c149ce99c/</guid><description>
 Article URL: https://raymii.org/s/blog/Rant_Lets_talk_about_changelogs.html
 Comments URL: …</description></item><item><title>US passes anti-corruption law that effectively bans anonymous shell companies</title><link>https://news.panz3r.dev/post/0c0e30b3f23fe1039d040b25f79f0dd9f79e0d77c40cc8a2b034f5b9cf6ee05c/</link><pubDate>Sat, 02 Jan 2021 10:45:39 +0000</pubDate><guid>https://news.panz3r.dev/post/0c0e30b3f23fe1039d040b25f79f0dd9f79e0d77c40cc8a2b034f5b9cf6ee05c/</guid><description>
-Article URL: …</description></item><item><title>Virtual Environments Demystified</title><link>https://news.panz3r.dev/post/fa803d0ac7fd7aff30b6d8801c6249a91dd49c55d89a3a9a9d26b28cc38bf75f/</link><pubDate>Sat, 02 Jan 2021 08:31:57 +0000</pubDate><guid>https://news.panz3r.dev/post/fa803d0ac7fd7aff30b6d8801c6249a91dd49c55d89a3a9a9d26b28cc38bf75f/</guid><description>
+Article URL: …</description></item><item><title>Idyll – toolkit for creating data-driven stories and explorable explanations</title><link>https://news.panz3r.dev/post/9d8a4bf76e8a7785569f737426d4231d4908a9b2fa4b50644522de9c05f46bd2/</link><pubDate>Sat, 02 Jan 2021 09:11:29 +0000</pubDate><guid>https://news.panz3r.dev/post/9d8a4bf76e8a7785569f737426d4231d4908a9b2fa4b50644522de9c05f46bd2/</guid><description>
+Article URL: https://idyll-lang.org/
+Comments URL: https://news.ycombinator.com/item?id=25611425
+Points: 95
+# Comments: …</description></item><item><title>Virtual Environments Demystified</title><link>https://news.panz3r.dev/post/fa803d0ac7fd7aff30b6d8801c6249a91dd49c55d89a3a9a9d26b28cc38bf75f/</link><pubDate>Sat, 02 Jan 2021 08:31:57 +0000</pubDate><guid>https://news.panz3r.dev/post/fa803d0ac7fd7aff30b6d8801c6249a91dd49c55d89a3a9a9d26b28cc38bf75f/</guid><description>
 Article URL: https://meribold.org/python/2018/02/13/virtual-environments-9487/
 Comments URL: …</description></item><item><title>Koan: A word2vec negative sampling implementation with correct CBOW update</title><link>https://news.panz3r.dev/post/13cc2dc551691dede05df671e4cdb1a3ca7b5ca4720483d220c25ec61ab56089/</link><pubDate>Sat, 02 Jan 2021 08:15:40 +0000</pubDate><guid>https://news.panz3r.dev/post/13cc2dc551691dede05df671e4cdb1a3ca7b5ca4720483d220c25ec61ab56089/</guid><description>
 Article URL: https://github.com/bloomberg/koan
@@ -367,16 +397,4 @@ Comments URL: …</description></item><item><title>Show HN: The Agora – an exp
 Article URL: http://anagora.org/node/agora
 Comments URL: https://news.ycombinator.com/item?id=25573523
 Points: 124
-# …</description></item><item><title>Show HN: A new way to share and collaborate on links</title><link>https://news.panz3r.dev/post/3cb4c827f5ed78676eb4f213fe7dca075609c7159a9e304f4809d1a236a25477/</link><pubDate>Tue, 29 Dec 2020 17:33:19 +0000</pubDate><guid>https://news.panz3r.dev/post/3cb4c827f5ed78676eb4f213fe7dca075609c7159a9e304f4809d1a236a25477/</guid><description>
-Article URL: https://seelink.app
-Comments URL: https://news.ycombinator.com/item?id=25572255
-Points: 63
-# Comments: 17</description></item><item><title>Pierre Cardin has died</title><link>https://news.panz3r.dev/post/58aaf79fc9fbb5620b9fccf1f45b73a549cb607a5bfe89696ddbb8a911c55fbb/</link><pubDate>Tue, 29 Dec 2020 13:21:13 +0000</pubDate><guid>https://news.panz3r.dev/post/58aaf79fc9fbb5620b9fccf1f45b73a549cb607a5bfe89696ddbb8a911c55fbb/</guid><description>
-Article URL: https://p.dw.com/p/3nJq6
-Comments URL: https://news.ycombinator.com/item?id=25569487
-Points: 100
-# …</description></item><item><title>Getting Started in BBC Basic</title><link>https://news.panz3r.dev/post/c473463e774db88b1532a55643b17f54132659785017455b4f9d4262c1011bf0/</link><pubDate>Tue, 29 Dec 2020 12:36:33 +0000</pubDate><guid>https://news.panz3r.dev/post/c473463e774db88b1532a55643b17f54132659785017455b4f9d4262c1011bf0/</guid><description>
-Article URL: https://www.bbcmicrobot.com/learn/index.html
-Comments URL: https://news.ycombinator.com/item?id=25569146 …</description></item><item><title>A Generative Grammar for Jazz Chord Sequences (1984)</title><link>https://news.panz3r.dev/post/6c8b8a2d21fa95c4130d180acc461738f68e1a9a9e95c82c9a64f07796ad74ca/</link><pubDate>Tue, 29 Dec 2020 12:21:57 +0000</pubDate><guid>https://news.panz3r.dev/post/6c8b8a2d21fa95c4130d180acc461738f68e1a9a9e95c82c9a64f07796ad74ca/</guid><description>
-Article URL: https://sci-hub.tf/https://www.jstor.org/stable/40285282
-Comments URL: …</description></item></channel></rss>
+# …</description></item></channel></rss>

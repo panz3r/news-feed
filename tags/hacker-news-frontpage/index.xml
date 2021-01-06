@@ -1,20 +1,33 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hacker-News-Frontpage on Panz3r News</title><link>https://news.panz3r.dev/tags/hacker-news-frontpage/</link><description>Recent content in Hacker-News-Frontpage on news.panz3r.dev</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Panz3r 2020 | Vitae theme for Hugo</copyright><lastBuildDate>Wed, 06 Jan 2021 03:53:53 +0000</lastBuildDate><atom:link href="https://news.panz3r.dev/tags/hacker-news-frontpage/index.xml" rel="self" type="application/rss+xml"/><item><title>We Built a Facebook Inspector</title><link>https://news.panz3r.dev/post/8ad5268e400b22405629fc86a633b3f48720d742c932e284b2443f38d95bda81/</link><pubDate>Wed, 06 Jan 2021 03:53:53 +0000</pubDate><guid>https://news.panz3r.dev/post/8ad5268e400b22405629fc86a633b3f48720d742c932e284b2443f38d95bda81/</guid><description>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hacker-News-Frontpage on Panz3r News</title><link>https://news.panz3r.dev/tags/hacker-news-frontpage/</link><description>Recent content in Hacker-News-Frontpage on news.panz3r.dev</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Panz3r 2020 | Vitae theme for Hugo</copyright><lastBuildDate>Wed, 06 Jan 2021 07:30:06 +0000</lastBuildDate><atom:link href="https://news.panz3r.dev/tags/hacker-news-frontpage/index.xml" rel="self" type="application/rss+xml"/><item><title>Jim Keller moves to AI chip startup</title><link>https://news.panz3r.dev/post/65cda2a5315a625fac16e881525cad0fe9e7bdaec4993ce4f8d4e219136f8b71/</link><pubDate>Wed, 06 Jan 2021 07:30:06 +0000</pubDate><guid>https://news.panz3r.dev/post/65cda2a5315a625fac16e881525cad0fe9e7bdaec4993ce4f8d4e219136f8b71/</guid><description>
+Article URL: …</description></item><item><title>How the placenta evolved from an ancient virus</title><link>https://news.panz3r.dev/post/2706c7e9bac7ac9f082c2198d9726c91947d07dd7f2132058c93acdac150f6bb/</link><pubDate>Wed, 06 Jan 2021 07:13:15 +0000</pubDate><guid>https://news.panz3r.dev/post/2706c7e9bac7ac9f082c2198d9726c91947d07dd7f2132058c93acdac150f6bb/</guid><description>
+Article URL: https://whyy.org/segments/the-placenta-went-viral-and-protomammals-were-born/
+Comments URL: …</description></item><item><title>US doctor forgives $650k in medical bills for cancer patients</title><link>https://news.panz3r.dev/post/f67a3b43d295d913cb319e4ea8d2ab859884705a755e44d975775db063e2872c/</link><pubDate>Wed, 06 Jan 2021 06:13:36 +0000</pubDate><guid>https://news.panz3r.dev/post/f67a3b43d295d913cb319e4ea8d2ab859884705a755e44d975775db063e2872c/</guid><description>
+Article URL: https://www.bbc.com/news/world-us-canada-55544496
+Comments URL: …</description></item><item><title>DOSBox-X: Free, cross-platform and complete DOS, Windows 3.x and 9x emulation</title><link>https://news.panz3r.dev/post/c085b48546bc1c0fbfaf1542e26a771b65a31cf97867c5bbb494e92726350aff/</link><pubDate>Wed, 06 Jan 2021 05:40:45 +0000</pubDate><guid>https://news.panz3r.dev/post/c085b48546bc1c0fbfaf1542e26a771b65a31cf97867c5bbb494e92726350aff/</guid><description>
+Article URL: https://dosbox-x.com/
+Comments URL: https://news.ycombinator.com/item?id=25654948
+Points: 60
+# Comments: 18 …</description></item><item><title>We Built a Facebook Inspector</title><link>https://news.panz3r.dev/post/8ad5268e400b22405629fc86a633b3f48720d742c932e284b2443f38d95bda81/</link><pubDate>Wed, 06 Jan 2021 03:53:53 +0000</pubDate><guid>https://news.panz3r.dev/post/8ad5268e400b22405629fc86a633b3f48720d742c932e284b2443f38d95bda81/</guid><description>
 Article URL: https://themarkup.org/citizen-browser/2021/01/05/how-we-built-a-facebook-inspector
+Comments URL: …</description></item><item><title>An Uncommon Cold</title><link>https://news.panz3r.dev/post/3b9968d46f3623b48ee3c55ee7ba410d353bfcf9c9f63eae3b8d2ca906107142/</link><pubDate>Wed, 06 Jan 2021 03:11:10 +0000</pubDate><guid>https://news.panz3r.dev/post/3b9968d46f3623b48ee3c55ee7ba410d353bfcf9c9f63eae3b8d2ca906107142/</guid><description>
+Article URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7252012/
+Comments URL: …</description></item><item><title>What I Use Now Instead of Google</title><link>https://news.panz3r.dev/post/abc34758164727b4705d4d1c7e03eb31f732bd8e551ed95ed05de70ec46722ff/</link><pubDate>Wed, 06 Jan 2021 02:54:37 +0000</pubDate><guid>https://news.panz3r.dev/post/abc34758164727b4705d4d1c7e03eb31f732bd8e551ed95ed05de70ec46722ff/</guid><description>
+Article URL: https://kiramclean.com/blog/what-i-use-now-instead-of-google/
 Comments URL: …</description></item><item><title>Deep-learning text-to-speech tool for generating voices of various characters</title><link>https://news.panz3r.dev/post/99989f1804cc2d48a3736a31cb8fc6bf078b1466ccd4b6fc4f808d5c42ab906a/</link><pubDate>Wed, 06 Jan 2021 02:36:24 +0000</pubDate><guid>https://news.panz3r.dev/post/99989f1804cc2d48a3736a31cb8fc6bf078b1466ccd4b6fc4f808d5c42ab906a/</guid><description>
 Article URL: https://15.ai/
 Comments URL: https://news.ycombinator.com/item?id=25654118
-Points: 91
-# Comments: 23</description></item><item><title>Cincinnati is home to the largest unused subway system in the world (2016)</title><link>https://news.panz3r.dev/post/3e1f97ab50514e9902eb8e32e35f55b63bbd46732118a4cbefab90551356ce70/</link><pubDate>Wed, 06 Jan 2021 00:06:07 +0000</pubDate><guid>https://news.panz3r.dev/post/3e1f97ab50514e9902eb8e32e35f55b63bbd46732118a4cbefab90551356ce70/</guid><description>
+Points: 173
+# Comments: 56</description></item><item><title>Cincinnati is home to the largest unused subway system in the world (2016)</title><link>https://news.panz3r.dev/post/3e1f97ab50514e9902eb8e32e35f55b63bbd46732118a4cbefab90551356ce70/</link><pubDate>Wed, 06 Jan 2021 00:06:07 +0000</pubDate><guid>https://news.panz3r.dev/post/3e1f97ab50514e9902eb8e32e35f55b63bbd46732118a4cbefab90551356ce70/</guid><description>
 Article URL: https://www.atlasobscura.com/articles/cincinnati-built-a-subway-system-100-years-ago-but-never-used-it …</description></item><item><title>Show HN: Build your own programming language in C++</title><link>https://news.panz3r.dev/post/b8fad05b1fc3b8293ebe1e4d9c84dfd2637f8a7374171074978bfc7babc03c3a/</link><pubDate>Tue, 05 Jan 2021 23:41:12 +0000</pubDate><guid>https://news.panz3r.dev/post/b8fad05b1fc3b8293ebe1e4d9c84dfd2637f8a7374171074978bfc7babc03c3a/</guid><description>
 Article URL: https://github.com/codr7/alang
 Comments URL: https://news.ycombinator.com/item?id=25652865
-Points: 60
+Points: 79
 # …</description></item><item><title>Why Learn Prolog in 2021?</title><link>https://news.panz3r.dev/post/008c26bdf72a5cc1649b3eaefe4d28a86f2144586102d0e538055c83c6060a77/</link><pubDate>Tue, 05 Jan 2021 22:54:50 +0000</pubDate><guid>https://news.panz3r.dev/post/008c26bdf72a5cc1649b3eaefe4d28a86f2144586102d0e538055c83c6060a77/</guid><description>
 Article URL: http://dstrohmaier.com/why-learn-prolog-in-2021/
 Comments URL: …</description></item><item><title>27th International Obfuscated C Code Contest winners published</title><link>https://news.panz3r.dev/post/2453bf34ed26e9032a4e285bd6759d3d5260da9ecc8ea8a56010b24ad446e94f/</link><pubDate>Tue, 05 Jan 2021 22:16:15 +0000</pubDate><guid>https://news.panz3r.dev/post/2453bf34ed26e9032a4e285bd6759d3d5260da9ecc8ea8a56010b24ad446e94f/</guid><description>
 Article URL: https://www.ioccc.org/2020/
 Comments URL: https://news.ycombinator.com/item?id=25651942
-Points: 115
+Points: 158
 # …</description></item><item><title>5G Advocates Renew Attempts to Poach Wi-Fi’s 6GHz Spectrum</title><link>https://news.panz3r.dev/post/28f81a7e945242886bf527fb95206cc9dfc587f5ead8d5efe0d36cd185f8b496/</link><pubDate>Tue, 05 Jan 2021 21:11:11 +0000</pubDate><guid>https://news.panz3r.dev/post/28f81a7e945242886bf527fb95206cc9dfc587f5ead8d5efe0d36cd185f8b496/</guid><description>
 Article URL: https://www.eetimes.com/5g-advocates-renew-attempts-to-poach-wi-fis-6ghz-spectrum/
 Comments URL: …</description></item><item><title>Gene Wolfe Turned Science Fiction into High Art (2019)</title><link>https://news.panz3r.dev/post/e6c7cc2b61b563ad1a8a8243b43df6de9de82cff8d728093dc13eede063a82d8/</link><pubDate>Tue, 05 Jan 2021 20:38:26 +0000</pubDate><guid>https://news.panz3r.dev/post/e6c7cc2b61b563ad1a8a8243b43df6de9de82cff8d728093dc13eede063a82d8/</guid><description>
@@ -26,15 +39,15 @@ Article URL: https://www.cbc.ca/news/business/amazon-westjet-1.5861635
 Comments URL: …</description></item><item><title>Clip: Connecting Text and Images</title><link>https://news.panz3r.dev/post/5454e1e41691441489a128f07dab358de9a4ff71fe3cc44c7fa9e29a213e2092/</link><pubDate>Tue, 05 Jan 2021 19:19:35 +0000</pubDate><guid>https://news.panz3r.dev/post/5454e1e41691441489a128f07dab358de9a4ff71fe3cc44c7fa9e29a213e2092/</guid><description>
 Article URL: https://openai.com/blog/clip/
 Comments URL: https://news.ycombinator.com/item?id=25649740
-Points: 98
+Points: 113
 # …</description></item><item><title>Asahi Linux: Linux on Apple Silicon project</title><link>https://news.panz3r.dev/post/294fe5191cad315c75e2595acb92aeba6409d0422d106d59def53813ce2437c5/</link><pubDate>Tue, 05 Jan 2021 19:18:17 +0000</pubDate><guid>https://news.panz3r.dev/post/294fe5191cad315c75e2595acb92aeba6409d0422d106d59def53813ce2437c5/</guid><description>
 Article URL: https://asahilinux.org/
 Comments URL: https://news.ycombinator.com/item?id=25649719
-Points: 476
+Points: 567
 # Comments: …</description></item><item><title>DALL·E: Creating Images from Text</title><link>https://news.panz3r.dev/post/8f55d251d2e38916cf66759dacb80b8b5527cb0c3ca373699bc6688c65849c26/</link><pubDate>Tue, 05 Jan 2021 19:08:21 +0000</pubDate><guid>https://news.panz3r.dev/post/8f55d251d2e38916cf66759dacb80b8b5527cb0c3ca373699bc6688c65849c26/</guid><description>
 Article URL: https://openai.com/blog/dall-e/
 Comments URL: https://news.ycombinator.com/item?id=25649557
-Points: 788
+Points: 982
 # …</description></item><item><title>How to convert existing web extensions for Safari</title><link>https://news.panz3r.dev/post/7aa16a75686f7952ceac90be549fc0242e5b589e1065ea44bd96a5afb18822a6/</link><pubDate>Tue, 05 Jan 2021 19:03:47 +0000</pubDate><guid>https://news.panz3r.dev/post/7aa16a75686f7952ceac90be549fc0242e5b589e1065ea44bd96a5afb18822a6/</guid><description>
 Article URL: …</description></item><item><title>Wasmer 1.0</title><link>https://news.panz3r.dev/post/fca0218d2df9622f0bed8dd43cafbaab744de406035482b33681f23baab40bc5/</link><pubDate>Tue, 05 Jan 2021 19:02:01 +0000</pubDate><guid>https://news.panz3r.dev/post/fca0218d2df9622f0bed8dd43cafbaab744de406035482b33681f23baab40bc5/</guid><description>
 Article URL: https://medium.com/wasmer/wasmer-1-0-3f86ca18c043
@@ -90,7 +103,11 @@ Comments URL: …</description></item><item><title>Busiest hour ever in the hist
 Article URL: https://twitter.com/TheRealNooshu/status/1346183432876019712
 Comments URL: …</description></item><item><title>GitHub blocks entire company because one employee was in Iran</title><link>https://news.panz3r.dev/post/5d172999e461f226bbde15600cd02128c74baec68b786c4800010e84deeb34c0/</link><pubDate>Tue, 05 Jan 2021 10:23:43 +0000</pubDate><guid>https://news.panz3r.dev/post/5d172999e461f226bbde15600cd02128c74baec68b786c4800010e84deeb34c0/</guid><description>
 Article URL: https://twitter.com/sebslomski/status/1344219609923276801
-Comments URL: …</description></item><item><title>Parable of Alien Chess</title><link>https://news.panz3r.dev/post/e7133b33c1445be965faf3d5ae86b7071687cad12fdae8bd5a23e1acc6e3a90f/</link><pubDate>Tue, 05 Jan 2021 05:58:38 +0000</pubDate><guid>https://news.panz3r.dev/post/e7133b33c1445be965faf3d5ae86b7071687cad12fdae8bd5a23e1acc6e3a90f/</guid><description>
+Comments URL: …</description></item><item><title>Locust – Open-source Load Testing Tool</title><link>https://news.panz3r.dev/post/5e16cc09f18cac535d88ef9697db2695b0a94afda13479003d7667e8a5cdce81/</link><pubDate>Tue, 05 Jan 2021 06:18:28 +0000</pubDate><guid>https://news.panz3r.dev/post/5e16cc09f18cac535d88ef9697db2695b0a94afda13479003d7667e8a5cdce81/</guid><description>
+Article URL: https://locust.io/
+Comments URL: https://news.ycombinator.com/item?id=25642728
+Points: 69
+# Comments: 17</description></item><item><title>Parable of Alien Chess</title><link>https://news.panz3r.dev/post/e7133b33c1445be965faf3d5ae86b7071687cad12fdae8bd5a23e1acc6e3a90f/</link><pubDate>Tue, 05 Jan 2021 05:58:38 +0000</pubDate><guid>https://news.panz3r.dev/post/e7133b33c1445be965faf3d5ae86b7071687cad12fdae8bd5a23e1acc6e3a90f/</guid><description>
 Article URL: https://lukesmith.xyz/articles/chess
 Comments URL: https://news.ycombinator.com/item?id=25642635
 Points: 97 …</description></item><item><title>EFF to FinCEN: Stop Pushing for More Financial Surveillance</title><link>https://news.panz3r.dev/post/166f2ab19b3f7d8339408538422b5e160f11632103d4a118b0bc9db648d92401/</link><pubDate>Tue, 05 Jan 2021 05:32:46 +0000</pubDate><guid>https://news.panz3r.dev/post/166f2ab19b3f7d8339408538422b5e160f11632103d4a118b0bc9db648d92401/</guid><description>
@@ -421,12 +438,4 @@ Comments URL: …</description></item><item><title>EU Signs €145B Declaration 
 Article URL: https://www.eetimes.eu/eu-signs-e145bn-declaration-to-develop-next-gen-processors-and-2nm-technology/ …</description></item><item><title>Zynga shuts down FarmVille after 11 years</title><link>https://news.panz3r.dev/post/7c86b2cfe2ca99c0a23622a2e5f3e5ebc6984e9d3ff2a1c4cfca4946ec7ad172/</link><pubDate>Fri, 01 Jan 2021 12:22:26 +0000</pubDate><guid>https://news.panz3r.dev/post/7c86b2cfe2ca99c0a23622a2e5f3e5ebc6984e9d3ff2a1c4cfca4946ec7ad172/</guid><description>
 Article URL: https://twitter.com/markpinc/status/1344742333443493889
 Comments URL: …</description></item><item><title>White House wins ruling on disclosing health care prices</title><link>https://news.panz3r.dev/post/1aa63a0327034611bc914e55d99574974637cbfef9c750937595d38dd4ff975e/</link><pubDate>Fri, 01 Jan 2021 11:49:15 +0000</pubDate><guid>https://news.panz3r.dev/post/1aa63a0327034611bc914e55d99574974637cbfef9c750937595d38dd4ff975e/</guid><description>
-Article URL: https://apnews.com/article/donald-trump-politics-kayleigh-mcenany-courts-f0700210fe86004255f68f15d12e9932 …</description></item><item><title>Fired App Reviewer Sues Apple</title><link>https://news.panz3r.dev/post/bbb11bb8231eabb798d049869778854be1e1988170f38ae459741ed6c553abc9/</link><pubDate>Fri, 01 Jan 2021 08:57:48 +0000</pubDate><guid>https://news.panz3r.dev/post/bbb11bb8231eabb798d049869778854be1e1988170f38ae459741ed6c553abc9/</guid><description>
-Article URL: https://reason.com/volokh/2020/12/08/political-discrimination-lawsuit-against-apple-can-go-forward/ …</description></item><item><title>State machines are wonderful tools</title><link>https://news.panz3r.dev/post/9f78d049bbd26c86076b55fc6b4faa38f0041f84f084d9478abf3dba70917d45/</link><pubDate>Fri, 01 Jan 2021 08:50:34 +0000</pubDate><guid>https://news.panz3r.dev/post/9f78d049bbd26c86076b55fc6b4faa38f0041f84f084d9478abf3dba70917d45/</guid><description>
-Article URL: https://nullprogram.com/blog/2020/12/31/
-Comments URL: https://news.ycombinator.com/item?id=25601821 …</description></item><item><title>California law bans delivery apps from listing a restaurant without an agreement</title><link>https://news.panz3r.dev/post/819404c7070a986d003f7263bcc3a3d17f162d6feb3f772d2af7748a838c5848/</link><pubDate>Fri, 01 Jan 2021 08:49:13 +0000</pubDate><guid>https://news.panz3r.dev/post/819404c7070a986d003f7263bcc3a3d17f162d6feb3f772d2af7748a838c5848/</guid><description>
-Article URL: https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201920200AB2149
-Comments URL: …</description></item><item><title>When You’re Outnumbered: Lessons from Two British Masters of Irregular Warfare</title><link>https://news.panz3r.dev/post/dd8d727080e1974196c155d6f6b13881bd8d4468503e805f054cd52f76794209/</link><pubDate>Fri, 01 Jan 2021 07:56:04 +0000</pubDate><guid>https://news.panz3r.dev/post/dd8d727080e1974196c155d6f6b13881bd8d4468503e805f054cd52f76794209/</guid><description>
-Article URL: …</description></item><item><title>Eagle Cash</title><link>https://news.panz3r.dev/post/4731f8f60b768e99859a9193710c3b876186da4f88712c5ea0da16c146a709ba/</link><pubDate>Fri, 01 Jan 2021 07:43:51 +0000</pubDate><guid>https://news.panz3r.dev/post/4731f8f60b768e99859a9193710c3b876186da4f88712c5ea0da16c146a709ba/</guid><description>
-Article URL: https://en.wikipedia.org/wiki/Eagle_Cash
-Comments URL: https://news.ycombinator.com/item?id=25601571 …</description></item></channel></rss>
+Article URL: https://apnews.com/article/donald-trump-politics-kayleigh-mcenany-courts-f0700210fe86004255f68f15d12e9932 …</description></item></channel></rss>

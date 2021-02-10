@@ -1,19 +1,30 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hacker-News-Frontpage on Panz3r News</title><link>https://news.panz3r.dev/tags/hacker-news-frontpage/</link><description>Recent content in Hacker-News-Frontpage on news.panz3r.dev</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Panz3r 2020 | Vitae theme for Hugo</copyright><lastBuildDate>Wed, 10 Feb 2021 02:46:02 +0000</lastBuildDate><atom:link href="https://news.panz3r.dev/tags/hacker-news-frontpage/index.xml" rel="self" type="application/rss+xml"/><item><title>Ham Radio Forms a Planet-Sized Space Weather Sensor Network</title><link>https://news.panz3r.dev/post/9f9e323ea4136c295e96ae858d514a1e3fe4b2d66ebd5be2d4f5473f316fc721/</link><pubDate>Wed, 10 Feb 2021 02:46:02 +0000</pubDate><guid>https://news.panz3r.dev/post/9f9e323ea4136c295e96ae858d514a1e3fe4b2d66ebd5be2d4f5473f316fc721/</guid><description>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hacker-News-Frontpage on Panz3r News</title><link>https://news.panz3r.dev/tags/hacker-news-frontpage/</link><description>Recent content in Hacker-News-Frontpage on news.panz3r.dev</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Panz3r 2020 | Vitae theme for Hugo</copyright><lastBuildDate>Wed, 10 Feb 2021 09:16:46 +0000</lastBuildDate><atom:link href="https://news.panz3r.dev/tags/hacker-news-frontpage/index.xml" rel="self" type="application/rss+xml"/><item><title>Researcher hacks over 35 tech firms in novel supply chain attack</title><link>https://news.panz3r.dev/post/95de670d9821524e5da60c54ac9fe005db5d8125ca12bbc9f9453013710ea7ef/</link><pubDate>Wed, 10 Feb 2021 09:16:46 +0000</pubDate><guid>https://news.panz3r.dev/post/95de670d9821524e5da60c54ac9fe005db5d8125ca12bbc9f9453013710ea7ef/</guid><description>
+Article URL: https://www.bleepingcomputer.com/news/security/researcher-hacks-over-35-tech-firms-in-novel-supply-chain-attack/
+Comments URL: …</description></item><item><title>Amazon competitor got our belt listing taken down by saying it contains drugs</title><link>https://news.panz3r.dev/post/7dd87bee521062fcfce603b7bf8a0e1c1706234a55a539e9d0ec63271b06db88/</link><pubDate>Wed, 10 Feb 2021 05:55:30 +0000</pubDate><guid>https://news.panz3r.dev/post/7dd87bee521062fcfce603b7bf8a0e1c1706234a55a539e9d0ec63271b06db88/</guid><description>
+Article URL: …</description></item><item><title>Posix Threads Programming</title><link>https://news.panz3r.dev/post/56eeafad6e37d1bc22b4d4e6903d008d9ec8dda81110742804b07123c2c5a338/</link><pubDate>Wed, 10 Feb 2021 03:13:55 +0000</pubDate><guid>https://news.panz3r.dev/post/56eeafad6e37d1bc22b4d4e6903d008d9ec8dda81110742804b07123c2c5a338/</guid><description>
+Article URL: https://computing.llnl.gov/tutorials/pthreads/
+Comments URL: https://news.ycombinator.com/item?id=26085373
+Points: 106
+# …</description></item><item><title>Ham Radio Forms a Planet-Sized Space Weather Sensor Network</title><link>https://news.panz3r.dev/post/9f9e323ea4136c295e96ae858d514a1e3fe4b2d66ebd5be2d4f5473f316fc721/</link><pubDate>Wed, 10 Feb 2021 02:46:02 +0000</pubDate><guid>https://news.panz3r.dev/post/9f9e323ea4136c295e96ae858d514a1e3fe4b2d66ebd5be2d4f5473f316fc721/</guid><description>
 Article URL: https://eos.org/features/ham-radio-forms-a-planet-sized-space-weather-sensor-network
-Comments URL: …</description></item><item><title>Turtle visual cortex is non-retinotopic</title><link>https://news.panz3r.dev/post/65be591204271c905cd19bb9e22dd6ff1e5a2cbe9a26d1b8198fffc4357dd68a/</link><pubDate>Wed, 10 Feb 2021 01:15:15 +0000</pubDate><guid>https://news.panz3r.dev/post/65be591204271c905cd19bb9e22dd6ff1e5a2cbe9a26d1b8198fffc4357dd68a/</guid><description>
+Comments URL: …</description></item><item><title>Flynt: Convert old Python string formatting to f-strings</title><link>https://news.panz3r.dev/post/190a86ace25c107539b61278f93c08d696079bfba35780c7f62b6c93905d01c7/</link><pubDate>Wed, 10 Feb 2021 01:30:46 +0000</pubDate><guid>https://news.panz3r.dev/post/190a86ace25c107539b61278f93c08d696079bfba35780c7f62b6c93905d01c7/</guid><description>
+Article URL: https://github.com/ikamensh/flynt
+Comments URL: https://news.ycombinator.com/item?id=26084824
+Points: 50
+# Comments: 30</description></item><item><title>Turtle visual cortex is non-retinotopic</title><link>https://news.panz3r.dev/post/65be591204271c905cd19bb9e22dd6ff1e5a2cbe9a26d1b8198fffc4357dd68a/</link><pubDate>Wed, 10 Feb 2021 01:15:15 +0000</pubDate><guid>https://news.panz3r.dev/post/65be591204271c905cd19bb9e22dd6ff1e5a2cbe9a26d1b8198fffc4357dd68a/</guid><description>
 Article URL: https://blog.jordan.matelsky.com/365papers/141/
 Comments URL: https://news.ycombinator.com/item?id=26084739
-Points: 83
+Points: 106
 # …</description></item><item><title>Github1s – One second to read GitHub code with VS Code</title><link>https://news.panz3r.dev/post/46b3e836f1d93e6c7a8eecf56bf086b6ca8291d574d37c8f59508debafbec162/</link><pubDate>Tue, 09 Feb 2021 23:26:26 +0000</pubDate><guid>https://news.panz3r.dev/post/46b3e836f1d93e6c7a8eecf56bf086b6ca8291d574d37c8f59508debafbec162/</guid><description>
 Article URL: https://github.com/conwnet/github1s
 Comments URL: https://news.ycombinator.com/item?id=26083919
-Points: 448
-# Comments: 65</description></item><item><title>An SQL Solution for Jupyter</title><link>https://news.panz3r.dev/post/1c665222e70e24e292c845c3fd304d30e438e39ca4bc280a6390a1c0f6f06ba5/</link><pubDate>Tue, 09 Feb 2021 22:34:40 +0000</pubDate><guid>https://news.panz3r.dev/post/1c665222e70e24e292c845c3fd304d30e438e39ca4bc280a6390a1c0f6f06ba5/</guid><description>
+Points: 1089
+# Comments: 145</description></item><item><title>An SQL Solution for Jupyter</title><link>https://news.panz3r.dev/post/1c665222e70e24e292c845c3fd304d30e438e39ca4bc280a6390a1c0f6f06ba5/</link><pubDate>Tue, 09 Feb 2021 22:34:40 +0000</pubDate><guid>https://news.panz3r.dev/post/1c665222e70e24e292c845c3fd304d30e438e39ca4bc280a6390a1c0f6f06ba5/</guid><description>
 Article URL: https://blog.jupyter.org/an-sql-solution-for-jupyter-ef4a00a0d925
 Comments URL: https://news.ycombinator.com/item?id=26083353 …</description></item><item><title>GlobalSign: RSA-1024 leaf certificate issued after 2013-12-31</title><link>https://news.panz3r.dev/post/88f53a3b9503c12ef537626f5ecd2bfd135269c20d7ac0b222065c192bbf1f8d/</link><pubDate>Tue, 09 Feb 2021 22:30:17 +0000</pubDate><guid>https://news.panz3r.dev/post/88f53a3b9503c12ef537626f5ecd2bfd135269c20d7ac0b222065c192bbf1f8d/</guid><description>
 Article URL: https://bugzilla.mozilla.org/show_bug.cgi?id=1690807
 Comments URL: https://news.ycombinator.com/item?id=26083306
-Points: 72
+Points: 103
 # …</description></item><item><title>SDL Moves to GitHub</title><link>https://news.panz3r.dev/post/e2e08b4761b63f7c3c0ba9e8b72a5f0c384dc1f54d4d7af83d8203f0a89c5401/</link><pubDate>Tue, 09 Feb 2021 21:39:11 +0000</pubDate><guid>https://news.panz3r.dev/post/e2e08b4761b63f7c3c0ba9e8b72a5f0c384dc1f54d4d7af83d8203f0a89c5401/</guid><description>
 Article URL: https://discourse.libsdl.org/t/sdl-moving-to-github/28700/5
 Comments URL: https://news.ycombinator.com/item?id=26082680
@@ -22,9 +33,9 @@ Article URL: https://eng.lyft.com/how-lyft-discovered-openstreetmap-is-the-fresh
 Comments URL: …</description></item><item><title>Haxe 4.2</title><link>https://news.panz3r.dev/post/ece5f18223ea05707e33b2a75e37f0051b0f5f8f567973c7d014717e46fab1b9/</link><pubDate>Tue, 09 Feb 2021 21:02:40 +0000</pubDate><guid>https://news.panz3r.dev/post/ece5f18223ea05707e33b2a75e37f0051b0f5f8f567973c7d014717e46fab1b9/</guid><description>
 Article URL: https://community.haxe.org/t/haxe-4-2-0-is-released/2888
 Comments URL: https://news.ycombinator.com/item?id=26082347
-Points: …</description></item><item><title>Cops are playing music while citizens are filming to trigger copyright filters</title><link>https://news.panz3r.dev/post/158da4c3f726049a39add6b93aed67c3bcdba9331721056a4e34dd1754d3cc7e/</link><pubDate>Tue, 09 Feb 2021 20:58:02 +0000</pubDate><guid>https://news.panz3r.dev/post/158da4c3f726049a39add6b93aed67c3bcdba9331721056a4e34dd1754d3cc7e/</guid><description>
-Article URL: https://twitter.com/jason_koebler/status/1359213426740895744
-Comments URL: https://news.ycombinator.com/item?id=26082303 …</description></item><item><title>Python behind the scenes #8: how Python integers work</title><link>https://news.panz3r.dev/post/1525b56b9034b45690027c9084ab3d4874197fd36c0a0c8bf206f9fb4c2c29a1/</link><pubDate>Tue, 09 Feb 2021 20:14:03 +0000</pubDate><guid>https://news.panz3r.dev/post/1525b56b9034b45690027c9084ab3d4874197fd36c0a0c8bf206f9fb4c2c29a1/</guid><description>
+Points: …</description></item><item><title>Police playing music while being filmed, seemingly to trigger copyright filters</title><link>https://news.panz3r.dev/post/158da4c3f726049a39add6b93aed67c3bcdba9331721056a4e34dd1754d3cc7e/</link><pubDate>Tue, 09 Feb 2021 20:58:02 +0000</pubDate><guid>https://news.panz3r.dev/post/158da4c3f726049a39add6b93aed67c3bcdba9331721056a4e34dd1754d3cc7e/</guid><description>
+Article URL: https://www.vice.com/en/article/bvxb94/is-this-beverly-hills-cop-playing-sublimes-santeria-to-avoid-being-livestreamed
+Comments …</description></item><item><title>Python behind the scenes #8: how Python integers work</title><link>https://news.panz3r.dev/post/1525b56b9034b45690027c9084ab3d4874197fd36c0a0c8bf206f9fb4c2c29a1/</link><pubDate>Tue, 09 Feb 2021 20:14:03 +0000</pubDate><guid>https://news.panz3r.dev/post/1525b56b9034b45690027c9084ab3d4874197fd36c0a0c8bf206f9fb4c2c29a1/</guid><description>
 Article URL: https://tenthousandmeters.com/blog/python-behind-the-scenes-8-how-python-integers-work/
 Comments URL: …</description></item><item><title>Thinking too much can be bad for you</title><link>https://news.panz3r.dev/post/64c23252c08dd9bc55ba87a502e44dab6d53568c1320bb319d5677ca425844f4/</link><pubDate>Tue, 09 Feb 2021 20:10:32 +0000</pubDate><guid>https://news.panz3r.dev/post/64c23252c08dd9bc55ba87a502e44dab6d53568c1320bb319d5677ca425844f4/</guid><description>
 Article URL: https://www.economist.com/1843/2012/12/29/why-thinking-too-much-can-be-bad-for-you
@@ -38,8 +49,8 @@ Article URL: https://www.theguardian.com/commentisfree/2021/feb/08/queen-power-b
 Comments URL: …</description></item><item><title>Pattern matching accepted for Python</title><link>https://news.panz3r.dev/post/2207fb4db94ab5bf542a764f103425508a099cad178c3cc4ddba4a0323730553/</link><pubDate>Tue, 09 Feb 2021 18:16:51 +0000</pubDate><guid>https://news.panz3r.dev/post/2207fb4db94ab5bf542a764f103425508a099cad178c3cc4ddba4a0323730553/</guid><description>
 Article URL: https://lwn.net/Articles/845480/
 Comments URL: https://news.ycombinator.com/item?id=26080760
-Points: 448
-# Comments: 320</description></item><item><title>Browser Fuzzing at Mozilla</title><link>https://news.panz3r.dev/post/75ded4965b357425e75ea68461b20a3dc0c70954bfc1aa5f0412118cf106d6c3/</link><pubDate>Tue, 09 Feb 2021 18:01:10 +0000</pubDate><guid>https://news.panz3r.dev/post/75ded4965b357425e75ea68461b20a3dc0c70954bfc1aa5f0412118cf106d6c3/</guid><description>
+Points: 556
+# Comments: 400</description></item><item><title>Browser Fuzzing at Mozilla</title><link>https://news.panz3r.dev/post/75ded4965b357425e75ea68461b20a3dc0c70954bfc1aa5f0412118cf106d6c3/</link><pubDate>Tue, 09 Feb 2021 18:01:10 +0000</pubDate><guid>https://news.panz3r.dev/post/75ded4965b357425e75ea68461b20a3dc0c70954bfc1aa5f0412118cf106d6c3/</guid><description>
 Article URL: https://hacks.mozilla.org/2021/02/browser-fuzzing-at-mozilla/
 Comments URL: https://news.ycombinator.com/item?id=26080578 …</description></item><item><title>Fedora on the PinePhone: Pipewire Calling</title><link>https://news.panz3r.dev/post/9a8e2eb2c7a16468d5c639124da271ddac75583deb1495fbfe616e732a0be32d/</link><pubDate>Tue, 09 Feb 2021 17:29:44 +0000</pubDate><guid>https://news.panz3r.dev/post/9a8e2eb2c7a16468d5c639124da271ddac75583deb1495fbfe616e732a0be32d/</guid><description>
 Article URL: https://odysee.com/@linmob:3/fedora-on-the-pinephone-pipewire-calling:1
@@ -53,7 +64,11 @@ Points: 72
 Article URL: https://github.com/felixge/go-profiler-notes/blob/main/block.md
 Comments URL: https://news.ycombinator.com/item?id=26078820 …</description></item><item><title>A simple 11.2 GHz radio telescope (Hardware) (2020)</title><link>https://news.panz3r.dev/post/7cb51166cc4cea15f5b01ff38ac589917ea4378626d3591833e9fe673868f1b1/</link><pubDate>Tue, 09 Feb 2021 15:44:02 +0000</pubDate><guid>https://news.panz3r.dev/post/7cb51166cc4cea15f5b01ff38ac589917ea4378626d3591833e9fe673868f1b1/</guid><description>
 Article URL: https://physicsopenlab.org/2020/10/10/a-simple-11-2-ghz-radiotelescope/
-Comments URL: …</description></item><item><title>Facebook sued for ‘losing control’ of users’ data</title><link>https://news.panz3r.dev/post/6ef92b20f87fea70dc258e9e6e3f13c85c2a02820ee46ec7d32ed876db5196d4/</link><pubDate>Tue, 09 Feb 2021 15:07:42 +0000</pubDate><guid>https://news.panz3r.dev/post/6ef92b20f87fea70dc258e9e6e3f13c85c2a02820ee46ec7d32ed876db5196d4/</guid><description>
+Comments URL: …</description></item><item><title>Infinitely zooming botanical floral paradise painting</title><link>https://news.panz3r.dev/post/ce898eb1a5ff75a331b292c918ee4fd59948d352cdfd21a3fe9645460a164696/</link><pubDate>Tue, 09 Feb 2021 15:38:38 +0000</pubDate><guid>https://news.panz3r.dev/post/ce898eb1a5ff75a331b292c918ee4fd59948d352cdfd21a3fe9645460a164696/</guid><description>
+Article URL: http://arkadia.xyz/
+Comments URL: https://news.ycombinator.com/item?id=26078677
+Points: 137
+# Comments: 9</description></item><item><title>Facebook sued for ‘losing control’ of users’ data</title><link>https://news.panz3r.dev/post/6ef92b20f87fea70dc258e9e6e3f13c85c2a02820ee46ec7d32ed876db5196d4/</link><pubDate>Tue, 09 Feb 2021 15:07:42 +0000</pubDate><guid>https://news.panz3r.dev/post/6ef92b20f87fea70dc258e9e6e3f13c85c2a02820ee46ec7d32ed876db5196d4/</guid><description>
 Article URL: https://www.bbc.com/news/technology-55998588
 Comments URL: https://news.ycombinator.com/item?id=26078301
 Points: 159
@@ -114,7 +129,7 @@ Article URL: https://www.askonomm.com/blog/i-dont-want-to-do-frontend-anymore
 Comments URL: https://news.ycombinator.com/item?id=26071906 …</description></item><item><title>What's an SPF Record?</title><link>https://news.panz3r.dev/post/0bb35f384bab73763d2ba19ebe361822c919f511a7eb3a8106fbe6305b7234c3/</link><pubDate>Mon, 08 Feb 2021 22:26:27 +0000</pubDate><guid>https://news.panz3r.dev/post/0bb35f384bab73763d2ba19ebe361822c919f511a7eb3a8106fbe6305b7234c3/</guid><description>
 Article URL: https://blog.ohmysmtp.com/blog/whats-an-spf-record/
 Comments URL: https://news.ycombinator.com/item?id=26071103
-Points: 83
+Points: 124
 # …</description></item><item><title>Decentralized Finance: On Blockchain- and Smart Contract-Based Financial Markets</title><link>https://news.panz3r.dev/post/e5bda7dd1eaa6b2d7cf4bdb53f99ef90e2a7890af469367dd6da30b305a63976/</link><pubDate>Mon, 08 Feb 2021 22:08:39 +0000</pubDate><guid>https://news.panz3r.dev/post/e5bda7dd1eaa6b2d7cf4bdb53f99ef90e2a7890af469367dd6da30b305a63976/</guid><description>
 Article URL: …</description></item><item><title>Someone attempted to poison water supply in Florida city during hack</title><link>https://news.panz3r.dev/post/bb02b6e7a4233c745188fa2f728b04a01c71314bedc14d2e0c0a44717b79cc70/</link><pubDate>Mon, 08 Feb 2021 21:19:54 +0000</pubDate><guid>https://news.panz3r.dev/post/bb02b6e7a4233c745188fa2f728b04a01c71314bedc14d2e0c0a44717b79cc70/</guid><description>
 Article URL: https://www.tampabay.com/news/pinellas/2021/02/08/someone-tried-to-poison-oldsmars-water-supply-during-hack-sheriff-says/ …</description></item><item><title>Hacker increased chemical level at Oldsmar's city water system, sheriff says</title><link>https://news.panz3r.dev/post/a7ed3a84bbf64181b22579afc441661cf6503d7aa3693402992b44fcbaf8af91/</link><pubDate>Mon, 08 Feb 2021 21:16:53 +0000</pubDate><guid>https://news.panz3r.dev/post/a7ed3a84bbf64181b22579afc441661cf6503d7aa3693402992b44fcbaf8af91/</guid><description>
@@ -194,7 +209,11 @@ Comments URL: …</description></item><item><title>Long Hundred</title><link>htt
 Article URL: https://en.wikipedia.org/wiki/Long_hundred
 Comments URL: https://news.ycombinator.com/item?id=26061583
 Points: 53
-# Comments: …</description></item><item><title>Barcode scanner app on Google Play infects 10m users with one update</title><link>https://news.panz3r.dev/post/a64758d47a9c5c64732ac3a0c75904ec56dba5e2a274ed144dced7125f7e3f83/</link><pubDate>Mon, 08 Feb 2021 04:36:58 +0000</pubDate><guid>https://news.panz3r.dev/post/a64758d47a9c5c64732ac3a0c75904ec56dba5e2a274ed144dced7125f7e3f83/</guid><description>
+# Comments: …</description></item><item><title>Elfstedentocht</title><link>https://news.panz3r.dev/post/04f933eab74a58c10fe16aa35e9c6d832b486207966fbb9941e43cc1e016f5ca/</link><pubDate>Mon, 08 Feb 2021 06:17:23 +0000</pubDate><guid>https://news.panz3r.dev/post/04f933eab74a58c10fe16aa35e9c6d832b486207966fbb9941e43cc1e016f5ca/</guid><description>
+Article URL: https://en.wikipedia.org/wiki/Elfstedentocht
+Comments URL: https://news.ycombinator.com/item?id=26061361
+Points: 194
+# …</description></item><item><title>Barcode scanner app on Google Play infects 10m users with one update</title><link>https://news.panz3r.dev/post/a64758d47a9c5c64732ac3a0c75904ec56dba5e2a274ed144dced7125f7e3f83/</link><pubDate>Mon, 08 Feb 2021 04:36:58 +0000</pubDate><guid>https://news.panz3r.dev/post/a64758d47a9c5c64732ac3a0c75904ec56dba5e2a274ed144dced7125f7e3f83/</guid><description>
 Article URL: https://blog.malwarebytes.com/android/2021/02/barcode-scanner-app-on-google-play-infects-10-million-users-with-one-update/ …</description></item><item><title>Stop Swiss Cheesing your calendar</title><link>https://news.panz3r.dev/post/dd350e682bd7812d74e61a1991a5198de07118e00bbcc5f1cfe972c67fa815b0/</link><pubDate>Mon, 08 Feb 2021 04:12:28 +0000</pubDate><guid>https://news.panz3r.dev/post/dd350e682bd7812d74e61a1991a5198de07118e00bbcc5f1cfe972c67fa815b0/</guid><description>
 Article URL: https://thinkingthrough.substack.com/p/stop-swiss-cheesing-your-calendar
 Comments URL: …</description></item><item><title>South Africa suspends rollout of Oxford-AstraZeneca coronavirus vaccine</title><link>https://news.panz3r.dev/post/d697a6ed5ce0b410817bcc0265a5e1c5026e944e459900a6c82f809e508feccb/</link><pubDate>Mon, 08 Feb 2021 03:39:04 +0000</pubDate><guid>https://news.panz3r.dev/post/d697a6ed5ce0b410817bcc0265a5e1c5026e944e459900a6c82f809e508feccb/</guid><description>
@@ -559,14 +578,4 @@ Points: 200
 Article URL: https://phys.org/news/2021-02-quantum-entire-radio-frequency-spectrum.html
 Comments URL: …</description></item><item><title>Deep Nose may one day be the best diagnostician in medicine</title><link>https://news.panz3r.dev/post/aa0aa175aff74ed753bfeb8d62e386ab0490c153a7717f1e35626d084f30e17d/</link><pubDate>Fri, 05 Feb 2021 11:41:13 +0000</pubDate><guid>https://news.panz3r.dev/post/aa0aa175aff74ed753bfeb8d62e386ab0490c153a7717f1e35626d084f30e17d/</guid><description>
 Article URL: https://nautil.us/issue/95/escape/the-doctor-will-sniff-you-now
-Comments URL: https://news.ycombinator.com/item?id=26035268 …</description></item><item><title>FOSDEM 2021</title><link>https://news.panz3r.dev/post/f4b0f513bb4aae392f0cae7e77a1e1140db9475db9aabef367fa6ab8d07c1c6d/</link><pubDate>Fri, 05 Feb 2021 10:29:32 +0000</pubDate><guid>https://news.panz3r.dev/post/f4b0f513bb4aae392f0cae7e77a1e1140db9475db9aabef367fa6ab8d07c1c6d/</guid><description>
-Article URL: https://fosdem.org/2021/schedule
-Comments URL: https://news.ycombinator.com/item?id=26034851
-Points: 275
-# Comments: 102</description></item><item><title>The endless browser wars</title><link>https://news.panz3r.dev/post/cb2f1d82cce404f337266cb5e3ec1da73272f53268ceedbe72b6d47cc7b3d19f/</link><pubDate>Fri, 05 Feb 2021 09:01:17 +0000</pubDate><guid>https://news.panz3r.dev/post/cb2f1d82cce404f337266cb5e3ec1da73272f53268ceedbe72b6d47cc7b3d19f/</guid><description>
-Article URL: https://lwn.net/Articles/843607/
-Comments URL: https://news.ycombinator.com/item?id=26034399
-Points: 129
-# Comments: 132</description></item><item><title>The man who produced Steve Jobs’ keynotes for 20 years (2018)</title><link>https://news.panz3r.dev/post/60f19e11f1a0616dc49066880e362d057ec5e7b09368ce57e8ff6e253e0d907d/</link><pubDate>Fri, 05 Feb 2021 06:29:10 +0000</pubDate><guid>https://news.panz3r.dev/post/60f19e11f1a0616dc49066880e362d057ec5e7b09368ce57e8ff6e253e0d907d/</guid><description>
-Article URL: https://www.cake.co/conversations/jNZlq6j/the-man-who-produced-steve-jobs-keynotes-for-20-years
-Comments URL: …</description></item></channel></rss>
+Comments URL: https://news.ycombinator.com/item?id=26035268 …</description></item></channel></rss>

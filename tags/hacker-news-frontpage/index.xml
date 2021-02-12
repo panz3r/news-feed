@@ -1,25 +1,48 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hacker-News-Frontpage on Panz3r News</title><link>https://news.panz3r.dev/tags/hacker-news-frontpage/</link><description>Recent content in Hacker-News-Frontpage on news.panz3r.dev</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Panz3r 2020 | Vitae theme for Hugo</copyright><lastBuildDate>Thu, 11 Feb 2021 21:22:21 +0000</lastBuildDate><atom:link href="https://news.panz3r.dev/tags/hacker-news-frontpage/index.xml" rel="self" type="application/rss+xml"/><item><title>Cloudflare Announces Fourth Quarter and Fiscal Year 2020 Financial Results</title><link>https://news.panz3r.dev/post/2b380b9c96abda57c1d506a031b47df26a11ff9d0fdf2e9c0885fc9c4f7492d4/</link><pubDate>Thu, 11 Feb 2021 21:22:21 +0000</pubDate><guid>https://news.panz3r.dev/post/2b380b9c96abda57c1d506a031b47df26a11ff9d0fdf2e9c0885fc9c4f7492d4/</guid><description>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hacker-News-Frontpage on Panz3r News</title><link>https://news.panz3r.dev/tags/hacker-news-frontpage/</link><description>Recent content in Hacker-News-Frontpage on news.panz3r.dev</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Panz3r 2020 | Vitae theme for Hugo</copyright><lastBuildDate>Fri, 12 Feb 2021 04:01:13 +0000</lastBuildDate><atom:link href="https://news.panz3r.dev/tags/hacker-news-frontpage/index.xml" rel="self" type="application/rss+xml"/><item><title>Comparison of Rust async and Linux thread context switch time and memory use</title><link>https://news.panz3r.dev/post/e83e430b0721c536a8eceb41fb3aa6061cb1d4357bc8ddc023b4bfd1c708bca6/</link><pubDate>Fri, 12 Feb 2021 04:01:13 +0000</pubDate><guid>https://news.panz3r.dev/post/e83e430b0721c536a8eceb41fb3aa6061cb1d4357bc8ddc023b4bfd1c708bca6/</guid><description>
+Article URL: https://github.com/jimblandy/context-switch
+Comments URL: https://news.ycombinator.com/item?id=26110612
+Points: 100
+# Comments: …</description></item><item><title>Show HN: Real-time multiplayer games with cubes. Early feedback on dev docs?</title><link>https://news.panz3r.dev/post/8b03002e9571dc4ccc98468409d789ed390b582fe6c9b6f8605425590d38aca1/</link><pubDate>Thu, 11 Feb 2021 23:51:24 +0000</pubDate><guid>https://news.panz3r.dev/post/8b03002e9571dc4ccc98468409d789ed390b582fe6c9b6f8605425590d38aca1/</guid><description>
+Article URL: https://docs.particubes.com/
+Comments URL: https://news.ycombinator.com/item?id=26109153
+Points: 82
+# Comments: 6</description></item><item><title>Show HN: git-peek – git repo to local editor instantly</title><link>https://news.panz3r.dev/post/427c8e832049934bb45dae6533ebebf2b8fd32b590ac81f24b001f3a49a3cf9a/</link><pubDate>Thu, 11 Feb 2021 22:07:48 +0000</pubDate><guid>https://news.panz3r.dev/post/427c8e832049934bb45dae6533ebebf2b8fd32b590ac81f24b001f3a49a3cf9a/</guid><description>
+Article URL: https://github.com/jarred-sumner/git-peek
+Comments URL: https://news.ycombinator.com/item?id=26108039
+Points: 62
+# Comments: 12 …</description></item><item><title>Pravetz Computers</title><link>https://news.panz3r.dev/post/3db85cf6204e5a63ed6b95aa70fc8c20b93666f018c19c392729d83f8876eafd/</link><pubDate>Thu, 11 Feb 2021 21:57:51 +0000</pubDate><guid>https://news.panz3r.dev/post/3db85cf6204e5a63ed6b95aa70fc8c20b93666f018c19c392729d83f8876eafd/</guid><description>
+Article URL: https://en.wikipedia.org/wiki/Pravetz_computers
+Comments URL: https://news.ycombinator.com/item?id=26107924
+Points: 113
+# …</description></item><item><title>A reverse-engineered description of Adobe Type 1 fonts. (1989)</title><link>https://news.panz3r.dev/post/115e05cc1902a8da37c27b0d1677de3e5beadfc52d4f36f505435dd1dbe6313f/</link><pubDate>Thu, 11 Feb 2021 21:38:25 +0000</pubDate><guid>https://news.panz3r.dev/post/115e05cc1902a8da37c27b0d1677de3e5beadfc52d4f36f505435dd1dbe6313f/</guid><description>
+Article URL: https://minnie.tuhs.org/pipermail/tuhs/2021-February/023136.html
+Comments URL: https://news.ycombinator.com/item?id=26107659 …</description></item><item><title>Cloudflare Announces Fourth Quarter and Fiscal Year 2020 Financial Results</title><link>https://news.panz3r.dev/post/2b380b9c96abda57c1d506a031b47df26a11ff9d0fdf2e9c0885fc9c4f7492d4/</link><pubDate>Thu, 11 Feb 2021 21:22:21 +0000</pubDate><guid>https://news.panz3r.dev/post/2b380b9c96abda57c1d506a031b47df26a11ff9d0fdf2e9c0885fc9c4f7492d4/</guid><description>
 Article URL: …</description></item><item><title>Amsterdam displaces London as Europe's top stocks centre after Brexit</title><link>https://news.panz3r.dev/post/8f5d7a1c3411c468628554a98be1c85353fd0c7372de26754b156d57e517af65/</link><pubDate>Thu, 11 Feb 2021 20:33:28 +0000</pubDate><guid>https://news.panz3r.dev/post/8f5d7a1c3411c468628554a98be1c85353fd0c7372de26754b156d57e517af65/</guid><description>
 Article URL: …</description></item><item><title>Kubernetes Failure Stories</title><link>https://news.panz3r.dev/post/be5459ad6a5a69fede4b48b8216417dccd551e81a7c7d04ce547cb601cfba43a/</link><pubDate>Thu, 11 Feb 2021 19:38:06 +0000</pubDate><guid>https://news.panz3r.dev/post/be5459ad6a5a69fede4b48b8216417dccd551e81a7c7d04ce547cb601cfba43a/</guid><description>
 Article URL: https://k8s.af
 Comments URL: https://news.ycombinator.com/item?id=26106080
-Points: 161
-# Comments: 44</description></item><item><title>Tell HN: A case of negative SEO I caught on my service and how I dealt with it</title><link>https://news.panz3r.dev/post/3e52f953f3a208b5fbee1028726b176e373b4a9987b86b91826509cb676c6d3c/</link><pubDate>Thu, 11 Feb 2021 19:21:10 +0000</pubDate><guid>https://news.panz3r.dev/post/3e52f953f3a208b5fbee1028726b176e373b4a9987b86b91826509cb676c6d3c/</guid><description>
+Points: 346
+# Comments: 99</description></item><item><title>Tell HN: A case of negative SEO I caught on my service and how I dealt with it</title><link>https://news.panz3r.dev/post/3e52f953f3a208b5fbee1028726b176e373b4a9987b86b91826509cb676c6d3c/</link><pubDate>Thu, 11 Feb 2021 19:21:10 +0000</pubDate><guid>https://news.panz3r.dev/post/3e52f953f3a208b5fbee1028726b176e373b4a9987b86b91826509cb676c6d3c/</guid><description>
 Recently, my service https://next-episode.net experienced a huge drop in Google rankings. As I've been running it for more than 15 years, …</description></item><item><title>Idioms for the D Programming Language</title><link>https://news.panz3r.dev/post/df0ba06e0b933a2c7556862853f286020700421954899bd1204d406d1aae709b/</link><pubDate>Thu, 11 Feb 2021 18:51:41 +0000</pubDate><guid>https://news.panz3r.dev/post/df0ba06e0b933a2c7556862853f286020700421954899bd1204d406d1aae709b/</guid><description>
 Article URL: https://p0nce.github.io/d-idioms/
 Comments URL: https://news.ycombinator.com/item?id=26105564
-Points: 81
-# Comments: 38</description></item><item><title>Running unmodified Linux programs on Fuchsia</title><link>https://news.panz3r.dev/post/acc91711dfb5a318ac37eac8bc0abafcad697f2d772dd12e4a16573210c06d1c/</link><pubDate>Thu, 11 Feb 2021 17:43:49 +0000</pubDate><guid>https://news.panz3r.dev/post/acc91711dfb5a318ac37eac8bc0abafcad697f2d772dd12e4a16573210c06d1c/</guid><description>
+Points: 116
+# Comments: 57</description></item><item><title>Nyströmformer: A Nyström-Based Algorithm for Approximating Self-Attention</title><link>https://news.panz3r.dev/post/12c27f103c46c07da940e355f4c9bc96ded439fb8d70e11fe4e41c844d3877fa/</link><pubDate>Thu, 11 Feb 2021 18:42:05 +0000</pubDate><guid>https://news.panz3r.dev/post/12c27f103c46c07da940e355f4c9bc96ded439fb8d70e11fe4e41c844d3877fa/</guid><description>
+Article URL: https://arxiv.org/abs/2102.03902
+Comments URL: https://news.ycombinator.com/item?id=26105455
+Points: 64
+# Comments: 2</description></item><item><title>Running unmodified Linux programs on Fuchsia</title><link>https://news.panz3r.dev/post/acc91711dfb5a318ac37eac8bc0abafcad697f2d772dd12e4a16573210c06d1c/</link><pubDate>Thu, 11 Feb 2021 17:43:49 +0000</pubDate><guid>https://news.panz3r.dev/post/acc91711dfb5a318ac37eac8bc0abafcad697f2d772dd12e4a16573210c06d1c/</guid><description>
 Article URL: https://fuchsia-review.googlesource.com/c/fuchsia/+/485181
 Comments URL: https://news.ycombinator.com/item?id=26104667
-Points: …</description></item><item><title>Why I Built Litestream</title><link>https://news.panz3r.dev/post/c31c12f2a37bcb84c102a74a61c90044e85b7c779c8d4ca8b19ead72b3cfb06e/</link><pubDate>Thu, 11 Feb 2021 16:46:42 +0000</pubDate><guid>https://news.panz3r.dev/post/c31c12f2a37bcb84c102a74a61c90044e85b7c779c8d4ca8b19ead72b3cfb06e/</guid><description>
+Points: …</description></item><item><title>Launch HN: Cord (YC W21) – training data toolbox for computer vision</title><link>https://news.panz3r.dev/post/f713dff8a6cad16ad9b38728cae7ffc4ec4756840eeec5586804857408c277e7/</link><pubDate>Thu, 11 Feb 2021 17:06:27 +0000</pubDate><guid>https://news.panz3r.dev/post/f713dff8a6cad16ad9b38728cae7ffc4ec4756840eeec5586804857408c277e7/</guid><description>
+Hey HN community -I’m Ulrik from Cord (https://cord.tech) in the current YC W21 batch [1] - we are building software that allows people to …</description></item><item><title>Why I Built Litestream</title><link>https://news.panz3r.dev/post/c31c12f2a37bcb84c102a74a61c90044e85b7c779c8d4ca8b19ead72b3cfb06e/</link><pubDate>Thu, 11 Feb 2021 16:46:42 +0000</pubDate><guid>https://news.panz3r.dev/post/c31c12f2a37bcb84c102a74a61c90044e85b7c779c8d4ca8b19ead72b3cfb06e/</guid><description>
 Article URL: https://litestream.io/blog/why-i-built-litestream/
 Comments URL: https://news.ycombinator.com/item?id=26103776
-Points: 271
+Points: 471
 # …</description></item><item><title>How Fat Does a Fat Binary Need to Be?</title><link>https://news.panz3r.dev/post/2e1164d592568e8d49ddfc7351e35d1a79b332dd5955dfadb711738310dd6dbd/</link><pubDate>Thu, 11 Feb 2021 16:46:25 +0000</pubDate><guid>https://news.panz3r.dev/post/2e1164d592568e8d49ddfc7351e35d1a79b332dd5955dfadb711738310dd6dbd/</guid><description>
 Article URL: https://justine.lol/cosmopolitan/howfat.html
 Comments URL: https://news.ycombinator.com/item?id=26103769
-Points: 101
+Points: 126
 # …</description></item><item><title>Launch HN: Chorus Meditation (YC W21) – Meditation for Non-Meditators</title><link>https://news.panz3r.dev/post/d4e41949f2391328c75301d3c40e786d7db9e0f53c2810c1dde3c12651da2cd5/</link><pubDate>Thu, 11 Feb 2021 16:25:59 +0000</pubDate><guid>https://news.panz3r.dev/post/d4e41949f2391328c75301d3c40e786d7db9e0f53c2810c1dde3c12651da2cd5/</guid><description>
 Hey everyone! I’m Ali and, together with my co-founders MK, Alex, and Warren, I’m building Chorus Meditation …</description></item><item><title>America's 1% Has Taken $50T From the Bottom 90%</title><link>https://news.panz3r.dev/post/b7172329fb99d97af6c43062de0365cae35c04bd72a6e74dc3c8183b33f08aa2/</link><pubDate>Thu, 11 Feb 2021 15:41:42 +0000</pubDate><guid>https://news.panz3r.dev/post/b7172329fb99d97af6c43062de0365cae35c04bd72a6e74dc3c8183b33f08aa2/</guid><description>
 Article URL: https://time.com/5888024/50-trillion-income-inequality-america/
@@ -44,8 +67,8 @@ Article URL: https://www.lihaoyi.com/post/FromFirstPrinciplesWhyScala.html
 Comments URL: https://news.ycombinator.com/item?id=26101435 …</description></item><item><title>Dyson air purifier outperformed by cheap DIY box fan filter in Marketplace test</title><link>https://news.panz3r.dev/post/4bb0cb6f053435a11a28496c0b18bb45c436aafc476fd11545e53e5da262f75d/</link><pubDate>Thu, 11 Feb 2021 13:19:28 +0000</pubDate><guid>https://news.panz3r.dev/post/4bb0cb6f053435a11a28496c0b18bb45c436aafc476fd11545e53e5da262f75d/</guid><description>
 Article URL: https://www.cbc.ca/1.5900782
 Comments URL: https://news.ycombinator.com/item?id=26101153
-Points: 493
-# Comments: 405</description></item><item><title>What Do You Agree to When You Accept All Cookies</title><link>https://news.panz3r.dev/post/0e11fcfa331887c163ad9fd56694156adec7b008b194401e67804309ebdac26d/</link><pubDate>Thu, 11 Feb 2021 13:13:41 +0000</pubDate><guid>https://news.panz3r.dev/post/0e11fcfa331887c163ad9fd56694156adec7b008b194401e67804309ebdac26d/</guid><description>
+Points: 642
+# Comments: 491</description></item><item><title>What Do You Agree to When You Accept All Cookies</title><link>https://news.panz3r.dev/post/0e11fcfa331887c163ad9fd56694156adec7b008b194401e67804309ebdac26d/</link><pubDate>Thu, 11 Feb 2021 13:13:41 +0000</pubDate><guid>https://news.panz3r.dev/post/0e11fcfa331887c163ad9fd56694156adec7b008b194401e67804309ebdac26d/</guid><description>
 Article URL: http://www.conradakunga.com/blog/what-do-you-actually-agree-to-when-you-accept-all-cookies/
 Comments URL: …</description></item><item><title>Rust Cookbook</title><link>https://news.panz3r.dev/post/60a7801b8ffabffedd71ce4aab18596cb9ad4117ad2ac7803892b6745381e290/</link><pubDate>Thu, 11 Feb 2021 13:09:21 +0000</pubDate><guid>https://news.panz3r.dev/post/60a7801b8ffabffedd71ce4aab18596cb9ad4117ad2ac7803892b6745381e290/</guid><description>
 Article URL: https://rust-lang-nursery.github.io/rust-cookbook/intro.html
@@ -55,8 +78,8 @@ Comments URL: https://news.ycombinator.com/item?id=26100810
 Points: 83 …</description></item><item><title>Beej's Guide to Network Programming (1994-2020)</title><link>https://news.panz3r.dev/post/30ffed47690fb784b0b01220ecf76fec1106f6e50fe3a7b37fc30fe402a00070/</link><pubDate>Thu, 11 Feb 2021 10:31:47 +0000</pubDate><guid>https://news.panz3r.dev/post/30ffed47690fb784b0b01220ecf76fec1106f6e50fe3a7b37fc30fe402a00070/</guid><description>
 Article URL: https://beej.us/guide/bgnet/html/
 Comments URL: https://news.ycombinator.com/item?id=26100075
-Points: 768
-# Comments: 135</description></item><item><title>Lalboard – A 3D-printed keyboard inspired by the DataHand</title><link>https://news.panz3r.dev/post/542c29c2b7f6b140ad25c3f81e80a7134178dd8e1372d0c52f622230aa22b851/</link><pubDate>Thu, 11 Feb 2021 09:45:18 +0000</pubDate><guid>https://news.panz3r.dev/post/542c29c2b7f6b140ad25c3f81e80a7134178dd8e1372d0c52f622230aa22b851/</guid><description>
+Points: 860
+# Comments: 147</description></item><item><title>Lalboard – A 3D-printed keyboard inspired by the DataHand</title><link>https://news.panz3r.dev/post/542c29c2b7f6b140ad25c3f81e80a7134178dd8e1372d0c52f622230aa22b851/</link><pubDate>Thu, 11 Feb 2021 09:45:18 +0000</pubDate><guid>https://news.panz3r.dev/post/542c29c2b7f6b140ad25c3f81e80a7134178dd8e1372d0c52f622230aa22b851/</guid><description>
 Article URL: https://github.com/JesusFreke/lalboard
 Comments URL: https://news.ycombinator.com/item?id=26099807
 Points: 79
@@ -64,7 +87,9 @@ Points: 79
 Article URL: https://phabricator.wikimedia.org/T273741#6815828
 Comments URL: https://news.ycombinator.com/item?id=26099259
 Points: 122
-# …</description></item><item><title>Mouse studies show gene therapy can cause big drop in latent herpes infections</title><link>https://news.panz3r.dev/post/1fc5f788f17e4a34d066e2c80e70aa8aae1f9df2fbd9cb2174228c4012614cf7/</link><pubDate>Thu, 11 Feb 2021 03:49:58 +0000</pubDate><guid>https://news.panz3r.dev/post/1fc5f788f17e4a34d066e2c80e70aa8aae1f9df2fbd9cb2174228c4012614cf7/</guid><description>
+# …</description></item><item><title>More Evidence That Neanderthals Were ‘Absorbed’ by Humans, Not Wiped Out</title><link>https://news.panz3r.dev/post/dacb56d24c9732b2ec9186df38e28a07a602aa382ea50ac7fca193319c1727d8/</link><pubDate>Thu, 11 Feb 2021 06:35:28 +0000</pubDate><guid>https://news.panz3r.dev/post/dacb56d24c9732b2ec9186df38e28a07a602aa382ea50ac7fca193319c1727d8/</guid><description>
+Article URL: https://gizmodo.com/more-evidence-that-neanderthals-were-absorbed-by-huma-1846173050
+Comments URL: …</description></item><item><title>Mouse studies show gene therapy can cause big drop in latent herpes infections</title><link>https://news.panz3r.dev/post/1fc5f788f17e4a34d066e2c80e70aa8aae1f9df2fbd9cb2174228c4012614cf7/</link><pubDate>Thu, 11 Feb 2021 03:49:58 +0000</pubDate><guid>https://news.panz3r.dev/post/1fc5f788f17e4a34d066e2c80e70aa8aae1f9df2fbd9cb2174228c4012614cf7/</guid><description>
 Article URL: https://www.fredhutch.org/en/news/center-news/2020/08/herpes-simplex-gene-therapy.html
 Comments URL: …</description></item><item><title>Microsoft's FoxPro 2.5 Is Fast and Easy to Use (1993)</title><link>https://news.panz3r.dev/post/70b8181cc0db23ac3cee1fd7b5b56a32b07bb21e98f6a296c5f36a85aff94891/</link><pubDate>Thu, 11 Feb 2021 03:47:18 +0000</pubDate><guid>https://news.panz3r.dev/post/70b8181cc0db23ac3cee1fd7b5b56a32b07bb21e98f6a296c5f36a85aff94891/</guid><description>
 Article URL: https://www.latimes.com/archives/la-xpm-1993-04-08-fi-20371-story.html
@@ -80,7 +105,10 @@ Points: 212
 Article URL: https://blog.ycombinator.com/chris-slowe-interview/
 Comments URL: https://news.ycombinator.com/item?id=26097547
 Points: 90
-# …</description></item><item><title>Larry Flynt has died</title><link>https://news.panz3r.dev/post/109da3a141e798921ceceae353652b65822c0c2c0bacbc3cbcd85f00c9d47a0e/</link><pubDate>Thu, 11 Feb 2021 01:09:35 +0000</pubDate><guid>https://news.panz3r.dev/post/109da3a141e798921ceceae353652b65822c0c2c0bacbc3cbcd85f00c9d47a0e/</guid><description>
+# …</description></item><item><title>What you can learn about medieval Europe if you focus on peasants</title><link>https://news.panz3r.dev/post/3c9c5c01c846b0988421a3a4b04a241a4e16c56581ec7810ad30a1f11e7fe47e/</link><pubDate>Thu, 11 Feb 2021 01:27:41 +0000</pubDate><guid>https://news.panz3r.dev/post/3c9c5c01c846b0988421a3a4b04a241a4e16c56581ec7810ad30a1f11e7fe47e/</guid><description>
+Article URL: https://www.laphamsquarterly.org/roundtable/those-who-work
+Comments URL: https://news.ycombinator.com/item?id=26097157
+Points: …</description></item><item><title>Larry Flynt has died</title><link>https://news.panz3r.dev/post/109da3a141e798921ceceae353652b65822c0c2c0bacbc3cbcd85f00c9d47a0e/</link><pubDate>Thu, 11 Feb 2021 01:09:35 +0000</pubDate><guid>https://news.panz3r.dev/post/109da3a141e798921ceceae353652b65822c0c2c0bacbc3cbcd85f00c9d47a0e/</guid><description>
 Article URL: https://www.bbc.com/news/world-us-canada-56019589
 Comments URL: https://news.ycombinator.com/item?id=26097013
 Points: 162
@@ -545,29 +573,4 @@ Points: 67
 Article URL: https://robotmoon.com/ssh-tunnels/
 Comments URL: https://news.ycombinator.com/item?id=26053323
 Points: 564
-# Comments: 61</description></item><item><title>Foraging humans, mammals and birds who live in the same place behave similarly</title><link>https://news.panz3r.dev/post/b4dc612850bcf5eb88b35ed4203d1574f86549788b258ddf1d44938cd16788e0/</link><pubDate>Sun, 07 Feb 2021 06:10:07 +0000</pubDate><guid>https://news.panz3r.dev/post/b4dc612850bcf5eb88b35ed4203d1574f86549788b258ddf1d44938cd16788e0/</guid><description>
-Article URL: http://www.bristol.ac.uk/news/2021/january/behavioural-convergence.html
-Comments URL: …</description></item><item><title>How many early human species existed on Earth?</title><link>https://news.panz3r.dev/post/4930f83e5705a2ed588997ddb8e13e22b8e54d03234a057bade1f1b40062957a/</link><pubDate>Sun, 07 Feb 2021 06:02:35 +0000</pubDate><guid>https://news.panz3r.dev/post/4930f83e5705a2ed588997ddb8e13e22b8e54d03234a057bade1f1b40062957a/</guid><description>
-Article URL: https://www.livescience.com/how-many-human-species.html
-Comments URL: https://news.ycombinator.com/item?id=26053027
-Points: 69 …</description></item><item><title>Ford Makes $29B Commitment to Electric and Self-Driving Cars</title><link>https://news.panz3r.dev/post/f0ee1bc9855330395eec2a78781471a916ee5be04956d199e6bc9575685772d1/</link><pubDate>Sun, 07 Feb 2021 04:18:10 +0000</pubDate><guid>https://news.panz3r.dev/post/f0ee1bc9855330395eec2a78781471a916ee5be04956d199e6bc9575685772d1/</guid><description>
-Article URL: https://www.caranddriver.com/news/a35432253/ford-ev-commitment-announced/
-Comments URL: …</description></item><item><title>Scientists develop transparent wood that is stronger and lighter than glass</title><link>https://news.panz3r.dev/post/b3e1c47b637d66158e2b0dbe74e9798a1ec6bfafc794a7fa44578b3385fa9e32/</link><pubDate>Sun, 07 Feb 2021 01:48:53 +0000</pubDate><guid>https://news.panz3r.dev/post/b3e1c47b637d66158e2b0dbe74e9798a1ec6bfafc794a7fa44578b3385fa9e32/</guid><description>
-Article URL: https://www.cbc.ca/1.5902739
-Comments URL: https://news.ycombinator.com/item?id=26051883
-Points: 184
-# Comments: 88</description></item><item><title>The Mediocre Programmer</title><link>https://news.panz3r.dev/post/ff6c9e625205fedff6bfbe86cf03450ecfb100df70bdca783320bd76f9709981/</link><pubDate>Sun, 07 Feb 2021 00:46:59 +0000</pubDate><guid>https://news.panz3r.dev/post/ff6c9e625205fedff6bfbe86cf03450ecfb100df70bdca783320bd76f9709981/</guid><description>
-Article URL: http://themediocreprogrammer.com/what-is-the-mediocre-programmer.html#what-is-the-mediocre-programmer
-Comments URL: …</description></item><item><title>Operating Systems: Three Easy Pieces</title><link>https://news.panz3r.dev/post/f608fd4c183be2da61b6529e2f4a137801a5c6e4110180c94e460b464120d6ac/</link><pubDate>Sun, 07 Feb 2021 00:08:18 +0000</pubDate><guid>https://news.panz3r.dev/post/f608fd4c183be2da61b6529e2f4a137801a5c6e4110180c94e460b464120d6ac/</guid><description>
-Article URL: https://pages.cs.wisc.edu/~remzi/OSTEP/
-Comments URL: https://news.ycombinator.com/item?id=26051386
-Points: 209
-# Comments: 25</description></item><item><title>Supercookie: Browser Fingerprinting via Favicon</title><link>https://news.panz3r.dev/post/341c852bf5b98cadc74e28450ff98278d5a86bf3151e0a53b97f89be6e18148e/</link><pubDate>Sun, 07 Feb 2021 00:05:37 +0000</pubDate><guid>https://news.panz3r.dev/post/341c852bf5b98cadc74e28450ff98278d5a86bf3151e0a53b97f89be6e18148e/</guid><description>
-Article URL: https://github.com/jonasstrehle/supercookie
-Comments URL: https://news.ycombinator.com/item?id=26051370
-Points: 279
-# Comments: …</description></item><item><title>Mezzano: Operating system written in Common Lisp</title><link>https://news.panz3r.dev/post/95ab58d6ac6cf5b8e96dcd0b9e6375ce32276c8b53f12c9cc1f83aafcc0ca6ac/</link><pubDate>Sat, 06 Feb 2021 23:46:27 +0000</pubDate><guid>https://news.panz3r.dev/post/95ab58d6ac6cf5b8e96dcd0b9e6375ce32276c8b53f12c9cc1f83aafcc0ca6ac/</guid><description>
-Article URL: https://github.com/froggey/Mezzano#mezzano-an-operating-system-written-in-common-lisp
-Comments URL: …</description></item><item><title>FreeBSD 13.0 Beta1 Now Available</title><link>https://news.panz3r.dev/post/7dc3bd0e91358e65a22af4c009414df6668b832c616ccf25163561856befba3f/</link><pubDate>Sat, 06 Feb 2021 23:46:10 +0000</pubDate><guid>https://news.panz3r.dev/post/7dc3bd0e91358e65a22af4c009414df6668b832c616ccf25163561856befba3f/</guid><description>
-Article URL: https://lists.freebsd.org/pipermail/freebsd-stable/2021-February/093047.html
-Comments URL: …</description></item></channel></rss>
+# Comments: 61</description></item></channel></rss>

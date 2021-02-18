@@ -1,12 +1,53 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hacker-News-Frontpage on Panz3r News</title><link>https://news.panz3r.dev/tags/hacker-news-frontpage/</link><description>Recent content in Hacker-News-Frontpage on news.panz3r.dev</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Panz3r 2020 | Vitae theme for Hugo</copyright><lastBuildDate>Thu, 18 Feb 2021 15:21:02 +0000</lastBuildDate><atom:link href="https://news.panz3r.dev/tags/hacker-news-frontpage/index.xml" rel="self" type="application/rss+xml"/><item><title>Citibank just got a $500M lesson in the importance of UI design</title><link>https://news.panz3r.dev/post/336e380c3b74ad34b6170cb1da4013ef56cc495a3758624956f3e2be793c4a0e/</link><pubDate>Thu, 18 Feb 2021 15:21:02 +0000</pubDate><guid>https://news.panz3r.dev/post/336e380c3b74ad34b6170cb1da4013ef56cc495a3758624956f3e2be793c4a0e/</guid><description>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hacker-News-Frontpage on Panz3r News</title><link>https://news.panz3r.dev/tags/hacker-news-frontpage/</link><description>Recent content in Hacker-News-Frontpage on news.panz3r.dev</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Panz3r 2020 | Vitae theme for Hugo</copyright><lastBuildDate>Thu, 18 Feb 2021 21:16:45 +0000</lastBuildDate><atom:link href="https://news.panz3r.dev/tags/hacker-news-frontpage/index.xml" rel="self" type="application/rss+xml"/><item><title>Gleam 0.14 – type-safe language for the Erlang VM</title><link>https://news.panz3r.dev/post/1a564b9391e42cb3a7cb844b4196c47d3c08c9b1b88650d7d08206e9ba53d820/</link><pubDate>Thu, 18 Feb 2021 21:16:45 +0000</pubDate><guid>https://news.panz3r.dev/post/1a564b9391e42cb3a7cb844b4196c47d3c08c9b1b88650d7d08206e9ba53d820/</guid><description>
+Article URL: https://gleam.run/news/gleam-v0.14-released/
+Comments URL: https://news.ycombinator.com/item?id=26185690
+Points: 127
+# …</description></item><item><title>Open source chess developers warn about a commercial engine based on Stockfish</title><link>https://news.panz3r.dev/post/9e41b51969e760735b96658faf35f4fc14a57b73376194db0fed40904c59d547/</link><pubDate>Thu, 18 Feb 2021 20:35:23 +0000</pubDate><guid>https://news.panz3r.dev/post/9e41b51969e760735b96658faf35f4fc14a57b73376194db0fed40904c59d547/</guid><description>
+Article URL: https://lichess.org/blog/YCvy7xMAACIA8007/fat-fritz-2-is-a-rip-off
+Comments URL: https://news.ycombinator.com/item?id=26185139 …</description></item><item><title>Python 3.x: RCE in Python applications that accept floats as untrusted input</title><link>https://news.panz3r.dev/post/a070827fad4efd13ee9649e3175fa52dda95b56cd55b67949c7bce822297d5e6/</link><pubDate>Thu, 18 Feb 2021 20:25:36 +0000</pubDate><guid>https://news.panz3r.dev/post/a070827fad4efd13ee9649e3175fa52dda95b56cd55b67949c7bce822297d5e6/</guid><description>
+Article URL: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-3177
+Comments URL: https://news.ycombinator.com/item?id=26185005 …</description></item><item><title>Vertical farming does not save space</title><link>https://news.panz3r.dev/post/1dcf5bbdd2d5884dcc9ee18a684891b900135c7371f70bdbc41ad509f9df1fe2/</link><pubDate>Thu, 18 Feb 2021 19:30:52 +0000</pubDate><guid>https://news.panz3r.dev/post/1dcf5bbdd2d5884dcc9ee18a684891b900135c7371f70bdbc41ad509f9df1fe2/</guid><description>
+Article URL: https://www.lowtechmagazine.com/2021/02/vertical-farming-ecosystem-services.html
+Comments URL: …</description></item><item><title>Perseverance Rover lands on Mars [video]</title><link>https://news.panz3r.dev/post/b207a06363aaf45d082cbea6ea2d42995673956ae79c7c38af169667fa107991/</link><pubDate>Thu, 18 Feb 2021 19:16:02 +0000</pubDate><guid>https://news.panz3r.dev/post/b207a06363aaf45d082cbea6ea2d42995673956ae79c7c38af169667fa107991/</guid><description>
+Article URL: https://www.youtube.com/watch?v=gm0b_ijaYMQ
+Comments URL: https://news.ycombinator.com/item?id=26184190
+Points: 463
+# Comments: …</description></item><item><title>Share of U.S. workers holding multiple jobs is rising</title><link>https://news.panz3r.dev/post/999e1bd88b90483ffe8a878e1a521ced7580b04b3ba88cbb90ac42f9ff29aba3/</link><pubDate>Thu, 18 Feb 2021 19:01:18 +0000</pubDate><guid>https://news.panz3r.dev/post/999e1bd88b90483ffe8a878e1a521ced7580b04b3ba88cbb90ac42f9ff29aba3/</guid><description>
+Article URL: https://www.reuters.com/article/us-usa-economy-multiple-jobs-idUSKBN2AH2PI
+Comments URL: …</description></item><item><title>Commandline Database Clients with Autocompletion and Syntax Highlighting</title><link>https://news.panz3r.dev/post/190d79043e7d56c3ec23944371cd2e520c699fc1e0888e355dcd517dff89afcb/</link><pubDate>Thu, 18 Feb 2021 17:39:36 +0000</pubDate><guid>https://news.panz3r.dev/post/190d79043e7d56c3ec23944371cd2e520c699fc1e0888e355dcd517dff89afcb/</guid><description>
+Article URL: https://www.dbcli.com
+Comments URL: https://news.ycombinator.com/item?id=26182902
+Points: 67
+# Comments: 14</description></item><item><title>Ruby Garbage Collection Deep Dive: Tri-Color Mark and Sweep</title><link>https://news.panz3r.dev/post/07bc6437cfaffd07e064a28a84d2daa752b492d30b12d433bd4c75d5ae8ed5bb/</link><pubDate>Thu, 18 Feb 2021 17:32:07 +0000</pubDate><guid>https://news.panz3r.dev/post/07bc6437cfaffd07e064a28a84d2daa752b492d30b12d433bd4c75d5ae8ed5bb/</guid><description>
+Article URL: https://jemma.dev/blog/gc-mark-and-sweep
+Comments URL: https://news.ycombinator.com/item?id=26182796
+Points: 90
+# Comments: 15</description></item><item><title>Migrating to SQLAlchemy 2.0</title><link>https://news.panz3r.dev/post/87adbc90e935983e58ab157e8675202c8cff9bf5653c012633ad8983370b1810/</link><pubDate>Thu, 18 Feb 2021 17:28:30 +0000</pubDate><guid>https://news.panz3r.dev/post/87adbc90e935983e58ab157e8675202c8cff9bf5653c012633ad8983370b1810/</guid><description>
+Article URL: https://docs.sqlalchemy.org/en/14/changelog/migration_20.html
+Comments URL: https://news.ycombinator.com/item?id=26182744 …</description></item><item><title>1977: Zork</title><link>https://news.panz3r.dev/post/d265d79b088c6756ea44752467adb0cda2d0517012aab78e38f32d7a64f5c5d4/</link><pubDate>Thu, 18 Feb 2021 16:30:32 +0000</pubDate><guid>https://news.panz3r.dev/post/d265d79b088c6756ea44752467adb0cda2d0517012aab78e38f32d7a64f5c5d4/</guid><description>
+Article URL: https://if50.substack.com/p/1977-zork
+Comments URL: https://news.ycombinator.com/item?id=26181863
+Points: 214
+# Comments: 67</description></item><item><title>Airbnb will build a new tech hub in Atlanta</title><link>https://news.panz3r.dev/post/83649eb005cf8ea6ad2f8ab42ee7304864e41595da12dc4d98a77638006164b5/</link><pubDate>Thu, 18 Feb 2021 16:23:40 +0000</pubDate><guid>https://news.panz3r.dev/post/83649eb005cf8ea6ad2f8ab42ee7304864e41595da12dc4d98a77638006164b5/</guid><description>
+Article URL: https://www.protocol.com/airbnb-new-tech-hub-atlanta
+Comments URL: https://news.ycombinator.com/item?id=26181766
+Points: 99
+# …</description></item><item><title>Judge: Citibank isn't entitled to $500M it sent to various creditors last August</title><link>https://news.panz3r.dev/post/336e380c3b74ad34b6170cb1da4013ef56cc495a3758624956f3e2be793c4a0e/</link><pubDate>Thu, 18 Feb 2021 15:21:02 +0000</pubDate><guid>https://news.panz3r.dev/post/336e380c3b74ad34b6170cb1da4013ef56cc495a3758624956f3e2be793c4a0e/</guid><description>
 Article URL: https://arstechnica.com/tech-policy/2021/02/citibank-just-got-a-500-million-lesson-in-the-importance-of-ui-design/
-Comments …</description></item><item><title>Coq 8.13</title><link>https://news.panz3r.dev/post/a3e77027c9d6c714937428885fb039262ea206c1f69369fd7c9eaaaf95b840b7/</link><pubDate>Thu, 18 Feb 2021 14:23:07 +0000</pubDate><guid>https://news.panz3r.dev/post/a3e77027c9d6c714937428885fb039262ea206c1f69369fd7c9eaaaf95b840b7/</guid><description>
+Comments …</description></item><item><title>Nvidia announces mining GPUs, cuts the hash rate of RTX-3060 in half</title><link>https://news.panz3r.dev/post/a3d088087583705454b106c44aa572ce2e876eb1798c8e4a722bfc704e5bfad2/</link><pubDate>Thu, 18 Feb 2021 14:41:09 +0000</pubDate><guid>https://news.panz3r.dev/post/a3d088087583705454b106c44aa572ce2e876eb1798c8e4a722bfc704e5bfad2/</guid><description>
+Article URL: https://blogs.nvidia.com/blog/2021/02/18/geforce-cmp/
+Comments URL: https://news.ycombinator.com/item?id=26180260
+Points: 184
+# …</description></item><item><title>Coq 8.13</title><link>https://news.panz3r.dev/post/a3e77027c9d6c714937428885fb039262ea206c1f69369fd7c9eaaaf95b840b7/</link><pubDate>Thu, 18 Feb 2021 14:23:07 +0000</pubDate><guid>https://news.panz3r.dev/post/a3e77027c9d6c714937428885fb039262ea206c1f69369fd7c9eaaaf95b840b7/</guid><description>
 Article URL: https://coq.inria.fr/news/coq-8-13-0-is-out.html
 Comments URL: https://news.ycombinator.com/item?id=26180078
 Points: 76
 # …</description></item><item><title>Global debt soars to 356% of GDP</title><link>https://news.panz3r.dev/post/1375d27a81eb683046eaa512a169a49864539ed3995267e09b0c001ca440ddbb/</link><pubDate>Thu, 18 Feb 2021 14:08:29 +0000</pubDate><guid>https://news.panz3r.dev/post/1375d27a81eb683046eaa512a169a49864539ed3995267e09b0c001ca440ddbb/</guid><description>
 Article URL: https://www.axios.com/global-debt-gdp-898959ed-f96a-4c4d-85a3-5d3cc419631f.html
-Comments URL: …</description></item><item><title>A TL;DR after analyzing Clubhouse app</title><link>https://news.panz3r.dev/post/0f65f6bd15238e0807265d1f097272a4ba5889193ce172d55f945a98423c7ade/</link><pubDate>Thu, 18 Feb 2021 13:35:57 +0000</pubDate><guid>https://news.panz3r.dev/post/0f65f6bd15238e0807265d1f097272a4ba5889193ce172d55f945a98423c7ade/</guid><description>
+Comments URL: …</description></item><item><title>Browsers eating RAM</title><link>https://news.panz3r.dev/post/f4b7466737d96e11973b48aaf40db40072b6ed61372ad1cbf8edbcbb102fe3f8/</link><pubDate>Thu, 18 Feb 2021 13:56:59 +0000</pubDate><guid>https://news.panz3r.dev/post/f4b7466737d96e11973b48aaf40db40072b6ed61372ad1cbf8edbcbb102fe3f8/</guid><description>
+Article URL: https://www.flotato.com/post/memory-chrome-safari-flotato
+Comments URL: https://news.ycombinator.com/item?id=26179817
+Points: …</description></item><item><title>A TL;DR after analyzing Clubhouse app</title><link>https://news.panz3r.dev/post/0f65f6bd15238e0807265d1f097272a4ba5889193ce172d55f945a98423c7ade/</link><pubDate>Thu, 18 Feb 2021 13:35:57 +0000</pubDate><guid>https://news.panz3r.dev/post/0f65f6bd15238e0807265d1f097272a4ba5889193ce172d55f945a98423c7ade/</guid><description>
 Article URL: https://twitter.com/brian_pak/status/1361866446427488256
 Comments URL: https://news.ycombinator.com/item?id=26179613
 Points: 56 …</description></item><item><title>Curl is C (2017)</title><link>https://news.panz3r.dev/post/7372994e52cccaa8d8402b0ab0847dbb2f3ed2b5699778b51afd82a0cfedc841/</link><pubDate>Thu, 18 Feb 2021 13:34:52 +0000</pubDate><guid>https://news.panz3r.dev/post/7372994e52cccaa8d8402b0ab0847dbb2f3ed2b5699778b51afd82a0cfedc841/</guid><description>
@@ -19,8 +60,8 @@ Comments URL: https://news.ycombinator.com/item?id=26179566
 Points: 83 …</description></item><item><title>Skyline – Your GitHub story in 3D</title><link>https://news.panz3r.dev/post/5bf1d0fb2025a4feb7a7ab942749f5aae98df650a396731d862e29cc5a1243cc/</link><pubDate>Thu, 18 Feb 2021 13:10:58 +0000</pubDate><guid>https://news.panz3r.dev/post/5bf1d0fb2025a4feb7a7ab942749f5aae98df650a396731d862e29cc5a1243cc/</guid><description>
 Article URL: https://skyline.github.com/
 Comments URL: https://news.ycombinator.com/item?id=26179395
-Points: 59
-# Comments: 23</description></item><item><title>Launch HN: Ontop (YC W21) – Easily hire and pay remote workers in LATAM</title><link>https://news.panz3r.dev/post/84ff30299cbc7f40899d8cc2655a61f3ca7d783bd9792f9b2da0b089217c2418/</link><pubDate>Thu, 18 Feb 2021 12:58:54 +0000</pubDate><guid>https://news.panz3r.dev/post/84ff30299cbc7f40899d8cc2655a61f3ca7d783bd9792f9b2da0b089217c2418/</guid><description>
+Points: 205
+# Comments: 69</description></item><item><title>Launch HN: Ontop (YC W21) – Easily hire and pay remote workers in LATAM</title><link>https://news.panz3r.dev/post/84ff30299cbc7f40899d8cc2655a61f3ca7d783bd9792f9b2da0b089217c2418/</link><pubDate>Thu, 18 Feb 2021 12:58:54 +0000</pubDate><guid>https://news.panz3r.dev/post/84ff30299cbc7f40899d8cc2655a61f3ca7d783bd9792f9b2da0b089217c2418/</guid><description>
 Hi YC! We are Santiago Aparicio, Julian Torres and Jaime Abella and we are from Colombia. We are building Ontop (www.ontop.ai) to help …</description></item><item><title>Facebook knew for years ad reach estimates were based on ‘wrong data’</title><link>https://news.panz3r.dev/post/9d424b067147640cd07f364cba19b6a8585d59b9fdbfdf82a3b47e5c8bdce745/</link><pubDate>Thu, 18 Feb 2021 12:45:22 +0000</pubDate><guid>https://news.panz3r.dev/post/9d424b067147640cd07f364cba19b6a8585d59b9fdbfdf82a3b47e5c8bdce745/</guid><description>
 Article URL: …</description></item><item><title>Mitigating Memory Safety Issues in Open Source Software</title><link>https://news.panz3r.dev/post/cebfca0a6efe48c2037103660d5d15dcc527b7f195048148a478a782ff9e4673/</link><pubDate>Thu, 18 Feb 2021 12:28:20 +0000</pubDate><guid>https://news.panz3r.dev/post/cebfca0a6efe48c2037103660d5d15dcc527b7f195048148a478a782ff9e4673/</guid><description>
 Article URL: https://security.googleblog.com/2021/02/mitigating-memory-safety-issues-in-open.html
@@ -28,7 +69,7 @@ Comments URL: …</description></item><item><title>I Am a Heroin User. I Do Not 
 Article URL: http://m.nautil.us/issue/96/rewired/i-am-a-heroin-user-i-do-not-have-a-drug-problem
 Comments URL: …</description></item><item><title>The Fantasy of Opting Out</title><link>https://news.panz3r.dev/post/37bf575bf819f33b7ace1f411b6ebff29fa83550e79f5f1a859cf786786f79ab/</link><pubDate>Thu, 18 Feb 2021 11:18:28 +0000</pubDate><guid>https://news.panz3r.dev/post/37bf575bf819f33b7ace1f411b6ebff29fa83550e79f5f1a859cf786786f79ab/</guid><description>
 Article URL: https://thereader.mitpress.mit.edu/the-fantasy-of-opting-out/
-Comments URL: https://news.ycombinator.com/item?id=26178523 …</description></item><item><title>Why There’s No Such Thing as “A Startup Within a Big Company”</title><link>https://news.panz3r.dev/post/f5f6e4e14155a438d59ad1cca039a3f17b85adfc6bbee0a967f0ff3ade2cb2fe/</link><pubDate>Thu, 18 Feb 2021 11:17:14 +0000</pubDate><guid>https://news.panz3r.dev/post/f5f6e4e14155a438d59ad1cca039a3f17b85adfc6bbee0a967f0ff3ade2cb2fe/</guid><description>
+Comments URL: https://news.ycombinator.com/item?id=26178523 …</description></item><item><title>There’s no such thing as “a startup within a big company”</title><link>https://news.panz3r.dev/post/f5f6e4e14155a438d59ad1cca039a3f17b85adfc6bbee0a967f0ff3ade2cb2fe/</link><pubDate>Thu, 18 Feb 2021 11:17:14 +0000</pubDate><guid>https://news.panz3r.dev/post/f5f6e4e14155a438d59ad1cca039a3f17b85adfc6bbee0a967f0ff3ade2cb2fe/</guid><description>
 Article URL: https://hunterwalk.medium.com/why-theres-no-such-thing-as-a-startup-within-a-big-company-c3003615f3bc
 Comments URL: …</description></item><item><title>StoneKnifeForth (With a Metacircular Compiler)</title><link>https://news.panz3r.dev/post/1fe55bce59ff39e9e874a8a0d861acc1bc0a44cc11c5445323d4ffea2dee0523/</link><pubDate>Thu, 18 Feb 2021 10:51:13 +0000</pubDate><guid>https://news.panz3r.dev/post/1fe55bce59ff39e9e874a8a0d861acc1bc0a44cc11c5445323d4ffea2dee0523/</guid><description>
 Article URL: https://github.com/kragen/stoneknifeforth
@@ -566,44 +607,4 @@ Comments URL: …</description></item><item><title>Amber Smalltalk</title><link>
 Article URL: https://amber-lang.net/index.html
 Comments URL: https://news.ycombinator.com/item?id=26128607
 Points: 74
-# Comments: 4</description></item><item><title>Data Laced with History: Causal Trees and Operational CRDTs (2018)</title><link>https://news.panz3r.dev/post/81b270124e65c9c4fa294cdac717858f6868af6ccb25fd8caa74f94b6401a134/</link><pubDate>Sat, 13 Feb 2021 22:25:05 +0000</pubDate><guid>https://news.panz3r.dev/post/81b270124e65c9c4fa294cdac717858f6868af6ccb25fd8caa74f94b6401a134/</guid><description>
-Article URL: http://archagon.net/blog/2018/03/24/data-laced-with-history/
-Comments URL: https://news.ycombinator.com/item?id=26127570 …</description></item><item><title>What was the original reason for the design of AT&amp;T assembly syntax?</title><link>https://news.panz3r.dev/post/6acc50f73e9813945e9b518ec15e441a976b3ba3ace8a9ffb9716102054e422c/</link><pubDate>Sat, 13 Feb 2021 21:58:31 +0000</pubDate><guid>https://news.panz3r.dev/post/6acc50f73e9813945e9b518ec15e441a976b3ba3ace8a9ffb9716102054e422c/</guid><description>
-Article URL: https://stackoverflow.com/q/42244028/334816
-Comments URL: https://news.ycombinator.com/item?id=26127368
-Points: 88
-# Comments: …</description></item><item><title>Comp.lang.c Google Group has been banned</title><link>https://news.panz3r.dev/post/4a5b879f6e6467ddf6639127c9100e2accdc73626d3c3d4b8b743c3836bec16d/</link><pubDate>Sat, 13 Feb 2021 20:23:23 +0000</pubDate><guid>https://news.panz3r.dev/post/4a5b879f6e6467ddf6639127c9100e2accdc73626d3c3d4b8b743c3836bec16d/</guid><description>
-Article URL: https://groups.google.com/g/comp.lang.c
-Comments URL: https://news.ycombinator.com/item?id=26126455
-Points: 296
-# Comments: 157 …</description></item><item><title>Strategies to Reduce Brain Fog and Improve Clear Thinking</title><link>https://news.panz3r.dev/post/84b9357361263c68d4c09ba3a93ffc7a182560a5aedeb904a83807f9ed6de89a/</link><pubDate>Sat, 13 Feb 2021 20:16:41 +0000</pubDate><guid>https://news.panz3r.dev/post/84b9357361263c68d4c09ba3a93ffc7a182560a5aedeb904a83807f9ed6de89a/</guid><description>
-Article URL: https://thriveglobal.in/stories/want-to-reduce-brain-fog-and-improve-clear-thinking-give-up-these-things-immediately/
-Comments …</description></item><item><title>Rupert Neve, Grammy-Winning Audio Industry Icon, Dies at 94</title><link>https://news.panz3r.dev/post/add8d3b19852da0c8795fd996598102ea0465f1933b4f2c139d00aa684f3dd44/</link><pubDate>Sat, 13 Feb 2021 20:12:00 +0000</pubDate><guid>https://news.panz3r.dev/post/add8d3b19852da0c8795fd996598102ea0465f1933b4f2c139d00aa684f3dd44/</guid><description>
-Article URL: https://www.rupertneve.com/news/rupert-neve-1926-2021/
-Comments URL: https://news.ycombinator.com/item?id=26126361
-Points: 82
-# …</description></item><item><title>50 Years Ago, Sugar Industry Quietly Paid Scientists to Blame Fat (2016)</title><link>https://news.panz3r.dev/post/ea35642cf43f9e7f88c76dc9390c5898e7adef8d73526f5800a632eb19b15495/</link><pubDate>Sat, 13 Feb 2021 19:52:18 +0000</pubDate><guid>https://news.panz3r.dev/post/ea35642cf43f9e7f88c76dc9390c5898e7adef8d73526f5800a632eb19b15495/</guid><description>
-Article URL: …</description></item><item><title>The worst of the two worlds: Excel meets Outlook</title><link>https://news.panz3r.dev/post/3cd5782e0c1f8e169ef4f2613039058a7a0de1a6740a9dc8cd0719964379ca38/</link><pubDate>Sat, 13 Feb 2021 19:35:47 +0000</pubDate><guid>https://news.panz3r.dev/post/3cd5782e0c1f8e169ef4f2613039058a7a0de1a6740a9dc8cd0719964379ca38/</guid><description>
-Article URL: https://adepts.of0x.cc/vba-outlook/
-Comments URL: https://news.ycombinator.com/item?id=26126067
-Points: 248
-# Comments: 194</description></item><item><title>Tutorial – Write a Shell in C</title><link>https://news.panz3r.dev/post/e0f470b43b586dac0f55db38a8113e59d3e802a047d34c45e8957b8081f16f61/</link><pubDate>Sat, 13 Feb 2021 19:29:43 +0000</pubDate><guid>https://news.panz3r.dev/post/e0f470b43b586dac0f55db38a8113e59d3e802a047d34c45e8957b8081f16f61/</guid><description>
-Article URL: https://brennan.io/2015/01/16/write-a-shell-in-c/
-Comments URL: https://news.ycombinator.com/item?id=26126010
-Points: 218
-# …</description></item><item><title>Clubhouse user IDs, Chatroom IDs are transmitted in plaintext over the internet</title><link>https://news.panz3r.dev/post/8f80156cd35b1765c7671fc4f03510e11d0bc3a982ac58c97f8f731c4347ec11/</link><pubDate>Sat, 13 Feb 2021 19:09:52 +0000</pubDate><guid>https://news.panz3r.dev/post/8f80156cd35b1765c7671fc4f03510e11d0bc3a982ac58c97f8f731c4347ec11/</guid><description>
-Article URL: https://twitter.com/stanfordio/status/1360423163125919749
-Comments URL: https://news.ycombinator.com/item?id=26125842
-Points: …</description></item><item><title>AirPods Causing Tinnitus (600+ reports since 2019?)</title><link>https://news.panz3r.dev/post/9677ede39ec4e2d994c4f815364efda443bcab84de56fccd336904d9c3d8a4a5/</link><pubDate>Sat, 13 Feb 2021 18:44:05 +0000</pubDate><guid>https://news.panz3r.dev/post/9677ede39ec4e2d994c4f815364efda443bcab84de56fccd336904d9c3d8a4a5/</guid><description>
-Article URL: https://discussions.apple.com/thread/250886390
-Comments URL: https://news.ycombinator.com/item?id=26125605
-Points: 188
-# …</description></item><item><title>US raises ‘deep concerns’ over WHO report on Covid’s Wuhan origins</title><link>https://news.panz3r.dev/post/87ffda24913aba74b2d34eabf4db05380af92f36c4dd1b451ad60abe2ad23147/</link><pubDate>Sat, 13 Feb 2021 17:48:37 +0000</pubDate><guid>https://news.panz3r.dev/post/87ffda24913aba74b2d34eabf4db05380af92f36c4dd1b451ad60abe2ad23147/</guid><description>
-Article URL: https://www.reuters.com/article/us-health-coronavirus-usa-idUSKBN2AD0FX
-Comments URL: …</description></item><item><title>Ziglings: Learn the Zig programming language by fixing tiny broken programs</title><link>https://news.panz3r.dev/post/8ad512d84d4afad690e62f898759afe510e04fcaf07470a75ff93928abf1ed7d/</link><pubDate>Sat, 13 Feb 2021 17:39:35 +0000</pubDate><guid>https://news.panz3r.dev/post/8ad512d84d4afad690e62f898759afe510e04fcaf07470a75ff93928abf1ed7d/</guid><description>
-Article URL: https://github.com/ratfactor/ziglings
-Comments URL: https://news.ycombinator.com/item?id=26125063
-Points: 364
-# Comments: 85</description></item><item><title>Our brutal science system almost cost us a pioneer of mRNA vaccines</title><link>https://news.panz3r.dev/post/95bf1fd8796f3dbc6d43d8dfeb12bd919ac4fdeda02b6dabd4e583cd0a0003d7/</link><pubDate>Sat, 13 Feb 2021 17:30:36 +0000</pubDate><guid>https://news.panz3r.dev/post/95bf1fd8796f3dbc6d43d8dfeb12bd919ac4fdeda02b6dabd4e583cd0a0003d7/</guid><description>
-Article URL: https://www.wbur.org/commonhealth/2021/02/12/brutal-science-system-mrna-pioneer
-Comments URL: …</description></item></channel></rss>
+# Comments: 4</description></item></channel></rss>

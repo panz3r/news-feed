@@ -1,39 +1,59 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hacker-News-Frontpage on Panz3r News</title><link>https://news.panz3r.dev/tags/hacker-news-frontpage/</link><description>Recent content in Hacker-News-Frontpage on news.panz3r.dev</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Panz3r 2020 | Vitae theme for Hugo</copyright><lastBuildDate>Fri, 19 Feb 2021 22:22:06 +0000</lastBuildDate><atom:link href="https://news.panz3r.dev/tags/hacker-news-frontpage/index.xml" rel="self" type="application/rss+xml"/><item><title>Google’s Margaret Mitchell Has Been Fired</title><link>https://news.panz3r.dev/post/cdeb63df70a7044bf4a8c515a4a397d1966d949c019787c600a5b103fc0cc0b0/</link><pubDate>Fri, 19 Feb 2021 22:22:06 +0000</pubDate><guid>https://news.panz3r.dev/post/cdeb63df70a7044bf4a8c515a4a397d1966d949c019787c600a5b103fc0cc0b0/</guid><description>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hacker-News-Frontpage on Panz3r News</title><link>https://news.panz3r.dev/tags/hacker-news-frontpage/</link><description>Recent content in Hacker-News-Frontpage on news.panz3r.dev</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Panz3r 2020 | Vitae theme for Hugo</copyright><lastBuildDate>Sat, 20 Feb 2021 03:16:20 +0000</lastBuildDate><atom:link href="https://news.panz3r.dev/tags/hacker-news-frontpage/index.xml" rel="self" type="application/rss+xml"/><item><title>Draw an iceberg and see how it would float in water</title><link>https://news.panz3r.dev/post/ba78b37cbdcf20d7b66d383765306b08e7580ae220850db52c34bb2fbb128856/</link><pubDate>Sat, 20 Feb 2021 03:16:20 +0000</pubDate><guid>https://news.panz3r.dev/post/ba78b37cbdcf20d7b66d383765306b08e7580ae220850db52c34bb2fbb128856/</guid><description>
+Article URL: https://joshdata.me/iceberger.html
+Comments URL: https://news.ycombinator.com/item?id=26201160
+Points: 322
+# Comments: 52</description></item><item><title>My Life in E-Ink</title><link>https://news.panz3r.dev/post/e82c2ba29ddaac1e7ee52c4dbd2bde623c4819a29096a3c63fc13603e62b4277/</link><pubDate>Sat, 20 Feb 2021 01:46:53 +0000</pubDate><guid>https://news.panz3r.dev/post/e82c2ba29ddaac1e7ee52c4dbd2bde623c4819a29096a3c63fc13603e62b4277/</guid><description>
+Article URL: https://rgoswami.me/posts/my-life-in-eink/
+Comments URL: https://news.ycombinator.com/item?id=26200630
+Points: 82
+# Comments: …</description></item><item><title>A request for Pinboard old-timers</title><link>https://news.panz3r.dev/post/e5ddc8d34e577d9b19768f730870d748d5cc1f68dfeac5fd6c9b8c4cd9e896e5/</link><pubDate>Fri, 19 Feb 2021 23:56:39 +0000</pubDate><guid>https://news.panz3r.dev/post/e5ddc8d34e577d9b19768f730870d748d5cc1f68dfeac5fd6c9b8c4cd9e896e5/</guid><description>
+Article URL: https://www.prettyfwd.com/t/XiK8ArVIT6uVItPGeH3lzA/
+Comments URL: https://news.ycombinator.com/item?id=26199676
+Points: 183
+# …</description></item><item><title>F’: Flight Software and Embedded Systems Framework</title><link>https://news.panz3r.dev/post/c0e31f325abe03012365eb4853c70ecf5482b11ce433a17958a2883d26f0cfe5/</link><pubDate>Fri, 19 Feb 2021 23:16:18 +0000</pubDate><guid>https://news.panz3r.dev/post/c0e31f325abe03012365eb4853c70ecf5482b11ce433a17958a2883d26f0cfe5/</guid><description>
+Article URL: https://nasa.github.io/fprime/
+Comments URL: https://news.ycombinator.com/item?id=26199346
+Points: 103
+# Comments: 18</description></item><item><title>Google’s Margaret Mitchell Has Been Fired</title><link>https://news.panz3r.dev/post/cdeb63df70a7044bf4a8c515a4a397d1966d949c019787c600a5b103fc0cc0b0/</link><pubDate>Fri, 19 Feb 2021 22:22:06 +0000</pubDate><guid>https://news.panz3r.dev/post/cdeb63df70a7044bf4a8c515a4a397d1966d949c019787c600a5b103fc0cc0b0/</guid><description>
 Article URL: https://twitter.com/mmitchell_ai/status/1362885356127801345
 Comments URL: https://news.ycombinator.com/item?id=26198789
 Points: …</description></item><item><title>BTC Endgame</title><link>https://news.panz3r.dev/post/7bb48f01c0fee2e9e2944e4681420982e7938c9ef9c04b7c9bf6ff33f3f009ca/</link><pubDate>Fri, 19 Feb 2021 21:23:31 +0000</pubDate><guid>https://news.panz3r.dev/post/7bb48f01c0fee2e9e2944e4681420982e7938c9ef9c04b7c9bf6ff33f3f009ca/</guid><description>
 Article URL: https://github.com/mikekelly/btc-endgame
 Comments URL: https://news.ycombinator.com/item?id=26198210
-Points: 134
+Points: 232
 # Comments: …</description></item><item><title>Cockpit – Integrated, glanceable, web-based interface for servers</title><link>https://news.panz3r.dev/post/24af7d8e1b1867272f5eb646752b8734d9c1731f9be0c3d7eda67e126de3b26a/</link><pubDate>Fri, 19 Feb 2021 20:14:39 +0000</pubDate><guid>https://news.panz3r.dev/post/24af7d8e1b1867272f5eb646752b8734d9c1731f9be0c3d7eda67e126de3b26a/</guid><description>
 Article URL: https://cockpit-project.org/
 Comments URL: https://news.ycombinator.com/item?id=26197510
-Points: 95
-# Comments: 31</description></item><item><title>Mars becomes the 2nd planet that has more computers running Linux than Windows</title><link>https://news.panz3r.dev/post/3b41e3ecfb3435a5218f3a306dcec32f2bb16623149815b434f0a64282ae7dd5/</link><pubDate>Fri, 19 Feb 2021 19:52:52 +0000</pubDate><guid>https://news.panz3r.dev/post/3b41e3ecfb3435a5218f3a306dcec32f2bb16623149815b434f0a64282ae7dd5/</guid><description>
+Points: 225
+# Comments: 68</description></item><item><title>Mars becomes the 2nd planet that has more computers running Linux than Windows</title><link>https://news.panz3r.dev/post/3b41e3ecfb3435a5218f3a306dcec32f2bb16623149815b434f0a64282ae7dd5/</link><pubDate>Fri, 19 Feb 2021 19:52:52 +0000</pubDate><guid>https://news.panz3r.dev/post/3b41e3ecfb3435a5218f3a306dcec32f2bb16623149815b434f0a64282ae7dd5/</guid><description>
 Article URL: https://twitter.com/mikko/status/1362763793042972673
 Comments URL: https://news.ycombinator.com/item?id=26197280
-Points: 677
+Points: 944
 # …</description></item><item><title>How Antidepressants Work, at Last?</title><link>https://news.panz3r.dev/post/041fd93227751b432862b5b22d018afd1b030f0f4128d39e3aafd91573fda5ba/</link><pubDate>Fri, 19 Feb 2021 19:41:43 +0000</pubDate><guid>https://news.panz3r.dev/post/041fd93227751b432862b5b22d018afd1b030f0f4128d39e3aafd91573fda5ba/</guid><description>
 Article URL: https://blogs.sciencemag.org/pipeline/archives/2021/02/19/how-antidepressants-work-at-last
 Comments URL: …</description></item><item><title>Koo, India’s free-speech Twitter alternative</title><link>https://news.panz3r.dev/post/9aec30bb90430f7c398566790900c837167e9fef6081dd1bb15b5ec937e31abd/</link><pubDate>Fri, 19 Feb 2021 18:58:32 +0000</pubDate><guid>https://news.panz3r.dev/post/9aec30bb90430f7c398566790900c837167e9fef6081dd1bb15b5ec937e31abd/</guid><description>
 Article URL: https://restofworld.org/2021/how-koo-became-a-right-wing-darling-in-india/
 Comments URL: …</description></item><item><title>Cleaner parallel curves with Euler spirals</title><link>https://news.panz3r.dev/post/b8a6747b269c6c579b94ec4a758844ef1a5115178c74dc974f96c88f26395bc8/</link><pubDate>Fri, 19 Feb 2021 18:49:47 +0000</pubDate><guid>https://news.panz3r.dev/post/b8a6747b269c6c579b94ec4a758844ef1a5115178c74dc974f96c88f26395bc8/</guid><description>
 Article URL: https://raphlinus.github.io/curves/2021/02/19/parallel-curves.html
-Comments URL: https://news.ycombinator.com/item?id=26196470 …</description></item><item><title>Mars landing: Photo shows Perseverance rover during landing</title><link>https://news.panz3r.dev/post/6d3b724fc854a4ed8195c31aae1eec2326216f743233523e31aec3c4834492b5/</link><pubDate>Fri, 19 Feb 2021 18:34:17 +0000</pubDate><guid>https://news.panz3r.dev/post/6d3b724fc854a4ed8195c31aae1eec2326216f743233523e31aec3c4834492b5/</guid><description>
+Comments URL: https://news.ycombinator.com/item?id=26196470 …</description></item><item><title>Researchers looking for mRNA were ridiculed by colleagues</title><link>https://news.panz3r.dev/post/8a45e20abcd748471751234bfddec5b448ddb34eb71c65a17e62ae01e5fdd814/</link><pubDate>Fri, 19 Feb 2021 18:41:24 +0000</pubDate><guid>https://news.panz3r.dev/post/8a45e20abcd748471751234bfddec5b448ddb34eb71c65a17e62ae01e5fdd814/</guid><description>
+Article URL: https://www.macleans.ca/society/science/scientists-mrna-covid-vaccines/
+Comments URL: …</description></item><item><title>Mars landing: Photo shows Perseverance rover during landing</title><link>https://news.panz3r.dev/post/6d3b724fc854a4ed8195c31aae1eec2326216f743233523e31aec3c4834492b5/</link><pubDate>Fri, 19 Feb 2021 18:34:17 +0000</pubDate><guid>https://news.panz3r.dev/post/6d3b724fc854a4ed8195c31aae1eec2326216f743233523e31aec3c4834492b5/</guid><description>
 Article URL: https://www.bbc.co.uk/news/science-environment-56133281
 Comments URL: https://news.ycombinator.com/item?id=26196301
-Points: 110 …</description></item><item><title>Nyan Cat on the Blockchain</title><link>https://news.panz3r.dev/post/adc3b28794ca510fb41f8496b243e134aa2fad797b25b6f33a8a05b1a706c99b/</link><pubDate>Fri, 19 Feb 2021 18:12:18 +0000</pubDate><guid>https://news.panz3r.dev/post/adc3b28794ca510fb41f8496b243e134aa2fad797b25b6f33a8a05b1a706c99b/</guid><description>
+Points: 208 …</description></item><item><title>Nyan Cat on the Blockchain</title><link>https://news.panz3r.dev/post/adc3b28794ca510fb41f8496b243e134aa2fad797b25b6f33a8a05b1a706c99b/</link><pubDate>Fri, 19 Feb 2021 18:12:18 +0000</pubDate><guid>https://news.panz3r.dev/post/adc3b28794ca510fb41f8496b243e134aa2fad797b25b6f33a8a05b1a706c99b/</guid><description>
 Article URL: https://foundation.app/NyanCat/nyan-cat-219
 Comments URL: https://news.ycombinator.com/item?id=26196027
 Points: 65
-# Comments: …</description></item><item><title>Ultima VIII – How to destroy a gaming franchise in one easy step</title><link>https://news.panz3r.dev/post/544b5adc0a51ad8a8836d9b1dc2bf0eba76500ae6429e87969837b3d965deb69/</link><pubDate>Fri, 19 Feb 2021 16:56:50 +0000</pubDate><guid>https://news.panz3r.dev/post/544b5adc0a51ad8a8836d9b1dc2bf0eba76500ae6429e87969837b3d965deb69/</guid><description>
+# Comments: …</description></item><item><title>Why Birds Don’t Get Cold Feet</title><link>https://news.panz3r.dev/post/98116faa848484d39582b8fe150641e42f54c3c3eed6c334b24ebae1a9bbf4b9/</link><pubDate>Fri, 19 Feb 2021 17:15:06 +0000</pubDate><guid>https://news.panz3r.dev/post/98116faa848484d39582b8fe150641e42f54c3c3eed6c334b24ebae1a9bbf4b9/</guid><description>
+Article URL: https://medium.com/i-wanna-know/why-birds-dont-get-cold-feet-515487d50ed5
+Comments URL: …</description></item><item><title>Ultima VIII – How to destroy a gaming franchise in one easy step</title><link>https://news.panz3r.dev/post/544b5adc0a51ad8a8836d9b1dc2bf0eba76500ae6429e87969837b3d965deb69/</link><pubDate>Fri, 19 Feb 2021 16:56:50 +0000</pubDate><guid>https://news.panz3r.dev/post/544b5adc0a51ad8a8836d9b1dc2bf0eba76500ae6429e87969837b3d965deb69/</guid><description>
 Article URL: https://www.filfre.net/2021/02/ultima-viii-or-how-to-destroy-a-gaming-franchise-in-one-easy-step/
 Comments URL: …</description></item><item><title>Launch HN: MindsDB (YC W20) – Machine Learning Inside Your Database</title><link>https://news.panz3r.dev/post/bb9c4efaa0f308a70341fce2db0d876d3a16719d5b0d7ad79c0e84f1aee5e2ef/</link><pubDate>Fri, 19 Feb 2021 16:55:02 +0000</pubDate><guid>https://news.panz3r.dev/post/bb9c4efaa0f308a70341fce2db0d876d3a16719d5b0d7ad79c0e84f1aee5e2ef/</guid><description>
 Hi HN,Adam and Jorge here, and today we’re very excited to share MindsDB with you (http://github.com/mindsdb/mindsdb). MindsDB AutoML Server …</description></item><item><title>Tauri: An Electron alternative written in Rust</title><link>https://news.panz3r.dev/post/141bf39e4dcf7e3a99b5bb56f98c9e77ba5110948001a4cea5c6bc35bfed15ab/</link><pubDate>Fri, 19 Feb 2021 16:49:03 +0000</pubDate><guid>https://news.panz3r.dev/post/141bf39e4dcf7e3a99b5bb56f98c9e77ba5110948001a4cea5c6bc35bfed15ab/</guid><description>
 Article URL: https://tauri.studio/
 Comments URL: https://news.ycombinator.com/item?id=26194990
-Points: 619
-# Comments: 271</description></item><item><title>Prediction Markets: Tales from the Election</title><link>https://news.panz3r.dev/post/2ccfcc2a5ee4d42794a22bce8856aecf66236f61bf8592b37669be02037e04b2/</link><pubDate>Fri, 19 Feb 2021 16:34:33 +0000</pubDate><guid>https://news.panz3r.dev/post/2ccfcc2a5ee4d42794a22bce8856aecf66236f61bf8592b37669be02037e04b2/</guid><description>
+Points: 888
+# Comments: 349</description></item><item><title>Prediction Markets: Tales from the Election</title><link>https://news.panz3r.dev/post/2ccfcc2a5ee4d42794a22bce8856aecf66236f61bf8592b37669be02037e04b2/</link><pubDate>Fri, 19 Feb 2021 16:34:33 +0000</pubDate><guid>https://news.panz3r.dev/post/2ccfcc2a5ee4d42794a22bce8856aecf66236f61bf8592b37669be02037e04b2/</guid><description>
 Article URL: https://vitalik.ca/general/2021/02/18/election.html
 Comments URL: https://news.ycombinator.com/item?id=26194848
 Points: 51
@@ -42,8 +62,8 @@ Article URL: https://ramble.pw/f/privacy/2387/brave-browser-leaks-your-tor-onion
 Comments URL: …</description></item><item><title>The DreamBank, a collection of over 20k dream reports</title><link>https://news.panz3r.dev/post/90b181bdbba4504b3a3b1c8545e6b1693d7f2e358b5e6a42dcc27384ce70db14/</link><pubDate>Fri, 19 Feb 2021 16:05:48 +0000</pubDate><guid>https://news.panz3r.dev/post/90b181bdbba4504b3a3b1c8545e6b1693d7f2e358b5e6a42dcc27384ce70db14/</guid><description>
 Article URL: http://www.dreambank.net/
 Comments URL: https://news.ycombinator.com/item?id=26194534
-Points: 159
-# Comments: 102</description></item><item><title>Launch HN: HiGeorge (YC W21) – Real-time data visualizations for public datasets</title><link>https://news.panz3r.dev/post/c184eb26e9ea803358bb9ba361e18b4f512f623a1770d9e9fede9f864a2266e9/</link><pubDate>Fri, 19 Feb 2021 15:57:06 +0000</pubDate><guid>https://news.panz3r.dev/post/c184eb26e9ea803358bb9ba361e18b4f512f623a1770d9e9fede9f864a2266e9/</guid><description>
+Points: 194
+# Comments: 141</description></item><item><title>Launch HN: HiGeorge (YC W21) – Real-time data visualizations for public datasets</title><link>https://news.panz3r.dev/post/c184eb26e9ea803358bb9ba361e18b4f512f623a1770d9e9fede9f864a2266e9/</link><pubDate>Fri, 19 Feb 2021 15:57:06 +0000</pubDate><guid>https://news.panz3r.dev/post/c184eb26e9ea803358bb9ba361e18b4f512f623a1770d9e9fede9f864a2266e9/</guid><description>
 Hi HN!Anuj here. My co-founder Amir (Aazo11) and I are building HiGeorge (https://hi-george.com/). We make localized drag-and-drop data …</description></item><item><title>OpenStreetMap charts a controversial new direction</title><link>https://news.panz3r.dev/post/a91bf34201ed95f5f0c4e73a870789b340caf760526c53f1ab1b0adc3ace64d3/</link><pubDate>Fri, 19 Feb 2021 15:41:04 +0000</pubDate><guid>https://news.panz3r.dev/post/a91bf34201ed95f5f0c4e73a870789b340caf760526c53f1ab1b0adc3ace64d3/</guid><description>
 Article URL: https://www.bloomberg.com/news/articles/2021-02-19/openstreetmap-charts-a-controversial-new-direction
 Comments URL: …</description></item><item><title>Wayland on Wine: A First Update</title><link>https://news.panz3r.dev/post/f9043b5c76f84eed7995b50eac63830f568d5d62c8bbea429bb930abff514b13/</link><pubDate>Fri, 19 Feb 2021 15:36:52 +0000</pubDate><guid>https://news.panz3r.dev/post/f9043b5c76f84eed7995b50eac63830f568d5d62c8bbea429bb930abff514b13/</guid><description>
@@ -576,24 +596,4 @@ Comments URL: https://news.ycombinator.com/item?id=26140098
 Points: 82
 # Comments: 119 …</description></item><item><title>Israeli study finds 94% drop in symptomatic Covid-19 cases with Pfizer vaccine</title><link>https://news.panz3r.dev/post/0c0e4c9fe4fd0343fdbd1ed9137f59ac7baf3b822b762f6e00f592d07267b084/</link><pubDate>Mon, 15 Feb 2021 07:27:41 +0000</pubDate><guid>https://news.panz3r.dev/post/0c0e4c9fe4fd0343fdbd1ed9137f59ac7baf3b822b762f6e00f592d07267b084/</guid><description>
 Article URL: https://www.reuters.com/article/us-health-coronavirus-israel-vaccine-idUSKBN2AE0Q2
-Comments URL: …</description></item><item><title>Is Your Linux Version Hiding Interrupt CPU Usage from You?</title><link>https://news.panz3r.dev/post/87dc443a8478f753ef0aed38066a62daff22acf37748f0ec0b9a88e5a8ab7f97/</link><pubDate>Mon, 15 Feb 2021 06:04:56 +0000</pubDate><guid>https://news.panz3r.dev/post/87dc443a8478f753ef0aed38066a62daff22acf37748f0ec0b9a88e5a8ab7f97/</guid><description>
-Article URL: https://tanelpoder.com/posts/linux-hiding-interrupt-cpu-usage/
-Comments URL: https://news.ycombinator.com/item?id=26139611 …</description></item><item><title>I Blew It (2020)</title><link>https://news.panz3r.dev/post/74636401d483847e07eedd3b2896cea41eccb19091a86687d7c2e6b228de7be7/</link><pubDate>Mon, 15 Feb 2021 05:14:32 +0000</pubDate><guid>https://news.panz3r.dev/post/74636401d483847e07eedd3b2896cea41eccb19091a86687d7c2e6b228de7be7/</guid><description>
-Article URL: http://www.erasmatazz.com/personal/self/i-really-blew-it.html
-Comments URL: https://news.ycombinator.com/item?id=26139348 …</description></item><item><title>SolarWinds hack was 'largest and most sophisticated attack' ever: MSFT president</title><link>https://news.panz3r.dev/post/eb23e426010b8a89fb2d2ab34cb520120ba3ee89221f4398b0572649b08910ab/</link><pubDate>Mon, 15 Feb 2021 04:02:19 +0000</pubDate><guid>https://news.panz3r.dev/post/eb23e426010b8a89fb2d2ab34cb520120ba3ee89221f4398b0572649b08910ab/</guid><description>
-Article URL: https://www.reuters.com/article/us-cyber-solarwinds-microsoft-idUSKBN2AF03R
-Comments URL: …</description></item><item><title>Blue Beads Could Be the Oldest Evidence of European Goods in North America</title><link>https://news.panz3r.dev/post/ff6b1a7a8bf3eb95420a261152411ee949f0f46aebe07b054cd9cff3f026d079/</link><pubDate>Mon, 15 Feb 2021 03:48:05 +0000</pubDate><guid>https://news.panz3r.dev/post/ff6b1a7a8bf3eb95420a261152411ee949f0f46aebe07b054cd9cff3f026d079/</guid><description>
-Article URL: https://gizmodo.com/found-in-alaska-these-blue-beads-could-be-the-oldest-e-1846208780
-Comments URL: …</description></item><item><title>Listen to radio stations from around the world</title><link>https://news.panz3r.dev/post/ddddd46bf79b1ddc819d6643d1b9e38f7fedfa901ef7fa3623b91ad7d9f65f77/</link><pubDate>Mon, 15 Feb 2021 02:51:40 +0000</pubDate><guid>https://news.panz3r.dev/post/ddddd46bf79b1ddc819d6643d1b9e38f7fedfa901ef7fa3623b91ad7d9f65f77/</guid><description>
-Article URL: http://radio.garden/visit/pescara/3zDUtXlZ
-Comments URL: https://news.ycombinator.com/item?id=26138529
-Points: 76
-# Comments: …</description></item><item><title>Show HN: ustaxes.org – open-source tax filing webapp</title><link>https://news.panz3r.dev/post/60eff2894c814596f2a794acc68a07f561b74719110bb73c6e195ccb995bc42e/</link><pubDate>Mon, 15 Feb 2021 02:37:46 +0000</pubDate><guid>https://news.panz3r.dev/post/60eff2894c814596f2a794acc68a07f561b74719110bb73c6e195ccb995bc42e/</guid><description>
-Article URL: https://github.com/thegrims/UsTaxes
-Comments URL: https://news.ycombinator.com/item?id=26138446
-Points: 380
-# Comments: 184</description></item><item><title>Ercot nearly at capacity for Texas power grid</title><link>https://news.panz3r.dev/post/54955e08d0758410b7a85ee01cfc464533f1a30046e18437e364b8faf0bdd598/</link><pubDate>Mon, 15 Feb 2021 01:05:41 +0000</pubDate><guid>https://news.panz3r.dev/post/54955e08d0758410b7a85ee01cfc464533f1a30046e18437e364b8faf0bdd598/</guid><description>
-Article URL: http://www.ercot.com/content/cdr/html/real_time_system_conditions.html
-Comments URL: …</description></item><item><title>Melting permafrost cause huge underground methane explosions in Siberia</title><link>https://news.panz3r.dev/post/432537ab43ef5cc83a6914d49e288e09e45035c2c7e5aae3d53d6926c5f7467c/</link><pubDate>Mon, 15 Feb 2021 00:36:54 +0000</pubDate><guid>https://news.panz3r.dev/post/432537ab43ef5cc83a6914d49e288e09e45035c2c7e5aae3d53d6926c5f7467c/</guid><description>
-Article URL: …</description></item><item><title>Ask HN: What are the best websites that the Anglosphere doesn't know about?</title><link>https://news.panz3r.dev/post/2f5fa9c9f6749312900a1c67bed42c83074f4d6a1b06d2738de400401e816ac1/</link><pubDate>Sun, 14 Feb 2021 23:56:05 +0000</pubDate><guid>https://news.panz3r.dev/post/2f5fa9c9f6749312900a1c67bed42c83074f4d6a1b06d2738de400401e816ac1/</guid><description>
-What unique or high-quality content only exists outside the English-speaking web? Is there a Chinese equivalent to Hacker News? A Hindi …</description></item></channel></rss>
+Comments URL: …</description></item></channel></rss>

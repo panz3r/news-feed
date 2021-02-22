@@ -1,13 +1,36 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hacker-News-Frontpage on Panz3r News</title><link>https://news.panz3r.dev/tags/hacker-news-frontpage/</link><description>Recent content in Hacker-News-Frontpage on news.panz3r.dev</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Panz3r 2020 | Vitae theme for Hugo</copyright><lastBuildDate>Sun, 21 Feb 2021 21:46:25 +0000</lastBuildDate><atom:link href="https://news.panz3r.dev/tags/hacker-news-frontpage/index.xml" rel="self" type="application/rss+xml"/><item><title>The Apparent Kia Ransomware Hackers Are Demanding Millions in Bitcoin</title><link>https://news.panz3r.dev/post/7544964561d1383d4a9ccd6d398f187a6390614d2e9593fb7dca69be75130269/</link><pubDate>Sun, 21 Feb 2021 21:46:25 +0000</pubDate><guid>https://news.panz3r.dev/post/7544964561d1383d4a9ccd6d398f187a6390614d2e9593fb7dca69be75130269/</guid><description>
-Article URL: https://www.thedrive.com/tech/39309/the-apparent-hackers-behind-kias-ransomware-attack-are-demanding-millions-in-bitcoin …</description></item><item><title>Complexity No Bar to AI</title><link>https://news.panz3r.dev/post/66686c3dd71ad3bf9fe28b3b58e068f9255ef9fe78c6df1a8ea5bb7b71dcca20/</link><pubDate>Sun, 21 Feb 2021 19:18:36 +0000</pubDate><guid>https://news.panz3r.dev/post/66686c3dd71ad3bf9fe28b3b58e068f9255ef9fe78c6df1a8ea5bb7b71dcca20/</guid><description>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hacker-News-Frontpage on Panz3r News</title><link>https://news.panz3r.dev/tags/hacker-news-frontpage/</link><description>Recent content in Hacker-News-Frontpage on news.panz3r.dev</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Panz3r 2020 | Vitae theme for Hugo</copyright><lastBuildDate>Mon, 22 Feb 2021 03:57:45 +0000</lastBuildDate><atom:link href="https://news.panz3r.dev/tags/hacker-news-frontpage/index.xml" rel="self" type="application/rss+xml"/><item><title>Go is not an easy language</title><link>https://news.panz3r.dev/post/ec715ca39ffacf0aa36483d5f0510c2d70335f4c774b4b2a0c5b12fb16e2ce4d/</link><pubDate>Mon, 22 Feb 2021 03:57:45 +0000</pubDate><guid>https://news.panz3r.dev/post/ec715ca39ffacf0aa36483d5f0510c2d70335f4c774b4b2a0c5b12fb16e2ce4d/</guid><description>
+Article URL: https://www.arp242.net/go-easy.html
+Comments URL: https://news.ycombinator.com/item?id=26220693
+Points: 123
+# Comments: 77</description></item><item><title>Super Mario 64 Decompilation</title><link>https://news.panz3r.dev/post/164b51b2ab7ed45f27290bf9c517fd5dfc3fd0e69d8fc93cb35c1463bf5107d9/</link><pubDate>Mon, 22 Feb 2021 01:38:48 +0000</pubDate><guid>https://news.panz3r.dev/post/164b51b2ab7ed45f27290bf9c517fd5dfc3fd0e69d8fc93cb35c1463bf5107d9/</guid><description>
+Article URL: https://github.com/n64decomp/sm64
+Comments URL: https://news.ycombinator.com/item?id=26219661
+Points: 52
+# Comments: 7</description></item><item><title>TransferWise: World, Meet Wise</title><link>https://news.panz3r.dev/post/57c1ff8fae94d784d2da585b7de6e37d3563709553dffae95457377769a29cb9/</link><pubDate>Mon, 22 Feb 2021 00:02:25 +0000</pubDate><guid>https://news.panz3r.dev/post/57c1ff8fae94d784d2da585b7de6e37d3563709553dffae95457377769a29cb9/</guid><description>
+Article URL: https://wise.com/gb/blog/world-meet-wise
+Comments URL: https://news.ycombinator.com/item?id=26218693
+Points: 144
+# Comments: 97 …</description></item><item><title>YouTube blocked chess channel after mistaken detection of racial slurs</title><link>https://news.panz3r.dev/post/2779ebb90d5c5ccde11c6f7b1ce045e501e50a26bc3481afd1aa71553eae74d6/</link><pubDate>Sun, 21 Feb 2021 23:33:51 +0000</pubDate><guid>https://news.panz3r.dev/post/2779ebb90d5c5ccde11c6f7b1ce045e501e50a26bc3481afd1aa71553eae74d6/</guid><description>
+Article URL: https://www.news18.com/news/buzz/youtube-ai-blocked-chess-channel-after-confusing-black-and-white-for-racist-slurs-3454316.html …</description></item><item><title>A Data Pipeline Is a Materialized View</title><link>https://news.panz3r.dev/post/8aac2618ee8a19d582c2e16a649249b8481c8b0cfea5f113f8510c010b447ca2/</link><pubDate>Sun, 21 Feb 2021 22:26:02 +0000</pubDate><guid>https://news.panz3r.dev/post/8aac2618ee8a19d582c2e16a649249b8481c8b0cfea5f113f8510c010b447ca2/</guid><description>
+Article URL: https://nchammas.com/writing/data-pipeline-materialized-view
+Comments URL: https://news.ycombinator.com/item?id=26217911 …</description></item><item><title>Cross-Database Queries in SQLite</title><link>https://news.panz3r.dev/post/d080910237fdb92e98c9a9445b6d1caed8292d9bdf9441d244287e74d416ed33/</link><pubDate>Sun, 21 Feb 2021 22:08:48 +0000</pubDate><guid>https://news.panz3r.dev/post/d080910237fdb92e98c9a9445b6d1caed8292d9bdf9441d244287e74d416ed33/</guid><description>
+Article URL: https://simonwillison.net/2021/Feb/21/cross-database-queries/
+Comments URL: https://news.ycombinator.com/item?id=26217754 …</description></item><item><title>Apparent hackers behind Kia ransomware attack demand millions in Bitcoin</title><link>https://news.panz3r.dev/post/7544964561d1383d4a9ccd6d398f187a6390614d2e9593fb7dca69be75130269/</link><pubDate>Sun, 21 Feb 2021 21:46:25 +0000</pubDate><guid>https://news.panz3r.dev/post/7544964561d1383d4a9ccd6d398f187a6390614d2e9593fb7dca69be75130269/</guid><description>
+Article URL: https://www.thedrive.com/tech/39309/the-apparent-hackers-behind-kias-ransomware-attack-are-demanding-millions-in-bitcoin …</description></item><item><title>‘It just blew fire’: Kauai woman watched as an engine fell apart on flight 328</title><link>https://news.panz3r.dev/post/c5405331d9a7dd44d2bb12d54563b43c033ca3e54b8df6a5e88074c8d6d5fa88/</link><pubDate>Sun, 21 Feb 2021 19:51:57 +0000</pubDate><guid>https://news.panz3r.dev/post/c5405331d9a7dd44d2bb12d54563b43c033ca3e54b8df6a5e88074c8d6d5fa88/</guid><description>
+Article URL: https://www.hawaiinewsnow.com/2021/02/21/it-just-blew-fire-kauai-woman-watched-engine-failed-united-flight/
+Comments URL: …</description></item><item><title>Feedback Welcome: I am developing an e-paper calendar as a consumer product</title><link>https://news.panz3r.dev/post/9680b4dff965edd375b9ff99eaebac3b39cd9990d8e17715f585400a1ce07be6/</link><pubDate>Sun, 21 Feb 2021 19:33:11 +0000</pubDate><guid>https://news.panz3r.dev/post/9680b4dff965edd375b9ff99eaebac3b39cd9990d8e17715f585400a1ce07be6/</guid><description>
+Article URL: https://www.invisible-computers.com/
+Comments URL: https://news.ycombinator.com/item?id=26216357
+Points: 108
+# Comments: 126</description></item><item><title>Complexity No Bar to AI</title><link>https://news.panz3r.dev/post/66686c3dd71ad3bf9fe28b3b58e068f9255ef9fe78c6df1a8ea5bb7b71dcca20/</link><pubDate>Sun, 21 Feb 2021 19:18:36 +0000</pubDate><guid>https://news.panz3r.dev/post/66686c3dd71ad3bf9fe28b3b58e068f9255ef9fe78c6df1a8ea5bb7b71dcca20/</guid><description>
 Article URL: https://www.gwern.net/Complexity-vs-AI
 Comments URL: https://news.ycombinator.com/item?id=26216238
 Points: 97
 # Comments: 66</description></item><item><title>Project Xanadu</title><link>https://news.panz3r.dev/post/431ad71e4d338001319bb2ee491b37e2849bfdea6c736e154fbe3d8049a76710/</link><pubDate>Sun, 21 Feb 2021 18:54:27 +0000</pubDate><guid>https://news.panz3r.dev/post/431ad71e4d338001319bb2ee491b37e2849bfdea6c736e154fbe3d8049a76710/</guid><description>
 Article URL: https://en.wikipedia.org/wiki/Project_Xanadu
 Comments URL: https://news.ycombinator.com/item?id=26216036
-Points: 58
-# Comments: …</description></item><item><title>Mistakes I've Made as an Engineering Manager</title><link>https://news.panz3r.dev/post/e8248e4d785a94da3f4586bb8edf780b0ed2540a018c30537732745e2ce9a040/</link><pubDate>Sun, 21 Feb 2021 18:51:52 +0000</pubDate><guid>https://news.panz3r.dev/post/e8248e4d785a94da3f4586bb8edf780b0ed2540a018c30537732745e2ce9a040/</guid><description>
+Points: 103
+# …</description></item><item><title>Mistakes I've Made as an Engineering Manager</title><link>https://news.panz3r.dev/post/e8248e4d785a94da3f4586bb8edf780b0ed2540a018c30537732745e2ce9a040/</link><pubDate>Sun, 21 Feb 2021 18:51:52 +0000</pubDate><guid>https://news.panz3r.dev/post/e8248e4d785a94da3f4586bb8edf780b0ed2540a018c30537732745e2ce9a040/</guid><description>
 Article URL: https://css-tricks.com/mistakes-ive-made-as-an-engineering-manager/
 Comments URL: https://news.ycombinator.com/item?id=26216016 …</description></item><item><title>Diplomacy: The Board Game of the Alpha Nerds (2014)</title><link>https://news.panz3r.dev/post/a48ee5f3399cb3ca8330e35a0e03550b314b495b0e2d6cf16624d46d94b2a0e1/</link><pubDate>Sun, 21 Feb 2021 18:26:04 +0000</pubDate><guid>https://news.panz3r.dev/post/a48ee5f3399cb3ca8330e35a0e03550b314b495b0e2d6cf16624d46d94b2a0e1/</guid><description>
 Article URL: http://grantland.com/features/diplomacy-the-board-game-of-the-alpha-nerds/
@@ -17,8 +40,8 @@ Comments URL: https://news.ycombinator.com/item?id=26215640
 Points: …</description></item><item><title>Show HN: Ad Network for Sideprojects</title><link>https://news.panz3r.dev/post/475c6db81ccb63d53aee5ec3bf4de167e31cb43e800dc531abd86fa5bfe01da3/</link><pubDate>Sun, 21 Feb 2021 17:39:34 +0000</pubDate><guid>https://news.panz3r.dev/post/475c6db81ccb63d53aee5ec3bf4de167e31cb43e800dc531abd86fa5bfe01da3/</guid><description>
 Article URL: https://tinyads.io
 Comments URL: https://news.ycombinator.com/item?id=26215378
-Points: 85
-# Comments: 39</description></item><item><title>Please do not put IP addresses into DNS MX records</title><link>https://news.panz3r.dev/post/e759d8e26a564441b7f3760e61780e338efd9e34b28434649365d594223f1b3f/</link><pubDate>Sun, 21 Feb 2021 17:07:47 +0000</pubDate><guid>https://news.panz3r.dev/post/e759d8e26a564441b7f3760e61780e338efd9e34b28434649365d594223f1b3f/</guid><description>
+Points: 164
+# Comments: 53</description></item><item><title>Please do not put IP addresses into DNS MX records</title><link>https://news.panz3r.dev/post/e759d8e26a564441b7f3760e61780e338efd9e34b28434649365d594223f1b3f/</link><pubDate>Sun, 21 Feb 2021 17:07:47 +0000</pubDate><guid>https://news.panz3r.dev/post/e759d8e26a564441b7f3760e61780e338efd9e34b28434649365d594223f1b3f/</guid><description>
 Article URL: https://blog.hboeck.de/archives/904-Please-do-not-put-IP-addresses-into-DNS-MX-records.html
 Comments URL: …</description></item><item><title>Formalising Mathematics: An Introduction</title><link>https://news.panz3r.dev/post/f1e8e354eb41dba2c8102e3e04b840fbf70fb8940d27ca780b12277b1d98c30e/</link><pubDate>Sun, 21 Feb 2021 16:19:17 +0000</pubDate><guid>https://news.panz3r.dev/post/f1e8e354eb41dba2c8102e3e04b840fbf70fb8940d27ca780b12277b1d98c30e/</guid><description>
 Article URL: https://xenaproject.wordpress.com/2021/01/21/formalising-mathematics-an-introduction/
@@ -32,9 +55,17 @@ Comments URL: https://news.ycombinator.com/item?id=26213554
 Points: 342
 # Comments: …</description></item><item><title>Silent Running: The sci-fi that predicted modern crises</title><link>https://news.panz3r.dev/post/24aea55b335c421634fd221af8697484a5593c7734160907559d5fe29fe75736/</link><pubDate>Sun, 21 Feb 2021 12:25:05 +0000</pubDate><guid>https://news.panz3r.dev/post/24aea55b335c421634fd221af8697484a5593c7734160907559d5fe29fe75736/</guid><description>
 Article URL: https://www.bbc.com/culture/article/20210212-silent-running-the-sci-fi-that-predicted-modern-crises
-Comments URL: …</description></item><item><title>Choose Exciting Technology</title><link>https://news.panz3r.dev/post/47c85e7460d85e383738f5f9269c00bc5800364c7286e5f601bdaa24c00e3df2/</link><pubDate>Sun, 21 Feb 2021 11:09:14 +0000</pubDate><guid>https://news.panz3r.dev/post/47c85e7460d85e383738f5f9269c00bc5800364c7286e5f601bdaa24c00e3df2/</guid><description>
+Comments URL: …</description></item><item><title>Nuklear: A cross-platform GUI library in C</title><link>https://news.panz3r.dev/post/7a54001a152ab131c31ce4e3fbf736ece3d46f434653b23079df9756b73a96f6/</link><pubDate>Sun, 21 Feb 2021 11:51:16 +0000</pubDate><guid>https://news.panz3r.dev/post/7a54001a152ab131c31ce4e3fbf736ece3d46f434653b23079df9756b73a96f6/</guid><description>
+Article URL: https://github.com/Immediate-Mode-UI/Nuklear
+Comments URL: https://news.ycombinator.com/item?id=26212787
+Points: 136
+# …</description></item><item><title>Choose Exciting Technology</title><link>https://news.panz3r.dev/post/47c85e7460d85e383738f5f9269c00bc5800364c7286e5f601bdaa24c00e3df2/</link><pubDate>Sun, 21 Feb 2021 11:09:14 +0000</pubDate><guid>https://news.panz3r.dev/post/47c85e7460d85e383738f5f9269c00bc5800364c7286e5f601bdaa24c00e3df2/</guid><description>
 Article URL: https://lucjan.medium.com/choose-exciting-technology-e735bba08acc
-Comments URL: https://news.ycombinator.com/item?id=26212563 …</description></item><item><title>The Beirut Bank Job (2017)</title><link>https://news.panz3r.dev/post/203c55bcef74e9ebdc21fd45f00b24c45a96f66d90af82ce3eb4b9037d1ff962/</link><pubDate>Sun, 21 Feb 2021 09:54:40 +0000</pubDate><guid>https://news.panz3r.dev/post/203c55bcef74e9ebdc21fd45f00b24c45a96f66d90af82ce3eb4b9037d1ff962/</guid><description>
+Comments URL: https://news.ycombinator.com/item?id=26212563 …</description></item><item><title>Passerine: An extensible and expressive new programming language</title><link>https://news.panz3r.dev/post/b1144dc6f859d4befce321790669d93b095d0a28a309bb22536881b0f6108430/</link><pubDate>Sun, 21 Feb 2021 10:55:32 +0000</pubDate><guid>https://news.panz3r.dev/post/b1144dc6f859d4befce321790669d93b095d0a28a309bb22536881b0f6108430/</guid><description>
+Article URL: http://passerine.io
+Comments URL: https://news.ycombinator.com/item?id=26212491
+Points: 127
+# Comments: 24</description></item><item><title>The Beirut Bank Job (2017)</title><link>https://news.panz3r.dev/post/203c55bcef74e9ebdc21fd45f00b24c45a96f66d90af82ce3eb4b9037d1ff962/</link><pubDate>Sun, 21 Feb 2021 09:54:40 +0000</pubDate><guid>https://news.panz3r.dev/post/203c55bcef74e9ebdc21fd45f00b24c45a96f66d90af82ce3eb4b9037d1ff962/</guid><description>
 Article URL: https://darknetdiaries.com/episode/6/
 Comments URL: https://news.ycombinator.com/item?id=26212208
 Points: 258
@@ -131,7 +162,9 @@ Comments URL: …</description></item><item><title>How Swift achieved dynamic li
 Article URL: https://gankra.github.io/blah/swift-abi/
 Comments URL: https://news.ycombinator.com/item?id=26205969
 Points: 119
-# Comments: 64 …</description></item><item><title>Cranelift, Part 2: Compiler Efficiency, CFGs, and a Branch Peephole Optimizer</title><link>https://news.panz3r.dev/post/d94f56978bbd7c84267899fc163c8fc0ecf7c6bdf75e2f00aa702ecdda5f9828/</link><pubDate>Sat, 20 Feb 2021 16:37:41 +0000</pubDate><guid>https://news.panz3r.dev/post/d94f56978bbd7c84267899fc163c8fc0ecf7c6bdf75e2f00aa702ecdda5f9828/</guid><description>
+# Comments: 64 …</description></item><item><title>I paid for Spotify playlist placements so you don’t have to</title><link>https://news.panz3r.dev/post/348f93d4bcf076d00b640fb2427e60085c548021aca69c2a74a654e87bc4585e/</link><pubDate>Sat, 20 Feb 2021 17:25:22 +0000</pubDate><guid>https://news.panz3r.dev/post/348f93d4bcf076d00b640fb2427e60085c548021aca69c2a74a654e87bc4585e/</guid><description>
+Article URL: https://najinsan.wordpress.com/2021/02/15/i-paid-for-spotify-playlist-placements-so-you-dont-have-to/
+Comments URL: …</description></item><item><title>Cranelift, Part 2: Compiler Efficiency, CFGs, and a Branch Peephole Optimizer</title><link>https://news.panz3r.dev/post/d94f56978bbd7c84267899fc163c8fc0ecf7c6bdf75e2f00aa702ecdda5f9828/</link><pubDate>Sat, 20 Feb 2021 16:37:41 +0000</pubDate><guid>https://news.panz3r.dev/post/d94f56978bbd7c84267899fc163c8fc0ecf7c6bdf75e2f00aa702ecdda5f9828/</guid><description>
 Article URL: https://cfallin.org/blog/2021/01/22/cranelift-isel-2/
 Comments URL: https://news.ycombinator.com/item?id=26205418
 Points: 126
@@ -538,21 +571,4 @@ Points: 151
 Article URL: https://news.samsung.com/global/samsung-develops-industrys-first-high-bandwidth-memory-with-ai-processing-power
 Comments URL: …</description></item><item><title>IKEA to discontinue its annual catalog, ending a 70-year run</title><link>https://news.panz3r.dev/post/5e4e72461e2afb76be07782e4de41c1a6b05d23b8380945aeda6d234c4d7980d/</link><pubDate>Wed, 17 Feb 2021 06:24:24 +0000</pubDate><guid>https://news.panz3r.dev/post/5e4e72461e2afb76be07782e4de41c1a6b05d23b8380945aeda6d234c4d7980d/</guid><description>
 Article URL: https://www.architecturaldigest.com/story/ikea-catalog-to-be-discontinued
-Comments URL: …</description></item><item><title>GitHub Deceased User Policy</title><link>https://news.panz3r.dev/post/d2b5eedf877ef1369a0d48912fb67348b4c716946b883e70bfcd7295af50cb6d/</link><pubDate>Wed, 17 Feb 2021 04:48:59 +0000</pubDate><guid>https://news.panz3r.dev/post/d2b5eedf877ef1369a0d48912fb67348b4c716946b883e70bfcd7295af50cb6d/</guid><description>
-Article URL: https://docs.github.com/en/github/site-policy/github-deceased-user-policy
-Comments URL: …</description></item><item><title>Library Holdings from Tokyo Univ. Now Available Through the Internet Archive</title><link>https://news.panz3r.dev/post/c5f02afb3f95d226c2aedbbf4ee313d7ede9e959969fd56017ceab0b7f0d688d/</link><pubDate>Wed, 17 Feb 2021 03:22:29 +0000</pubDate><guid>https://news.panz3r.dev/post/c5f02afb3f95d226c2aedbbf4ee313d7ede9e959969fd56017ceab0b7f0d688d/</guid><description>
-Article URL: https://blog.archive.org/2021/02/16/library-holdings-from-the-university-of-tokyo-now-available-through-the-internet-archive/ …</description></item><item><title>Command Line Shell for SQLite</title><link>https://news.panz3r.dev/post/38613e52c91568534cc9a5d7fcf0f1b20d3516e6ff209b94075dae7c79a9dd29/</link><pubDate>Wed, 17 Feb 2021 02:56:28 +0000</pubDate><guid>https://news.panz3r.dev/post/38613e52c91568534cc9a5d7fcf0f1b20d3516e6ff209b94075dae7c79a9dd29/</guid><description>
-Article URL: https://www.sqlite.org/cli.html
-Comments URL: https://news.ycombinator.com/item?id=26162115
-Points: 94
-# Comments: 30</description></item><item><title>Done Answering Questions Stack Overflow</title><link>https://news.panz3r.dev/post/75b46bbbab0eebf15a1d451890a715e3c48cd446552ac910c7cde83c0476c6ab/</link><pubDate>Wed, 17 Feb 2021 02:21:30 +0000</pubDate><guid>https://news.panz3r.dev/post/75b46bbbab0eebf15a1d451890a715e3c48cd446552ac910c7cde83c0476c6ab/</guid><description>
-Article URL: https://games.greggman.com/game/done-with-stackoverflow/
-Comments URL: https://news.ycombinator.com/item?id=26161846
-Points: …</description></item><item><title>The Need to Remove Bad Management</title><link>https://news.panz3r.dev/post/4cc7ff96feb94f70d74a98c37bc0188e2c0e597dbbc39ffd12a78703a70e6549/</link><pubDate>Wed, 17 Feb 2021 00:12:57 +0000</pubDate><guid>https://news.panz3r.dev/post/4cc7ff96feb94f70d74a98c37bc0188e2c0e597dbbc39ffd12a78703a70e6549/</guid><description>
-Article URL: https://pedestrianobservations.com/2021/02/06/the-need-to-remove-bad-management/
-Comments URL: …</description></item><item><title>Front-of-the-Front-End and Back-of-the-Front-End Web Development</title><link>https://news.panz3r.dev/post/7e1900fe27ea7e8937944767d3f7b9ddfb28a492d51710674a8bb80e9782799c/</link><pubDate>Tue, 16 Feb 2021 23:55:31 +0000</pubDate><guid>https://news.panz3r.dev/post/7e1900fe27ea7e8937944767d3f7b9ddfb28a492d51710674a8bb80e9782799c/</guid><description>
-Article URL: https://bradfrost.com/blog/post/front-of-the-front-end-and-back-of-the-front-end-web-development/
-Comments URL: …</description></item><item><title>The Database Inside Your Codebase</title><link>https://news.panz3r.dev/post/23296f98a4b0a205a941f61ab8a866f0c3e668c875ccd96c5db91e4f49e82a3d/</link><pubDate>Tue, 16 Feb 2021 23:27:28 +0000</pubDate><guid>https://news.panz3r.dev/post/23296f98a4b0a205a941f61ab8a866f0c3e668c875ccd96c5db91e4f49e82a3d/</guid><description>
-Article URL: https://feifan.blog/posts/the-database-inside-your-codebase
-Comments URL: https://news.ycombinator.com/item?id=26160186
-Points: …</description></item></channel></rss>
+Comments URL: …</description></item></channel></rss>

@@ -1,18 +1,36 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hacker-News-Frontpage on Panz3r News</title><link>https://news.panz3r.dev/tags/hacker-news-frontpage/</link><description>Recent content in Hacker-News-Frontpage on news.panz3r.dev</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Panz3r 2020 | Vitae theme for Hugo</copyright><lastBuildDate>Tue, 23 Feb 2021 04:11:22 +0000</lastBuildDate><atom:link href="https://news.panz3r.dev/tags/hacker-news-frontpage/index.xml" rel="self" type="application/rss+xml"/><item><title>Canadians Derailed a Train and Drove It to City Hall for Power After a Ice Storm</title><link>https://news.panz3r.dev/post/61c2e9e2c7a6741c5ea4255af2ba67651b8913753c0c0cd19eca4e152b7f16e3/</link><pubDate>Tue, 23 Feb 2021 04:11:22 +0000</pubDate><guid>https://news.panz3r.dev/post/61c2e9e2c7a6741c5ea4255af2ba67651b8913753c0c0cd19eca4e152b7f16e3/</guid><description>
-Article URL: https://www.thedrive.com/news/39378/how-canadians-derailed-a-train-and-drove-it-to-city-hall-for-power-after-a-brutal-ice-storm …</description></item><item><title>Nintendo DS-TV-Out Restoration Project</title><link>https://news.panz3r.dev/post/0a259af2b0833a47dfa09bea3224191f73cbbaf45e0eadfbd118c5a06f76bb17/</link><pubDate>Tue, 23 Feb 2021 00:48:27 +0000</pubDate><guid>https://news.panz3r.dev/post/0a259af2b0833a47dfa09bea3224191f73cbbaf45e0eadfbd118c5a06f76bb17/</guid><description>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hacker-News-Frontpage on Panz3r News</title><link>https://news.panz3r.dev/tags/hacker-news-frontpage/</link><description>Recent content in Hacker-News-Frontpage on news.panz3r.dev</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Panz3r 2020 | Vitae theme for Hugo</copyright><lastBuildDate>Tue, 23 Feb 2021 09:34:45 +0000</lastBuildDate><atom:link href="https://news.panz3r.dev/tags/hacker-news-frontpage/index.xml" rel="self" type="application/rss+xml"/><item><title>I heat my home by mining crypto currencies</title><link>https://news.panz3r.dev/post/05c648087a54edc55712a57b23db0fb9b9d54db8eb839ef397690adb5ff88223/</link><pubDate>Tue, 23 Feb 2021 09:34:45 +0000</pubDate><guid>https://news.panz3r.dev/post/05c648087a54edc55712a57b23db0fb9b9d54db8eb839ef397690adb5ff88223/</guid><description>
+Article URL: https://blog.haschek.at/2021/how-i-heat-my-home-by-mining.html
+Comments URL: https://news.ycombinator.com/item?id=26235414 …</description></item><item><title>ComputeSharp, Run C# on the GPU</title><link>https://news.panz3r.dev/post/59f41030cdcd5289ff155a8c0cedb5d8fcfbb414067c482d13a7b4678bdae6d8/</link><pubDate>Tue, 23 Feb 2021 06:27:31 +0000</pubDate><guid>https://news.panz3r.dev/post/59f41030cdcd5289ff155a8c0cedb5d8fcfbb414067c482d13a7b4678bdae6d8/</guid><description>
+Article URL: https://github.com/Sergio0694/ComputeSharp/tree/dev
+Comments URL: https://news.ycombinator.com/item?id=26234384
+Points: 87
+# …</description></item><item><title>Facebook to restore news in Australia after last-minute deal with government</title><link>https://news.panz3r.dev/post/1e49a1052ab741d7ad51987e996e82ec1e63ad80c300f29431b2887f7ffbb889/</link><pubDate>Tue, 23 Feb 2021 04:43:33 +0000</pubDate><guid>https://news.panz3r.dev/post/1e49a1052ab741d7ad51987e996e82ec1e63ad80c300f29431b2887f7ffbb889/</guid><description>
+Article URL: https://www.smh.com.au/politics/federal/government-agrees-to-last-minute-amendments-to-media-code-20210222-p574kc.html
+Comments …</description></item><item><title>Canadians derailed a train and drove it to City Hall for power after a ice storm</title><link>https://news.panz3r.dev/post/61c2e9e2c7a6741c5ea4255af2ba67651b8913753c0c0cd19eca4e152b7f16e3/</link><pubDate>Tue, 23 Feb 2021 04:11:22 +0000</pubDate><guid>https://news.panz3r.dev/post/61c2e9e2c7a6741c5ea4255af2ba67651b8913753c0c0cd19eca4e152b7f16e3/</guid><description>
+Article URL: https://www.thedrive.com/news/39378/how-canadians-derailed-a-train-and-drove-it-to-city-hall-for-power-after-a-brutal-ice-storm …</description></item><item><title>Booting the IBM 1401: How a 1959 punch-card computer loads a program</title><link>https://news.panz3r.dev/post/51109f01515b77c799f216256a3e2dae7d5eab210e6c28b1dd6b6aade5b0119c/</link><pubDate>Tue, 23 Feb 2021 03:40:20 +0000</pubDate><guid>https://news.panz3r.dev/post/51109f01515b77c799f216256a3e2dae7d5eab210e6c28b1dd6b6aade5b0119c/</guid><description>
+Article URL: https://www.righto.com/2021/02/an-ibm-1401-mainframe-computer-at.html
+Comments URL: …</description></item><item><title>Mold: A Modern Linker</title><link>https://news.panz3r.dev/post/7c1d4971618197c0f8e9f55497c005857fd2d92113ad4b13eaf57d125c506a36/</link><pubDate>Tue, 23 Feb 2021 02:34:38 +0000</pubDate><guid>https://news.panz3r.dev/post/7c1d4971618197c0f8e9f55497c005857fd2d92113ad4b13eaf57d125c506a36/</guid><description>
+Article URL: https://github.com/rui314/mold
+Comments URL: https://news.ycombinator.com/item?id=26233244
+Points: 160
+# Comments: 46</description></item><item><title>The road to electric is filled with tiny cars</title><link>https://news.panz3r.dev/post/d8c5f0e1cd514a3036ed5846559a0af672cceb5d8d0744b283d14f218e7e9161/</link><pubDate>Tue, 23 Feb 2021 01:12:58 +0000</pubDate><guid>https://news.panz3r.dev/post/d8c5f0e1cd514a3036ed5846559a0af672cceb5d8d0744b283d14f218e7e9161/</guid><description>
+Article URL: https://restofworld.org/2021/tesla-vs-tiny-cars/
+Comments URL: https://news.ycombinator.com/item?id=26232760
+Points: 95
+# …</description></item><item><title>Nintendo DS-TV-Out Restoration Project</title><link>https://news.panz3r.dev/post/0a259af2b0833a47dfa09bea3224191f73cbbaf45e0eadfbd118c5a06f76bb17/</link><pubDate>Tue, 23 Feb 2021 00:48:27 +0000</pubDate><guid>https://news.panz3r.dev/post/0a259af2b0833a47dfa09bea3224191f73cbbaf45e0eadfbd118c5a06f76bb17/</guid><description>
 Article URL: https://lostnintendohistory.github.io/DS-TV-OUT
 Comments URL: https://news.ycombinator.com/item?id=26232600
-Points: 146
+Points: 188
 # …</description></item><item><title>The Bombard Story</title><link>https://news.panz3r.dev/post/90a7b2cc3269ab16d763b7a4579e09ebb25902a3c66e2721f4766494fa755e2b/</link><pubDate>Tue, 23 Feb 2021 00:48:10 +0000</pubDate><guid>https://news.panz3r.dev/post/90a7b2cc3269ab16d763b7a4579e09ebb25902a3c66e2721f4766494fa755e2b/</guid><description>
 Article URL: https://greatestadventurers.com/the-bombard-story/
 Comments URL: https://news.ycombinator.com/item?id=26232597
-Points: 59
+Points: 69
 # …</description></item><item><title>Bird watching goes both ways</title><link>https://news.panz3r.dev/post/5624c724f5497d60b539da1d15b056730174e7642969e8de4ff7656571b67320/</link><pubDate>Mon, 22 Feb 2021 21:25:29 +0000</pubDate><guid>https://news.panz3r.dev/post/5624c724f5497d60b539da1d15b056730174e7642969e8de4ff7656571b67320/</guid><description>
 Article URL: https://www.altaonline.com/dispatches/a34762846/los-angeles-bird-watching-jason-g-goldman/
 Comments URL: …</description></item><item><title>India's artisanal fountain pens are making their mark</title><link>https://news.panz3r.dev/post/20bcc7687c225896f71900fd8fcbf792c1848405cf79d247d71311b859fbcb5d/</link><pubDate>Mon, 22 Feb 2021 20:46:47 +0000</pubDate><guid>https://news.panz3r.dev/post/20bcc7687c225896f71900fd8fcbf792c1848405cf79d247d71311b859fbcb5d/</guid><description>
 Article URL: https://www.bbc.com/news/world-asia-india-55314701
 Comments URL: https://news.ycombinator.com/item?id=26230354
-Points: 148
+Points: 186
 # …</description></item><item><title>Launch HN: Wyndly (YC W21) – Allergy relief through at-home oral drops</title><link>https://news.panz3r.dev/post/c258cf85cbb99af9a2db7c37f1a4f96ae1e6a79fca846c83535c0764316d5cb4/</link><pubDate>Mon, 22 Feb 2021 18:00:44 +0000</pubDate><guid>https://news.panz3r.dev/post/c258cf85cbb99af9a2db7c37f1a4f96ae1e6a79fca846c83535c0764316d5cb4/</guid><description>
 Hi HN,I’m Aakash, and I’m a long time HN reader. My cousin Manan and I are excited to share our startup Wyndly (https://www.wyndly.com) with …</description></item><item><title>We haven’t seen a quarter of known bee species since the 1990s</title><link>https://news.panz3r.dev/post/6f7dfaa6af91b91a375ce77d3e952a0ab7e7747a8554c41c062c614262b3da16/</link><pubDate>Mon, 22 Feb 2021 17:57:21 +0000</pubDate><guid>https://news.panz3r.dev/post/6f7dfaa6af91b91a375ce77d3e952a0ab7e7747a8554c41c062c614262b3da16/</guid><description>
 Article URL: https://www.nationalgeographic.com/animals/article/we-havent-seen-quarter-of-known-bee-species-since-1990s
@@ -23,8 +41,8 @@ Points: 109
 # Comments: 64</description></item><item><title>Show HN: Call a Dev – Pay Stack Overflow users $1/min for live programming help</title><link>https://news.panz3r.dev/post/1fca26e39751a3e2b13dd60083921a51fcad168602141f94b5c216964a935142/</link><pubDate>Mon, 22 Feb 2021 16:59:14 +0000</pubDate><guid>https://news.panz3r.dev/post/1fca26e39751a3e2b13dd60083921a51fcad168602141f94b5c216964a935142/</guid><description>
 Article URL: https://calladev.com/
 Comments URL: https://news.ycombinator.com/item?id=26226805
-Points: 337
-# Comments: 192</description></item><item><title>Abundant Capital</title><link>https://news.panz3r.dev/post/f922ede1eb1004c6ec99f9af347bd752d14e1889a7a927cdd53d26d2f3e2b4f5/</link><pubDate>Mon, 22 Feb 2021 16:54:17 +0000</pubDate><guid>https://news.panz3r.dev/post/f922ede1eb1004c6ec99f9af347bd752d14e1889a7a927cdd53d26d2f3e2b4f5/</guid><description>
+Points: 389
+# Comments: 218</description></item><item><title>Abundant Capital</title><link>https://news.panz3r.dev/post/f922ede1eb1004c6ec99f9af347bd752d14e1889a7a927cdd53d26d2f3e2b4f5/</link><pubDate>Mon, 22 Feb 2021 16:54:17 +0000</pubDate><guid>https://news.panz3r.dev/post/f922ede1eb1004c6ec99f9af347bd752d14e1889a7a927cdd53d26d2f3e2b4f5/</guid><description>
 Article URL: https://blog.aaronkharris.com/abundant-capital
 Comments URL: https://news.ycombinator.com/item?id=26226723
 Points: 335
@@ -32,7 +50,11 @@ Points: 335
 Article URL: https://kjzz.org/content/1660988/whistleblowers-software-bug-keeping-hundreds-inmates-arizona-prisons-beyond-release
 Comments …</description></item><item><title>Best practices for REST API design (2020)</title><link>https://news.panz3r.dev/post/e8a9b77d517e4b34d679b6eb54f5fed1924012f40546d8f45fb1c4c1534d3db5/</link><pubDate>Mon, 22 Feb 2021 15:10:04 +0000</pubDate><guid>https://news.panz3r.dev/post/e8a9b77d517e4b34d679b6eb54f5fed1924012f40546d8f45fb1c4c1534d3db5/</guid><description>
 Article URL: https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/
-Comments URL: …</description></item><item><title>Tree-sitter: an incremental parsing system for programming tools</title><link>https://news.panz3r.dev/post/63707236f2f2e4ad866a36e4e5e1461d3d298169a72e94c17150680f9bee160f/</link><pubDate>Mon, 22 Feb 2021 15:03:27 +0000</pubDate><guid>https://news.panz3r.dev/post/63707236f2f2e4ad866a36e4e5e1461d3d298169a72e94c17150680f9bee160f/</guid><description>
+Comments URL: …</description></item><item><title>Practical Color Theory for People Who Code (2016)</title><link>https://news.panz3r.dev/post/e4ddce1770489ac5f3243384b36fa411018c017e01f5f12f9e79908a69b866e3/</link><pubDate>Mon, 22 Feb 2021 15:07:35 +0000</pubDate><guid>https://news.panz3r.dev/post/e4ddce1770489ac5f3243384b36fa411018c017e01f5f12f9e79908a69b866e3/</guid><description>
+Article URL: http://tallys.github.io/color-theory/
+Comments URL: https://news.ycombinator.com/item?id=26225339
+Points: 102
+# Comments: 32</description></item><item><title>Tree-sitter: an incremental parsing system for programming tools</title><link>https://news.panz3r.dev/post/63707236f2f2e4ad866a36e4e5e1461d3d298169a72e94c17150680f9bee160f/</link><pubDate>Mon, 22 Feb 2021 15:03:27 +0000</pubDate><guid>https://news.panz3r.dev/post/63707236f2f2e4ad866a36e4e5e1461d3d298169a72e94c17150680f9bee160f/</guid><description>
 Article URL: https://github.com/tree-sitter/tree-sitter
 Comments URL: https://news.ycombinator.com/item?id=26225298
 Points: 423
@@ -83,6 +105,8 @@ Comments URL: https://news.ycombinator.com/item?id=26222313
 Points: 72
 # Comments: …</description></item><item><title>Enable hibernation when Lockdown is enabled</title><link>https://news.panz3r.dev/post/185fabef916c84473625634ae2ac82193e537ef113c5b6839d23afbaf89f63fb/</link><pubDate>Mon, 22 Feb 2021 08:36:04 +0000</pubDate><guid>https://news.panz3r.dev/post/185fabef916c84473625634ae2ac82193e537ef113c5b6839d23afbaf89f63fb/</guid><description>
 Article URL: https://lore.kernel.org/lkml/20210220013255.1083202-1-matthewgarrett@google.com/T/#u
+Comments URL: …</description></item><item><title>Falling sperm counts, declining egg quality, and endocrine disruptors</title><link>https://news.panz3r.dev/post/ff5310433a5a3929280f24dfa1e684d7f5e2367e4b970134491570f1035f1325/</link><pubDate>Mon, 22 Feb 2021 07:54:02 +0000</pubDate><guid>https://news.panz3r.dev/post/ff5310433a5a3929280f24dfa1e684d7f5e2367e4b970134491570f1035f1325/</guid><description>
+Article URL: https://www.nytimes.com/2021/02/20/opinion/sunday/endocrine-disruptors-sperm.html
 Comments URL: …</description></item><item><title>Kea parrots perform domain-general statistical inference</title><link>https://news.panz3r.dev/post/b536a2e5e0bec08f88c991b84e87c826a39209c3436171fe77e9171d19b9673e/</link><pubDate>Mon, 22 Feb 2021 07:24:41 +0000</pubDate><guid>https://news.panz3r.dev/post/b536a2e5e0bec08f88c991b84e87c826a39209c3436171fe77e9171d19b9673e/</guid><description>
 Article URL: https://www.nature.com/articles/s41467-020-14695-1
 Comments URL: https://news.ycombinator.com/item?id=26221751
@@ -538,21 +562,4 @@ Article URL: …</description></item><item><title>Mitigating Memory Safety Issue
 Article URL: https://security.googleblog.com/2021/02/mitigating-memory-safety-issues-in-open.html
 Comments URL: …</description></item><item><title>I Am a Heroin User. I Do Not Have a Drug Problem</title><link>https://news.panz3r.dev/post/5d70198effc818801a76e2494a82badb8a9ea8a8b432130fbd9823bfbea7101e/</link><pubDate>Thu, 18 Feb 2021 12:23:42 +0000</pubDate><guid>https://news.panz3r.dev/post/5d70198effc818801a76e2494a82badb8a9ea8a8b432130fbd9823bfbea7101e/</guid><description>
 Article URL: http://m.nautil.us/issue/96/rewired/i-am-a-heroin-user-i-do-not-have-a-drug-problem
-Comments URL: …</description></item><item><title>The Fantasy of Opting Out</title><link>https://news.panz3r.dev/post/37bf575bf819f33b7ace1f411b6ebff29fa83550e79f5f1a859cf786786f79ab/</link><pubDate>Thu, 18 Feb 2021 11:18:28 +0000</pubDate><guid>https://news.panz3r.dev/post/37bf575bf819f33b7ace1f411b6ebff29fa83550e79f5f1a859cf786786f79ab/</guid><description>
-Article URL: https://thereader.mitpress.mit.edu/the-fantasy-of-opting-out/
-Comments URL: https://news.ycombinator.com/item?id=26178523 …</description></item><item><title>There’s no such thing as “a startup within a big company”</title><link>https://news.panz3r.dev/post/f5f6e4e14155a438d59ad1cca039a3f17b85adfc6bbee0a967f0ff3ade2cb2fe/</link><pubDate>Thu, 18 Feb 2021 11:17:14 +0000</pubDate><guid>https://news.panz3r.dev/post/f5f6e4e14155a438d59ad1cca039a3f17b85adfc6bbee0a967f0ff3ade2cb2fe/</guid><description>
-Article URL: https://hunterwalk.medium.com/why-theres-no-such-thing-as-a-startup-within-a-big-company-c3003615f3bc
-Comments URL: …</description></item><item><title>StoneKnifeForth (With a Metacircular Compiler)</title><link>https://news.panz3r.dev/post/1fe55bce59ff39e9e874a8a0d861acc1bc0a44cc11c5445323d4ffea2dee0523/</link><pubDate>Thu, 18 Feb 2021 10:51:13 +0000</pubDate><guid>https://news.panz3r.dev/post/1fe55bce59ff39e9e874a8a0d861acc1bc0a44cc11c5445323d4ffea2dee0523/</guid><description>
-Article URL: https://github.com/kragen/stoneknifeforth
-Comments URL: https://news.ycombinator.com/item?id=26178342
-Points: 56
-# Comments: 18 …</description></item><item><title>Lithuania plans to hold drills in case of accident at the Belarus nuclear plant</title><link>https://news.panz3r.dev/post/53f25432944cf2bc039d37e6389b6aa947270448796c930a594164da99fee48d/</link><pubDate>Thu, 18 Feb 2021 10:34:49 +0000</pubDate><guid>https://news.panz3r.dev/post/53f25432944cf2bc039d37e6389b6aa947270448796c930a594164da99fee48d/</guid><description>
-Article URL: https://www.lrt.lt/en/news-in-english/19/1346034/lithuania-plans-to-hold-evacuation-drills-after-belarus-launches-nuclear-plant …</description></item><item><title>How NASA Designed a Helicopter That Could Fly Autonomously on Mars</title><link>https://news.panz3r.dev/post/3cf4cca94984c492654d6f7b787f308b97f3ea2f50123bcd10ae68e06f9239d6/</link><pubDate>Thu, 18 Feb 2021 09:09:12 +0000</pubDate><guid>https://news.panz3r.dev/post/3cf4cca94984c492654d6f7b787f308b97f3ea2f50123bcd10ae68e06f9239d6/</guid><description>
-Article URL: …</description></item><item><title>Don’t format a drive of M1 Macs from recovery mode</title><link>https://news.panz3r.dev/post/fbb9f5b5cf0fc3fa12bd790227f2276e48b0c0cad6100fb9d091acb7e6955c7e/</link><pubDate>Thu, 18 Feb 2021 08:09:11 +0000</pubDate><guid>https://news.panz3r.dev/post/fbb9f5b5cf0fc3fa12bd790227f2276e48b0c0cad6100fb9d091acb7e6955c7e/</guid><description>
-Article URL: https://giuliomagnifico.medium.com/dont-ever-format-a-drive-of-m1-macs-from-recovery-mode-38f8676f20cd
-Comments URL: …</description></item><item><title>New Model M Is an American-Made Keyboard That Puts a Spring Back in Your Typing</title><link>https://news.panz3r.dev/post/63e809d3425775167c87263f64c38f317e94d11ab2edd5d11f1d9314b4e1ed61/</link><pubDate>Thu, 18 Feb 2021 07:36:00 +0000</pubDate><guid>https://news.panz3r.dev/post/63e809d3425775167c87263f64c38f317e94d11ab2edd5d11f1d9314b4e1ed61/</guid><description>
-Article URL: https://tidbits.com/2021/02/17/new-model-m-is-an-american-made-keyboard-that-puts-a-spring-back-in-your-typing/
-Comments URL: …</description></item><item><title>Reflections on Using Haskell for My Startup</title><link>https://news.panz3r.dev/post/11dc6dc27aa35183f06e8139885b07732e7dca3bfcaac8d8b0b81a07f76e0662/</link><pubDate>Thu, 18 Feb 2021 07:17:28 +0000</pubDate><guid>https://news.panz3r.dev/post/11dc6dc27aa35183f06e8139885b07732e7dca3bfcaac8d8b0b81a07f76e0662/</guid><description>
-Article URL: https://alistairb.dev/reflections-on-haskell-for-startup/
-Comments URL: https://news.ycombinator.com/item?id=26176940
-Points: …</description></item></channel></rss>
+Comments URL: …</description></item></channel></rss>

@@ -1,13 +1,56 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hacker-News-Frontpage on Panz3r News</title><link>https://news.panz3r.dev/tags/hacker-news-frontpage/</link><description>Recent content in Hacker-News-Frontpage on news.panz3r.dev</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Panz3r 2020 | Vitae theme for Hugo</copyright><lastBuildDate>Sun, 28 Feb 2021 15:33:00 +0000</lastBuildDate><atom:link href="https://news.panz3r.dev/tags/hacker-news-frontpage/index.xml" rel="self" type="application/rss+xml"/><item><title>Police misconduct settlements</title><link>https://news.panz3r.dev/post/1d723a9d5a0bd827076b56ab47530cfc5d3420199884321ea6b8fd5abcb41e1c/</link><pubDate>Sun, 28 Feb 2021 15:33:00 +0000</pubDate><guid>https://news.panz3r.dev/post/1d723a9d5a0bd827076b56ab47530cfc5d3420199884321ea6b8fd5abcb41e1c/</guid><description>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hacker-News-Frontpage on Panz3r News</title><link>https://news.panz3r.dev/tags/hacker-news-frontpage/</link><description>Recent content in Hacker-News-Frontpage on news.panz3r.dev</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Panz3r 2020 | Vitae theme for Hugo</copyright><lastBuildDate>Sun, 28 Feb 2021 21:03:57 +0000</lastBuildDate><atom:link href="https://news.panz3r.dev/tags/hacker-news-frontpage/index.xml" rel="self" type="application/rss+xml"/><item><title>Not Lisp again (2009)</title><link>https://news.panz3r.dev/post/172de5004c3aad50be348b604e242660a721e13d9dd57d4b9f08e27cbcc1798c/</link><pubDate>Sun, 28 Feb 2021 21:03:57 +0000</pubDate><guid>https://news.panz3r.dev/post/172de5004c3aad50be348b604e242660a721e13d9dd57d4b9f08e27cbcc1798c/</guid><description>
+Article URL: https://funcall.blogspot.com/2009/03/not-lisp-again.html
+Comments URL: https://news.ycombinator.com/item?id=26297040
+Points: 60 …</description></item><item><title>Little League wants all your information</title><link>https://news.panz3r.dev/post/124ee6b899d77f935b46bffd8f8f1993e9e63ca1587699a15456995936ba27fa/</link><pubDate>Sun, 28 Feb 2021 20:38:48 +0000</pubDate><guid>https://news.panz3r.dev/post/124ee6b899d77f935b46bffd8f8f1993e9e63ca1587699a15456995936ba27fa/</guid><description>
+Article URL: https://honeypot.net/post/little-league-wants-all-your-information/
+Comments URL: https://news.ycombinator.com/item?id=26296845 …</description></item><item><title>How I cut GTA Online loading times by 70%</title><link>https://news.panz3r.dev/post/a0a564ee6e04c14f7ef6d58c67c59594cdfecc8903527c317d8a6674e342db2a/</link><pubDate>Sun, 28 Feb 2021 19:38:26 +0000</pubDate><guid>https://news.panz3r.dev/post/a0a564ee6e04c14f7ef6d58c67c59594cdfecc8903527c317d8a6674e342db2a/</guid><description>
+Article URL: https://nee.lv/2021/02/28/How-I-cut-GTA-Online-loading-times-by-70/
+Comments URL: https://news.ycombinator.com/item?id=26296339 …</description></item><item><title>mrustc: In-progress alternative Rust compiler (to C)</title><link>https://news.panz3r.dev/post/6098ce3ad6dc34da00fb53172d300c7bb926328755bdee3a82545935044359f3/</link><pubDate>Sun, 28 Feb 2021 19:35:25 +0000</pubDate><guid>https://news.panz3r.dev/post/6098ce3ad6dc34da00fb53172d300c7bb926328755bdee3a82545935044359f3/</guid><description>
+Article URL: https://github.com/thepowersgang/mrustc
+Comments URL: https://news.ycombinator.com/item?id=26296318
+Points: 59
+# Comments: 48</description></item><item><title>Create animated GIF and WebP from videos using FFmpeg</title><link>https://news.panz3r.dev/post/6a76e5dda2cec9ed985f2bc21004873c4c4e2c4c5710668dc88d7eddb9c113c5/</link><pubDate>Sun, 28 Feb 2021 19:35:23 +0000</pubDate><guid>https://news.panz3r.dev/post/6a76e5dda2cec9ed985f2bc21004873c4c4e2c4c5710668dc88d7eddb9c113c5/</guid><description>
+Article URL: https://mattj.io/posts/2021-02-27-create-animated-gif-and-webp-from-videos-using-ffmpeg/
+Comments URL: …</description></item><item><title>Get a Life</title><link>https://news.panz3r.dev/post/514aa971e897314c6d9c6be3fb16b22129481d2abbae21db5c61977dd423aa22/</link><pubDate>Sun, 28 Feb 2021 18:36:06 +0000</pubDate><guid>https://news.panz3r.dev/post/514aa971e897314c6d9c6be3fb16b22129481d2abbae21db5c61977dd423aa22/</guid><description>
+Article URL: http://crypto.stanford.edu/~blynn/haskell/life.html
+Comments URL: https://news.ycombinator.com/item?id=26295792
+Points: 66
+# …</description></item><item><title>Strange chip: Teardown of a vintage IBM token ring controller</title><link>https://news.panz3r.dev/post/68edc5c582c8754841d8819afe2b3ec546bce47429b884cf50e75b2e6f18c33b/</link><pubDate>Sun, 28 Feb 2021 18:06:17 +0000</pubDate><guid>https://news.panz3r.dev/post/68edc5c582c8754841d8819afe2b3ec546bce47429b884cf50e75b2e6f18c33b/</guid><description>
+Article URL: https://www.righto.com/2021/02/strange-chip-teardown-of-vintage-ibm.html
+Comments URL: …</description></item><item><title>A Native Tiling Window Manager for Windows 10, Inspired by I3wm</title><link>https://news.panz3r.dev/post/3cb3219609677f81e4877478cb3c363683b565fa14c69e1cff0238e6e062fe17/</link><pubDate>Sun, 28 Feb 2021 17:35:00 +0000</pubDate><guid>https://news.panz3r.dev/post/3cb3219609677f81e4877478cb3c363683b565fa14c69e1cff0238e6e062fe17/</guid><description>
+Article URL: https://github.com/McYoloSwagHam/win3wm
+Comments URL: https://news.ycombinator.com/item?id=26295100
+Points: 181
+# Comments: 55</description></item><item><title>RIP Flynn.io</title><link>https://news.panz3r.dev/post/d09633aef90eb452987843c4c4a7bfb8e50c59bb9f62eb0159cadc1db01edb53/</link><pubDate>Sun, 28 Feb 2021 17:31:15 +0000</pubDate><guid>https://news.panz3r.dev/post/d09633aef90eb452987843c4c4a7bfb8e50c59bb9f62eb0159cadc1db01edb53/</guid><description>
+Article URL: https://github.com/flynn/flynn
+Comments URL: https://news.ycombinator.com/item?id=26295065
+Points: 151
+# Comments: 70</description></item><item><title>Snyk: Find and fix vulnerabilities in open-source dependencies</title><link>https://news.panz3r.dev/post/e466a434a124062f612d102a954a210c94d33c9a30cf52d1037e050e4e696a08/</link><pubDate>Sun, 28 Feb 2021 17:23:05 +0000</pubDate><guid>https://news.panz3r.dev/post/e466a434a124062f612d102a954a210c94d33c9a30cf52d1037e050e4e696a08/</guid><description>
+Article URL: https://github.com/snyk/snyk
+Comments URL: https://news.ycombinator.com/item?id=26294972
+Points: 69
+# Comments: 4</description></item><item><title>Reversible Computing</title><link>https://news.panz3r.dev/post/1875ba171ebd9ae03e59d4a9e2475fcf97455cbfad98f1baa51a9aa1635d5d9e/</link><pubDate>Sun, 28 Feb 2021 16:55:13 +0000</pubDate><guid>https://news.panz3r.dev/post/1875ba171ebd9ae03e59d4a9e2475fcf97455cbfad98f1baa51a9aa1635d5d9e/</guid><description>
+Article URL: https://en.wikipedia.org/wiki/Reversible_computing
+Comments URL: https://news.ycombinator.com/item?id=26294693
+Points: 96
+# …</description></item><item><title>The Mars Helicopter Is Online and Getting Ready to Fly</title><link>https://news.panz3r.dev/post/c5df5e500795f0d211e32040ed8b40e5e10033af0d1dca6c432198c112328171/</link><pubDate>Sun, 28 Feb 2021 16:41:59 +0000</pubDate><guid>https://news.panz3r.dev/post/c5df5e500795f0d211e32040ed8b40e5e10033af0d1dca6c432198c112328171/</guid><description>
+Article URL: https://www.universetoday.com/150224/the-mars-helicopter-is-online-and-getting-ready-to-fly/
+Comments URL: …</description></item><item><title>Weird architectures weren't supported to begin with</title><link>https://news.panz3r.dev/post/b9b1ea64ce959467941ddfc317b1aced0a98b483201da0ba2b8d77ced07f4aa2/</link><pubDate>Sun, 28 Feb 2021 16:22:04 +0000</pubDate><guid>https://news.panz3r.dev/post/b9b1ea64ce959467941ddfc317b1aced0a98b483201da0ba2b8d77ced07f4aa2/</guid><description>
+Article URL: https://blog.yossarian.net/2021/02/28/Weird-architectures-werent-supported-to-begin-with
+Comments URL: …</description></item><item><title>Warren Buffett's bet against hedge funds at the Long Now Foundation (2008-17)</title><link>https://news.panz3r.dev/post/45989d8c08f8d6bb47e899e645363ec49da39ce5ca0d33f368109d1f1eb5854a/</link><pubDate>Sun, 28 Feb 2021 16:20:22 +0000</pubDate><guid>https://news.panz3r.dev/post/45989d8c08f8d6bb47e899e645363ec49da39ce5ca0d33f368109d1f1eb5854a/</guid><description>
+Article URL: https://longbets.org/362/
+Comments URL: https://news.ycombinator.com/item?id=26294386
+Points: 55
+# Comments: 69</description></item><item><title>Police misconduct settlements</title><link>https://news.panz3r.dev/post/1d723a9d5a0bd827076b56ab47530cfc5d3420199884321ea6b8fd5abcb41e1c/</link><pubDate>Sun, 28 Feb 2021 15:33:00 +0000</pubDate><guid>https://news.panz3r.dev/post/1d723a9d5a0bd827076b56ab47530cfc5d3420199884321ea6b8fd5abcb41e1c/</guid><description>
 Article URL: https://github.com/fivethirtyeight/police-settlements
 Comments URL: https://news.ycombinator.com/item?id=26294052
-Points: 95
+Points: 198
 # …</description></item><item><title>Facebook’s ad campaign shows how worried it is about Apple's privacy changes</title><link>https://news.panz3r.dev/post/65079f210341c23e84d1a88155e8c188ab759c2b5bd8174c10fa95fecab998a9/</link><pubDate>Sun, 28 Feb 2021 13:59:25 +0000</pubDate><guid>https://news.panz3r.dev/post/65079f210341c23e84d1a88155e8c188ab759c2b5bd8174c10fa95fecab998a9/</guid><description>
 Article URL: https://www.inc.com/jason-aten/facebook-just-admitted-it-has-lost-its-battle-with-apple-over-privacy.html
 Comments URL: …</description></item><item><title>Gradient Free Optimizers: A collection of modern optimization methods in Python</title><link>https://news.panz3r.dev/post/f84a280d27635b6c6b517321277732c12b85bc93195cc1ef37382a1e8cde5bf1/</link><pubDate>Sun, 28 Feb 2021 13:10:40 +0000</pubDate><guid>https://news.panz3r.dev/post/f84a280d27635b6c6b517321277732c12b85bc93195cc1ef37382a1e8cde5bf1/</guid><description>
 Article URL: https://github.com/SimonBlanke/Gradient-Free-Optimizers
 Comments URL: https://news.ycombinator.com/item?id=26293171
-Points: 109 …</description></item><item><title>Hunting two PDP-1 photos (which are not what they seem)</title><link>https://news.panz3r.dev/post/ee6085fd86dffeb16ca3a7e41d5c43d31d115790b3b4f244f70d0ceb0f85726d/</link><pubDate>Sun, 28 Feb 2021 12:02:03 +0000</pubDate><guid>https://news.panz3r.dev/post/ee6085fd86dffeb16ca3a7e41d5c43d31d115790b3b4f244f70d0ceb0f85726d/</guid><description>
+Points: 177 …</description></item><item><title>Hunting two PDP-1 photos (which are not what they seem)</title><link>https://news.panz3r.dev/post/ee6085fd86dffeb16ca3a7e41d5c43d31d115790b3b4f244f70d0ceb0f85726d/</link><pubDate>Sun, 28 Feb 2021 12:02:03 +0000</pubDate><guid>https://news.panz3r.dev/post/ee6085fd86dffeb16ca3a7e41d5c43d31d115790b3b4f244f70d0ceb0f85726d/</guid><description>
 Article URL: https://www.masswerk.at/nowgobang/2021/train-spotting-1
 Comments URL: https://news.ycombinator.com/item?id=26292781
 Points: 55 …</description></item><item><title>Facebook blocked posts by a militia group opposed to the Turkish government</title><link>https://news.panz3r.dev/post/03e4a11894672f29f89dc90d821a1199ebd19d6c94e28879a02b37b2df6aa0f0/</link><pubDate>Sun, 28 Feb 2021 10:35:29 +0000</pubDate><guid>https://news.panz3r.dev/post/03e4a11894672f29f89dc90d821a1199ebd19d6c94e28879a02b37b2df6aa0f0/</guid><description>
@@ -17,14 +60,16 @@ Comments URL: https://news.ycombinator.com/item?id=26292299
 Points: 217 …</description></item><item><title>Actually Portable Executables</title><link>https://news.panz3r.dev/post/e9e2ac402219eb4e7cec62092553abb8ab426385ca4de3b74d82f30c42357653/</link><pubDate>Sun, 28 Feb 2021 10:06:42 +0000</pubDate><guid>https://news.panz3r.dev/post/e9e2ac402219eb4e7cec62092553abb8ab426385ca4de3b74d82f30c42357653/</guid><description>
 Article URL: https://ahgamut.github.io/c/2021/02/27/ape-cosmo/
 Comments URL: https://news.ycombinator.com/item?id=26292166
-Points: 499
+Points: 611
 # …</description></item><item><title>Spaceprob.es catalogues all the probes that still communicate with Earth</title><link>https://news.panz3r.dev/post/750f9e970985b03153a5da31c1c845865e979f75dc3ee28ceda4e5df11e41436/</link><pubDate>Sun, 28 Feb 2021 08:49:29 +0000</pubDate><guid>https://news.panz3r.dev/post/750f9e970985b03153a5da31c1c845865e979f75dc3ee28ceda4e5df11e41436/</guid><description>
 Article URL: https://spaceprob.es/
 Comments URL: https://news.ycombinator.com/item?id=26291756
-Points: 132
-# Comments: 21</description></item><item><title>Coinbase mafia shows how tight a circle holds sway over Bitcoin</title><link>https://news.panz3r.dev/post/4f4ceb89194bc578395f1e8c7cb6f0098cc2035ea4633ca0c5816cc60113f5d5/</link><pubDate>Sun, 28 Feb 2021 08:37:48 +0000</pubDate><guid>https://news.panz3r.dev/post/4f4ceb89194bc578395f1e8c7cb6f0098cc2035ea4633ca0c5816cc60113f5d5/</guid><description>
+Points: 169
+# Comments: 27</description></item><item><title>Coinbase mafia shows how tight a circle holds sway over Bitcoin</title><link>https://news.panz3r.dev/post/4f4ceb89194bc578395f1e8c7cb6f0098cc2035ea4633ca0c5816cc60113f5d5/</link><pubDate>Sun, 28 Feb 2021 08:37:48 +0000</pubDate><guid>https://news.panz3r.dev/post/4f4ceb89194bc578395f1e8c7cb6f0098cc2035ea4633ca0c5816cc60113f5d5/</guid><description>
 Article URL: https://www.bloomberg.com/news/articles/2021-02-27/coinbase-mafia-shows-how-tight-a-circle-holds-sway-over-bitcoin
-Comments …</description></item><item><title>Universal Radio Hacker: Investigate Wireless Protocols Like a Boss</title><link>https://news.panz3r.dev/post/b8ec4f26083ea1d84fdf0d9bac750426d4498df6118cc161369e1b6b42c07c3c/</link><pubDate>Sun, 28 Feb 2021 04:35:52 +0000</pubDate><guid>https://news.panz3r.dev/post/b8ec4f26083ea1d84fdf0d9bac750426d4498df6118cc161369e1b6b42c07c3c/</guid><description>
+Comments …</description></item><item><title>Multi-User Dungeons (MUDs): What Are They? and How to Play</title><link>https://news.panz3r.dev/post/b58d225f1764f020df028b6f715893482d3cdf96c2407e0a88e007c84ab2268b/</link><pubDate>Sun, 28 Feb 2021 06:26:40 +0000</pubDate><guid>https://news.panz3r.dev/post/b58d225f1764f020df028b6f715893482d3cdf96c2407e0a88e007c84ab2268b/</guid><description>
+Article URL: https://medium.com/@williamson.f93/multi-user-dungeons-muds-what-are-they-and-how-to-play-af3ec0f29f4a
+Comments URL: …</description></item><item><title>Universal Radio Hacker: Investigate Wireless Protocols Like a Boss</title><link>https://news.panz3r.dev/post/b8ec4f26083ea1d84fdf0d9bac750426d4498df6118cc161369e1b6b42c07c3c/</link><pubDate>Sun, 28 Feb 2021 04:35:52 +0000</pubDate><guid>https://news.panz3r.dev/post/b8ec4f26083ea1d84fdf0d9bac750426d4498df6118cc161369e1b6b42c07c3c/</guid><description>
 Article URL: https://github.com/jopohl/urh
 Comments URL: https://news.ycombinator.com/item?id=26290705
 Points: 196
@@ -479,38 +524,4 @@ Points: 206
 Article URL: https://www.astro.princeton.edu/universe/
 Comments URL: https://news.ycombinator.com/item?id=26245502
 Points: 66
-# Comments: 12 …</description></item><item><title>50 Years of Pascal</title><link>https://news.panz3r.dev/post/03d6add18e624707767ecab01a317a99f9aaabd7d8f0c9a06947a01763c80ad2/</link><pubDate>Tue, 23 Feb 2021 23:10:01 +0000</pubDate><guid>https://news.panz3r.dev/post/03d6add18e624707767ecab01a317a99f9aaabd7d8f0c9a06947a01763c80ad2/</guid><description>
-Article URL: https://cacm.acm.org/magazines/2021/3/250705-50-years-of-pascal/fulltext
-Comments URL: …</description></item><item><title>M1 Mac owners are experiencing high SSD writes over short periods of time</title><link>https://news.panz3r.dev/post/d42b4eaf4281b7b2ff7278354b30cc556d8a63aadd8576a66fd56658bfeea051/</link><pubDate>Tue, 23 Feb 2021 22:52:38 +0000</pubDate><guid>https://news.panz3r.dev/post/d42b4eaf4281b7b2ff7278354b30cc556d8a63aadd8576a66fd56658bfeea051/</guid><description>
-Article URL: …</description></item><item><title>Architecture of the Playstation 2</title><link>https://news.panz3r.dev/post/ad4b087dbd9737feb0e17239517249bdf35bef4f811404298f459644f0f2bce4/</link><pubDate>Tue, 23 Feb 2021 22:41:18 +0000</pubDate><guid>https://news.panz3r.dev/post/ad4b087dbd9737feb0e17239517249bdf35bef4f811404298f459644f0f2bce4/</guid><description>
-Article URL: https://www.copetti.org/writings/consoles/playstation-2/
-Comments URL: https://news.ycombinator.com/item?id=26243964
-Points: …</description></item><item><title>I helped build ByteDance's censorship machine</title><link>https://news.panz3r.dev/post/b483ed49466fcb648bae0e3e4449e569ecbb252c91fca453308472458f0ea6ee/</link><pubDate>Tue, 23 Feb 2021 22:05:57 +0000</pubDate><guid>https://news.panz3r.dev/post/b483ed49466fcb648bae0e3e4449e569ecbb252c91fca453308472458f0ea6ee/</guid><description>
-Article URL: https://www.protocol.com/china/i-built-bytedance-censorship-machine
-Comments URL: https://news.ycombinator.com/item?id=26243546 …</description></item><item><title>Show HN: Replace printf() with cool generic print, almost like Python/JS</title><link>https://news.panz3r.dev/post/30b7532abd8e65a94547982640e38d7677ea2c57ea1705ae56f5ca590d5507bb/</link><pubDate>Tue, 23 Feb 2021 22:02:29 +0000</pubDate><guid>https://news.panz3r.dev/post/30b7532abd8e65a94547982640e38d7677ea2c57ea1705ae56f5ca590d5507bb/</guid><description>
-Article URL: https://github.com/exebook/generic-print
-Comments URL: https://news.ycombinator.com/item?id=26243495
-Points: 64
-# Comments: 17</description></item><item><title>Beeple Mania</title><link>https://news.panz3r.dev/post/00aeef167a1b53d34fbfe692bbe7bd97741684508e26ca2eb51506045b76070b/</link><pubDate>Tue, 23 Feb 2021 21:29:29 +0000</pubDate><guid>https://news.panz3r.dev/post/00aeef167a1b53d34fbfe692bbe7bd97741684508e26ca2eb51506045b76070b/</guid><description>
-Article URL: https://www.esquire.com/entertainment/a35500985/who-is-beeple-mike-winkelmann-nft-interview/
-Comments URL: …</description></item><item><title>Taking a Stand in the War on General-Purpose Computing</title><link>https://news.panz3r.dev/post/0038f362bb80537968a3d7c00bd4fdbbaf0e38959f3acd5cb6b126e9d3841e56/</link><pubDate>Tue, 23 Feb 2021 21:16:34 +0000</pubDate><guid>https://news.panz3r.dev/post/0038f362bb80537968a3d7c00bd4fdbbaf0e38959f3acd5cb6b126e9d3841e56/</guid><description>
-Article URL: https://cheapskatesguide.org/articles/war-on-gp-computing.html
-Comments URL: https://news.ycombinator.com/item?id=26242991 …</description></item><item><title>Open Source in the 5G Stack</title><link>https://news.panz3r.dev/post/bb061413378950c02a5c835a32370b6c786c7dec681c59fac0d4e62c679d72c4/</link><pubDate>Tue, 23 Feb 2021 20:47:57 +0000</pubDate><guid>https://news.panz3r.dev/post/bb061413378950c02a5c835a32370b6c786c7dec681c59fac0d4e62c679d72c4/</guid><description>
-Article URL: https://github.blog/2021-02-23-open-source-in-the-5g-stack/
-Comments URL: https://news.ycombinator.com/item?id=26242659
-Points: …</description></item><item><title>Try to guess if code is real or GPT2-generated</title><link>https://news.panz3r.dev/post/c718fce3d074245411dd8f5433d5ea5f1ab8b87a0ed740371f331ae9c12ff32f/</link><pubDate>Tue, 23 Feb 2021 20:10:55 +0000</pubDate><guid>https://news.panz3r.dev/post/c718fce3d074245411dd8f5433d5ea5f1ab8b87a0ed740371f331ae9c12ff32f/</guid><description>
-Article URL: https://doesnotexist.codes
-Comments URL: https://news.ycombinator.com/item?id=26242264
-Points: 188
-# Comments: 98</description></item><item><title>Lawrence Ferlinghetti has died</title><link>https://news.panz3r.dev/post/c96d06e33518edbffdcccea40a011c3fbcff4980b1ae5ece4833f51f8c018a4d/</link><pubDate>Tue, 23 Feb 2021 19:34:32 +0000</pubDate><guid>https://news.panz3r.dev/post/c96d06e33518edbffdcccea40a011c3fbcff4980b1ae5ece4833f51f8c018a4d/</guid><description>
-Article URL: https://www.nytimes.com/2021/02/23/obituaries/lawrence-ferlinghetti-dead.html
-Comments URL: …</description></item><item><title>The Thousand Brains Theory of Intelligence (2019)</title><link>https://news.panz3r.dev/post/238b6178ae32e38b01ccaecc8a50e3adce79d54f428495f4a132a2b6fdd4a9bc/</link><pubDate>Tue, 23 Feb 2021 18:33:50 +0000</pubDate><guid>https://news.panz3r.dev/post/238b6178ae32e38b01ccaecc8a50e3adce79d54f428495f4a132a2b6fdd4a9bc/</guid><description>
-Article URL: https://numenta.com/blog/2019/01/16/the-thousand-brains-theory-of-intelligence/
-Comments URL: …</description></item><item><title>Add experimental fuzz test support for Go 1.17</title><link>https://news.panz3r.dev/post/bbe650ce01d4771d259ae61e6501a9e27bb22aabb6b4e1922434b234d11a65fc/</link><pubDate>Tue, 23 Feb 2021 18:21:09 +0000</pubDate><guid>https://news.panz3r.dev/post/bbe650ce01d4771d259ae61e6501a9e27bb22aabb6b4e1922434b234d11a65fc/</guid><description>
-Article URL: https://github.com/golang/go/issues/44551
-Comments URL: https://news.ycombinator.com/item?id=26240692
-Points: 99
-# Comments: 25 …</description></item><item><title>Launch HN: GreaseBoss (YC W21) – Real-time system to manage industrial greasing</title><link>https://news.panz3r.dev/post/730e369e4ba846d0320a9d1a37d32ff2a967227b0cdbfbfebb5b2067e7da2393/</link><pubDate>Tue, 23 Feb 2021 18:11:53 +0000</pubDate><guid>https://news.panz3r.dev/post/730e369e4ba846d0320a9d1a37d32ff2a967227b0cdbfbfebb5b2067e7da2393/</guid><description>
-We are Steve, Tim and Pete, the cofounders of GreaseBoss (https://www.greaseboss.io). GreaseBoss is a hardware and software system that …</description></item><item><title>10 Years of Open-Source Visualization: Did I learn anything from D3.js?</title><link>https://news.panz3r.dev/post/ab2a227f8b94987294aca658acd06aac57f313641a694803f44e7ab7e2499181/</link><pubDate>Tue, 23 Feb 2021 17:51:02 +0000</pubDate><guid>https://news.panz3r.dev/post/ab2a227f8b94987294aca658acd06aac57f313641a694803f44e7ab7e2499181/</guid><description>
-Article URL: https://observablehq.com/@mbostock/10-years-of-open-source-visualization
-Comments URL: …</description></item></channel></rss>
+# Comments: 12 …</description></item></channel></rss>

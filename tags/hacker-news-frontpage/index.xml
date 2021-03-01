@@ -1,7 +1,17 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hacker-News-Frontpage on Panz3r News</title><link>https://news.panz3r.dev/tags/hacker-news-frontpage/</link><description>Recent content in Hacker-News-Frontpage on news.panz3r.dev</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Panz3r 2020 | Vitae theme for Hugo</copyright><lastBuildDate>Sun, 28 Feb 2021 21:03:57 +0000</lastBuildDate><atom:link href="https://news.panz3r.dev/tags/hacker-news-frontpage/index.xml" rel="self" type="application/rss+xml"/><item><title>Not Lisp again (2009)</title><link>https://news.panz3r.dev/post/172de5004c3aad50be348b604e242660a721e13d9dd57d4b9f08e27cbcc1798c/</link><pubDate>Sun, 28 Feb 2021 21:03:57 +0000</pubDate><guid>https://news.panz3r.dev/post/172de5004c3aad50be348b604e242660a721e13d9dd57d4b9f08e27cbcc1798c/</guid><description>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hacker-News-Frontpage on Panz3r News</title><link>https://news.panz3r.dev/tags/hacker-news-frontpage/</link><description>Recent content in Hacker-News-Frontpage on news.panz3r.dev</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Panz3r 2020 | Vitae theme for Hugo</copyright><lastBuildDate>Mon, 01 Mar 2021 00:28:39 +0000</lastBuildDate><atom:link href="https://news.panz3r.dev/tags/hacker-news-frontpage/index.xml" rel="self" type="application/rss+xml"/><item><title>JSON parser written in 6502 assembly language</title><link>https://news.panz3r.dev/post/fd7c02df5175e50398bf4b54e5c02a687c4471f266baa6c712e8ab21b1c51a12/</link><pubDate>Mon, 01 Mar 2021 00:28:39 +0000</pubDate><guid>https://news.panz3r.dev/post/fd7c02df5175e50398bf4b54e5c02a687c4471f266baa6c712e8ab21b1c51a12/</guid><description>
+Article URL: https://github.com/ppelleti/json65
+Comments URL: https://news.ycombinator.com/item?id=26298462
+Points: 101
+# Comments: 43</description></item><item><title>OMU – “One Man Unix”</title><link>https://news.panz3r.dev/post/53627272bd702b1c7962d61620a33374d42bc4b87feb94f57dc206bfac92d40f/</link><pubDate>Sun, 28 Feb 2021 23:15:22 +0000</pubDate><guid>https://news.panz3r.dev/post/53627272bd702b1c7962d61620a33374d42bc4b87feb94f57dc206bfac92d40f/</guid><description>
+Article URL: http://www.pix.net/mirrored/discordia.org.uk/~steve/omu.html
+Comments URL: https://news.ycombinator.com/item?id=26298022 …</description></item><item><title>Cname / DNS based third party tracking</title><link>https://news.panz3r.dev/post/3f7d1b23e78330633345f6600f4e397d7b4ee3252c4d8f6ad38ccdb577428749/</link><pubDate>Sun, 28 Feb 2021 23:10:29 +0000</pubDate><guid>https://news.panz3r.dev/post/3f7d1b23e78330633345f6600f4e397d7b4ee3252c4d8f6ad38ccdb577428749/</guid><description>
+Article URL: https://arxiv.org/abs/2102.09301v2
+Comments URL: https://news.ycombinator.com/item?id=26297984
+Points: 59
+# Comments: 15</description></item><item><title>Not Lisp again (2009)</title><link>https://news.panz3r.dev/post/172de5004c3aad50be348b604e242660a721e13d9dd57d4b9f08e27cbcc1798c/</link><pubDate>Sun, 28 Feb 2021 21:03:57 +0000</pubDate><guid>https://news.panz3r.dev/post/172de5004c3aad50be348b604e242660a721e13d9dd57d4b9f08e27cbcc1798c/</guid><description>
 Article URL: https://funcall.blogspot.com/2009/03/not-lisp-again.html
 Comments URL: https://news.ycombinator.com/item?id=26297040
-Points: 60 …</description></item><item><title>Little League wants all your information</title><link>https://news.panz3r.dev/post/124ee6b899d77f935b46bffd8f8f1993e9e63ca1587699a15456995936ba27fa/</link><pubDate>Sun, 28 Feb 2021 20:38:48 +0000</pubDate><guid>https://news.panz3r.dev/post/124ee6b899d77f935b46bffd8f8f1993e9e63ca1587699a15456995936ba27fa/</guid><description>
+Points: …</description></item><item><title>Little League wants all your information</title><link>https://news.panz3r.dev/post/124ee6b899d77f935b46bffd8f8f1993e9e63ca1587699a15456995936ba27fa/</link><pubDate>Sun, 28 Feb 2021 20:38:48 +0000</pubDate><guid>https://news.panz3r.dev/post/124ee6b899d77f935b46bffd8f8f1993e9e63ca1587699a15456995936ba27fa/</guid><description>
 Article URL: https://honeypot.net/post/little-league-wants-all-your-information/
 Comments URL: https://news.ycombinator.com/item?id=26296845 …</description></item><item><title>How I cut GTA Online loading times by 70%</title><link>https://news.panz3r.dev/post/a0a564ee6e04c14f7ef6d58c67c59594cdfecc8903527c317d8a6674e342db2a/</link><pubDate>Sun, 28 Feb 2021 19:38:26 +0000</pubDate><guid>https://news.panz3r.dev/post/a0a564ee6e04c14f7ef6d58c67c59594cdfecc8903527c317d8a6674e342db2a/</guid><description>
 Article URL: https://nee.lv/2021/02/28/How-I-cut-GTA-Online-loading-times-by-70/
@@ -14,25 +24,27 @@ Article URL: https://mattj.io/posts/2021-02-27-create-animated-gif-and-webp-from
 Comments URL: …</description></item><item><title>Get a Life</title><link>https://news.panz3r.dev/post/514aa971e897314c6d9c6be3fb16b22129481d2abbae21db5c61977dd423aa22/</link><pubDate>Sun, 28 Feb 2021 18:36:06 +0000</pubDate><guid>https://news.panz3r.dev/post/514aa971e897314c6d9c6be3fb16b22129481d2abbae21db5c61977dd423aa22/</guid><description>
 Article URL: http://crypto.stanford.edu/~blynn/haskell/life.html
 Comments URL: https://news.ycombinator.com/item?id=26295792
-Points: 66
+Points: 140
 # …</description></item><item><title>Strange chip: Teardown of a vintage IBM token ring controller</title><link>https://news.panz3r.dev/post/68edc5c582c8754841d8819afe2b3ec546bce47429b884cf50e75b2e6f18c33b/</link><pubDate>Sun, 28 Feb 2021 18:06:17 +0000</pubDate><guid>https://news.panz3r.dev/post/68edc5c582c8754841d8819afe2b3ec546bce47429b884cf50e75b2e6f18c33b/</guid><description>
 Article URL: https://www.righto.com/2021/02/strange-chip-teardown-of-vintage-ibm.html
-Comments URL: …</description></item><item><title>A Native Tiling Window Manager for Windows 10, Inspired by I3wm</title><link>https://news.panz3r.dev/post/3cb3219609677f81e4877478cb3c363683b565fa14c69e1cff0238e6e062fe17/</link><pubDate>Sun, 28 Feb 2021 17:35:00 +0000</pubDate><guid>https://news.panz3r.dev/post/3cb3219609677f81e4877478cb3c363683b565fa14c69e1cff0238e6e062fe17/</guid><description>
+Comments URL: …</description></item><item><title>Users are losing out against Big Sur’s sealed System</title><link>https://news.panz3r.dev/post/3570255d35d7c20520790adfe66ed9693d21ba6a04263e8632ced5dc81165d4c/</link><pubDate>Sun, 28 Feb 2021 17:43:53 +0000</pubDate><guid>https://news.panz3r.dev/post/3570255d35d7c20520790adfe66ed9693d21ba6a04263e8632ced5dc81165d4c/</guid><description>
+Article URL: https://eclecticlight.co/2021/02/28/last-week-on-my-mac-users-are-losing-out-against-big-surs-sealed-system/
+Comments URL: …</description></item><item><title>Show HN: A Native Tiling Window Manager for Windows 10, Inspired by I3wm</title><link>https://news.panz3r.dev/post/3cb3219609677f81e4877478cb3c363683b565fa14c69e1cff0238e6e062fe17/</link><pubDate>Sun, 28 Feb 2021 17:35:00 +0000</pubDate><guid>https://news.panz3r.dev/post/3cb3219609677f81e4877478cb3c363683b565fa14c69e1cff0238e6e062fe17/</guid><description>
 Article URL: https://github.com/McYoloSwagHam/win3wm
 Comments URL: https://news.ycombinator.com/item?id=26295100
-Points: 181
-# Comments: 55</description></item><item><title>RIP Flynn.io</title><link>https://news.panz3r.dev/post/d09633aef90eb452987843c4c4a7bfb8e50c59bb9f62eb0159cadc1db01edb53/</link><pubDate>Sun, 28 Feb 2021 17:31:15 +0000</pubDate><guid>https://news.panz3r.dev/post/d09633aef90eb452987843c4c4a7bfb8e50c59bb9f62eb0159cadc1db01edb53/</guid><description>
+Points: 269
+# Comments: 65</description></item><item><title>RIP Flynn.io</title><link>https://news.panz3r.dev/post/d09633aef90eb452987843c4c4a7bfb8e50c59bb9f62eb0159cadc1db01edb53/</link><pubDate>Sun, 28 Feb 2021 17:31:15 +0000</pubDate><guid>https://news.panz3r.dev/post/d09633aef90eb452987843c4c4a7bfb8e50c59bb9f62eb0159cadc1db01edb53/</guid><description>
 Article URL: https://github.com/flynn/flynn
 Comments URL: https://news.ycombinator.com/item?id=26295065
-Points: 151
-# Comments: 70</description></item><item><title>Snyk: Find and fix vulnerabilities in open-source dependencies</title><link>https://news.panz3r.dev/post/e466a434a124062f612d102a954a210c94d33c9a30cf52d1037e050e4e696a08/</link><pubDate>Sun, 28 Feb 2021 17:23:05 +0000</pubDate><guid>https://news.panz3r.dev/post/e466a434a124062f612d102a954a210c94d33c9a30cf52d1037e050e4e696a08/</guid><description>
+Points: 240
+# Comments: 115</description></item><item><title>Snyk: Find and fix vulnerabilities in open-source dependencies</title><link>https://news.panz3r.dev/post/e466a434a124062f612d102a954a210c94d33c9a30cf52d1037e050e4e696a08/</link><pubDate>Sun, 28 Feb 2021 17:23:05 +0000</pubDate><guid>https://news.panz3r.dev/post/e466a434a124062f612d102a954a210c94d33c9a30cf52d1037e050e4e696a08/</guid><description>
 Article URL: https://github.com/snyk/snyk
 Comments URL: https://news.ycombinator.com/item?id=26294972
-Points: 69
-# Comments: 4</description></item><item><title>Reversible Computing</title><link>https://news.panz3r.dev/post/1875ba171ebd9ae03e59d4a9e2475fcf97455cbfad98f1baa51a9aa1635d5d9e/</link><pubDate>Sun, 28 Feb 2021 16:55:13 +0000</pubDate><guid>https://news.panz3r.dev/post/1875ba171ebd9ae03e59d4a9e2475fcf97455cbfad98f1baa51a9aa1635d5d9e/</guid><description>
+Points: 100
+# Comments: 17</description></item><item><title>Reversible Computing</title><link>https://news.panz3r.dev/post/1875ba171ebd9ae03e59d4a9e2475fcf97455cbfad98f1baa51a9aa1635d5d9e/</link><pubDate>Sun, 28 Feb 2021 16:55:13 +0000</pubDate><guid>https://news.panz3r.dev/post/1875ba171ebd9ae03e59d4a9e2475fcf97455cbfad98f1baa51a9aa1635d5d9e/</guid><description>
 Article URL: https://en.wikipedia.org/wiki/Reversible_computing
 Comments URL: https://news.ycombinator.com/item?id=26294693
-Points: 96
+Points: 131
 # …</description></item><item><title>The Mars Helicopter Is Online and Getting Ready to Fly</title><link>https://news.panz3r.dev/post/c5df5e500795f0d211e32040ed8b40e5e10033af0d1dca6c432198c112328171/</link><pubDate>Sun, 28 Feb 2021 16:41:59 +0000</pubDate><guid>https://news.panz3r.dev/post/c5df5e500795f0d211e32040ed8b40e5e10033af0d1dca6c432198c112328171/</guid><description>
 Article URL: https://www.universetoday.com/150224/the-mars-helicopter-is-online-and-getting-ready-to-fly/
 Comments URL: …</description></item><item><title>Weird architectures weren't supported to begin with</title><link>https://news.panz3r.dev/post/b9b1ea64ce959467941ddfc317b1aced0a98b483201da0ba2b8d77ced07f4aa2/</link><pubDate>Sun, 28 Feb 2021 16:22:04 +0000</pubDate><guid>https://news.panz3r.dev/post/b9b1ea64ce959467941ddfc317b1aced0a98b483201da0ba2b8d77ced07f4aa2/</guid><description>
@@ -67,7 +79,9 @@ Comments URL: https://news.ycombinator.com/item?id=26291756
 Points: 169
 # Comments: 27</description></item><item><title>Coinbase mafia shows how tight a circle holds sway over Bitcoin</title><link>https://news.panz3r.dev/post/4f4ceb89194bc578395f1e8c7cb6f0098cc2035ea4633ca0c5816cc60113f5d5/</link><pubDate>Sun, 28 Feb 2021 08:37:48 +0000</pubDate><guid>https://news.panz3r.dev/post/4f4ceb89194bc578395f1e8c7cb6f0098cc2035ea4633ca0c5816cc60113f5d5/</guid><description>
 Article URL: https://www.bloomberg.com/news/articles/2021-02-27/coinbase-mafia-shows-how-tight-a-circle-holds-sway-over-bitcoin
-Comments …</description></item><item><title>Multi-User Dungeons (MUDs): What Are They? and How to Play</title><link>https://news.panz3r.dev/post/b58d225f1764f020df028b6f715893482d3cdf96c2407e0a88e007c84ab2268b/</link><pubDate>Sun, 28 Feb 2021 06:26:40 +0000</pubDate><guid>https://news.panz3r.dev/post/b58d225f1764f020df028b6f715893482d3cdf96c2407e0a88e007c84ab2268b/</guid><description>
+Comments …</description></item><item><title>Building a Design System at a Startup</title><link>https://news.panz3r.dev/post/1da796a32db049c8db371c6e811ce76eb9b858741b229f98a00d0828ffdbc799/</link><pubDate>Sun, 28 Feb 2021 06:49:37 +0000</pubDate><guid>https://news.panz3r.dev/post/1da796a32db049c8db371c6e811ce76eb9b858741b229f98a00d0828ffdbc799/</guid><description>
+Article URL: https://medium.com/deepnote/building-a-design-system-at-a-startup-7b352d9875b3
+Comments URL: …</description></item><item><title>Multi-User Dungeons (MUDs): What Are They? and How to Play</title><link>https://news.panz3r.dev/post/b58d225f1764f020df028b6f715893482d3cdf96c2407e0a88e007c84ab2268b/</link><pubDate>Sun, 28 Feb 2021 06:26:40 +0000</pubDate><guid>https://news.panz3r.dev/post/b58d225f1764f020df028b6f715893482d3cdf96c2407e0a88e007c84ab2268b/</guid><description>
 Article URL: https://medium.com/@williamson.f93/multi-user-dungeons-muds-what-are-they-and-how-to-play-af3ec0f29f4a
 Comments URL: …</description></item><item><title>Universal Radio Hacker: Investigate Wireless Protocols Like a Boss</title><link>https://news.panz3r.dev/post/b8ec4f26083ea1d84fdf0d9bac750426d4498df6118cc161369e1b6b42c07c3c/</link><pubDate>Sun, 28 Feb 2021 04:35:52 +0000</pubDate><guid>https://news.panz3r.dev/post/b8ec4f26083ea1d84fdf0d9bac750426d4498df6118cc161369e1b6b42c07c3c/</guid><description>
 Article URL: https://github.com/jopohl/urh
@@ -501,27 +515,4 @@ Comments URL: https://news.ycombinator.com/item?id=26247813
 Points: 53
 # Comments: 11</description></item><item><title>LinkedIn is building a gig marketplace</title><link>https://news.panz3r.dev/post/81eceafac128bc7fe9ce81ba83846c53961e240128a1546f0ae9f26d001b5b26/</link><pubDate>Wed, 24 Feb 2021 06:40:59 +0000</pubDate><guid>https://news.panz3r.dev/post/81eceafac128bc7fe9ce81ba83846c53961e240128a1546f0ae9f26d001b5b26/</guid><description>
 Article URL: https://aimgroup.com/2021/02/22/linkedin-building-gig-marketplace/
-Comments URL: https://news.ycombinator.com/item?id=26247278 …</description></item><item><title>RaSCSI: A virtual SCSI device emulator that runs on a Raspberry Pi</title><link>https://news.panz3r.dev/post/8127b19864fa9a02593d421352d0d44701554550690315900cc4796136dba5fd/</link><pubDate>Wed, 24 Feb 2021 06:00:59 +0000</pubDate><guid>https://news.panz3r.dev/post/8127b19864fa9a02593d421352d0d44701554550690315900cc4796136dba5fd/</guid><description>
-Article URL: https://github.com/akuker/RASCSI/wiki
-Comments URL: https://news.ycombinator.com/item?id=26247078
-Points: 50
-# Comments: 18</description></item><item><title>Modules, Monoliths, and Microservices</title><link>https://news.panz3r.dev/post/85aabef2bdbb4839a31a324d0fdb5faf0273a182782d09b87f284a0efeffdac2/</link><pubDate>Wed, 24 Feb 2021 05:54:12 +0000</pubDate><guid>https://news.panz3r.dev/post/85aabef2bdbb4839a31a324d0fdb5faf0273a182782d09b87f284a0efeffdac2/</guid><description>
-Article URL: https://tailscale.com/blog/modules-monoliths-and-microservices/
-Comments URL: https://news.ycombinator.com/item?id=26247052 …</description></item><item><title>On Writing More</title><link>https://news.panz3r.dev/post/5e32e3695bff5bf89ccc8e58e70f1cd6935b4580fb4c066c04798ed0a978725b/</link><pubDate>Wed, 24 Feb 2021 04:37:47 +0000</pubDate><guid>https://news.panz3r.dev/post/5e32e3695bff5bf89ccc8e58e70f1cd6935b4580fb4c066c04798ed0a978725b/</guid><description>
-Article URL: https://ava.substack.com/p/on-writing-more
-Comments URL: https://news.ycombinator.com/item?id=26246619
-Points: 97
-# Comments: …</description></item><item><title>Fry's Electronics is closing all stores</title><link>https://news.panz3r.dev/post/c1c8afd919275f9fb886165b8322597df5b305521b2d5113fff22d4f5db64012/</link><pubDate>Wed, 24 Feb 2021 04:00:46 +0000</pubDate><guid>https://news.panz3r.dev/post/c1c8afd919275f9fb886165b8322597df5b305521b2d5113fff22d4f5db64012/</guid><description>
-Article URL: https://twitter.com/bill0004/status/1364407906192424964
-Comments URL: https://news.ycombinator.com/item?id=26246435
-Points: 327 …</description></item><item><title>Making Games on Your Own as an Engineer</title><link>https://news.panz3r.dev/post/30dfe34df0323a6bd9bd73e9c1e9fe853917c935a4d55c846bdd1d8d63c25528/</link><pubDate>Wed, 24 Feb 2021 02:49:08 +0000</pubDate><guid>https://news.panz3r.dev/post/30dfe34df0323a6bd9bd73e9c1e9fe853917c935a4d55c846bdd1d8d63c25528/</guid><description>
-Article URL: https://blog.eyas.sh/2021/02/unity-for-engineers-pt11-development-process/
-Comments URL: …</description></item><item><title>Building an E-Ink Laptop</title><link>https://news.panz3r.dev/post/92fde43e19b190dc1ee2bcba5b8b5bc2c75bea641aa7cf24c36bbaf8d6d028f3/</link><pubDate>Wed, 24 Feb 2021 01:39:15 +0000</pubDate><guid>https://news.panz3r.dev/post/92fde43e19b190dc1ee2bcba5b8b5bc2c75bea641aa7cf24c36bbaf8d6d028f3/</guid><description>
-Article URL: https://alexsoto.dev/building-an-e-ink-laptop.html
-Comments URL: https://news.ycombinator.com/item?id=26245563
-Points: 206
-# …</description></item><item><title>Logarithmic Maps of the Universe</title><link>https://news.panz3r.dev/post/665f74c667c5f2e66ceaa324269d98c5032f331c2923e2777b817647df5747ce/</link><pubDate>Wed, 24 Feb 2021 01:29:34 +0000</pubDate><guid>https://news.panz3r.dev/post/665f74c667c5f2e66ceaa324269d98c5032f331c2923e2777b817647df5747ce/</guid><description>
-Article URL: https://www.astro.princeton.edu/universe/
-Comments URL: https://news.ycombinator.com/item?id=26245502
-Points: 66
-# Comments: 12 …</description></item></channel></rss>
+Comments URL: https://news.ycombinator.com/item?id=26247278 …</description></item></channel></rss>

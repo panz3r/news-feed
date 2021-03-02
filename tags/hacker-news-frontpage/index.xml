@@ -1,16 +1,51 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hacker-News-Frontpage on Panz3r News</title><link>https://news.panz3r.dev/tags/hacker-news-frontpage/</link><description>Recent content in Hacker-News-Frontpage on news.panz3r.dev</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Panz3r 2020 | Vitae theme for Hugo</copyright><lastBuildDate>Tue, 02 Mar 2021 16:11:20 +0000</lastBuildDate><atom:link href="https://news.panz3r.dev/tags/hacker-news-frontpage/index.xml" rel="self" type="application/rss+xml"/><item><title>Launch HN: Athens Research (YC W21) – Open-Source Roam Research</title><link>https://news.panz3r.dev/post/0aaeab322378c922e798892a475d8e01493aca856ce4e95ef081ed0e83b67adc/</link><pubDate>Tue, 02 Mar 2021 16:11:20 +0000</pubDate><guid>https://news.panz3r.dev/post/0aaeab322378c922e798892a475d8e01493aca856ce4e95ef081ed0e83b67adc/</guid><description>
-Hi Hacker News! My name is Jeff Tang and I'm the founder of Athens Research. Athens is an open-source and local-first alternative to Roam …</description></item><item><title>ClickHouse as an alternative to Elasticsearch for log storage and analysis</title><link>https://news.panz3r.dev/post/a15dcc3df151a9ff6f81e1731b075debdc73f6568faa90415f190e1d4a82a92e/</link><pubDate>Tue, 02 Mar 2021 15:40:32 +0000</pubDate><guid>https://news.panz3r.dev/post/a15dcc3df151a9ff6f81e1731b075debdc73f6568faa90415f190e1d4a82a92e/</guid><description>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hacker-News-Frontpage on Panz3r News</title><link>https://news.panz3r.dev/tags/hacker-news-frontpage/</link><description>Recent content in Hacker-News-Frontpage on news.panz3r.dev</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Panz3r 2020 | Vitae theme for Hugo</copyright><lastBuildDate>Tue, 02 Mar 2021 22:38:24 +0000</lastBuildDate><atom:link href="https://news.panz3r.dev/tags/hacker-news-frontpage/index.xml" rel="self" type="application/rss+xml"/><item><title>MIT Press has granted full access to all its journals</title><link>https://news.panz3r.dev/post/eb5b8504a954efaa3662f997d758f334c6d33e6358bceafd51ce6ec2e4bc52cb/</link><pubDate>Tue, 02 Mar 2021 22:38:24 +0000</pubDate><guid>https://news.panz3r.dev/post/eb5b8504a954efaa3662f997d758f334c6d33e6358bceafd51ce6ec2e4bc52cb/</guid><description>
+Article URL: https://www.mitpressjournals.org/action/showPublications
+Comments URL: https://news.ycombinator.com/item?id=26322089
+Points: …</description></item><item><title>“This destroys the RSA cryptosystem”</title><link>https://news.panz3r.dev/post/ebfe07fc230341f9c38d9a633a843022d0218d5cb4a938f1c7fc0d0c764deb9e/</link><pubDate>Tue, 02 Mar 2021 22:29:14 +0000</pubDate><guid>https://news.panz3r.dev/post/ebfe07fc230341f9c38d9a633a843022d0218d5cb4a938f1c7fc0d0c764deb9e/</guid><description>
+Article URL: https://eprint.iacr.org/2021/232
+Comments URL: https://news.ycombinator.com/item?id=26321962
+Points: 135
+# Comments: 58</description></item><item><title>Watchy: The Hackable $50 Smartwatch</title><link>https://news.panz3r.dev/post/ae74b1d875460bf5f976dcbd73aeeeb653b5b379b93c28475277db0e00f606d8/</link><pubDate>Tue, 02 Mar 2021 20:53:43 +0000</pubDate><guid>https://news.panz3r.dev/post/ae74b1d875460bf5f976dcbd73aeeeb653b5b379b93c28475277db0e00f606d8/</guid><description>
+Article URL: https://spectrum.ieee.org/geek-life/hands-on/watchy-the-hackable-50-smartwatch
+Comments URL: …</description></item><item><title>Beyond Meat signs global supply deals with McDonald’s, KFC and Pizza Hut</title><link>https://news.panz3r.dev/post/668273b9fa3353886480864956c254ebb9952f1853bb99cab88679ef5e8236cb/</link><pubDate>Tue, 02 Mar 2021 20:04:44 +0000</pubDate><guid>https://news.panz3r.dev/post/668273b9fa3353886480864956c254ebb9952f1853bb99cab88679ef5e8236cb/</guid><description>
+Article URL: https://agfundernews.com/beyond-meat-signs-global-supply-deals-with-mcdonalds-yum-brands.html
+Comments URL: …</description></item><item><title>Rookie coding mistake prior to Gab hack came from site’s CTO</title><link>https://news.panz3r.dev/post/199824c6b4ec65a21f69b5ab8669db91602c3752fa96aa4b0074a90838098d21/</link><pubDate>Tue, 02 Mar 2021 19:50:04 +0000</pubDate><guid>https://news.panz3r.dev/post/199824c6b4ec65a21f69b5ab8669db91602c3752fa96aa4b0074a90838098d21/</guid><description>
+Article URL: https://arstechnica.com/gadgets/2021/03/rookie-coding-mistake-prior-to-gab-hack-came-from-sites-cto/
+Comments URL: …</description></item><item><title>jQuery 3.6.0</title><link>https://news.panz3r.dev/post/aaac429e6964320f66e518e01e16ba19ec1e722e584d8b44f248ab65b8efee46/</link><pubDate>Tue, 02 Mar 2021 18:51:23 +0000</pubDate><guid>https://news.panz3r.dev/post/aaac429e6964320f66e518e01e16ba19ec1e722e584d8b44f248ab65b8efee46/</guid><description>
+Article URL: http://blog.jquery.com/2021/03/02/jquery-3-6-0-released/
+Comments URL: https://news.ycombinator.com/item?id=26318872
+Points: …</description></item><item><title>Dieter Rams Palettes</title><link>https://news.panz3r.dev/post/9b31598ba0529ae81aaaf175b0d3a454157c4c58d40da9fcc00102575c008062/</link><pubDate>Tue, 02 Mar 2021 18:13:41 +0000</pubDate><guid>https://news.panz3r.dev/post/9b31598ba0529ae81aaaf175b0d3a454157c4c58d40da9fcc00102575c008062/</guid><description>
+Article URL: http://blog.presentandcorrect.com/rams-palettes
+Comments URL: https://news.ycombinator.com/item?id=26318379
+Points: 67
+# …</description></item><item><title>Robot AI beats world-class curling competitors (2020)</title><link>https://news.panz3r.dev/post/2a353601fe106451c0fb8b84ed0b1fae020953c017b7214dadf7ded832af9db3/</link><pubDate>Tue, 02 Mar 2021 18:12:28 +0000</pubDate><guid>https://news.panz3r.dev/post/2a353601fe106451c0fb8b84ed0b1fae020953c017b7214dadf7ded832af9db3/</guid><description>
+Article URL: https://www.scientificamerican.com/video/watch-a-robot-ai-beat-world-class-curling-competitors/
+Comments URL: …</description></item><item><title>Repl.it Teams for Education</title><link>https://news.panz3r.dev/post/8fd962a10967db49cfe780fc0a543c585cc017a94281a4f279db11d686202d3b/</link><pubDate>Tue, 02 Mar 2021 17:17:13 +0000</pubDate><guid>https://news.panz3r.dev/post/8fd962a10967db49cfe780fc0a543c585cc017a94281a4f279db11d686202d3b/</guid><description>
+Article URL: https://repl.it/teams-for-education
+Comments URL: https://news.ycombinator.com/item?id=26317642
+Points: 62
+# Comments: 36</description></item><item><title>Launch HN: Athens Research (YC W21) – Open-Source Roam Research</title><link>https://news.panz3r.dev/post/0aaeab322378c922e798892a475d8e01493aca856ce4e95ef081ed0e83b67adc/</link><pubDate>Tue, 02 Mar 2021 16:11:20 +0000</pubDate><guid>https://news.panz3r.dev/post/0aaeab322378c922e798892a475d8e01493aca856ce4e95ef081ed0e83b67adc/</guid><description>
+Hi Hacker News! My name is Jeff Tang and I'm the founder of Athens Research. Athens is an open-source and local-first alternative to Roam …</description></item><item><title>Lotus 1-2-3 arbitrary resolution</title><link>https://news.panz3r.dev/post/81bad0c789d2393ac9e438d72245ef4a532c01086b75cce2cc4eaec4414bbb8b/</link><pubDate>Tue, 02 Mar 2021 15:58:08 +0000</pubDate><guid>https://news.panz3r.dev/post/81bad0c789d2393ac9e438d72245ef4a532c01086b75cce2cc4eaec4414bbb8b/</guid><description>
+Article URL: https://lock.cmpxchg8b.com/lotus123.html
+Comments URL: https://news.ycombinator.com/item?id=26316637
+Points: 285
+# Comments: 70 …</description></item><item><title>ClickHouse as an alternative to Elasticsearch for log storage and analysis</title><link>https://news.panz3r.dev/post/a15dcc3df151a9ff6f81e1731b075debdc73f6568faa90415f190e1d4a82a92e/</link><pubDate>Tue, 02 Mar 2021 15:40:32 +0000</pubDate><guid>https://news.panz3r.dev/post/a15dcc3df151a9ff6f81e1731b075debdc73f6568faa90415f190e1d4a82a92e/</guid><description>
 Article URL: https://pixeljets.com/blog/clickhouse-vs-elasticsearch/
 Comments URL: https://news.ycombinator.com/item?id=26316401
-Points: 93 …</description></item><item><title>Bitcoin Is Time</title><link>https://news.panz3r.dev/post/2ef87e83e772b4a0d6cac8712bfbdc9c1763bd9df8b875de708b08a2799a155c/</link><pubDate>Tue, 02 Mar 2021 14:55:02 +0000</pubDate><guid>https://news.panz3r.dev/post/2ef87e83e772b4a0d6cac8712bfbdc9c1763bd9df8b875de708b08a2799a155c/</guid><description>
+Points: 272 …</description></item><item><title>The Web’s Missing Interoperability</title><link>https://news.panz3r.dev/post/2f937d6d69ca342d48fbe9a172a3c19893292fd19d06adc060082511bad25a39/</link><pubDate>Tue, 02 Mar 2021 15:24:34 +0000</pubDate><guid>https://news.panz3r.dev/post/2f937d6d69ca342d48fbe9a172a3c19893292fd19d06adc060082511bad25a39/</guid><description>
+Article URL: https://stratechery.com/2021/the-webs-missing-interoperability/
+Comments URL: https://news.ycombinator.com/item?id=26316209 …</description></item><item><title>Bitcoin Is Time</title><link>https://news.panz3r.dev/post/2ef87e83e772b4a0d6cac8712bfbdc9c1763bd9df8b875de708b08a2799a155c/</link><pubDate>Tue, 02 Mar 2021 14:55:02 +0000</pubDate><guid>https://news.panz3r.dev/post/2ef87e83e772b4a0d6cac8712bfbdc9c1763bd9df8b875de708b08a2799a155c/</guid><description>
 Article URL: https://dergigi.com/2021/01/14/bitcoin-is-time/
 Comments URL: https://news.ycombinator.com/item?id=26315923
-Points: 123
+Points: 311
 # …</description></item><item><title>SSH and User-Mode IP WireGuard</title><link>https://news.panz3r.dev/post/5022e1c320b81ad15d60c0340b4b28ebec66d9aae97624b8a8773298b9700010/</link><pubDate>Tue, 02 Mar 2021 14:34:04 +0000</pubDate><guid>https://news.panz3r.dev/post/5022e1c320b81ad15d60c0340b4b28ebec66d9aae97624b8a8773298b9700010/</guid><description>
 Article URL: https://fly.io/blog/ssh-and-user-mode-ip-wireguard/
 Comments URL: https://news.ycombinator.com/item?id=26315695
-Points: 150
-# …</description></item><item><title>Using Ghidra to Reverse Engineer Super Monkey Ball for GameCube</title><link>https://news.panz3r.dev/post/44b21b84f0657c4f547a29d78fbc2c9c6bf69a4aaf9cead2ca3332bba35d5559/</link><pubDate>Tue, 02 Mar 2021 14:01:30 +0000</pubDate><guid>https://news.panz3r.dev/post/44b21b84f0657c4f547a29d78fbc2c9c6bf69a4aaf9cead2ca3332bba35d5559/</guid><description>
+Points: 269
+# …</description></item><item><title>Launch HN: SST (YC W21) – A live development environment for AWS Lambda</title><link>https://news.panz3r.dev/post/caafab38c90064911ab81180f6e082446a0dee77891a2d47d04b84422772b2e1/</link><pubDate>Tue, 02 Mar 2021 14:23:56 +0000</pubDate><guid>https://news.panz3r.dev/post/caafab38c90064911ab81180f6e082446a0dee77891a2d47d04b84422772b2e1/</guid><description>
+Hi HN, we are Jay and Frank and we are working on SST (https://github.com/serverless-stack/serverless-stack).SST is a framework for building …</description></item><item><title>Rent controls have split housing in Berlin into two distinct markets</title><link>https://news.panz3r.dev/post/68ed6248caabf1b32f55a9446728b4759e17730fe7a7d17ec19962fba9785ab2/</link><pubDate>Tue, 02 Mar 2021 14:07:52 +0000</pubDate><guid>https://news.panz3r.dev/post/68ed6248caabf1b32f55a9446728b4759e17730fe7a7d17ec19962fba9785ab2/</guid><description>
+Article URL: https://www.bloomberg.com/opinion/articles/2021-03-02/berlin-s-rent-controls-are-proving-to-be-the-disaster-we-feared
+Comments …</description></item><item><title>Using Ghidra to Reverse Engineer Super Monkey Ball for GameCube</title><link>https://news.panz3r.dev/post/44b21b84f0657c4f547a29d78fbc2c9c6bf69a4aaf9cead2ca3332bba35d5559/</link><pubDate>Tue, 02 Mar 2021 14:01:30 +0000</pubDate><guid>https://news.panz3r.dev/post/44b21b84f0657c4f547a29d78fbc2c9c6bf69a4aaf9cead2ca3332bba35d5559/</guid><description>
 Article URL: https://www.smokingonabike.com/2021/02/28/hacking-super-monkey-ball-part-2-decompilation-with-ghidra/
 Comments URL: …</description></item><item><title>Mindsets to Avoid as a Senior Software Developer</title><link>https://news.panz3r.dev/post/281e0476018a1d4d7df45d4c62a509f4e21682517c8a9e35f0dd85c3e56beefd/</link><pubDate>Tue, 02 Mar 2021 13:36:03 +0000</pubDate><guid>https://news.panz3r.dev/post/281e0476018a1d4d7df45d4c62a509f4e21682517c8a9e35f0dd85c3e56beefd/</guid><description>
 Article URL: https://betterprogramming.pub/the-3-mindsets-to-avoid-as-a-senior-software-developer-efc8fa17fc3
@@ -529,35 +564,4 @@ Points: 87
 Article URL: https://beepb00p.xyz/myinfra.html
 Comments URL: https://news.ycombinator.com/item?id=26269832
 Points: 213
-# Comments: 58</description></item><item><title>Italy demands €733M in fines from food delivery platforms</title><link>https://news.panz3r.dev/post/09866061cd00274c88018c090da5f21ee5ad14fd4525e18e60301b754353b06a/</link><pubDate>Thu, 25 Feb 2021 21:42:04 +0000</pubDate><guid>https://news.panz3r.dev/post/09866061cd00274c88018c090da5f21ee5ad14fd4525e18e60301b754353b06a/</guid><description>
-Article URL: https://www.politico.eu/article/italy-demands-733-million-euros-in-fines-from-food-delivery-platforms/
-Comments URL: …</description></item><item><title>Technology Without Industry</title><link>https://news.panz3r.dev/post/e7c71ad85b25b8ecf1ca92f7e5b9204eeb2d274b680460982d1112c544986cde/</link><pubDate>Thu, 25 Feb 2021 21:20:43 +0000</pubDate><guid>https://news.panz3r.dev/post/e7c71ad85b25b8ecf1ca92f7e5b9204eeb2d274b680460982d1112c544986cde/</guid><description>
-Article URL: https://geohot.github.io/blog/jekyll/update/2021/01/18/technology-without-industry.html
-Comments URL: …</description></item><item><title>IoTaWatt Open Source WiFi Electric Power Monitor</title><link>https://news.panz3r.dev/post/82d19a4bb3bb2ada055414acd9ca62b254cf8b90a0824f34d769d5f726d58a40/</link><pubDate>Thu, 25 Feb 2021 21:18:13 +0000</pubDate><guid>https://news.panz3r.dev/post/82d19a4bb3bb2ada055414acd9ca62b254cf8b90a0824f34d769d5f726d58a40/</guid><description>
-Article URL: https://www.iotawatt.com/
-Comments URL: https://news.ycombinator.com/item?id=26268460
-Points: 160
-# Comments: 68</description></item><item><title>CP/Mish is an open source sort-of-CP/M distribution for Z80</title><link>https://news.panz3r.dev/post/c33878ea785f40cfffbf01ab548766342f7c339ae77de59b9e13793d5bf5c1cf/</link><pubDate>Thu, 25 Feb 2021 20:18:47 +0000</pubDate><guid>https://news.panz3r.dev/post/c33878ea785f40cfffbf01ab548766342f7c339ae77de59b9e13793d5bf5c1cf/</guid><description>
-Article URL: http://cowlark.com/cpmish/index.html
-Comments URL: https://news.ycombinator.com/item?id=26267707
-Points: 85
-# Comments: 25</description></item><item><title>Quitting Twitter</title><link>https://news.panz3r.dev/post/7e1accc74f580efe47f5175ccf0a9ccad3433f963aec978109929307d208536d/</link><pubDate>Thu, 25 Feb 2021 20:04:10 +0000</pubDate><guid>https://news.panz3r.dev/post/7e1accc74f580efe47f5175ccf0a9ccad3433f963aec978109929307d208536d/</guid><description>
-Article URL: https://blog.nindalf.com/posts/quitting-twitter/
-Comments URL: https://news.ycombinator.com/item?id=26267529
-Points: 253
-# …</description></item><item><title>Coinbase (2013)</title><link>https://news.panz3r.dev/post/d4e524ae70ce73d1e8f69d348dcba8eb88d6a843a7e24339f5e29201416e18e4/</link><pubDate>Thu, 25 Feb 2021 19:59:28 +0000</pubDate><guid>https://news.panz3r.dev/post/d4e524ae70ce73d1e8f69d348dcba8eb88d6a843a7e24339f5e29201416e18e4/</guid><description>
-Article URL: https://www.usv.com/writing/2013/05/coinbase/
-Comments URL: https://news.ycombinator.com/item?id=26267476
-Points: 50
-# …</description></item><item><title>Semiconductors Demand 30% Above Supply, 20% Year-on-Year Growth</title><link>https://news.panz3r.dev/post/27c9a1d122d19ed5eb4d6ef91a6dada49d67676b47b3f9b75fef5e9441b39a33/</link><pubDate>Thu, 25 Feb 2021 19:38:46 +0000</pubDate><guid>https://news.panz3r.dev/post/27c9a1d122d19ed5eb4d6ef91a6dada49d67676b47b3f9b75fef5e9441b39a33/</guid><description>
-Article URL: https://www.anandtech.com/show/16511/leading-foundries-enjoy-massive-revenue-growth-as-capacities-get-fully-loaded
-Comments …</description></item><item><title>Local-First Software:You Own Your Data, in Spite of the Cloud (2019) [pdf]</title><link>https://news.panz3r.dev/post/c72775bfc31229a4f68a2ce0f2dca582324c85b591ad184a4512e19bb6e10dc0/</link><pubDate>Thu, 25 Feb 2021 19:15:04 +0000</pubDate><guid>https://news.panz3r.dev/post/c72775bfc31229a4f68a2ce0f2dca582324c85b591ad184a4512e19bb6e10dc0/</guid><description>
-Article URL: https://martin.kleppmann.com/papers/local-first.pdf
-Comments URL: https://news.ycombinator.com/item?id=26266881
-Points: 173
-# …</description></item><item><title>Book Review: "This Is How They Tell Me the World Ends"</title><link>https://news.panz3r.dev/post/bec3d20210bb99f92caab405a67f42b1126d227c4c8f983b74b466771c579582/</link><pubDate>Thu, 25 Feb 2021 18:52:07 +0000</pubDate><guid>https://news.panz3r.dev/post/bec3d20210bb99f92caab405a67f42b1126d227c4c8f983b74b466771c579582/</guid><description>
-Article URL: http://addxorrol.blogspot.com/2021/02/book-review-this-is-how-they-tell-me.html
-Comments URL: …</description></item><item><title>The future of web software is HTML over WebSockets</title><link>https://news.panz3r.dev/post/6189e3c4d157975c9b6d24500115c1ed2a955c346609b475bee5e9e35fe8d668/</link><pubDate>Thu, 25 Feb 2021 18:10:02 +0000</pubDate><guid>https://news.panz3r.dev/post/6189e3c4d157975c9b6d24500115c1ed2a955c346609b475bee5e9e35fe8d668/</guid><description>
-Article URL: https://alistapart.com/article/the-future-of-web-software-is-html-over-websockets/
-Comments URL: …</description></item><item><title>Launch HN: Enombic (YC S20) – Create your own stock indexes</title><link>https://news.panz3r.dev/post/06ebdaeba95813bf96510da9c5aa7c7de1ad37be78a10217c1f2df68dab53e6f/</link><pubDate>Thu, 25 Feb 2021 18:01:37 +0000</pubDate><guid>https://news.panz3r.dev/post/06ebdaeba95813bf96510da9c5aa7c7de1ad37be78a10217c1f2df68dab53e6f/</guid><description>
-Hey HN! We're Keri & Chris, the co-founders of Enombic (https://enombic.com/), a tool for designing your own custom stock indexes, investing …</description></item></channel></rss>
+# Comments: 58</description></item></channel></rss>

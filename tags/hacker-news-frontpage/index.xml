@@ -1,42 +1,65 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hacker-News-Frontpage on Panz3r News</title><link>https://news.panz3r.dev/tags/hacker-news-frontpage/</link><description>Recent content in Hacker-News-Frontpage on news.panz3r.dev</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Panz3r 2020 | Vitae theme for Hugo</copyright><lastBuildDate>Sun, 07 Mar 2021 04:22:32 +0000</lastBuildDate><atom:link href="https://news.panz3r.dev/tags/hacker-news-frontpage/index.xml" rel="self" type="application/rss+xml"/><item><title>NFTs Are a Dangerous Trap</title><link>https://news.panz3r.dev/post/1b76b3abbf62aeb2aafab61f456ab77560d9f60069f23af31d265663d6d618d2/</link><pubDate>Sun, 07 Mar 2021 04:22:32 +0000</pubDate><guid>https://news.panz3r.dev/post/1b76b3abbf62aeb2aafab61f456ab77560d9f60069f23af31d265663d6d618d2/</guid><description>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hacker-News-Frontpage on Panz3r News</title><link>https://news.panz3r.dev/tags/hacker-news-frontpage/</link><description>Recent content in Hacker-News-Frontpage on news.panz3r.dev</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Panz3r 2020 | Vitae theme for Hugo</copyright><lastBuildDate>Sun, 07 Mar 2021 08:42:12 +0000</lastBuildDate><atom:link href="https://news.panz3r.dev/tags/hacker-news-frontpage/index.xml" rel="self" type="application/rss+xml"/><item><title>I rewrote my Rust keyboard firmware in Zig: consistency, mastery, and fun</title><link>https://news.panz3r.dev/post/12ed55d7889d1b9a9589e49bd3c98fec70dda4461921598f0e5b3ecf2df11120/</link><pubDate>Sun, 07 Mar 2021 08:42:12 +0000</pubDate><guid>https://news.panz3r.dev/post/12ed55d7889d1b9a9589e49bd3c98fec70dda4461921598f0e5b3ecf2df11120/</guid><description>
+Article URL: https://kevinlynagh.com/rust-zig/
+Comments URL: https://news.ycombinator.com/item?id=26374268
+Points: 136
+# Comments: 54</description></item><item><title>The Ergodicity Problem in Economics</title><link>https://news.panz3r.dev/post/2263cc837528ccb7e3eca766eae6eeb45e763d763134c4547986ee918a1385aa/</link><pubDate>Sun, 07 Mar 2021 07:01:32 +0000</pubDate><guid>https://news.panz3r.dev/post/2263cc837528ccb7e3eca766eae6eeb45e763d763134c4547986ee918a1385aa/</guid><description>
+Article URL: https://www.nature.com/articles/s41567-019-0732-0
+Comments URL: https://news.ycombinator.com/item?id=26373847
+Points: 69
+# …</description></item><item><title>Divorce rate cut in half for couples who discussed relationship movies (2014)</title><link>https://news.panz3r.dev/post/8ae2cccc14aee4a3c72fa981adcb79ab636760c0d3a6f44672009e06b7910f78/</link><pubDate>Sun, 07 Mar 2021 05:59:58 +0000</pubDate><guid>https://news.panz3r.dev/post/8ae2cccc14aee4a3c72fa981adcb79ab636760c0d3a6f44672009e06b7910f78/</guid><description>
+Article URL: https://www.rochester.edu/news/divorce-rate-cut-in-half-for-couples-who-discussed-relationship-movies/
+Comments URL: …</description></item><item><title>507 Mechanical Movements (1868)</title><link>https://news.panz3r.dev/post/6c2e98dc8087ddfe431aefc7f5b4366a84c996bef883cc2bd8af3cbf7b7f4604/</link><pubDate>Sun, 07 Mar 2021 05:58:56 +0000</pubDate><guid>https://news.panz3r.dev/post/6c2e98dc8087ddfe431aefc7f5b4366a84c996bef883cc2bd8af3cbf7b7f4604/</guid><description>
+Article URL: http://507movements.com
+Comments URL: https://news.ycombinator.com/item?id=26373539
+Points: 58
+# Comments: 4</description></item><item><title>Don’t use 7-segment displays (2011) [pdf]</title><link>https://news.panz3r.dev/post/5da187772ac19f66480687a5be9d2188604e980beb3bee9e66f6d06f8b4361af/</link><pubDate>Sun, 07 Mar 2021 05:27:50 +0000</pubDate><guid>https://news.panz3r.dev/post/5da187772ac19f66480687a5be9d2188604e980beb3bee9e66f6d06f8b4361af/</guid><description>
+Article URL: http://www.harold.thimbleby.net/cv/files/seven-segment.pdf
+Comments URL: https://news.ycombinator.com/item?id=26373405
+Points: …</description></item><item><title>ISO Standard for Preparing Tea</title><link>https://news.panz3r.dev/post/6743cf9f84e0a9f59f8d3cf1b442ae984cc00f0145183d21216172a63be8d175/</link><pubDate>Sun, 07 Mar 2021 05:14:51 +0000</pubDate><guid>https://news.panz3r.dev/post/6743cf9f84e0a9f59f8d3cf1b442ae984cc00f0145183d21216172a63be8d175/</guid><description>
+Article URL: https://en.wikipedia.org/wiki/ISO_3103
+Comments URL: https://news.ycombinator.com/item?id=26373364
+Points: 103
+# Comments: 64</description></item><item><title>NFTs Are a Dangerous Trap</title><link>https://news.panz3r.dev/post/1b76b3abbf62aeb2aafab61f456ab77560d9f60069f23af31d265663d6d618d2/</link><pubDate>Sun, 07 Mar 2021 04:22:32 +0000</pubDate><guid>https://news.panz3r.dev/post/1b76b3abbf62aeb2aafab61f456ab77560d9f60069f23af31d265663d6d618d2/</guid><description>
 Article URL: https://seths.blog/2021/03/nfts-are-a-dangerous-trap/
 Comments URL: https://news.ycombinator.com/item?id=26373108
-Points: 149
+Points: 403
 # …</description></item><item><title>Functioning iPhone returned to owner after 6 months at bottom of lake</title><link>https://news.panz3r.dev/post/852bd1a2041e66acce3328c82b3a484900f9d332d61edc8d7a2a8d19992fba9f/</link><pubDate>Sun, 07 Mar 2021 01:54:08 +0000</pubDate><guid>https://news.panz3r.dev/post/852bd1a2041e66acce3328c82b3a484900f9d332d61edc8d7a2a8d19992fba9f/</guid><description>
 Article URL: https://www.cbc.ca/news/canada/british-columbia/cell-phone-recovered-from-harrison-lake-1.5937753?cmp=rss
-Comments URL: …</description></item><item><title>Procrastination is flight, deadline is fight, freeze is staring at the screen</title><link>https://news.panz3r.dev/post/a3c740d7dc0fe924c47fbcb15bdf716bd19dbb06d066e0983b60f09c8390a55e/</link><pubDate>Sun, 07 Mar 2021 00:19:56 +0000</pubDate><guid>https://news.panz3r.dev/post/a3c740d7dc0fe924c47fbcb15bdf716bd19dbb06d066e0983b60f09c8390a55e/</guid><description>
+Comments URL: …</description></item><item><title>Do Digital Platforms Reduce Moral Hazard? The Case of Uber and Taxis</title><link>https://news.panz3r.dev/post/6ef0acd7191e94087bcd030009aca0a3f082237482bc7c8041288a17a79dd0ce/</link><pubDate>Sun, 07 Mar 2021 01:18:16 +0000</pubDate><guid>https://news.panz3r.dev/post/6ef0acd7191e94087bcd030009aca0a3f082237482bc7c8041288a17a79dd0ce/</guid><description>
+Article URL: https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2020.3721
+Comments URL: https://news.ycombinator.com/item?id=26372185 …</description></item><item><title>Procrastination is flight, deadline is fight, freeze is staring at the screen</title><link>https://news.panz3r.dev/post/a3c740d7dc0fe924c47fbcb15bdf716bd19dbb06d066e0983b60f09c8390a55e/</link><pubDate>Sun, 07 Mar 2021 00:19:56 +0000</pubDate><guid>https://news.panz3r.dev/post/a3c740d7dc0fe924c47fbcb15bdf716bd19dbb06d066e0983b60f09c8390a55e/</guid><description>
 Article URL: https://pmigdal.medium.com/dont-fight-flight-or-freeze-your-body-and-emotions-96f5aa30b299
-Comments URL: …</description></item><item><title>Nodes.io – a new way to create with code</title><link>https://news.panz3r.dev/post/ae2b258682d096db053307035b20d1e73e6873fc91b34103fff9f960c5e1ac7a/</link><pubDate>Sun, 07 Mar 2021 00:16:27 +0000</pubDate><guid>https://news.panz3r.dev/post/ae2b258682d096db053307035b20d1e73e6873fc91b34103fff9f960c5e1ac7a/</guid><description>
+Comments URL: …</description></item><item><title>Nodes.io – A new way to create with code</title><link>https://news.panz3r.dev/post/ae2b258682d096db053307035b20d1e73e6873fc91b34103fff9f960c5e1ac7a/</link><pubDate>Sun, 07 Mar 2021 00:16:27 +0000</pubDate><guid>https://news.panz3r.dev/post/ae2b258682d096db053307035b20d1e73e6873fc91b34103fff9f960c5e1ac7a/</guid><description>
 Article URL: https://nodes.io/
 Comments URL: https://news.ycombinator.com/item?id=26371818
-Points: 189
-# Comments: 42</description></item><item><title>Cactus Comments: Federated web comments based on Matrix protocol</title><link>https://news.panz3r.dev/post/17bcd1b3be29422beccb08d8af28780c83815f2b58b5acb9b425612535eb1f07/</link><pubDate>Sun, 07 Mar 2021 00:14:52 +0000</pubDate><guid>https://news.panz3r.dev/post/17bcd1b3be29422beccb08d8af28780c83815f2b58b5acb9b425612535eb1f07/</guid><description>
+Points: 264
+# Comments: 55</description></item><item><title>Cactus Comments: Federated web comments based on Matrix protocol</title><link>https://news.panz3r.dev/post/17bcd1b3be29422beccb08d8af28780c83815f2b58b5acb9b425612535eb1f07/</link><pubDate>Sun, 07 Mar 2021 00:14:52 +0000</pubDate><guid>https://news.panz3r.dev/post/17bcd1b3be29422beccb08d8af28780c83815f2b58b5acb9b425612535eb1f07/</guid><description>
 Article URL: https://cactus.chat/
 Comments URL: https://news.ycombinator.com/item?id=26371813
-Points: 78
-# Comments: 13</description></item><item><title>Build Your Machine Today</title><link>https://news.panz3r.dev/post/27cb26bc8d3be1b2ee2bd8a353710b5f17ea27076bcb472b08e2275421dae98d/</link><pubDate>Sat, 06 Mar 2021 23:43:59 +0000</pubDate><guid>https://news.panz3r.dev/post/27cb26bc8d3be1b2ee2bd8a353710b5f17ea27076bcb472b08e2275421dae98d/</guid><description>
+Points: 115
+# Comments: 27</description></item><item><title>Build Your Machine Today</title><link>https://news.panz3r.dev/post/27cb26bc8d3be1b2ee2bd8a353710b5f17ea27076bcb472b08e2275421dae98d/</link><pubDate>Sat, 06 Mar 2021 23:43:59 +0000</pubDate><guid>https://news.panz3r.dev/post/27cb26bc8d3be1b2ee2bd8a353710b5f17ea27076bcb472b08e2275421dae98d/</guid><description>
 Article URL: https://vention.io
 Comments URL: https://news.ycombinator.com/item?id=26371625
-Points: 63
-# Comments: 15</description></item><item><title>YouTuber Builds Working 3D-Printed Turbojet Engine and Tests It in His Attic</title><link>https://news.panz3r.dev/post/727ea91c6bb9d97f93409e1807c85b39f72b8c4b86b6febb01e74850045dc90e/</link><pubDate>Sat, 06 Mar 2021 22:18:23 +0000</pubDate><guid>https://news.panz3r.dev/post/727ea91c6bb9d97f93409e1807c85b39f72b8c4b86b6febb01e74850045dc90e/</guid><description>
+Points: 91
+# Comments: 19</description></item><item><title>YouTuber Builds Working 3D-Printed Turbojet Engine and Tests It in His Attic</title><link>https://news.panz3r.dev/post/727ea91c6bb9d97f93409e1807c85b39f72b8c4b86b6febb01e74850045dc90e/</link><pubDate>Sat, 06 Mar 2021 22:18:23 +0000</pubDate><guid>https://news.panz3r.dev/post/727ea91c6bb9d97f93409e1807c85b39f72b8c4b86b6febb01e74850045dc90e/</guid><description>
 Article URL: https://www.thedrive.com/news/39624/youtuber-builds-working-3d-printed-turbojet-engine-and-tests-it-in-his-attic
 Comments URL: …</description></item><item><title>FFMPEG from Zero to Hero</title><link>https://news.panz3r.dev/post/efd2d45aed59c804e4b0dfc8e374a907113a46caad90994dc47f82152e1eab21/</link><pubDate>Sat, 06 Mar 2021 21:32:16 +0000</pubDate><guid>https://news.panz3r.dev/post/efd2d45aed59c804e4b0dfc8e374a907113a46caad90994dc47f82152e1eab21/</guid><description>
 Article URL: https://ffmpegfromzerotohero.com/
 Comments URL: https://news.ycombinator.com/item?id=26370704
-Points: 245
-# Comments: 78</description></item><item><title>Dolt is Git for Data: a SQL database that you can fork, clone, branch, merge</title><link>https://news.panz3r.dev/post/982734e7caf7a97e5ad1d6c396e53ea56b2fb95fdcea90d268fcddc48bf2c930/</link><pubDate>Sat, 06 Mar 2021 21:15:05 +0000</pubDate><guid>https://news.panz3r.dev/post/982734e7caf7a97e5ad1d6c396e53ea56b2fb95fdcea90d268fcddc48bf2c930/</guid><description>
+Points: 320
+# Comments: 109</description></item><item><title>Dolt is Git for Data: a SQL database that you can fork, clone, branch, merge</title><link>https://news.panz3r.dev/post/982734e7caf7a97e5ad1d6c396e53ea56b2fb95fdcea90d268fcddc48bf2c930/</link><pubDate>Sat, 06 Mar 2021 21:15:05 +0000</pubDate><guid>https://news.panz3r.dev/post/982734e7caf7a97e5ad1d6c396e53ea56b2fb95fdcea90d268fcddc48bf2c930/</guid><description>
 Article URL: https://github.com/dolthub/dolt#dolt
 Comments URL: https://news.ycombinator.com/item?id=26370572
-Points: 472
-# Comments: 137</description></item><item><title>Download the Entire Wikimedia Database</title><link>https://news.panz3r.dev/post/498b270841ece78dbdd81fd5eab637926f8ca45bb946b3b4d01343fd1c450602/</link><pubDate>Sat, 06 Mar 2021 20:46:24 +0000</pubDate><guid>https://news.panz3r.dev/post/498b270841ece78dbdd81fd5eab637926f8ca45bb946b3b4d01343fd1c450602/</guid><description>
+Points: 606
+# Comments: 149</description></item><item><title>Download the Entire Wikimedia Database</title><link>https://news.panz3r.dev/post/498b270841ece78dbdd81fd5eab637926f8ca45bb946b3b4d01343fd1c450602/</link><pubDate>Sat, 06 Mar 2021 20:46:24 +0000</pubDate><guid>https://news.panz3r.dev/post/498b270841ece78dbdd81fd5eab637926f8ca45bb946b3b4d01343fd1c450602/</guid><description>
 Article URL: https://dumps.wikimedia.org/
 Comments URL: https://news.ycombinator.com/item?id=26370397
 Points: 111
 # Comments: 52</description></item><item><title>WordStar: A Writer's Word Processor (1996)</title><link>https://news.panz3r.dev/post/780cb068cd925ab23190307b495494d90e4e3b6fdade8cf24876f3c20f156281/</link><pubDate>Sat, 06 Mar 2021 20:24:56 +0000</pubDate><guid>https://news.panz3r.dev/post/780cb068cd925ab23190307b495494d90e4e3b6fdade8cf24876f3c20f156281/</guid><description>
 Article URL: http://sfwriter.com/wordstar.htm
 Comments URL: https://news.ycombinator.com/item?id=26370252
-Points: 111
-# Comments: 73</description></item><item><title>Tesla has closed its forums to launch a social platform and fans are not happy</title><link>https://news.panz3r.dev/post/935435a2fc2124c925163ac331f0817e4e53fda786cc9b8d21ef84a8a8116e0c/</link><pubDate>Sat, 06 Mar 2021 19:02:45 +0000</pubDate><guid>https://news.panz3r.dev/post/935435a2fc2124c925163ac331f0817e4e53fda786cc9b8d21ef84a8a8116e0c/</guid><description>
+Points: 131
+# Comments: 81</description></item><item><title>Tesla has closed its forums to launch a social platform and fans are not happy</title><link>https://news.panz3r.dev/post/935435a2fc2124c925163ac331f0817e4e53fda786cc9b8d21ef84a8a8116e0c/</link><pubDate>Sat, 06 Mar 2021 19:02:45 +0000</pubDate><guid>https://news.panz3r.dev/post/935435a2fc2124c925163ac331f0817e4e53fda786cc9b8d21ef84a8a8116e0c/</guid><description>
 Article URL: https://techcrunch.com/2021/03/05/tesla-has-closed-its-forums-to-launch-a-social-platform-and-fans-are-not-happy/
 Comments URL: …</description></item><item><title>Jack Dorsey Dorsey is attempting to sell his first tweet as an NFT</title><link>https://news.panz3r.dev/post/30ebbccbed284df87fb233d23c8b4dbb1ccebc5db8bceaf0d4c56ca718e75751/</link><pubDate>Sat, 06 Mar 2021 18:50:30 +0000</pubDate><guid>https://news.panz3r.dev/post/30ebbccbed284df87fb233d23c8b4dbb1ccebc5db8bceaf0d4c56ca718e75751/</guid><description>
 Article URL: https://www.theverge.com/2021/3/5/22316320/jack-dorsey-original-tweet-nft-cent-valuables
@@ -55,8 +78,8 @@ Article URL: https://www.wired.com/story/china-microsoft-exchange-server-hack-vi
 Comments URL: …</description></item><item><title>Animated Engines</title><link>https://news.panz3r.dev/post/0107b539b6101e9e1795ec37707332c18d930febf91c3184ae7305f4cba86fa3/</link><pubDate>Sat, 06 Mar 2021 17:29:04 +0000</pubDate><guid>https://news.panz3r.dev/post/0107b539b6101e9e1795ec37707332c18d930febf91c3184ae7305f4cba86fa3/</guid><description>
 Article URL: http://animatedengines.com/
 Comments URL: https://news.ycombinator.com/item?id=26368939
-Points: 538
-# Comments: 71</description></item><item><title>The bizarre beasts living in Romania's poison cave (2015)</title><link>https://news.panz3r.dev/post/3714bbe45be9006ef8086141966875746a243da9b9b5d1670ecd2bdab412dff0/</link><pubDate>Sat, 06 Mar 2021 17:07:35 +0000</pubDate><guid>https://news.panz3r.dev/post/3714bbe45be9006ef8086141966875746a243da9b9b5d1670ecd2bdab412dff0/</guid><description>
+Points: 606
+# Comments: 75</description></item><item><title>The bizarre beasts living in Romania's poison cave (2015)</title><link>https://news.panz3r.dev/post/3714bbe45be9006ef8086141966875746a243da9b9b5d1670ecd2bdab412dff0/</link><pubDate>Sat, 06 Mar 2021 17:07:35 +0000</pubDate><guid>https://news.panz3r.dev/post/3714bbe45be9006ef8086141966875746a243da9b9b5d1670ecd2bdab412dff0/</guid><description>
 Article URL: http://www.bbc.co.uk/earth/story/20150904-the-bizarre-beasts-living-in-romanias-poison-cave
 Comments URL: …</description></item><item><title>Virtual Particles: What are they? (2011)</title><link>https://news.panz3r.dev/post/7193daae12ebd5e689f29784d04a524b12a45a5b34ca96d1edbb24026ea1221d/</link><pubDate>Sat, 06 Mar 2021 16:51:05 +0000</pubDate><guid>https://news.panz3r.dev/post/7193daae12ebd5e689f29784d04a524b12a45a5b34ca96d1edbb24026ea1221d/</guid><description>
 Article URL: https://profmattstrassler.com/articles-and-posts/particle-physics-basics/virtual-particles-what-are-they/
@@ -564,20 +587,4 @@ Points: 103
 Article URL: https://github.com/pgrange/bash_unit
 Comments URL: https://news.ycombinator.com/item?id=26314160
 Points: 85
-# Comments: 50</description></item><item><title>Physicists have filmed the oscillation of a time crystal</title><link>https://news.panz3r.dev/post/182f9a4c56fdb293824c620b15a6ff200b370c77c3de867db12f60bbc11bbf79/</link><pubDate>Tue, 02 Mar 2021 10:53:09 +0000</pubDate><guid>https://news.panz3r.dev/post/182f9a4c56fdb293824c620b15a6ff200b370c77c3de867db12f60bbc11bbf79/</guid><description>
-Article URL: https://www.sciencealert.com/watch-the-first-ever-video-of-a-time-crystal-oscillating
-Comments URL: …</description></item><item><title>LastPass Android app has got 7 trackers in it</title><link>https://news.panz3r.dev/post/ff7abf9153e76f39067f4fbf43d75f00220d40c626932479a854a427ad93f4ce/</link><pubDate>Tue, 02 Mar 2021 08:50:33 +0000</pubDate><guid>https://news.panz3r.dev/post/ff7abf9153e76f39067f4fbf43d75f00220d40c626932479a854a427ad93f4ce/</guid><description>
-Article URL: https://reports.exodus-privacy.eu.org/en/reports/165465/
-Comments URL: https://news.ycombinator.com/item?id=26313254
-Points: 68 …</description></item><item><title>Show HN: A network of weather stations to help prevent pesticide spray drift</title><link>https://news.panz3r.dev/post/a7cec7959ac0150a357fee42931fcd92ee328340a1776d178125e6b2067c4cc2/</link><pubDate>Tue, 02 Mar 2021 08:42:10 +0000</pubDate><guid>https://news.panz3r.dev/post/a7cec7959ac0150a357fee42931fcd92ee328340a1776d178125e6b2067c4cc2/</guid><description>
-Article URL: https://cotl.com.au/launch.html
-Comments URL: https://news.ycombinator.com/item?id=26313216
-Points: 54
-# Comments: 17</description></item><item><title>An Introduction to Hierarchical Modeling</title><link>https://news.panz3r.dev/post/fd078c382dfec4d9e9bbbc55912d8b16cb53d7cf82147c34382a5d4e7472c270/</link><pubDate>Tue, 02 Mar 2021 07:50:34 +0000</pubDate><guid>https://news.panz3r.dev/post/fd078c382dfec4d9e9bbbc55912d8b16cb53d7cf82147c34382a5d4e7472c270/</guid><description>
-Article URL: http://mfviz.com/hierarchical-models/
-Comments URL: https://news.ycombinator.com/item?id=26312904
-Points: 82
-# Comments: 11</description></item><item><title>Speed Is the Killer Feature</title><link>https://news.panz3r.dev/post/0d4b0c18b35553a83bcb8d8a373d0f081bf3fdc9b14662acddb2a2fef41bbe18/</link><pubDate>Tue, 02 Mar 2021 06:40:48 +0000</pubDate><guid>https://news.panz3r.dev/post/0d4b0c18b35553a83bcb8d8a373d0f081bf3fdc9b14662acddb2a2fef41bbe18/</guid><description>
-Article URL: https://bdickason.com/posts/speed-is-the-killer-feature/
-Comments URL: https://news.ycombinator.com/item?id=26312516
-Points: …</description></item></channel></rss>
+# Comments: 50</description></item></channel></rss>

@@ -1,29 +1,59 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hacker-News-Frontpage on Panz3r News</title><link>https://news.panz3r.dev/tags/hacker-news-frontpage/</link><description>Recent content in Hacker-News-Frontpage on news.panz3r.dev</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Panz3r 2020 | Vitae theme for Hugo</copyright><lastBuildDate>Tue, 09 Mar 2021 22:11:09 +0000</lastBuildDate><atom:link href="https://news.panz3r.dev/tags/hacker-news-frontpage/index.xml" rel="self" type="application/rss+xml"/><item><title>Hackers Break into Thousands of Security Cameras, Exposing Tesla, Jail, Hospital</title><link>https://news.panz3r.dev/post/06f995217711ede07745c4ce31aed68447e0add4c408f2af590002c459e13725/</link><pubDate>Tue, 09 Mar 2021 22:11:09 +0000</pubDate><guid>https://news.panz3r.dev/post/06f995217711ede07745c4ce31aed68447e0add4c408f2af590002c459e13725/</guid><description>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hacker-News-Frontpage on Panz3r News</title><link>https://news.panz3r.dev/tags/hacker-news-frontpage/</link><description>Recent content in Hacker-News-Frontpage on news.panz3r.dev</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Panz3r 2020 | Vitae theme for Hugo</copyright><lastBuildDate>Wed, 10 Mar 2021 03:11:59 +0000</lastBuildDate><atom:link href="https://news.panz3r.dev/tags/hacker-news-frontpage/index.xml" rel="self" type="application/rss+xml"/><item><title>Fire declared in OVH SBG2 datacentre building</title><link>https://news.panz3r.dev/post/27597eada644975957efdf20a41a31a2f98562ccdd5f8c55601c3f0ed27b9740/</link><pubDate>Wed, 10 Mar 2021 03:11:59 +0000</pubDate><guid>https://news.panz3r.dev/post/27597eada644975957efdf20a41a31a2f98562ccdd5f8c55601c3f0ed27b9740/</guid><description>
+Article URL: http://travaux.ovh.net/?do=details&id=49471&
+Comments URL: https://news.ycombinator.com/item?id=26407323
+Points: 222
+# …</description></item><item><title>Why asynchronous Rust doesn't work</title><link>https://news.panz3r.dev/post/ea8841c98b354836838273c59101189d026c51631c5eaa93d408f467b9af2025/</link><pubDate>Wed, 10 Mar 2021 02:16:55 +0000</pubDate><guid>https://news.panz3r.dev/post/ea8841c98b354836838273c59101189d026c51631c5eaa93d408f467b9af2025/</guid><description>
+Article URL: https://theta.eu.org/2021/03/08/async-rust-2.html
+Comments URL: https://news.ycombinator.com/item?id=26406989
+Points: 217
+# …</description></item><item><title>Achieving 250K concurrent connections on Cloud Run</title><link>https://news.panz3r.dev/post/e28604a56da019668c3a342c3f3f09bd9e8f125eca012989396e4c50d1db6492/</link><pubDate>Wed, 10 Mar 2021 00:10:10 +0000</pubDate><guid>https://news.panz3r.dev/post/e28604a56da019668c3a342c3f3f09bd9e8f125eca012989396e4c50d1db6492/</guid><description>
+Article URL: https://ahmet.im/blog/cloud-run-chat-server/
+Comments URL: https://news.ycombinator.com/item?id=26406206
+Points: 92
+# Comments: …</description></item><item><title>Flipper Zero: Tamagochi for Hackers</title><link>https://news.panz3r.dev/post/afb76497aa45588cb3504293abbbaf1cda46f03b59598651c0d58151289bd7aa/</link><pubDate>Tue, 09 Mar 2021 23:34:30 +0000</pubDate><guid>https://news.panz3r.dev/post/afb76497aa45588cb3504293abbbaf1cda46f03b59598651c0d58151289bd7aa/</guid><description>
+Article URL: https://flipperzero.one/
+Comments URL: https://news.ycombinator.com/item?id=26405919
+Points: 149
+# Comments: 39</description></item><item><title>Report on an Unidentified Space Station (1982)</title><link>https://news.panz3r.dev/post/4c3a8ef5b2e68f280abdb37c7ed7c6fce0ec7eb5cf4793817701e0e8bfd8f179/</link><pubDate>Tue, 09 Mar 2021 22:49:46 +0000</pubDate><guid>https://news.panz3r.dev/post/4c3a8ef5b2e68f280abdb37c7ed7c6fce0ec7eb5cf4793817701e0e8bfd8f179/</guid><description>
+Article URL: http://geosci.uchicago.edu/~kite/doc/roauss.htm
+Comments URL: https://news.ycombinator.com/item?id=26405515
+Points: 68
+# …</description></item><item><title>Hackers break into thousands of security cameras, exposing Tesla, jail, hospital</title><link>https://news.panz3r.dev/post/06f995217711ede07745c4ce31aed68447e0add4c408f2af590002c459e13725/</link><pubDate>Tue, 09 Mar 2021 22:11:09 +0000</pubDate><guid>https://news.panz3r.dev/post/06f995217711ede07745c4ce31aed68447e0add4c408f2af590002c459e13725/</guid><description>
 Article URL: https://www.bnnbloomberg.ca/hackers-break-into-thousands-of-security-cameras-exposing-tesla-jails-hospitals-1.1574681
 Comments …</description></item><item><title>Git: Malicious repositories can execute remote code while cloning</title><link>https://news.panz3r.dev/post/ab8300154ab5cd116ddfadf0206136f91a9773c05abcfaa300731eafabd4173e/</link><pubDate>Tue, 09 Mar 2021 21:52:02 +0000</pubDate><guid>https://news.panz3r.dev/post/ab8300154ab5cd116ddfadf0206136f91a9773c05abcfaa300731eafabd4173e/</guid><description>
 Article URL: https://www.openwall.com/lists/oss-security/2021/03/09/3
 Comments URL: https://news.ycombinator.com/item?id=26404830
 Points: …</description></item><item><title>Hackers Break into Security Cameras, Exposing Tesla, Jails, Hospitals</title><link>https://news.panz3r.dev/post/8294d83c80e31699b8c357ee9b8b1835547993ed5b2f87ba3daf6c41b01d4d75/</link><pubDate>Tue, 09 Mar 2021 21:50:25 +0000</pubDate><guid>https://news.panz3r.dev/post/8294d83c80e31699b8c357ee9b8b1835547993ed5b2f87ba3daf6c41b01d4d75/</guid><description>
 Article URL: https://www.bloomberg.com/news/articles/2021-03-09/hackers-expose-tesla-jails-in-breach-of-150-000-security-cams
-Comments URL: …</description></item><item><title>What happens when investment firms acquire trailer parks</title><link>https://news.panz3r.dev/post/724af33c6e34b9a1b0cd6176f8abde537e8e0e64d00ea4af8efda4ba2763dd2f/</link><pubDate>Tue, 09 Mar 2021 20:33:09 +0000</pubDate><guid>https://news.panz3r.dev/post/724af33c6e34b9a1b0cd6176f8abde537e8e0e64d00ea4af8efda4ba2763dd2f/</guid><description>
+Comments URL: …</description></item><item><title>Show HN: Singlelink – an open-source micro-site platform</title><link>https://news.panz3r.dev/post/b2f15b415ef35b5fc0156f233f9171aeca603253c19358b0c60942a4eeaeb4c1/</link><pubDate>Tue, 09 Mar 2021 20:59:43 +0000</pubDate><guid>https://news.panz3r.dev/post/b2f15b415ef35b5fc0156f233f9171aeca603253c19358b0c60942a4eeaeb4c1/</guid><description>
+Article URL: https://singlelink.co
+Comments URL: https://news.ycombinator.com/item?id=26404164
+Points: 50
+# Comments: 39</description></item><item><title>What happens when investment firms acquire trailer parks</title><link>https://news.panz3r.dev/post/724af33c6e34b9a1b0cd6176f8abde537e8e0e64d00ea4af8efda4ba2763dd2f/</link><pubDate>Tue, 09 Mar 2021 20:33:09 +0000</pubDate><guid>https://news.panz3r.dev/post/724af33c6e34b9a1b0cd6176f8abde537e8e0e64d00ea4af8efda4ba2763dd2f/</guid><description>
 Article URL: https://www.newyorker.com/magazine/2021/03/15/what-happens-when-investment-firms-acquire-trailer-parks
 Comments URL: …</description></item><item><title>RSS as a Facebook alternative</title><link>https://news.panz3r.dev/post/272cf367a3900284e2dbb7b88065892a2e66de10c5e5bedc2f14f156ed6a92e7/</link><pubDate>Tue, 09 Mar 2021 20:23:58 +0000</pubDate><guid>https://news.panz3r.dev/post/272cf367a3900284e2dbb7b88065892a2e66de10c5e5bedc2f14f156ed6a92e7/</guid><description>
 Article URL: https://thenewleafjournal.com/around-the-web-rss-as-a-facebook-alternative/
 Comments URL: …</description></item><item><title>T-Mobile to share customers' data with advertisers unless they opt out</title><link>https://news.panz3r.dev/post/1603b37e511443edd85d8bd8a1c7e43f1a1193e6a73793ab949ded121c504aa2/</link><pubDate>Tue, 09 Mar 2021 20:19:07 +0000</pubDate><guid>https://news.panz3r.dev/post/1603b37e511443edd85d8bd8a1c7e43f1a1193e6a73793ab949ded121c504aa2/</guid><description>
 Article URL: https://thehill.com/policy/technology/542303-t-mobile-to-share-customers-web-mobile-app-data-with-advertisers-unless
-Comments …</description></item><item><title>Show HN: I made a tool to convert images of tables to CSV</title><link>https://news.panz3r.dev/post/f0d994f89ae9807521a2c511b56a93933ad358c999c1fe1ba382087f9fa932f8/</link><pubDate>Tue, 09 Mar 2021 19:58:43 +0000</pubDate><guid>https://news.panz3r.dev/post/f0d994f89ae9807521a2c511b56a93933ad358c999c1fe1ba382087f9fa932f8/</guid><description>
+Comments …</description></item><item><title>Accelerating Neural Networks on Mobile and Web with Sparse Inference</title><link>https://news.panz3r.dev/post/45fd8ce73db088387f4dccb1d25c7ddf2c55ff5aede57f2319d017d5f7769e49/</link><pubDate>Tue, 09 Mar 2021 20:10:48 +0000</pubDate><guid>https://news.panz3r.dev/post/45fd8ce73db088387f4dccb1d25c7ddf2c55ff5aede57f2319d017d5f7769e49/</guid><description>
+Article URL: https://ai.googleblog.com/2021/03/accelerating-neural-networks-on-mobile.html
+Comments URL: …</description></item><item><title>Show HN: I made a tool to convert images of tables to CSV</title><link>https://news.panz3r.dev/post/f0d994f89ae9807521a2c511b56a93933ad358c999c1fe1ba382087f9fa932f8/</link><pubDate>Tue, 09 Mar 2021 19:58:43 +0000</pubDate><guid>https://news.panz3r.dev/post/f0d994f89ae9807521a2c511b56a93933ad358c999c1fe1ba382087f9fa932f8/</guid><description>
 Article URL: https://github.com/artperrin/image2csv
 Comments URL: https://news.ycombinator.com/item?id=26403341
-Points: 112
-# Comments: 19</description></item><item><title>UK businesses caught buying five-star Google reviews</title><link>https://news.panz3r.dev/post/23ab8da45c80b125d04f055a9b43dd1fb05772d07670b9d586a8b3553a8c463b/</link><pubDate>Tue, 09 Mar 2021 19:18:58 +0000</pubDate><guid>https://news.panz3r.dev/post/23ab8da45c80b125d04f055a9b43dd1fb05772d07670b9d586a8b3553a8c463b/</guid><description>
+Points: 238
+# Comments: 40</description></item><item><title>Organizations announced for Google Summer of Code 2021</title><link>https://news.panz3r.dev/post/738c083d6d9e170bbddfe264fd6c5a5ad1b1fd3bf1944edf6f1422109c1d2415/</link><pubDate>Tue, 09 Mar 2021 19:24:54 +0000</pubDate><guid>https://news.panz3r.dev/post/738c083d6d9e170bbddfe264fd6c5a5ad1b1fd3bf1944edf6f1422109c1d2415/</guid><description>
+Article URL: https://summerofcode.withgoogle.com/organizations/
+Comments URL: https://news.ycombinator.com/item?id=26402780
+Points: 71
+# …</description></item><item><title>UK businesses caught buying five-star Google reviews</title><link>https://news.panz3r.dev/post/23ab8da45c80b125d04f055a9b43dd1fb05772d07670b9d586a8b3553a8c463b/</link><pubDate>Tue, 09 Mar 2021 19:18:58 +0000</pubDate><guid>https://news.panz3r.dev/post/23ab8da45c80b125d04f055a9b43dd1fb05772d07670b9d586a8b3553a8c463b/</guid><description>
 Article URL: https://www.bbc.com/news/technology-56321576
 Comments URL: https://news.ycombinator.com/item?id=26402682
-Points: 202
+Points: 282
 # …</description></item><item><title>Webmention.io</title><link>https://news.panz3r.dev/post/034f6795702c3a99f616a98330f439809a4dfa9e4d47e203b32939b4f6d05868/</link><pubDate>Tue, 09 Mar 2021 18:33:11 +0000</pubDate><guid>https://news.panz3r.dev/post/034f6795702c3a99f616a98330f439809a4dfa9e4d47e203b32939b4f6d05868/</guid><description>
 Article URL: https://webmention.io/
 Comments URL: https://news.ycombinator.com/item?id=26401955
-Points: 247
-# Comments: 71</description></item><item><title>Downsampling Time Series for Visual Representation [pdf]</title><link>https://news.panz3r.dev/post/867d9b98245c3c4b9165285e7db3dccbea35af2192e5f6e8075548951fdc6c59/</link><pubDate>Tue, 09 Mar 2021 18:32:00 +0000</pubDate><guid>https://news.panz3r.dev/post/867d9b98245c3c4b9165285e7db3dccbea35af2192e5f6e8075548951fdc6c59/</guid><description>
+Points: 325
+# Comments: 89</description></item><item><title>Downsampling Time Series for Visual Representation [pdf]</title><link>https://news.panz3r.dev/post/867d9b98245c3c4b9165285e7db3dccbea35af2192e5f6e8075548951fdc6c59/</link><pubDate>Tue, 09 Mar 2021 18:32:00 +0000</pubDate><guid>https://news.panz3r.dev/post/867d9b98245c3c4b9165285e7db3dccbea35af2192e5f6e8075548951fdc6c59/</guid><description>
 Article URL: https://skemman.is/bitstream/1946/15343/3/SS_MSthesis.pdf
 Comments URL: https://news.ycombinator.com/item?id=26401935
 Points: …</description></item><item><title>Nuclear technology’s role in the world’s energy supply is shrinking</title><link>https://news.panz3r.dev/post/dee22f92afb1bad16783736c8bab5a1bf783bbce392726614353bfce104fcdf4/</link><pubDate>Tue, 09 Mar 2021 18:22:20 +0000</pubDate><guid>https://news.panz3r.dev/post/dee22f92afb1bad16783736c8bab5a1bf783bbce392726614353bfce104fcdf4/</guid><description>
@@ -35,11 +65,13 @@ Article URL: http://blog.archive.org/2021/03/09/search-scholarly-materials-prese
 Comments URL: …</description></item><item><title>The Future of Group Messaging</title><link>https://news.panz3r.dev/post/c2a23b04651598bcc393cfbac442a9a1b51dc490ab5b88fbf38dd93a429e489a/</link><pubDate>Tue, 09 Mar 2021 17:29:59 +0000</pubDate><guid>https://news.panz3r.dev/post/c2a23b04651598bcc393cfbac442a9a1b51dc490ab5b88fbf38dd93a429e489a/</guid><description>
 Article URL: https://thejarren.com/group-messaging
 Comments URL: https://news.ycombinator.com/item?id=26401140
-Points: 60
-# Comments: 48</description></item><item><title>The Roblox Microverse</title><link>https://news.panz3r.dev/post/693a7d2a53dae2886fb62b4b711ddbf1fdf9e4592bd82426bff2b1a6a321315f/</link><pubDate>Tue, 09 Mar 2021 16:14:55 +0000</pubDate><guid>https://news.panz3r.dev/post/693a7d2a53dae2886fb62b4b711ddbf1fdf9e4592bd82426bff2b1a6a321315f/</guid><description>
+Points: 110
+# Comments: 75</description></item><item><title>The Railsification of SaaS</title><link>https://news.panz3r.dev/post/5bd2f7f8afbfdf55ce5eb760dce9e19ee4b9caf4b7ef2746e4b062719382d8aa/</link><pubDate>Tue, 09 Mar 2021 16:46:31 +0000</pubDate><guid>https://news.panz3r.dev/post/5bd2f7f8afbfdf55ce5eb760dce9e19ee4b9caf4b7ef2746e4b062719382d8aa/</guid><description>
+Article URL: https://keithwhor.medium.com/the-railsification-of-saas-e5d284fa44a1
+Comments URL: …</description></item><item><title>The Roblox Microverse</title><link>https://news.panz3r.dev/post/693a7d2a53dae2886fb62b4b711ddbf1fdf9e4592bd82426bff2b1a6a321315f/</link><pubDate>Tue, 09 Mar 2021 16:14:55 +0000</pubDate><guid>https://news.panz3r.dev/post/693a7d2a53dae2886fb62b4b711ddbf1fdf9e4592bd82426bff2b1a6a321315f/</guid><description>
 Article URL: https://stratechery.com/2021/the-roblox-microverse/
 Comments URL: https://news.ycombinator.com/item?id=26400239
-Points: 104
+Points: 153
 # …</description></item><item><title>ISO-8601 date format reference not publicly available</title><link>https://news.panz3r.dev/post/cea96db2b34743a98b51be5384ea2f5a97efff1511a994fc4bf377189db9546d/</link><pubDate>Tue, 09 Mar 2021 16:01:22 +0000</pubDate><guid>https://news.panz3r.dev/post/cea96db2b34743a98b51be5384ea2f5a97efff1511a994fc4bf377189db9546d/</guid><description>
 Article URL: https://twitter.com/isostandards/status/1367138676162105344
 Comments URL: https://news.ycombinator.com/item?id=26400089
@@ -526,27 +558,4 @@ Comments URL: https://news.ycombinator.com/item?id=26354017
 Points: 161
 # Comments: 37</description></item><item><title>"World's highest-capacity" solid-state battery developed in Japan</title><link>https://news.panz3r.dev/post/291f4218c923e24f708e120d7b68ea5b429e4aecf984be01d5111ef74744dc1e/</link><pubDate>Fri, 05 Mar 2021 07:24:43 +0000</pubDate><guid>https://news.panz3r.dev/post/291f4218c923e24f708e120d7b68ea5b429e4aecf984be01d5111ef74744dc1e/</guid><description>
 Article URL: https://asia.nikkei.com/Business/Energy/World-s-highest-capacity-solid-state-battery-developed-in-Japan
-Comments URL: …</description></item><item><title>PyTorch 1.8, with AMD ROCm support</title><link>https://news.panz3r.dev/post/2fa929ac01a55ffacc9ea784b89353c3b88d9edf7a5e4c1d36d658fbb3777746/</link><pubDate>Fri, 05 Mar 2021 05:38:02 +0000</pubDate><guid>https://news.panz3r.dev/post/2fa929ac01a55ffacc9ea784b89353c3b88d9edf7a5e4c1d36d658fbb3777746/</guid><description>
-Article URL: https://github.com/pytorch/pytorch/releases/tag/v1.8.0
-Comments URL: https://news.ycombinator.com/item?id=26353184
-Points: 253 …</description></item><item><title>Standard Ruby 1.0</title><link>https://news.panz3r.dev/post/405d0eb0f140b65018781a1bf2e9fddbf8bba94b901e5b4295d96e01d1539b55/</link><pubDate>Fri, 05 Mar 2021 05:08:56 +0000</pubDate><guid>https://news.panz3r.dev/post/405d0eb0f140b65018781a1bf2e9fddbf8bba94b901e5b4295d96e01d1539b55/</guid><description>
-Article URL: https://blog.testdouble.com/posts/2021-03-04-announcing-standard-ruby-1.0/
-Comments URL: …</description></item><item><title>Honda's now selling the first production car with level 3 self-driving</title><link>https://news.panz3r.dev/post/6d87c137127f86505daebbb40864896d19762c6581d6acf2197732cb01b480fd/</link><pubDate>Fri, 05 Mar 2021 03:03:05 +0000</pubDate><guid>https://news.panz3r.dev/post/6d87c137127f86505daebbb40864896d19762c6581d6acf2197732cb01b480fd/</guid><description>
-Article URL: https://www.thedrive.com/news/39609/hondas-now-selling-the-worlds-first-production-car-with-level-3-self-driving-tech
-Comments …</description></item><item><title>Book Review: Fussell on Class</title><link>https://news.panz3r.dev/post/d299bd9a0b3f5b1292e2e788f761564606208f06d5439ef14ab42f672b86d155/</link><pubDate>Fri, 05 Mar 2021 02:47:31 +0000</pubDate><guid>https://news.panz3r.dev/post/d299bd9a0b3f5b1292e2e788f761564606208f06d5439ef14ab42f672b86d155/</guid><description>
-Article URL: https://astralcodexten.substack.com/p/book-review-fussell-on-class
-Comments URL: https://news.ycombinator.com/item?id=26351913 …</description></item><item><title>State-of-the-Art Image Generation Models</title><link>https://news.panz3r.dev/post/69880839b1b5682353cade28bc177c93d8b88321c047e0691b9f0db7869dd97b/</link><pubDate>Fri, 05 Mar 2021 02:27:56 +0000</pubDate><guid>https://news.panz3r.dev/post/69880839b1b5682353cade28bc177c93d8b88321c047e0691b9f0db7869dd97b/</guid><description>
-Article URL: https://arankomatsuzaki.wordpress.com/2021/03/04/state-of-the-art-image-generative-models/
-Comments URL: …</description></item><item><title>A warning about 5.12-rc1</title><link>https://news.panz3r.dev/post/82a8e771dd9582aa945d9e868137f4ebe0d7a07041f064c480250acfa7e6bf10/</link><pubDate>Fri, 05 Mar 2021 02:21:33 +0000</pubDate><guid>https://news.panz3r.dev/post/82a8e771dd9582aa945d9e868137f4ebe0d7a07041f064c480250acfa7e6bf10/</guid><description>
-Article URL: https://lwn.net/Articles/848265/
-Comments URL: https://news.ycombinator.com/item?id=26351702
-Points: 188
-# Comments: 94</description></item><item><title>Open source projects should run office hours</title><link>https://news.panz3r.dev/post/1efd580e8e14cf8cb26f311d5b3f573eed345461ddadc8b03337fc521bf6c7c3/</link><pubDate>Fri, 05 Mar 2021 01:08:49 +0000</pubDate><guid>https://news.panz3r.dev/post/1efd580e8e14cf8cb26f311d5b3f573eed345461ddadc8b03337fc521bf6c7c3/</guid><description>
-Article URL: https://simonwillison.net/2021/Feb/19/office-hours/
-Comments URL: https://news.ycombinator.com/item?id=26351053
-Points: 554
-# …</description></item><item><title>US health agency will invest $1B to investigate 'long Covid'</title><link>https://news.panz3r.dev/post/7ecd2d80396f484645649346e4643215d8a41e50b6e10629ab56eec3f2bc4e13/</link><pubDate>Fri, 05 Mar 2021 00:58:38 +0000</pubDate><guid>https://news.panz3r.dev/post/7ecd2d80396f484645649346e4643215d8a41e50b6e10629ab56eec3f2bc4e13/</guid><description>
-Article URL: https://www.nature.com/articles/d41586-021-00586-y
-Comments URL: https://news.ycombinator.com/item?id=26350951
-Points: 221
-# …</description></item></channel></rss>
+Comments URL: …</description></item></channel></rss>

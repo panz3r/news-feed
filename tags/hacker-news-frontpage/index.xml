@@ -1,11 +1,35 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hacker-News-Frontpage on Panz3r News</title><link>https://news.panz3r.dev/tags/hacker-news-frontpage/</link><description>Recent content in Hacker-News-Frontpage on news.panz3r.dev</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Panz3r 2020 | Vitae theme for Hugo</copyright><lastBuildDate>Sun, 14 Mar 2021 14:00:59 +0000</lastBuildDate><atom:link href="https://news.panz3r.dev/tags/hacker-news-frontpage/index.xml" rel="self" type="application/rss+xml"/><item><title>security.txt</title><link>https://news.panz3r.dev/post/e41427559688de805758b5ac053e8025439cb393f184654a9e87a724dae85781/</link><pubDate>Sun, 14 Mar 2021 14:00:59 +0000</pubDate><guid>https://news.panz3r.dev/post/e41427559688de805758b5ac053e8025439cb393f184654a9e87a724dae85781/</guid><description>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hacker-News-Frontpage on Panz3r News</title><link>https://news.panz3r.dev/tags/hacker-news-frontpage/</link><description>Recent content in Hacker-News-Frontpage on news.panz3r.dev</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Panz3r 2020 | Vitae theme for Hugo</copyright><lastBuildDate>Sun, 14 Mar 2021 21:13:51 +0000</lastBuildDate><atom:link href="https://news.panz3r.dev/tags/hacker-news-frontpage/index.xml" rel="self" type="application/rss+xml"/><item><title>Stripe valuation soars to $95B after latest fundraising</title><link>https://news.panz3r.dev/post/1e45a9615abd3ef3bc871c422489b0dd596479f110ea54e0c17ff5b9da342242/</link><pubDate>Sun, 14 Mar 2021 21:13:51 +0000</pubDate><guid>https://news.panz3r.dev/post/1e45a9615abd3ef3bc871c422489b0dd596479f110ea54e0c17ff5b9da342242/</guid><description>
+Article URL: https://www.ft.com/content/b9949a88-6c09-4de5-92e7-73994bb2b62f
+Comments URL: https://news.ycombinator.com/item?id=26459258 …</description></item><item><title>Why are tar.xz files 15x smaller when using Python's tar compared to macOS tar?</title><link>https://news.panz3r.dev/post/ca829c52eb96e1721b47c7451668948df493d4cc2e28676b82800d9379947775/</link><pubDate>Sun, 14 Mar 2021 21:06:37 +0000</pubDate><guid>https://news.panz3r.dev/post/ca829c52eb96e1721b47c7451668948df493d4cc2e28676b82800d9379947775/</guid><description>
+Article URL: https://superuser.com/questions/1633073/why-are-tar-xz-files-15x-smaller-when-using-pythons-tar-library-compared-to-mac …</description></item><item><title>LeoCAD 21.03</title><link>https://news.panz3r.dev/post/78836f34c221d6f1c11fcb299cb67ebd7f9432d64c4e1a4fe85a741c9e3ac331/</link><pubDate>Sun, 14 Mar 2021 20:35:52 +0000</pubDate><guid>https://news.panz3r.dev/post/78836f34c221d6f1c11fcb299cb67ebd7f9432d64c4e1a4fe85a741c9e3ac331/</guid><description>
+Article URL: https://www.leocad.org/
+Comments URL: https://news.ycombinator.com/item?id=26458863
+Points: 82
+# Comments: 20</description></item><item><title>Tweeting “Memphis” autolocks your Twitter account</title><link>https://news.panz3r.dev/post/48c6665665cdaafe844dcd663a436770f9a3b3829dc3d799fede6bf731bde070/</link><pubDate>Sun, 14 Mar 2021 19:47:20 +0000</pubDate><guid>https://news.panz3r.dev/post/48c6665665cdaafe844dcd663a436770f9a3b3829dc3d799fede6bf731bde070/</guid><description>
+Article URL: https://twitter.com/SwiftOnSecurity/status/1371183849712009219
+Comments URL: https://news.ycombinator.com/item?id=26458296 …</description></item><item><title>Spaceship Earth</title><link>https://news.panz3r.dev/post/e3c324f1c08ad4c1a2a4ff7b05e886815b623a4e62a37c9a00167d18cd65de5a/</link><pubDate>Sun, 14 Mar 2021 17:56:34 +0000</pubDate><guid>https://news.panz3r.dev/post/e3c324f1c08ad4c1a2a4ff7b05e886815b623a4e62a37c9a00167d18cd65de5a/</guid><description>
+Article URL: https://en.wikipedia.org/wiki/Spaceship_Earth
+Comments URL: https://news.ycombinator.com/item?id=26457233
+Points: 96
+# …</description></item><item><title>SpaceX delivers 3rd batch of Starlink satellites in two weeks</title><link>https://news.panz3r.dev/post/f73529e3ded4b09b4db19eb7cbb14ca0a0fe969144d26b739c54d85fbdad47ac/</link><pubDate>Sun, 14 Mar 2021 17:42:35 +0000</pubDate><guid>https://news.panz3r.dev/post/f73529e3ded4b09b4db19eb7cbb14ca0a0fe969144d26b739c54d85fbdad47ac/</guid><description>
+Article URL: …</description></item><item><title>Atari 800XL PCB Remake</title><link>https://news.panz3r.dev/post/0fb9014ac2bbc4223f28a0cc245a7a87ca467b57ed50dfe000d0e8fd8cb3896e/</link><pubDate>Sun, 14 Mar 2021 16:30:45 +0000</pubDate><guid>https://news.panz3r.dev/post/0fb9014ac2bbc4223f28a0cc245a7a87ca467b57ed50dfe000d0e8fd8cb3896e/</guid><description>
+Article URL: https://ezcontents.org/atari-800xl-pcb-remake
+Comments URL: https://news.ycombinator.com/item?id=26456587
+Points: 52
+# …</description></item><item><title>An argument that nuclear power makes the climate crisis worse</title><link>https://news.panz3r.dev/post/d9ec497b464219ec017499bce4208e4ed0bc4c2a2bee65986d77ed9ab259dcce/</link><pubDate>Sun, 14 Mar 2021 16:24:00 +0000</pubDate><guid>https://news.panz3r.dev/post/d9ec497b464219ec017499bce4208e4ed0bc4c2a2bee65986d77ed9ab259dcce/</guid><description>
+Article URL: https://m.dw.com/en/nuclear-climate-mycle-schneider-renewables-fukushima/a-56712368
+Comments URL: …</description></item><item><title>Refund of pre-installed Windows: Lenovo must pay 20k euros in damages</title><link>https://news.panz3r.dev/post/d4a011dd38182dc5a63dd906b14df4b73ba788863aeefccbd02617214ef2b8fe/</link><pubDate>Sun, 14 Mar 2021 16:20:23 +0000</pubDate><guid>https://news.panz3r.dev/post/d4a011dd38182dc5a63dd906b14df4b73ba788863aeefccbd02617214ef2b8fe/</guid><description>
+Article URL: https://fsfe.org/news/2021/news-20210302-01.html
+Comments URL: https://news.ycombinator.com/item?id=26456524
+Points: 162
+# …</description></item><item><title>Security.txt</title><link>https://news.panz3r.dev/post/e41427559688de805758b5ac053e8025439cb393f184654a9e87a724dae85781/</link><pubDate>Sun, 14 Mar 2021 14:00:59 +0000</pubDate><guid>https://news.panz3r.dev/post/e41427559688de805758b5ac053e8025439cb393f184654a9e87a724dae85781/</guid><description>
 Article URL: https://securitytxt.org/
 Comments URL: https://news.ycombinator.com/item?id=26455493
-Points: 171
-# Comments: 48</description></item><item><title>EBPFSnitch: An eBPF based Linux Application Firewall</title><link>https://news.panz3r.dev/post/27a0d817d6b1e6a73618b9189580a7ffe446c7b76e628351a4ee6d6d27ece358/</link><pubDate>Sun, 14 Mar 2021 13:07:46 +0000</pubDate><guid>https://news.panz3r.dev/post/27a0d817d6b1e6a73618b9189580a7ffe446c7b76e628351a4ee6d6d27ece358/</guid><description>
+Points: 522
+# Comments: 114</description></item><item><title>EBPFSnitch: An eBPF based Linux Application Firewall</title><link>https://news.panz3r.dev/post/27a0d817d6b1e6a73618b9189580a7ffe446c7b76e628351a4ee6d6d27ece358/</link><pubDate>Sun, 14 Mar 2021 13:07:46 +0000</pubDate><guid>https://news.panz3r.dev/post/27a0d817d6b1e6a73618b9189580a7ffe446c7b76e628351a4ee6d6d27ece358/</guid><description>
 Article URL: https://github.com/harporoeder/ebpfsnitch
 Comments URL: https://news.ycombinator.com/item?id=26455058
-Points: 137
+Points: 224
 # Comments: …</description></item><item><title>Hit Japanese app Crabhouse forced to change name on iOS</title><link>https://news.panz3r.dev/post/a0e0f8ad74680fb405fc6c1ec5343c3bfa4c7bbbcd4ab81a6997f2424026a9e9/</link><pubDate>Sun, 14 Mar 2021 11:40:57 +0000</pubDate><guid>https://news.panz3r.dev/post/a0e0f8ad74680fb405fc6c1ec5343c3bfa4c7bbbcd4ab81a6997f2424026a9e9/</guid><description>
 Article URL: https://japantoday.com/category/tech/hit-japanese-app-crabhouse-forced-to-change-name-on-ios
 Comments URL: …</description></item><item><title>Why inflation is not a threat</title><link>https://news.panz3r.dev/post/a280f7f845e0da5fa4740bffa30770890b3480b6695463dfb76bbe2f5617d40e/</link><pubDate>Sun, 14 Mar 2021 11:35:22 +0000</pubDate><guid>https://news.panz3r.dev/post/a280f7f845e0da5fa4740bffa30770890b3480b6695463dfb76bbe2f5617d40e/</guid><description>
@@ -15,8 +39,8 @@ Article URL: https://amycastor.com/2021/03/14/metakovan-the-mystery-beeple-art-b
 Comments URL: …</description></item><item><title>Show HN: Critter.Camera – Browser based motion detection and image capture</title><link>https://news.panz3r.dev/post/42f88b73aaec1105b9fccbb065ff2f2d544dc49220b76324a29839e3b4b5929a/</link><pubDate>Sun, 14 Mar 2021 09:21:38 +0000</pubDate><guid>https://news.panz3r.dev/post/42f88b73aaec1105b9fccbb065ff2f2d544dc49220b76324a29839e3b4b5929a/</guid><description>
 Article URL: https://critter.camera/
 Comments URL: https://news.ycombinator.com/item?id=26453840
-Points: 103
-# Comments: 19</description></item><item><title>Repealing Section 230 won’t do what anyone wants</title><link>https://news.panz3r.dev/post/3ea4cccc435b2a8ff605da4b1988937f907693ae2b9cbd8e2badd88353df2a06/</link><pubDate>Sun, 14 Mar 2021 05:43:40 +0000</pubDate><guid>https://news.panz3r.dev/post/3ea4cccc435b2a8ff605da4b1988937f907693ae2b9cbd8e2badd88353df2a06/</guid><description>
+Points: 150
+# Comments: 26</description></item><item><title>Repealing Section 230 won’t do what anyone wants</title><link>https://news.panz3r.dev/post/3ea4cccc435b2a8ff605da4b1988937f907693ae2b9cbd8e2badd88353df2a06/</link><pubDate>Sun, 14 Mar 2021 05:43:40 +0000</pubDate><guid>https://news.panz3r.dev/post/3ea4cccc435b2a8ff605da4b1988937f907693ae2b9cbd8e2badd88353df2a06/</guid><description>
 Article URL: https://superwuster.medium.com/liberals-and-conservatives-are-both-totally-wrong-about-section-230-11faacc4b117
 Comments URL: …</description></item><item><title>Tuna’s Last Stand</title><link>https://news.panz3r.dev/post/0b9835ff12477b481f5fde6c29de89a53b2d6baaa848daf2a33b757f146da0a0/</link><pubDate>Sun, 14 Mar 2021 03:39:29 +0000</pubDate><guid>https://news.panz3r.dev/post/0b9835ff12477b481f5fde6c29de89a53b2d6baaa848daf2a33b757f146da0a0/</guid><description>
 Article URL: https://www.hakaimagazine.com/features/tunas-last-stand/
@@ -101,7 +125,11 @@ Points: 115
 # Comments: 55</description></item><item><title>Astronomers detect a black hole on the move</title><link>https://news.panz3r.dev/post/48144b8636f4fc10ef088041d0648cd85353d434589552a745a5cae15ea4bd3c/</link><pubDate>Sat, 13 Mar 2021 13:35:05 +0000</pubDate><guid>https://news.panz3r.dev/post/48144b8636f4fc10ef088041d0648cd85353d434589552a745a5cae15ea4bd3c/</guid><description>
 Article URL: https://phys.org/news/2021-03-astronomers-black-hole.html
 Comments URL: https://news.ycombinator.com/item?id=26446448
-Points: …</description></item><item><title>Docker Security Cheat Sheet</title><link>https://news.panz3r.dev/post/06357696db2bb8ed53c85eafe06003600776ff24164f7fe2bd0814fb1bd0bfec/</link><pubDate>Sat, 13 Mar 2021 13:15:38 +0000</pubDate><guid>https://news.panz3r.dev/post/06357696db2bb8ed53c85eafe06003600776ff24164f7fe2bd0814fb1bd0bfec/</guid><description>
+Points: …</description></item><item><title>A flexible and durable “electronic” fabric that can be used as a display</title><link>https://news.panz3r.dev/post/4285c943cbc5b8f516a98a370613007f9c75cded265ee3585cae1d17145997a7/</link><pubDate>Sat, 13 Mar 2021 13:16:00 +0000</pubDate><guid>https://news.panz3r.dev/post/4285c943cbc5b8f516a98a370613007f9c75cded265ee3585cae1d17145997a7/</guid><description>
+Article URL: https://www.shine.cn/news/metro/2103115812/
+Comments URL: https://news.ycombinator.com/item?id=26446340
+Points: 76
+# Comments: …</description></item><item><title>Docker Security Cheat Sheet</title><link>https://news.panz3r.dev/post/06357696db2bb8ed53c85eafe06003600776ff24164f7fe2bd0814fb1bd0bfec/</link><pubDate>Sat, 13 Mar 2021 13:15:38 +0000</pubDate><guid>https://news.panz3r.dev/post/06357696db2bb8ed53c85eafe06003600776ff24164f7fe2bd0814fb1bd0bfec/</guid><description>
 Article URL: https://cheatsheetseries.owasp.org/cheatsheets/Docker_Security_Cheat_Sheet.html
 Comments URL: …</description></item><item><title>Toronto swaps Google-backed, not-so-smart city plans for people-centred vision</title><link>https://news.panz3r.dev/post/143dc0795c51f5b912a0107fc065712c61564417eb6075bfe7d3c93b7ce9c83e/</link><pubDate>Sat, 13 Mar 2021 12:36:57 +0000</pubDate><guid>https://news.panz3r.dev/post/143dc0795c51f5b912a0107fc065712c61564417eb6075bfe7d3c93b7ce9c83e/</guid><description>
 Article URL: https://www.theguardian.com/world/2021/mar/12/toronto-canada-quayside-urban-centre
@@ -122,14 +150,19 @@ Article URL: https://www.theverge.com/2021/3/12/22327306/google-microsoft-attack
 Comments URL: …</description></item><item><title>Opponents of Oliver Cromwell published his family recipes</title><link>https://news.panz3r.dev/post/6fb5cc28272addcf676439815a3173fce5d2a6f9be695809a84076fdcce40959/</link><pubDate>Sat, 13 Mar 2021 06:49:48 +0000</pubDate><guid>https://news.panz3r.dev/post/6fb5cc28272addcf676439815a3173fce5d2a6f9be695809a84076fdcce40959/</guid><description>
 Article URL: https://www.atlasobscura.com/articles/cromwell-cookbook
 Comments URL: https://news.ycombinator.com/item?id=26444591
-Points: 55 …</description></item><item><title>World's Littlest Skyscraper</title><link>https://news.panz3r.dev/post/344abba0a15e07518a8b8f4f2f5171ab667a3a8cad903c10ff38980746f6b29a/</link><pubDate>Sat, 13 Mar 2021 06:38:40 +0000</pubDate><guid>https://news.panz3r.dev/post/344abba0a15e07518a8b8f4f2f5171ab667a3a8cad903c10ff38980746f6b29a/</guid><description>
+Points: 55 …</description></item><item><title>What Ended Indie</title><link>https://news.panz3r.dev/post/e4dccbf4c5442d926d5fd56c6efc753c180a4d86e92e611d4827ebc2fc3cac53/</link><pubDate>Sat, 13 Mar 2021 06:42:15 +0000</pubDate><guid>https://news.panz3r.dev/post/e4dccbf4c5442d926d5fd56c6efc753c180a4d86e92e611d4827ebc2fc3cac53/</guid><description>
+Article URL: https://medium.com/@bryce/what-ended-indie-76575463934d
+Comments URL: https://news.ycombinator.com/item?id=26444556
+Points: 84 …</description></item><item><title>World's Littlest Skyscraper</title><link>https://news.panz3r.dev/post/344abba0a15e07518a8b8f4f2f5171ab667a3a8cad903c10ff38980746f6b29a/</link><pubDate>Sat, 13 Mar 2021 06:38:40 +0000</pubDate><guid>https://news.panz3r.dev/post/344abba0a15e07518a8b8f4f2f5171ab667a3a8cad903c10ff38980746f6b29a/</guid><description>
 Article URL: https://en.wikipedia.org/wiki/World%27s_littlest_skyscraper
 Comments URL: https://news.ycombinator.com/item?id=26444545
 Points: …</description></item><item><title>Gordon Hall has died</title><link>https://news.panz3r.dev/post/2b260a8ca71f59baf44271c4cddae8ef8eb6017870b2b531cbd1bc0027d26147/</link><pubDate>Sat, 13 Mar 2021 06:16:52 +0000</pubDate><guid>https://news.panz3r.dev/post/2b260a8ca71f59baf44271c4cddae8ef8eb6017870b2b531cbd1bc0027d26147/</guid><description>
 Article URL: https://www.bbc.co.uk/news/uk-england-leeds-56374535
 Comments URL: https://news.ycombinator.com/item?id=26444444
 Points: 173
-# …</description></item><item><title>Hubble Space Telescope is back online after software glitch</title><link>https://news.panz3r.dev/post/ac033a21e2563fc93ca3f7bb9219a674e2f6a32d53c7682f82d167d3dde8b870/</link><pubDate>Sat, 13 Mar 2021 03:55:26 +0000</pubDate><guid>https://news.panz3r.dev/post/ac033a21e2563fc93ca3f7bb9219a674e2f6a32d53c7682f82d167d3dde8b870/</guid><description>
+# …</description></item><item><title>DIY Through Hole Plating of PCBs (2017)</title><link>https://news.panz3r.dev/post/db3a56e4fbe494981286b7a9189c9e8fe83b8bcf4626db48cf2eb0de758aff86/</link><pubDate>Sat, 13 Mar 2021 05:32:01 +0000</pubDate><guid>https://news.panz3r.dev/post/db3a56e4fbe494981286b7a9189c9e8fe83b8bcf4626db48cf2eb0de758aff86/</guid><description>
+Article URL: https://blog.honzamrazek.cz/2017/10/diy-through-hole-plating-of-pcbs/
+Comments URL: …</description></item><item><title>Hubble Space Telescope is back online after software glitch</title><link>https://news.panz3r.dev/post/ac033a21e2563fc93ca3f7bb9219a674e2f6a32d53c7682f82d167d3dde8b870/</link><pubDate>Sat, 13 Mar 2021 03:55:26 +0000</pubDate><guid>https://news.panz3r.dev/post/ac033a21e2563fc93ca3f7bb9219a674e2f6a32d53c7682f82d167d3dde8b870/</guid><description>
 Article URL: https://www.space.com/hubble-space-telescope-recovers-from-glitch-march-2021
 Comments URL: …</description></item><item><title>Speed of Rust vs. C</title><link>https://news.panz3r.dev/post/214d4fcbe64e3a531216b9d75249874fdd49ee71f66db4f2caaa262a9f8829fe/</link><pubDate>Sat, 13 Mar 2021 03:51:30 +0000</pubDate><guid>https://news.panz3r.dev/post/214d4fcbe64e3a531216b9d75249874fdd49ee71f66db4f2caaa262a9f8829fe/</guid><description>
 Article URL: https://kornel.ski/rust-c-speed
@@ -466,54 +499,4 @@ Points: 124
 Article URL: https://flipperzero.one/
 Comments URL: https://news.ycombinator.com/item?id=26405919
 Points: 149
-# Comments: 39</description></item><item><title>Report on an Unidentified Space Station (1982)</title><link>https://news.panz3r.dev/post/4c3a8ef5b2e68f280abdb37c7ed7c6fce0ec7eb5cf4793817701e0e8bfd8f179/</link><pubDate>Tue, 09 Mar 2021 22:49:46 +0000</pubDate><guid>https://news.panz3r.dev/post/4c3a8ef5b2e68f280abdb37c7ed7c6fce0ec7eb5cf4793817701e0e8bfd8f179/</guid><description>
-Article URL: http://geosci.uchicago.edu/~kite/doc/roauss.htm
-Comments URL: https://news.ycombinator.com/item?id=26405515
-Points: 97
-# …</description></item><item><title>Hackers break into thousands of security cameras, exposing Tesla, jail, hospital</title><link>https://news.panz3r.dev/post/06f995217711ede07745c4ce31aed68447e0add4c408f2af590002c459e13725/</link><pubDate>Tue, 09 Mar 2021 22:11:09 +0000</pubDate><guid>https://news.panz3r.dev/post/06f995217711ede07745c4ce31aed68447e0add4c408f2af590002c459e13725/</guid><description>
-Article URL: https://www.bnnbloomberg.ca/hackers-break-into-thousands-of-security-cameras-exposing-tesla-jails-hospitals-1.1574681
-Comments …</description></item><item><title>Git: Malicious repositories can execute remote code while cloning</title><link>https://news.panz3r.dev/post/ab8300154ab5cd116ddfadf0206136f91a9773c05abcfaa300731eafabd4173e/</link><pubDate>Tue, 09 Mar 2021 21:52:02 +0000</pubDate><guid>https://news.panz3r.dev/post/ab8300154ab5cd116ddfadf0206136f91a9773c05abcfaa300731eafabd4173e/</guid><description>
-Article URL: https://www.openwall.com/lists/oss-security/2021/03/09/3
-Comments URL: https://news.ycombinator.com/item?id=26404830
-Points: …</description></item><item><title>Hackers Break into Security Cameras, Exposing Tesla, Jails, Hospitals</title><link>https://news.panz3r.dev/post/8294d83c80e31699b8c357ee9b8b1835547993ed5b2f87ba3daf6c41b01d4d75/</link><pubDate>Tue, 09 Mar 2021 21:50:25 +0000</pubDate><guid>https://news.panz3r.dev/post/8294d83c80e31699b8c357ee9b8b1835547993ed5b2f87ba3daf6c41b01d4d75/</guid><description>
-Article URL: https://www.bloomberg.com/news/articles/2021-03-09/hackers-expose-tesla-jails-in-breach-of-150-000-security-cams
-Comments URL: …</description></item><item><title>Zapier reached a $5B valuation with $1.3M of funding</title><link>https://news.panz3r.dev/post/c1ce705b1ef77a07e2a0e4a8617902071f26d73589a8dfd66e13644e6466ff63/</link><pubDate>Tue, 09 Mar 2021 21:40:13 +0000</pubDate><guid>https://news.panz3r.dev/post/c1ce705b1ef77a07e2a0e4a8617902071f26d73589a8dfd66e13644e6466ff63/</guid><description>
-Article URL: https://www.forbes.com/sites/alexkonrad/2021/03/08/zapier-bootstraps-to-5-billion-valuation/
-Comments URL: …</description></item><item><title>Show HN: Singlelink – an open-source micro-site platform</title><link>https://news.panz3r.dev/post/b2f15b415ef35b5fc0156f233f9171aeca603253c19358b0c60942a4eeaeb4c1/</link><pubDate>Tue, 09 Mar 2021 20:59:43 +0000</pubDate><guid>https://news.panz3r.dev/post/b2f15b415ef35b5fc0156f233f9171aeca603253c19358b0c60942a4eeaeb4c1/</guid><description>
-Article URL: https://singlelink.co
-Comments URL: https://news.ycombinator.com/item?id=26404164
-Points: 50
-# Comments: 39</description></item><item><title>What happens when investment firms acquire trailer parks</title><link>https://news.panz3r.dev/post/724af33c6e34b9a1b0cd6176f8abde537e8e0e64d00ea4af8efda4ba2763dd2f/</link><pubDate>Tue, 09 Mar 2021 20:33:09 +0000</pubDate><guid>https://news.panz3r.dev/post/724af33c6e34b9a1b0cd6176f8abde537e8e0e64d00ea4af8efda4ba2763dd2f/</guid><description>
-Article URL: https://www.newyorker.com/magazine/2021/03/15/what-happens-when-investment-firms-acquire-trailer-parks
-Comments URL: …</description></item><item><title>RSS as a Facebook alternative</title><link>https://news.panz3r.dev/post/272cf367a3900284e2dbb7b88065892a2e66de10c5e5bedc2f14f156ed6a92e7/</link><pubDate>Tue, 09 Mar 2021 20:23:58 +0000</pubDate><guid>https://news.panz3r.dev/post/272cf367a3900284e2dbb7b88065892a2e66de10c5e5bedc2f14f156ed6a92e7/</guid><description>
-Article URL: https://thenewleafjournal.com/around-the-web-rss-as-a-facebook-alternative/
-Comments URL: …</description></item><item><title>T-Mobile to share customers' data with advertisers unless they opt out</title><link>https://news.panz3r.dev/post/1603b37e511443edd85d8bd8a1c7e43f1a1193e6a73793ab949ded121c504aa2/</link><pubDate>Tue, 09 Mar 2021 20:19:07 +0000</pubDate><guid>https://news.panz3r.dev/post/1603b37e511443edd85d8bd8a1c7e43f1a1193e6a73793ab949ded121c504aa2/</guid><description>
-Article URL: https://thehill.com/policy/technology/542303-t-mobile-to-share-customers-web-mobile-app-data-with-advertisers-unless
-Comments …</description></item><item><title>Accelerating Neural Networks on Mobile and Web with Sparse Inference</title><link>https://news.panz3r.dev/post/45fd8ce73db088387f4dccb1d25c7ddf2c55ff5aede57f2319d017d5f7769e49/</link><pubDate>Tue, 09 Mar 2021 20:10:48 +0000</pubDate><guid>https://news.panz3r.dev/post/45fd8ce73db088387f4dccb1d25c7ddf2c55ff5aede57f2319d017d5f7769e49/</guid><description>
-Article URL: https://ai.googleblog.com/2021/03/accelerating-neural-networks-on-mobile.html
-Comments URL: …</description></item><item><title>Show HN: I made a tool to convert images of tables to CSV</title><link>https://news.panz3r.dev/post/f0d994f89ae9807521a2c511b56a93933ad358c999c1fe1ba382087f9fa932f8/</link><pubDate>Tue, 09 Mar 2021 19:58:43 +0000</pubDate><guid>https://news.panz3r.dev/post/f0d994f89ae9807521a2c511b56a93933ad358c999c1fe1ba382087f9fa932f8/</guid><description>
-Article URL: https://github.com/artperrin/image2csv
-Comments URL: https://news.ycombinator.com/item?id=26403341
-Points: 295
-# Comments: 51</description></item><item><title>Organizations announced for Google Summer of Code 2021</title><link>https://news.panz3r.dev/post/738c083d6d9e170bbddfe264fd6c5a5ad1b1fd3bf1944edf6f1422109c1d2415/</link><pubDate>Tue, 09 Mar 2021 19:24:54 +0000</pubDate><guid>https://news.panz3r.dev/post/738c083d6d9e170bbddfe264fd6c5a5ad1b1fd3bf1944edf6f1422109c1d2415/</guid><description>
-Article URL: https://summerofcode.withgoogle.com/organizations/
-Comments URL: https://news.ycombinator.com/item?id=26402780
-Points: 71
-# …</description></item><item><title>UK businesses caught buying five-star Google reviews</title><link>https://news.panz3r.dev/post/23ab8da45c80b125d04f055a9b43dd1fb05772d07670b9d586a8b3553a8c463b/</link><pubDate>Tue, 09 Mar 2021 19:18:58 +0000</pubDate><guid>https://news.panz3r.dev/post/23ab8da45c80b125d04f055a9b43dd1fb05772d07670b9d586a8b3553a8c463b/</guid><description>
-Article URL: https://www.bbc.com/news/technology-56321576
-Comments URL: https://news.ycombinator.com/item?id=26402682
-Points: 324
-# …</description></item><item><title>Webmention.io</title><link>https://news.panz3r.dev/post/034f6795702c3a99f616a98330f439809a4dfa9e4d47e203b32939b4f6d05868/</link><pubDate>Tue, 09 Mar 2021 18:33:11 +0000</pubDate><guid>https://news.panz3r.dev/post/034f6795702c3a99f616a98330f439809a4dfa9e4d47e203b32939b4f6d05868/</guid><description>
-Article URL: https://webmention.io/
-Comments URL: https://news.ycombinator.com/item?id=26401955
-Points: 325
-# Comments: 89</description></item><item><title>Downsampling Time Series for Visual Representation [pdf]</title><link>https://news.panz3r.dev/post/867d9b98245c3c4b9165285e7db3dccbea35af2192e5f6e8075548951fdc6c59/</link><pubDate>Tue, 09 Mar 2021 18:32:00 +0000</pubDate><guid>https://news.panz3r.dev/post/867d9b98245c3c4b9165285e7db3dccbea35af2192e5f6e8075548951fdc6c59/</guid><description>
-Article URL: https://skemman.is/bitstream/1946/15343/3/SS_MSthesis.pdf
-Comments URL: https://news.ycombinator.com/item?id=26401935
-Points: …</description></item><item><title>Nuclear technology’s role in the world’s energy supply is shrinking</title><link>https://news.panz3r.dev/post/dee22f92afb1bad16783736c8bab5a1bf783bbce392726614353bfce104fcdf4/</link><pubDate>Tue, 09 Mar 2021 18:22:20 +0000</pubDate><guid>https://news.panz3r.dev/post/dee22f92afb1bad16783736c8bab5a1bf783bbce392726614353bfce104fcdf4/</guid><description>
-Article URL: https://www.nature.com/articles/d41586-021-00615-w
-Comments URL: https://news.ycombinator.com/item?id=26401782
-Points: 106
-# …</description></item><item><title>Internet Archive Scholar: Search Millions of Research Papers</title><link>https://news.panz3r.dev/post/2002391103087d1201a7db94ec0b0bb3db867b4f857377f4c63249d951c5c3b0/</link><pubDate>Tue, 09 Mar 2021 18:06:34 +0000</pubDate><guid>https://news.panz3r.dev/post/2002391103087d1201a7db94ec0b0bb3db867b4f857377f4c63249d951c5c3b0/</guid><description>
-Article URL: http://blog.archive.org/2021/03/09/search-scholarly-materials-preserved-in-the-internet-archive/
-Comments URL: …</description></item></channel></rss>
+# Comments: 39</description></item></channel></rss>

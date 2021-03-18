@@ -1,11 +1,43 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hacker-News-Frontpage on Panz3r News</title><link>https://news.panz3r.dev/tags/hacker-news-frontpage/</link><description>Recent content in Hacker-News-Frontpage on news.panz3r.dev</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Panz3r 2020 | Vitae theme for Hugo</copyright><lastBuildDate>Thu, 18 Mar 2021 07:47:05 +0000</lastBuildDate><atom:link href="https://news.panz3r.dev/tags/hacker-news-frontpage/index.xml" rel="self" type="application/rss+xml"/><item><title>Awesome .NET Performance</title><link>https://news.panz3r.dev/post/f3ba56f7cf8b7673175dfa5ac0f8340bf97ad57839ccd271e37604e3f5f4a11a/</link><pubDate>Thu, 18 Mar 2021 07:47:05 +0000</pubDate><guid>https://news.panz3r.dev/post/f3ba56f7cf8b7673175dfa5ac0f8340bf97ad57839ccd271e37604e3f5f4a11a/</guid><description>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hacker-News-Frontpage on Panz3r News</title><link>https://news.panz3r.dev/tags/hacker-news-frontpage/</link><description>Recent content in Hacker-News-Frontpage on news.panz3r.dev</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Panz3r 2020 | Vitae theme for Hugo</copyright><lastBuildDate>Thu, 18 Mar 2021 16:08:32 +0000</lastBuildDate><atom:link href="https://news.panz3r.dev/tags/hacker-news-frontpage/index.xml" rel="self" type="application/rss+xml"/><item><title>Outrun: Execute local command using processing power of another Linux machine</title><link>https://news.panz3r.dev/post/21c7e8e43e878b933f136509e98a3bc983656a9883cb78c79b0fd79173d4d5e2/</link><pubDate>Thu, 18 Mar 2021 16:08:32 +0000</pubDate><guid>https://news.panz3r.dev/post/21c7e8e43e878b933f136509e98a3bc983656a9883cb78c79b0fd79173d4d5e2/</guid><description>
+Article URL: https://github.com/Overv/outrun#outrun
+Comments URL: https://news.ycombinator.com/item?id=26504131
+Points: 70
+# Comments: 17</description></item><item><title>Show HN: LitiHolo – a desktop 3D hologram printer that makes true holograms</title><link>https://news.panz3r.dev/post/a2ae6793797e33a88c9f35d902fde410b0beb88ffee4115004dcd02cec72b17b/</link><pubDate>Thu, 18 Mar 2021 15:33:46 +0000</pubDate><guid>https://news.panz3r.dev/post/a2ae6793797e33a88c9f35d902fde410b0beb88ffee4115004dcd02cec72b17b/</guid><description>
+Article URL: http://www.litiholo.com/3d-hologram-printer.html#3DHologramPrinterStory
+Comments URL: …</description></item><item><title>Show HN: Sorted CSS Colors – Sort the named CSS colors in a nice way</title><link>https://news.panz3r.dev/post/76278998b4b88b3c7005bd49e50953a72a343aa4c49c193ba45c0996b9a881d4/</link><pubDate>Thu, 18 Mar 2021 15:19:55 +0000</pubDate><guid>https://news.panz3r.dev/post/76278998b4b88b3c7005bd49e50953a72a343aa4c49c193ba45c0996b9a881d4/</guid><description>
+Article URL: https://enes.in/sorted-colors
+Comments URL: https://news.ycombinator.com/item?id=26503572
+Points: 125
+# Comments: 54</description></item><item><title>Iberian Citadel of Calafell, Iron Age Village</title><link>https://news.panz3r.dev/post/776a79e1e558469138745103fd3fc8da62de44c2f283c14fb32d48efd5283f2d/</link><pubDate>Thu, 18 Mar 2021 14:16:58 +0000</pubDate><guid>https://news.panz3r.dev/post/776a79e1e558469138745103fd3fc8da62de44c2f283c14fb32d48efd5283f2d/</guid><description>
+Article URL: https://www.atlasobscura.com/places/iberian-citadel-of-calafell
+Comments URL: https://news.ycombinator.com/item?id=26502918 …</description></item><item><title>Unironically Using Kubernetes for My Personal Blog</title><link>https://news.panz3r.dev/post/4e1ae53287d97c599c18548bcfde55bcb48b917a7124265fb874110d08b39ab7/</link><pubDate>Thu, 18 Mar 2021 14:14:55 +0000</pubDate><guid>https://news.panz3r.dev/post/4e1ae53287d97c599c18548bcfde55bcb48b917a7124265fb874110d08b39ab7/</guid><description>
+Article URL: https://mbuffett.com/posts/kubernetes-setup/
+Comments URL: https://news.ycombinator.com/item?id=26502900
+Points: 56
+# Comments: …</description></item><item><title>Sabine Schmitz, Queen of the Nürburgring, Has Died at 51</title><link>https://news.panz3r.dev/post/642adb5fcd00d77bf65640f806708557951d9c1c193a3f8fb8572895e8e935eb/</link><pubDate>Thu, 18 Mar 2021 13:18:12 +0000</pubDate><guid>https://news.panz3r.dev/post/642adb5fcd00d77bf65640f806708557951d9c1c193a3f8fb8572895e8e935eb/</guid><description>
+Article URL: https://jalopnik.com/sabine-schmitz-queen-of-the-nurburgring-has-died-at-5-1846493434
+Comments URL: …</description></item><item><title>Launch HN: Chatwoot (YC W21) – Open-Source Alternative to Intercom, Zendesk</title><link>https://news.panz3r.dev/post/0ca6ead601fed83753f67c0404b5a9d5489a66eda8acbc85107d805cf97de13f/</link><pubDate>Thu, 18 Mar 2021 11:21:31 +0000</pubDate><guid>https://news.panz3r.dev/post/0ca6ead601fed83753f67c0404b5a9d5489a66eda8acbc85107d805cf97de13f/</guid><description>
+Hello everyone,We are a 3 founder team. Myself Pranav. Sojan and Nithin are my co-founders. We are building Chatwoot …</description></item><item><title>Bitwarden_rs: Unofficial Bitwarden compatible server written in Rust</title><link>https://news.panz3r.dev/post/490d3f77f41d181391c96e03a499566a09b5548f6dc24d1a020d3503f86c2d6b/</link><pubDate>Thu, 18 Mar 2021 10:18:19 +0000</pubDate><guid>https://news.panz3r.dev/post/490d3f77f41d181391c96e03a499566a09b5548f6dc24d1a020d3503f86c2d6b/</guid><description>
+Article URL: https://github.com/dani-garcia/bitwarden_rs
+Comments URL: https://news.ycombinator.com/item?id=26501185
+Points: 164
+# Comments: …</description></item><item><title>Correct Git commits with git-autofixup</title><link>https://news.panz3r.dev/post/4412f5667cc70fd4f23d8799421bff0cb3a2e346b70d005fe8defd19184ecd31/</link><pubDate>Thu, 18 Mar 2021 08:55:14 +0000</pubDate><guid>https://news.panz3r.dev/post/4412f5667cc70fd4f23d8799421bff0cb3a2e346b70d005fe8defd19184ecd31/</guid><description>
+Article URL: https://symflower.com/en/company/blog/2021/git-autofixup/
+Comments URL: https://news.ycombinator.com/item?id=26500729
+Points: …</description></item><item><title>Project to recover XXDP, PDP-11's diagnostic OS</title><link>https://news.panz3r.dev/post/711af995b682fc9a59d89574a526edbae9eb8533675ad56536412d0a52a163e8/</link><pubDate>Thu, 18 Mar 2021 08:24:39 +0000</pubDate><guid>https://news.panz3r.dev/post/711af995b682fc9a59d89574a526edbae9eb8533675ad56536412d0a52a163e8/</guid><description>
+Article URL: https://github.com/rust11/xxdp
+Comments URL: https://news.ycombinator.com/item?id=26500585
+Points: 72
+# Comments: 1</description></item><item><title>A curated list of .NET performance resources</title><link>https://news.panz3r.dev/post/f3ba56f7cf8b7673175dfa5ac0f8340bf97ad57839ccd271e37604e3f5f4a11a/</link><pubDate>Thu, 18 Mar 2021 07:47:05 +0000</pubDate><guid>https://news.panz3r.dev/post/f3ba56f7cf8b7673175dfa5ac0f8340bf97ad57839ccd271e37604e3f5f4a11a/</guid><description>
 Article URL: https://github.com/adamsitnik/awesome-dot-net-performance
 Comments URL: https://news.ycombinator.com/item?id=26500436
-Points: …</description></item><item><title>Reddit investors adopt 3,500 gorillas in six days</title><link>https://news.panz3r.dev/post/c4f2806cc9f766f4fe596137d4c8e4053fb762d96badaa3653860eda0be82277/</link><pubDate>Thu, 18 Mar 2021 06:57:47 +0000</pubDate><guid>https://news.panz3r.dev/post/c4f2806cc9f766f4fe596137d4c8e4053fb762d96badaa3653860eda0be82277/</guid><description>
+Points: …</description></item><item><title>Reverse Engineering a Docker Image</title><link>https://news.panz3r.dev/post/52051e1af742923d3904e62a27029e29c6379086f0fd168c0edab32c0bedc1bf/</link><pubDate>Thu, 18 Mar 2021 07:12:36 +0000</pubDate><guid>https://news.panz3r.dev/post/52051e1af742923d3904e62a27029e29c6379086f0fd168c0edab32c0bedc1bf/</guid><description>
+Article URL: https://theartofmachinery.com/2021/03/18/reverse_engineering_a_docker_image.html
+Comments URL: …</description></item><item><title>WallStreetBets members adopt 3,500 gorillas in six days</title><link>https://news.panz3r.dev/post/c4f2806cc9f766f4fe596137d4c8e4053fb762d96badaa3653860eda0be82277/</link><pubDate>Thu, 18 Mar 2021 06:57:47 +0000</pubDate><guid>https://news.panz3r.dev/post/c4f2806cc9f766f4fe596137d4c8e4053fb762d96badaa3653860eda0be82277/</guid><description>
 Article URL: https://www.bbc.co.uk/news/business-56416954
 Comments URL: https://news.ycombinator.com/item?id=26500244
-Points: 148
-# …</description></item><item><title>We bootstrapped to $11M in ARR (Outside the Valley)</title><link>https://news.panz3r.dev/post/f3b6c946513c763a0048e3e132371b03634be6b86d2c22bbae68ec9da5a41f69/</link><pubDate>Thu, 18 Mar 2021 04:48:09 +0000</pubDate><guid>https://news.panz3r.dev/post/f3b6c946513c763a0048e3e132371b03634be6b86d2c22bbae68ec9da5a41f69/</guid><description>
+Points: 558
+# …</description></item><item><title>We bootstrapped to $11M in ARR</title><link>https://news.panz3r.dev/post/f3b6c946513c763a0048e3e132371b03634be6b86d2c22bbae68ec9da5a41f69/</link><pubDate>Thu, 18 Mar 2021 04:48:09 +0000</pubDate><guid>https://news.panz3r.dev/post/f3b6c946513c763a0048e3e132371b03634be6b86d2c22bbae68ec9da5a41f69/</guid><description>
 Article URL: https://blog.thinkst.com/2021/03/we-bootstrapped-to-11-million-in-arr.html
 Comments URL: …</description></item><item><title>Ghost Kernel</title><link>https://news.panz3r.dev/post/b1af93864e238ba3bb6fc8d98f97ee47792eb016ffbffb226d370625a4022b81/</link><pubDate>Thu, 18 Mar 2021 04:42:35 +0000</pubDate><guid>https://news.panz3r.dev/post/b1af93864e238ba3bb6fc8d98f97ee47792eb016ffbffb226d370625a4022b81/</guid><description>
 Article URL: https://ghostkernel.org/news
@@ -60,7 +92,11 @@ Comments URL: https://news.ycombinator.com/item?id=26493542
 Points: 105
 # …</description></item><item><title>Scientists grow mice embryos in a mechanical womb</title><link>https://news.panz3r.dev/post/fc18dc4d49f4638e95ee5b9ed5422631147ff4a2879e5019a8260b500dba9e46/</link><pubDate>Wed, 17 Mar 2021 16:09:44 +0000</pubDate><guid>https://news.panz3r.dev/post/fc18dc4d49f4638e95ee5b9ed5422631147ff4a2879e5019a8260b500dba9e46/</guid><description>
 Article URL: https://www.nytimes.com/2021/03/17/health/mice-artificial-uterus.html
-Comments URL: …</description></item><item><title>Let there be more biographies of failures</title><link>https://news.panz3r.dev/post/e327333a9d1439e5c7cd6044faa29940bb817d5d1d87fb15cae31b7c8bca46a8/</link><pubDate>Wed, 17 Mar 2021 16:02:38 +0000</pubDate><guid>https://news.panz3r.dev/post/e327333a9d1439e5c7cd6044faa29940bb817d5d1d87fb15cae31b7c8bca46a8/</guid><description>
+Comments URL: …</description></item><item><title>Clio: A functional, distributed programming language that compiles to JavaScript</title><link>https://news.panz3r.dev/post/9c5984f9f751a78de033e0672c019f04542400c967cf5aeda8f31e8de1c8990b/</link><pubDate>Wed, 17 Mar 2021 16:06:28 +0000</pubDate><guid>https://news.panz3r.dev/post/9c5984f9f751a78de033e0672c019f04542400c967cf5aeda8f31e8de1c8990b/</guid><description>
+Article URL: https://github.com/clio-lang/clio
+Comments URL: https://news.ycombinator.com/item?id=26493066
+Points: 97
+# Comments: 57</description></item><item><title>Let there be more biographies of failures</title><link>https://news.panz3r.dev/post/e327333a9d1439e5c7cd6044faa29940bb817d5d1d87fb15cae31b7c8bca46a8/</link><pubDate>Wed, 17 Mar 2021 16:02:38 +0000</pubDate><guid>https://news.panz3r.dev/post/e327333a9d1439e5c7cd6044faa29940bb817d5d1d87fb15cae31b7c8bca46a8/</guid><description>
 Article URL: https://commonreader.substack.com/p/let-there-be-more-biographies-of
 Comments URL: …</description></item><item><title>José Epita Mbomo, a Spanish electrician who sabotaged the Nazis</title><link>https://news.panz3r.dev/post/e826e367c667519438974951d3a93b771d6dccdfce9d6d54574e51ca08a22bc6/</link><pubDate>Wed, 17 Mar 2021 16:01:10 +0000</pubDate><guid>https://news.panz3r.dev/post/e826e367c667519438974951d3a93b771d6dccdfce9d6d54574e51ca08a22bc6/</guid><description>
 Article URL: https://english.elpais.com/historical_memory/2021-03-01/jose-epita-mbomo-the-spanish-electrician-who-sabotaged-the-nazis.html …</description></item><item><title>Launch HN: Finley (YC W21) – Debt capital monitoring and reporting software</title><link>https://news.panz3r.dev/post/3ab99e0d23eea6207d289d26470b873225bede802de939e42780ceb7e55f3a95/</link><pubDate>Wed, 17 Mar 2021 15:12:56 +0000</pubDate><guid>https://news.panz3r.dev/post/3ab99e0d23eea6207d289d26470b873225bede802de939e42780ceb7e55f3a95/</guid><description>
@@ -101,7 +137,9 @@ Comments URL: …</description></item><item><title>Indiana Jones and the Last Cr
 Article URL: http://www.superrune.com/tutorials/indy3_ega.php
 Comments URL: https://news.ycombinator.com/item?id=26489561
 Points: 370
-# …</description></item><item><title>Daves Old Computers – Robotic DVD Loader</title><link>https://news.panz3r.dev/post/8d7df18c20186ca2a9afc11c58ba4b8eeff53f17700d9a99e8ad0dc6ebe8dd5d/</link><pubDate>Wed, 17 Mar 2021 09:33:06 +0000</pubDate><guid>https://news.panz3r.dev/post/8d7df18c20186ca2a9afc11c58ba4b8eeff53f17700d9a99e8ad0dc6ebe8dd5d/</guid><description>
+# …</description></item><item><title>Dogs orient and move in synchrony with family members</title><link>https://news.panz3r.dev/post/c76ebee4c4118d59c3f0ca0dc8d26537be09d6ae3ca83511bc639b23e573cdfc/</link><pubDate>Wed, 17 Mar 2021 11:12:09 +0000</pubDate><guid>https://news.panz3r.dev/post/c76ebee4c4118d59c3f0ca0dc8d26537be09d6ae3ca83511bc639b23e573cdfc/</guid><description>
+Article URL: https://www.nytimes.com/2021/03/17/well/move/dogs-kids-family.html
+Comments URL: https://news.ycombinator.com/item?id=26489411 …</description></item><item><title>Daves Old Computers – Robotic DVD Loader</title><link>https://news.panz3r.dev/post/8d7df18c20186ca2a9afc11c58ba4b8eeff53f17700d9a99e8ad0dc6ebe8dd5d/</link><pubDate>Wed, 17 Mar 2021 09:33:06 +0000</pubDate><guid>https://news.panz3r.dev/post/8d7df18c20186ca2a9afc11c58ba4b8eeff53f17700d9a99e8ad0dc6ebe8dd5d/</guid><description>
 Article URL: http://dunfield.classiccmp.org/dvdload/index.htm
 Comments URL: https://news.ycombinator.com/item?id=26488576
 Points: 147
@@ -109,6 +147,8 @@ Points: 147
 Article URL: https://www.wired.com/story/wikipedia-finally-asking-big-tech-to-pay-up/
 Comments URL: …</description></item><item><title>SQLAlchemy 1.4</title><link>https://news.panz3r.dev/post/28278fde532e9baca1e858f48ba96182926acfa046f2343400474400304257d4/</link><pubDate>Wed, 17 Mar 2021 08:30:32 +0000</pubDate><guid>https://news.panz3r.dev/post/28278fde532e9baca1e858f48ba96182926acfa046f2343400474400304257d4/</guid><description>
 Article URL: https://www.sqlalchemy.org/blog/2021/03/15/sqlalchemy-1.4.0-released/
+Comments URL: …</description></item><item><title>A call to improve London's lighting at night</title><link>https://news.panz3r.dev/post/8bdcc889f1923c3168b58e786aebd8972bf4789be27150ce75d97ce517e47a10/</link><pubDate>Wed, 17 Mar 2021 08:15:32 +0000</pubDate><guid>https://news.panz3r.dev/post/8bdcc889f1923c3168b58e786aebd8972bf4789be27150ce75d97ce517e47a10/</guid><description>
+Article URL: https://www.ianvisits.co.uk/blog/2021/03/17/a-call-to-improve-londons-lighting-at-night/
 Comments URL: …</description></item><item><title>GitHub, fuck your name change</title><link>https://news.panz3r.dev/post/6aa32f9b395b4866d2e41093d41bff89cdcd985c7ca5aa8a804d5096a27fa699/</link><pubDate>Wed, 17 Mar 2021 08:11:38 +0000</pubDate><guid>https://news.panz3r.dev/post/6aa32f9b395b4866d2e41093d41bff89cdcd985c7ca5aa8a804d5096a27fa699/</guid><description>
 Article URL: https://mooseyanon.medium.com/github-f-ck-your-name-change-de599033bbbe
 Comments URL: …</description></item><item><title>Apple’s $4.7B Green Bond spend is helping to create 1.2 gigawatts of clean power</title><link>https://news.panz3r.dev/post/3443e92348d9089de64ce7b697a568e0fb170cca77be7eda7fde8ebb67c6b439/</link><pubDate>Wed, 17 Mar 2021 07:07:16 +0000</pubDate><guid>https://news.panz3r.dev/post/3443e92348d9089de64ce7b697a568e0fb170cca77be7eda7fde8ebb67c6b439/</guid><description>
@@ -116,7 +156,9 @@ Article URL: …</description></item><item><title>Why Channel 37 Doesn’t Exist
 Article URL: https://www.vice.com/en/article/dy8by7/why-channel-37-doesnt-exist-and-what-it-has-to-do-with-aliens
 Comments URL: …</description></item><item><title>Scientists discover plants beneath mile-deep Greenland ice</title><link>https://news.panz3r.dev/post/35bd486b69dea4b8d25785267564f453ae46923692c36e43eb5f1bdcdef8d3d3/</link><pubDate>Wed, 17 Mar 2021 06:59:16 +0000</pubDate><guid>https://news.panz3r.dev/post/35bd486b69dea4b8d25785267564f453ae46923692c36e43eb5f1bdcdef8d3d3/</guid><description>
 Article URL: https://www.sciencedaily.com/releases/2021/03/210315165639.htm
-Comments URL: https://news.ycombinator.com/item?id=26487457 …</description></item><item><title>AstraZeneca vaccine doesn't prevent B1351 Covid in early trial</title><link>https://news.panz3r.dev/post/1bbbd6efabe522c358d63ed90b725afe335688eb8049138fc2b3095cbfb736cc/</link><pubDate>Wed, 17 Mar 2021 05:02:34 +0000</pubDate><guid>https://news.panz3r.dev/post/1bbbd6efabe522c358d63ed90b725afe335688eb8049138fc2b3095cbfb736cc/</guid><description>
+Comments URL: https://news.ycombinator.com/item?id=26487457 …</description></item><item><title>Super Resolution</title><link>https://news.panz3r.dev/post/32fc4e65c3bb0dad23e42db348e8f73e1cc90697dc4b71ae7c8abf8db0ebdc2c/</link><pubDate>Wed, 17 Mar 2021 06:53:26 +0000</pubDate><guid>https://news.panz3r.dev/post/32fc4e65c3bb0dad23e42db348e8f73e1cc90697dc4b71ae7c8abf8db0ebdc2c/</guid><description>
+Article URL: https://blog.adobe.com/en/publish/2021/03/10/from-the-acr-team-super-resolution.html
+Comments URL: …</description></item><item><title>AstraZeneca vaccine doesn't prevent B1351 Covid in early trial</title><link>https://news.panz3r.dev/post/1bbbd6efabe522c358d63ed90b725afe335688eb8049138fc2b3095cbfb736cc/</link><pubDate>Wed, 17 Mar 2021 05:02:34 +0000</pubDate><guid>https://news.panz3r.dev/post/1bbbd6efabe522c358d63ed90b725afe335688eb8049138fc2b3095cbfb736cc/</guid><description>
 Article URL: https://www.cidrap.umn.edu/news-perspective/2021/03/astrazeneca-vaccine-doesnt-prevent-b1351-covid-early-trial
 Comments URL: …</description></item><item><title>Google Play service fee reduced to 15% for the first $1M/year</title><link>https://news.panz3r.dev/post/1476a2700c61e4f5d47b4d344195b00a55b59ba0e46b0783d5ded32874d84a27/</link><pubDate>Wed, 17 Mar 2021 04:59:09 +0000</pubDate><guid>https://news.panz3r.dev/post/1476a2700c61e4f5d47b4d344195b00a55b59ba0e46b0783d5ded32874d84a27/</guid><description>
 Article URL: https://android-developers.googleblog.com/2021/03/boosting-dev-success.html
@@ -221,7 +263,9 @@ Comments URL: …</description></item><item><title>The EMA Covid-19 data leak, a
 Article URL: https://www.bmj.com/content/372/bmj.n627
 Comments URL: https://news.ycombinator.com/item?id=26475396
 Points: 92
-# Comments: 112 …</description></item><item><title>Common Mistakes of New Engineering Managers</title><link>https://news.panz3r.dev/post/9ff5c9711a8bdb43d7e8ad446db44466b3019c65793e8ecff0fcc003da3db7fa/</link><pubDate>Tue, 16 Mar 2021 10:27:39 +0000</pubDate><guid>https://news.panz3r.dev/post/9ff5c9711a8bdb43d7e8ad446db44466b3019c65793e8ecff0fcc003da3db7fa/</guid><description>
+# Comments: 112 …</description></item><item><title>Seagate's Roadmap: The Path to 120 TB Hard Drives</title><link>https://news.panz3r.dev/post/4645503b1057f14fbe2d170c0a04397db97e6be7646ef3558dbbef3e22f7fd11/</link><pubDate>Tue, 16 Mar 2021 11:14:36 +0000</pubDate><guid>https://news.panz3r.dev/post/4645503b1057f14fbe2d170c0a04397db97e6be7646ef3558dbbef3e22f7fd11/</guid><description>
+Article URL: https://www.anandtech.com/show/16544/seagates-roadmap-120-tb-hdds
+Comments URL: https://news.ycombinator.com/item?id=26475261 …</description></item><item><title>Common Mistakes of New Engineering Managers</title><link>https://news.panz3r.dev/post/9ff5c9711a8bdb43d7e8ad446db44466b3019c65793e8ecff0fcc003da3db7fa/</link><pubDate>Tue, 16 Mar 2021 10:27:39 +0000</pubDate><guid>https://news.panz3r.dev/post/9ff5c9711a8bdb43d7e8ad446db44466b3019c65793e8ecff0fcc003da3db7fa/</guid><description>
 Article URL: https://ochronus.online/the-5-common-mistakes-of-new-engineering-managers/
 Comments URL: …</description></item><item><title>The Y Combinator Experience – Remote Edition</title><link>https://news.panz3r.dev/post/ebff18a274638ead6040f389ac48c342e7e2d72ab834a17e68faa9efffbe666a/</link><pubDate>Tue, 16 Mar 2021 08:49:02 +0000</pubDate><guid>https://news.panz3r.dev/post/ebff18a274638ead6040f389ac48c342e7e2d72ab834a17e68faa9efffbe666a/</guid><description>
 Article URL: https://magicbell.io/blog/the-ycombinator-experience-remote-edition
@@ -516,40 +560,4 @@ Comments URL: …</description></item><item><title>Scaling out Postgres with the
 Article URL: https://www.citusdata.com/blog/2021/03/13/scaling-out-postgres-with-citus-open-source-shard-rebalancer/
 Comments URL: …</description></item><item><title>The productivity of working from home: Evidence from Japan</title><link>https://news.panz3r.dev/post/b7163d531840b892c4324b5f5a0579f09fd4384cbc7591d1ea5138482a7973db/</link><pubDate>Sat, 13 Mar 2021 17:33:48 +0000</pubDate><guid>https://news.panz3r.dev/post/b7163d531840b892c4324b5f5a0579f09fd4384cbc7591d1ea5138482a7973db/</guid><description>
 Article URL: https://voxeu.org/article/productivity-working-home-evidence-japan
-Comments URL: https://news.ycombinator.com/item?id=26448156 …</description></item><item><title>Fitting Cubic Bézier Curves</title><link>https://news.panz3r.dev/post/b58e7ec9a44ccfa35b6133f7298c3b39549a6f52949b0bd448428feb92f351e8/</link><pubDate>Sat, 13 Mar 2021 17:27:27 +0000</pubDate><guid>https://news.panz3r.dev/post/b58e7ec9a44ccfa35b6133f7298c3b39549a6f52949b0bd448428feb92f351e8/</guid><description>
-Article URL: https://raphlinus.github.io/curves/2021/03/11/bezier-fitting.html
-Comments URL: https://news.ycombinator.com/item?id=26448100 …</description></item><item><title>Trapped priors as a basic problem of rationality</title><link>https://news.panz3r.dev/post/947c4336a64cdcfca662f389ab6ebbe0fbc7593b548a0ee661fd5e72d12f75df/</link><pubDate>Sat, 13 Mar 2021 17:06:39 +0000</pubDate><guid>https://news.panz3r.dev/post/947c4336a64cdcfca662f389ab6ebbe0fbc7593b548a0ee661fd5e72d12f75df/</guid><description>
-Article URL: https://astralcodexten.substack.com/p/trapped-priors-as-a-basic-problem
-Comments URL: …</description></item><item><title>Federal investigators blast Tesla, call for stricter safety standards</title><link>https://news.panz3r.dev/post/e5e6e6335d615671185953ee972e7c160d9d7d47c5be79a1930c86075248ff80/</link><pubDate>Sat, 13 Mar 2021 16:20:10 +0000</pubDate><guid>https://news.panz3r.dev/post/e5e6e6335d615671185953ee972e7c160d9d7d47c5be79a1930c86075248ff80/</guid><description>
-Article URL: https://arstechnica.com/cars/2021/03/federal-investigators-blast-tesla-call-for-stricter-safety-standads/
-Comments URL: …</description></item><item><title>Zero-3 Offload: Scale DL models to trillion parameters without code changes</title><link>https://news.panz3r.dev/post/602d490bb51493d6b4753f5680e25a8a17f52cd5e3fc2c7f82053bfd09f8df0b/</link><pubDate>Sat, 13 Mar 2021 15:06:21 +0000</pubDate><guid>https://news.panz3r.dev/post/602d490bb51493d6b4753f5680e25a8a17f52cd5e3fc2c7f82053bfd09f8df0b/</guid><description>
-Article URL: https://www.deepspeed.ai/news/2021/03/07/zero3-offload.html
-Comments URL: https://news.ycombinator.com/item?id=26447018
-Points: …</description></item><item><title>An Object-Oriented Language for the '20s</title><link>https://news.panz3r.dev/post/85d27888dcfb3bf5260be44c440087aa1f36065fb8f9b4fdb2a58a9fc20bfdac/</link><pubDate>Sat, 13 Mar 2021 14:13:54 +0000</pubDate><guid>https://news.panz3r.dev/post/85d27888dcfb3bf5260be44c440087aa1f36065fb8f9b4fdb2a58a9fc20bfdac/</guid><description>
-Article URL: https://adam.nels.onl/blog/an-oo-languge-for-the-20s/
-Comments URL: https://news.ycombinator.com/item?id=26446685
-Points: 128
-# …</description></item><item><title>A directory of handmade webpages</title><link>https://news.panz3r.dev/post/c97e58a1d9c1c876e963562861c3489cead55ed43389d90e189da90aa254c1f8/</link><pubDate>Sat, 13 Mar 2021 13:46:49 +0000</pubDate><guid>https://news.panz3r.dev/post/c97e58a1d9c1c876e963562861c3489cead55ed43389d90e189da90aa254c1f8/</guid><description>
-Article URL: https://gossipsweb.net/
-Comments URL: https://news.ycombinator.com/item?id=26446516
-Points: 115
-# Comments: 55</description></item><item><title>Astronomers detect a black hole on the move</title><link>https://news.panz3r.dev/post/48144b8636f4fc10ef088041d0648cd85353d434589552a745a5cae15ea4bd3c/</link><pubDate>Sat, 13 Mar 2021 13:35:05 +0000</pubDate><guid>https://news.panz3r.dev/post/48144b8636f4fc10ef088041d0648cd85353d434589552a745a5cae15ea4bd3c/</guid><description>
-Article URL: https://phys.org/news/2021-03-astronomers-black-hole.html
-Comments URL: https://news.ycombinator.com/item?id=26446448
-Points: …</description></item><item><title>A flexible and durable “electronic” fabric that can be used as a display</title><link>https://news.panz3r.dev/post/4285c943cbc5b8f516a98a370613007f9c75cded265ee3585cae1d17145997a7/</link><pubDate>Sat, 13 Mar 2021 13:16:00 +0000</pubDate><guid>https://news.panz3r.dev/post/4285c943cbc5b8f516a98a370613007f9c75cded265ee3585cae1d17145997a7/</guid><description>
-Article URL: https://www.shine.cn/news/metro/2103115812/
-Comments URL: https://news.ycombinator.com/item?id=26446340
-Points: 125
-# Comments: …</description></item><item><title>Docker Security Cheat Sheet</title><link>https://news.panz3r.dev/post/06357696db2bb8ed53c85eafe06003600776ff24164f7fe2bd0814fb1bd0bfec/</link><pubDate>Sat, 13 Mar 2021 13:15:38 +0000</pubDate><guid>https://news.panz3r.dev/post/06357696db2bb8ed53c85eafe06003600776ff24164f7fe2bd0814fb1bd0bfec/</guid><description>
-Article URL: https://cheatsheetseries.owasp.org/cheatsheets/Docker_Security_Cheat_Sheet.html
-Comments URL: …</description></item><item><title>Build your own “data lake” for reporting purposes</title><link>https://news.panz3r.dev/post/668631ae119920f9355c077169eec1bed950e3365aeb6ec6843ed0e982518fa0/</link><pubDate>Sat, 13 Mar 2021 12:48:57 +0000</pubDate><guid>https://news.panz3r.dev/post/668631ae119920f9355c077169eec1bed950e3365aeb6ec6843ed0e982518fa0/</guid><description>
-Article URL: https://tech.fretlink.com/build-your-own-data-lake-for-reporting-purposes/
-Comments URL: …</description></item><item><title>Toronto swaps Google-backed, not-so-smart city plans for people-centred vision</title><link>https://news.panz3r.dev/post/143dc0795c51f5b912a0107fc065712c61564417eb6075bfe7d3c93b7ce9c83e/</link><pubDate>Sat, 13 Mar 2021 12:36:57 +0000</pubDate><guid>https://news.panz3r.dev/post/143dc0795c51f5b912a0107fc065712c61564417eb6075bfe7d3c93b7ce9c83e/</guid><description>
-Article URL: https://www.theguardian.com/world/2021/mar/12/toronto-canada-quayside-urban-centre
-Comments URL: …</description></item><item><title>Flameshot – Simple, powerful screenshot tool for all major operating systems</title><link>https://news.panz3r.dev/post/5e8f56890e354b4c0280612154f49a3de112c2f67e043aebcbd7a29e711a5635/</link><pubDate>Sat, 13 Mar 2021 12:15:27 +0000</pubDate><guid>https://news.panz3r.dev/post/5e8f56890e354b4c0280612154f49a3de112c2f67e043aebcbd7a29e711a5635/</guid><description>
-Article URL: https://flameshot.org/changelog/
-Comments URL: https://news.ycombinator.com/item?id=26446070
-Points: 217
-# Comments: 79</description></item><item><title>Ketchup is a non-Newtonian fluid</title><link>https://news.panz3r.dev/post/08aca31ec12e6fcdb650c3f8380e9ac323db5994609860c11743ee9167c49d89/</link><pubDate>Sat, 13 Mar 2021 11:53:28 +0000</pubDate><guid>https://news.panz3r.dev/post/08aca31ec12e6fcdb650c3f8380e9ac323db5994609860c11743ee9167c49d89/</guid><description>
-Article URL: https://www.scientificamerican.com/article/ketchup-is-not-just-a-condiment-it-is-also-a-non-newtonian-fluid/
-Comments URL: …</description></item></channel></rss>
+Comments URL: https://news.ycombinator.com/item?id=26448156 …</description></item></channel></rss>

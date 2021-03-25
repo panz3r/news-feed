@@ -1,14 +1,40 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hacker-News-Frontpage on Panz3r News</title><link>https://news.panz3r.dev/tags/hacker-news-frontpage/</link><description>Recent content in Hacker-News-Frontpage on news.panz3r.dev</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Panz3r 2020 | Vitae theme for Hugo</copyright><lastBuildDate>Thu, 25 Mar 2021 15:27:19 +0000</lastBuildDate><atom:link href="https://news.panz3r.dev/tags/hacker-news-frontpage/index.xml" rel="self" type="application/rss+xml"/><item><title>RIP Google Reader</title><link>https://news.panz3r.dev/post/f63bf4fa559d40957a50080128902fb93e8c73369dd7e53187846fd24deb2968/</link><pubDate>Thu, 25 Mar 2021 15:27:19 +0000</pubDate><guid>https://news.panz3r.dev/post/f63bf4fa559d40957a50080128902fb93e8c73369dd7e53187846fd24deb2968/</guid><description>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hacker-News-Frontpage on Panz3r News</title><link>https://news.panz3r.dev/tags/hacker-news-frontpage/</link><description>Recent content in Hacker-News-Frontpage on news.panz3r.dev</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Panz3r 2020 | Vitae theme for Hugo</copyright><lastBuildDate>Thu, 25 Mar 2021 20:58:16 +0000</lastBuildDate><atom:link href="https://news.panz3r.dev/tags/hacker-news-frontpage/index.xml" rel="self" type="application/rss+xml"/><item><title>Is that ship still stuck?</title><link>https://news.panz3r.dev/post/cffed6a15c62c2492c94d2237195b149bcf6fed8243a6e9a0243205879722738/</link><pubDate>Thu, 25 Mar 2021 20:58:16 +0000</pubDate><guid>https://news.panz3r.dev/post/cffed6a15c62c2492c94d2237195b149bcf6fed8243a6e9a0243205879722738/</guid><description>
+Article URL: https://istheshipstillstuck.com/
+Comments URL: https://news.ycombinator.com/item?id=26585282
+Points: 311
+# Comments: 339</description></item><item><title>Speculating the Entire x86-64 Instruction Set in Seconds with One Weird Trick</title><link>https://news.panz3r.dev/post/320bd61ca0aef57944a8e98c475fa65bad8941f8ab726cd9379d027d08c4adf1/</link><pubDate>Thu, 25 Mar 2021 19:07:30 +0000</pubDate><guid>https://news.panz3r.dev/post/320bd61ca0aef57944a8e98c475fa65bad8941f8ab726cd9379d027d08c4adf1/</guid><description>
+Article URL: https://blog.can.ac/2021/03/22/speculating-x86-64-isa-with-one-weird-trick/
+Comments URL: …</description></item><item><title>All my servers have an 8 GB empty file on disk</title><link>https://news.panz3r.dev/post/e23c762b7b3bb8ad4ed953c4aa51c83bdbfb78ef15992b45f9476d5b88f8a9d4/</link><pubDate>Thu, 25 Mar 2021 18:40:39 +0000</pubDate><guid>https://news.panz3r.dev/post/e23c762b7b3bb8ad4ed953c4aa51c83bdbfb78ef15992b45f9476d5b88f8a9d4/</guid><description>
+Article URL: https://brianschrader.com/archive/why-all-my-servers-have-an-8gb-empty-file/
+Comments URL: …</description></item><item><title>Phones and apps reduce your ability to focus even when they don’t distract you</title><link>https://news.panz3r.dev/post/3efd1e52067a195f315e24e6ee651f900f293f092b2b2572a3ad477e811d9e7e/</link><pubDate>Thu, 25 Mar 2021 17:07:00 +0000</pubDate><guid>https://news.panz3r.dev/post/3efd1e52067a195f315e24e6ee651f900f293f092b2b2572a3ad477e811d9e7e/</guid><description>
+Article URL: https://blog.rize.io/blog/phones-and-apps-reduce-your-ability-to-focus-even-when-they-dont-distract-you
+Comments URL: …</description></item><item><title>CoScreen: Screen Sharing for Engineers</title><link>https://news.panz3r.dev/post/3dd90fe0458922af059dfe5b7ae2ba7f1f01466d179b1108cd637eb3aba75dc6/</link><pubDate>Thu, 25 Mar 2021 16:49:22 +0000</pubDate><guid>https://news.panz3r.dev/post/3dd90fe0458922af059dfe5b7ae2ba7f1f01466d179b1108cd637eb3aba75dc6/</guid><description>
+Article URL: https://www.coscreen.co/
+Comments URL: https://news.ycombinator.com/item?id=26582515
+Points: 131
+# Comments: 70</description></item><item><title>Atomic clocks compared with astounding accuracy</title><link>https://news.panz3r.dev/post/9adf1b24804e0ec1bd52895323e5ce12cd8666fc21e844f88aad5d8d96979da3/</link><pubDate>Thu, 25 Mar 2021 16:21:09 +0000</pubDate><guid>https://news.panz3r.dev/post/9adf1b24804e0ec1bd52895323e5ce12cd8666fc21e844f88aad5d8d96979da3/</guid><description>
+Article URL: https://www.nature.com/articles/d41586-021-00738-0
+Comments URL: https://news.ycombinator.com/item?id=26582161
+Points: 57
+# …</description></item><item><title>1993: CGI Scripts and Early Server-Side Web Programming</title><link>https://news.panz3r.dev/post/ea3d845929f43afb960f53b5db5d2d147bffc94d2b84ead8096ca7d644538a47/</link><pubDate>Thu, 25 Mar 2021 16:18:22 +0000</pubDate><guid>https://news.panz3r.dev/post/ea3d845929f43afb960f53b5db5d2d147bffc94d2b84ead8096ca7d644538a47/</guid><description>
+Article URL: https://webdevelopmenthistory.com/1993-cgi-scripts-and-early-server-side-web-programming/
+Comments URL: …</description></item><item><title>Yocto/GL: C++ Libraries for Data-Driven Physically-Based Graphics</title><link>https://news.panz3r.dev/post/c7de7ce85563579a68a54ae0c9b6af059e1027d1fd13cc04c291fe0dbc48e492/</link><pubDate>Thu, 25 Mar 2021 16:18:10 +0000</pubDate><guid>https://news.panz3r.dev/post/c7de7ce85563579a68a54ae0c9b6af059e1027d1fd13cc04c291fe0dbc48e492/</guid><description>
+Article URL: https://github.com/xelatihy/yocto-gl
+Comments URL: https://news.ycombinator.com/item?id=26582114
+Points: 58
+# Comments: 13</description></item><item><title>Building a full-text search engine in 150 lines of Python code</title><link>https://news.panz3r.dev/post/8ad351b2c8135909c7d638d847ff237c9f2b7e706d6f8cfb8ce0efe061673669/</link><pubDate>Thu, 25 Mar 2021 16:17:33 +0000</pubDate><guid>https://news.panz3r.dev/post/8ad351b2c8135909c7d638d847ff237c9f2b7e706d6f8cfb8ce0efe061673669/</guid><description>
+Article URL: https://bart.degoe.de/building-a-full-text-search-engine-150-lines-of-code/
+Comments URL: …</description></item><item><title>RIP Google Reader</title><link>https://news.panz3r.dev/post/f63bf4fa559d40957a50080128902fb93e8c73369dd7e53187846fd24deb2968/</link><pubDate>Thu, 25 Mar 2021 15:27:19 +0000</pubDate><guid>https://news.panz3r.dev/post/f63bf4fa559d40957a50080128902fb93e8c73369dd7e53187846fd24deb2968/</guid><description>
 Article URL: https://www.ripgooglereader.com/
 Comments URL: https://news.ycombinator.com/item?id=26581434
-Points: 243
-# Comments: 139</description></item><item><title>Julia 1.6 Highlights</title><link>https://news.panz3r.dev/post/d6f50af58f0b88c71ee499c3e1b8d0f7b0a718f99f7d911bd5742ae0cd38393f/</link><pubDate>Thu, 25 Mar 2021 14:45:53 +0000</pubDate><guid>https://news.panz3r.dev/post/d6f50af58f0b88c71ee499c3e1b8d0f7b0a718f99f7d911bd5742ae0cd38393f/</guid><description>
+Points: 562
+# Comments: 309</description></item><item><title>Julia 1.6 Highlights</title><link>https://news.panz3r.dev/post/d6f50af58f0b88c71ee499c3e1b8d0f7b0a718f99f7d911bd5742ae0cd38393f/</link><pubDate>Thu, 25 Mar 2021 14:45:53 +0000</pubDate><guid>https://news.panz3r.dev/post/d6f50af58f0b88c71ee499c3e1b8d0f7b0a718f99f7d911bd5742ae0cd38393f/</guid><description>
 Article URL: https://julialang.org/blog/2021/03/julia-1.6-highlights/
 Comments URL: https://news.ycombinator.com/item?id=26580926
 Points: …</description></item><item><title>SQLite is not a toy database</title><link>https://news.panz3r.dev/post/4ba432ac1f98e248f795431c362278a3fe2348d1baa071979561f16268328dc5/</link><pubDate>Thu, 25 Mar 2021 14:20:25 +0000</pubDate><guid>https://news.panz3r.dev/post/4ba432ac1f98e248f795431c362278a3fe2348d1baa071979561f16268328dc5/</guid><description>
 Article URL: https://antonz.org/sqlite-is-not-a-toy-database/
 Comments URL: https://news.ycombinator.com/item?id=26580614
-Points: 348
+Points: 733
 # …</description></item><item><title>Rust 1.51</title><link>https://news.panz3r.dev/post/d43a94ab79946b20714bf5053334514801475163d66296cfbaf75711358215fe/</link><pubDate>Thu, 25 Mar 2021 14:20:17 +0000</pubDate><guid>https://news.panz3r.dev/post/d43a94ab79946b20714bf5053334514801475163d66296cfbaf75711358215fe/</guid><description>
 Article URL: https://blog.rust-lang.org/2021/03/25/Rust-1.51.0.html
 Comments URL: https://news.ycombinator.com/item?id=26580611
@@ -19,30 +45,34 @@ Points: 64
 # Comments: 9</description></item><item><title>OpenSSL Security Advisory</title><link>https://news.panz3r.dev/post/fcc9f3a5c2fc0648bbac2285d812e7b1fa964f1e457aad714e3ad1ec147a717f/</link><pubDate>Thu, 25 Mar 2021 14:08:52 +0000</pubDate><guid>https://news.panz3r.dev/post/fcc9f3a5c2fc0648bbac2285d812e7b1fa964f1e457aad714e3ad1ec147a717f/</guid><description>
 Article URL: https://www.openssl.org/news/secadv/20210325.txt
 Comments URL: https://news.ycombinator.com/item?id=26580477
-Points: 177
+Points: 268
 # …</description></item><item><title>Show HN: WebAssembly and ffmpeg = Quick clip, overlay, resize and GIF-ize videos</title><link>https://news.panz3r.dev/post/6e4ff88996931f7a9cd1e68f6a3507877ea73f0f2c51a80d2407681d26e1aed1/</link><pubDate>Thu, 25 Mar 2021 13:58:40 +0000</pubDate><guid>https://news.panz3r.dev/post/6e4ff88996931f7a9cd1e68f6a3507877ea73f0f2c51a80d2407681d26e1aed1/</guid><description>
 Article URL: https://vidds.co/free-video-converter/
 Comments URL: https://news.ycombinator.com/item?id=26580333
 Points: 55
-# Comments: 23</description></item><item><title>Show HN: I built a VS Code Theme Creator – easily make VS Code themes in browser</title><link>https://news.panz3r.dev/post/1b19a73e660793cc994d1d4c15000432b7b885be1dc79bba32709edfdf015ca9/</link><pubDate>Thu, 25 Mar 2021 13:24:23 +0000</pubDate><guid>https://news.panz3r.dev/post/1b19a73e660793cc994d1d4c15000432b7b885be1dc79bba32709edfdf015ca9/</guid><description>
+# Comments: 23</description></item><item><title>20-Minute Neighborhoods</title><link>https://news.panz3r.dev/post/3cde74a10e732355961c44954c75fd7440fc415b57e617add5d6f028c9c69933/</link><pubDate>Thu, 25 Mar 2021 13:50:08 +0000</pubDate><guid>https://news.panz3r.dev/post/3cde74a10e732355961c44954c75fd7440fc415b57e617add5d6f028c9c69933/</guid><description>
+Article URL: https://theconversation.com/people-love-the-idea-of-20-minute-neighbourhoods-so-why-isnt-it-top-of-the-agenda-131193
+Comments …</description></item><item><title>Show HN: I built a VS Code Theme Creator – easily make VS Code themes in browser</title><link>https://news.panz3r.dev/post/1b19a73e660793cc994d1d4c15000432b7b885be1dc79bba32709edfdf015ca9/</link><pubDate>Thu, 25 Mar 2021 13:24:23 +0000</pubDate><guid>https://news.panz3r.dev/post/1b19a73e660793cc994d1d4c15000432b7b885be1dc79bba32709edfdf015ca9/</guid><description>
 Article URL: https://themes.vscode.one
 Comments URL: https://news.ycombinator.com/item?id=26579936
-Points: 173
-# Comments: 55</description></item><item><title>Emacs 27.2</title><link>https://news.panz3r.dev/post/36401eef11e5bbceffa808dc4a3ae5051794e8c0db906f4df4be1e2b7345492b/</link><pubDate>Thu, 25 Mar 2021 12:58:43 +0000</pubDate><guid>https://news.panz3r.dev/post/36401eef11e5bbceffa808dc4a3ae5051794e8c0db906f4df4be1e2b7345492b/</guid><description>
+Points: 281
+# Comments: 85</description></item><item><title>Emacs 27.2</title><link>https://news.panz3r.dev/post/36401eef11e5bbceffa808dc4a3ae5051794e8c0db906f4df4be1e2b7345492b/</link><pubDate>Thu, 25 Mar 2021 12:58:43 +0000</pubDate><guid>https://news.panz3r.dev/post/36401eef11e5bbceffa808dc4a3ae5051794e8c0db906f4df4be1e2b7345492b/</guid><description>
 Article URL: https://lists.gnu.org/archive/html/info-gnu/2021-03/msg00008.html
-Comments URL: https://news.ycombinator.com/item?id=26579653 …</description></item><item><title>Steve Jobs Interview in 1981 [video]</title><link>https://news.panz3r.dev/post/fd71bf8e033a6c6e4513822ca701788b2183837a265fde5e066bec7c0df52a2d/</link><pubDate>Thu, 25 Mar 2021 12:35:45 +0000</pubDate><guid>https://news.panz3r.dev/post/fd71bf8e033a6c6e4513822ca701788b2183837a265fde5e066bec7c0df52a2d/</guid><description>
+Comments URL: https://news.ycombinator.com/item?id=26579653 …</description></item><item><title>Calc.exe is now open source; there’s surprising depth in its ancient code (2019)</title><link>https://news.panz3r.dev/post/d8695b9af1df7d1be557778c41c0beba02cff5c9526cbf34cb3fa5a56e320be8/</link><pubDate>Thu, 25 Mar 2021 12:40:36 +0000</pubDate><guid>https://news.panz3r.dev/post/d8695b9af1df7d1be557778c41c0beba02cff5c9526cbf34cb3fa5a56e320be8/</guid><description>
+Article URL: https://arstechnica.com/gadgets/2019/03/calc-exe-is-now-open-source-theres-surprising-depth-in-its-ancient-code/
+Comments URL: …</description></item><item><title>Steve Jobs Interview in 1981 [video]</title><link>https://news.panz3r.dev/post/fd71bf8e033a6c6e4513822ca701788b2183837a265fde5e066bec7c0df52a2d/</link><pubDate>Thu, 25 Mar 2021 12:35:45 +0000</pubDate><guid>https://news.panz3r.dev/post/fd71bf8e033a6c6e4513822ca701788b2183837a265fde5e066bec7c0df52a2d/</guid><description>
 Article URL: https://www.youtube.com/watch?v=DbfejwP1d3c
 Comments URL: https://news.ycombinator.com/item?id=26579440
-Points: 85
-# Comments: …</description></item><item><title>Introducing: Funds for Open Source</title><link>https://news.panz3r.dev/post/eb1d475c61e3ecad76fbdeab41b329559b61ff0cfdcd7bef10677c958c248ea2/</link><pubDate>Thu, 25 Mar 2021 11:27:59 +0000</pubDate><guid>https://news.panz3r.dev/post/eb1d475c61e3ecad76fbdeab41b329559b61ff0cfdcd7bef10677c958c248ea2/</guid><description>
+Points: 211
+# Comments: …</description></item><item><title>Funds for Open Source</title><link>https://news.panz3r.dev/post/eb1d475c61e3ecad76fbdeab41b329559b61ff0cfdcd7bef10677c958c248ea2/</link><pubDate>Thu, 25 Mar 2021 11:27:59 +0000</pubDate><guid>https://news.panz3r.dev/post/eb1d475c61e3ecad76fbdeab41b329559b61ff0cfdcd7bef10677c958c248ea2/</guid><description>
 Article URL: https://blog.opencollective.com/funds-for-open-source/
 Comments URL: https://news.ycombinator.com/item?id=26578898
-Points: 167 …</description></item><item><title>Julia and the satellite Amazonia-1 (2020)</title><link>https://news.panz3r.dev/post/c5fb6008b42db2b2d51a4d5209963aa779d231a4f01a13e49d1c8a53fbdbddf2/</link><pubDate>Thu, 25 Mar 2021 11:22:27 +0000</pubDate><guid>https://news.panz3r.dev/post/c5fb6008b42db2b2d51a4d5209963aa779d231a4f01a13e49d1c8a53fbdbddf2/</guid><description>
+Points: 245 …</description></item><item><title>Julia and the satellite Amazonia-1 (2020)</title><link>https://news.panz3r.dev/post/c5fb6008b42db2b2d51a4d5209963aa779d231a4f01a13e49d1c8a53fbdbddf2/</link><pubDate>Thu, 25 Mar 2021 11:22:27 +0000</pubDate><guid>https://news.panz3r.dev/post/c5fb6008b42db2b2d51a4d5209963aa779d231a4f01a13e49d1c8a53fbdbddf2/</guid><description>
 Article URL: https://discourse.julialang.org/t/julia-and-the-satellite-amazonia-1/57541
 Comments URL: …</description></item><item><title>Fossil Chat</title><link>https://news.panz3r.dev/post/0722bb80be1dd1c2c3837358acc81e24dbdce142cb7d7cefc52efdfd86b93eda/</link><pubDate>Thu, 25 Mar 2021 10:51:13 +0000</pubDate><guid>https://news.panz3r.dev/post/0722bb80be1dd1c2c3837358acc81e24dbdce142cb7d7cefc52efdfd86b93eda/</guid><description>
 Article URL: https://www.fossil-scm.org/home/doc/trunk/www/chat.md
 Comments URL: https://news.ycombinator.com/item?id=26578581
-Points: 194
+Points: 232
 # …</description></item><item><title>FSL: A programming language to make complex finite state machines easy to create</title><link>https://news.panz3r.dev/post/dc13fead76ac77dbb3ac92ffad5bb210d7eaf6e98b0519f4fc96a6c5014fdea1/</link><pubDate>Thu, 25 Mar 2021 10:44:28 +0000</pubDate><guid>https://news.panz3r.dev/post/dc13fead76ac77dbb3ac92ffad5bb210d7eaf6e98b0519f4fc96a6c5014fdea1/</guid><description>
 Article URL: https://fsl.tools/
 Comments URL: https://news.ycombinator.com/item?id=26578540
@@ -525,34 +555,4 @@ Comments URL: https://news.ycombinator.com/item?id=26527657 …</description></i
 Article URL: https://papercups.io/
 Comments URL: https://news.ycombinator.com/item?id=26527268
 Points: 69
-# Comments: 10</description></item><item><title>VUW Accidentally Wipes Desktop Computers</title><link>https://news.panz3r.dev/post/683cccbd48011dd804534e062301b13ac814357cb01f693c4ddcc2683c50b185/</link><pubDate>Sat, 20 Mar 2021 21:44:39 +0000</pubDate><guid>https://news.panz3r.dev/post/683cccbd48011dd804534e062301b13ac814357cb01f693c4ddcc2683c50b185/</guid><description>
-Article URL: https://www.critic.co.nz/news/article/9182/vuw-accidentally-wipes-desktop-computers
-Comments URL: …</description></item><item><title>Cryptography behind the top cryptocurrencies</title><link>https://news.panz3r.dev/post/afa5c399faaa0e277869eee66fece0f628aae24287fae4a7d6d5e8da0d80a8f6/</link><pubDate>Sat, 20 Mar 2021 21:14:53 +0000</pubDate><guid>https://news.panz3r.dev/post/afa5c399faaa0e277869eee66fece0f628aae24287fae4a7d6d5e8da0d80a8f6/</guid><description>
-Article URL: http://ethanfast.com/top-crypto.html
-Comments URL: https://news.ycombinator.com/item?id=26526108
-Points: 121
-# Comments: 52</description></item><item><title>AARD Code, or how Bill Gates finished off the competition</title><link>https://news.panz3r.dev/post/366f01bbded1a405038ce5aecefcd005e405521e796c96a4f2d8f27bbcbedeab/</link><pubDate>Sat, 20 Mar 2021 21:09:38 +0000</pubDate><guid>https://news.panz3r.dev/post/366f01bbded1a405038ce5aecefcd005e405521e796c96a4f2d8f27bbcbedeab/</guid><description>
-Article URL: https://www.zapread.com/Post/Detail/7735/aard-code-or-how-bill-gates-finished-off-the-competition/
-Comments URL: …</description></item><item><title>Identify a remarkable trait in anyone, then either copy or avoid it</title><link>https://news.panz3r.dev/post/eaaacedcba4cde68a74bf99bc8cd771fb5214da31c27a383e99ee251052a2452/</link><pubDate>Sat, 20 Mar 2021 20:53:13 +0000</pubDate><guid>https://news.panz3r.dev/post/eaaacedcba4cde68a74bf99bc8cd771fb5214da31c27a383e99ee251052a2452/</guid><description>
-Article URL: https://knowledgeartist.org/article/identify-remarkable-trait-learn
-Comments URL: https://news.ycombinator.com/item?id=26525998 …</description></item><item><title>My self-study plan for electrical engineering</title><link>https://news.panz3r.dev/post/c6b6597ef58f8572f0d3b70d70fff0f3f96a860157a2a1590d27fe6c8200bca9/</link><pubDate>Sat, 20 Mar 2021 20:00:06 +0000</pubDate><guid>https://news.panz3r.dev/post/c6b6597ef58f8572f0d3b70d70fff0f3f96a860157a2a1590d27fe6c8200bca9/</guid><description>
-Article URL: https://i-kh.net/2021/03/20/electrical-engineering-study-plan/
-Comments URL: https://news.ycombinator.com/item?id=26525694 …</description></item><item><title>SubX: A minimalist assembly language for a subset of the x86 ISA (2019)</title><link>https://news.panz3r.dev/post/9f1d51b66903ac20628acf0ca09e157d7bbf244608db83def2e776bc1eab7275/</link><pubDate>Sat, 20 Mar 2021 19:14:55 +0000</pubDate><guid>https://news.panz3r.dev/post/9f1d51b66903ac20628acf0ca09e157d7bbf244608db83def2e776bc1eab7275/</guid><description>
-Article URL: https://github.com/akkartik/mu/blob/main/subx.md
-Comments URL: https://news.ycombinator.com/item?id=26525349
-Points: 86
-# …</description></item><item><title>Glacial – Microcoded RISC-V core designed for low FPGA resource utilization</title><link>https://news.panz3r.dev/post/243a25b3d2bd33328351ff60df7c44b9c71a654b4dcef257031034a094ba5159/</link><pubDate>Sat, 20 Mar 2021 19:05:22 +0000</pubDate><guid>https://news.panz3r.dev/post/243a25b3d2bd33328351ff60df7c44b9c71a654b4dcef257031034a094ba5159/</guid><description>
-Article URL: https://github.com/brouhaha/glacial
-Comments URL: https://news.ycombinator.com/item?id=26525282
-Points: 74
-# Comments: 34</description></item><item><title>How to Study Mathematics (2017)</title><link>https://news.panz3r.dev/post/34ff947ef7d2b3f1013207a93c54e21d74496ec6c20867163cebaf06cfb6d22b/</link><pubDate>Sat, 20 Mar 2021 18:13:45 +0000</pubDate><guid>https://news.panz3r.dev/post/34ff947ef7d2b3f1013207a93c54e21d74496ec6c20867163cebaf06cfb6d22b/</guid><description>
-Article URL: https://www.math.uh.edu/~dblecher/pf2.html
-Comments URL: https://news.ycombinator.com/item?id=26524876
-Points: 208
-# Comments: …</description></item><item><title>Tesla orders its first 8k-ton Cybertruck casting machine</title><link>https://news.panz3r.dev/post/21862cdcd1f63a598a6612eb678b97688ddf32d8595f7017c196763454a141f2/</link><pubDate>Sat, 20 Mar 2021 18:03:43 +0000</pubDate><guid>https://news.panz3r.dev/post/21862cdcd1f63a598a6612eb678b97688ddf32d8595f7017c196763454a141f2/</guid><description>
-Article URL: https://www.teslaoracle.com/2021/03/20/tesla-orders-its-first-8000-ton-cybertruck-giga-casting-machine/
-Comments URL: …</description></item><item><title>The Complexity of a WW II P-47 Thunderbolt’s Powerplant</title><link>https://news.panz3r.dev/post/41645ea48951a89034fe79df67dde4fa6600761570ea052b9338ec9cae134342/</link><pubDate>Sat, 20 Mar 2021 18:00:01 +0000</pubDate><guid>https://news.panz3r.dev/post/41645ea48951a89034fe79df67dde4fa6600761570ea052b9338ec9cae134342/</guid><description>
-Article URL: https://lynceans.org/all-posts/the-complexity-of-a-ww-ii-p-47-thunderbolts-powerplant/
-Comments URL: …</description></item><item><title>Speeding up SQL queries by orders of magnitude using UNION</title><link>https://news.panz3r.dev/post/e5acb05ec0a9598c801a02bf91948788c53136962b91c4deb853826c20aafc8d/</link><pubDate>Sat, 20 Mar 2021 17:58:25 +0000</pubDate><guid>https://news.panz3r.dev/post/e5acb05ec0a9598c801a02bf91948788c53136962b91c4deb853826c20aafc8d/</guid><description>
-Article URL: https://www.foxhound.systems/blog/sql-performance-with-union/
-Comments URL: https://news.ycombinator.com/item?id=26524776 …</description></item></channel></rss>
+# Comments: 10</description></item></channel></rss>

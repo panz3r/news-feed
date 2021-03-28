@@ -1,23 +1,31 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hacker-News-Frontpage on Panz3r News</title><link>https://news.panz3r.dev/tags/hacker-news-frontpage/</link><description>Recent content in Hacker-News-Frontpage on news.panz3r.dev</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Panz3r 2020 | Vitae theme for Hugo</copyright><lastBuildDate>Sat, 27 Mar 2021 18:02:48 +0000</lastBuildDate><atom:link href="https://news.panz3r.dev/tags/hacker-news-frontpage/index.xml" rel="self" type="application/rss+xml"/><item><title>I tracked down my impostor</title><link>https://news.panz3r.dev/post/cab1c626fde059208c045f14511f41950d55adbdd4f8f674864effdbbd668931/</link><pubDate>Sat, 27 Mar 2021 18:02:48 +0000</pubDate><guid>https://news.panz3r.dev/post/cab1c626fde059208c045f14511f41950d55adbdd4f8f674864effdbbd668931/</guid><description>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hacker-News-Frontpage on Panz3r News</title><link>https://news.panz3r.dev/tags/hacker-news-frontpage/</link><description>Recent content in Hacker-News-Frontpage on news.panz3r.dev</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Panz3r 2020 | Vitae theme for Hugo</copyright><lastBuildDate>Sun, 28 Mar 2021 02:55:57 +0000</lastBuildDate><atom:link href="https://news.panz3r.dev/tags/hacker-news-frontpage/index.xml" rel="self" type="application/rss+xml"/><item><title>„We were chased out of SF after trying to give free Internet to the poorest“</title><link>https://news.panz3r.dev/post/60d430e407c9970e3824e3139afdc81f4286ba38798099a21777da76dbf63f01/</link><pubDate>Sun, 28 Mar 2021 02:55:57 +0000</pubDate><guid>https://news.panz3r.dev/post/60d430e407c9970e3824e3139afdc81f4286ba38798099a21777da76dbf63f01/</guid><description>
+Article URL: https://twitter.com/sacca/status/1375962440303661057
+Comments URL: https://news.ycombinator.com/item?id=26607556
+Points: 164
+# …</description></item><item><title>How can you tell if someone is lying?</title><link>https://news.panz3r.dev/post/217039eb34b102a3f36079d05be00a4abc29fdc405f540726497548b351b9ec3/</link><pubDate>Sun, 28 Mar 2021 02:10:18 +0000</pubDate><guid>https://news.panz3r.dev/post/217039eb34b102a3f36079d05be00a4abc29fdc405f540726497548b351b9ec3/</guid><description>
+Article URL: https://www.theatlantic.com/science/archive/2021/03/how-to-spot-a-liar/618425/
+Comments URL: …</description></item><item><title>High Schooler Invented Color-Changing Sutures to Detect Infection</title><link>https://news.panz3r.dev/post/b661420eeb413d8459ea13fb72c9d95cbeb51a4ca2bf617649a9bfd3304b69f0/</link><pubDate>Sun, 28 Mar 2021 00:35:43 +0000</pubDate><guid>https://news.panz3r.dev/post/b661420eeb413d8459ea13fb72c9d95cbeb51a4ca2bf617649a9bfd3304b69f0/</guid><description>
+Article URL: https://www.smithsonianmag.com/innovation/high-schooler-invented-color-changing-sutures-detect-infection-180977345/
+Comments …</description></item><item><title>I tracked down my impostor</title><link>https://news.panz3r.dev/post/cab1c626fde059208c045f14511f41950d55adbdd4f8f674864effdbbd668931/</link><pubDate>Sat, 27 Mar 2021 18:02:48 +0000</pubDate><guid>https://news.panz3r.dev/post/cab1c626fde059208c045f14511f41950d55adbdd4f8f674864effdbbd668931/</guid><description>
 Article URL: https://www.theguardian.com/lifeandstyle/2021/mar/26/experience-i-tracked-down-my-impostor
 Comments URL: …</description></item><item><title>EU experts to say nuclear power qualifies for green investment label: document</title><link>https://news.panz3r.dev/post/2ead42c63285da7feab686234ad6d66b882c8e376046bc349d39ca587064f7bb/</link><pubDate>Sat, 27 Mar 2021 16:30:09 +0000</pubDate><guid>https://news.panz3r.dev/post/2ead42c63285da7feab686234ad6d66b882c8e376046bc349d39ca587064f7bb/</guid><description>
 Article URL: …</description></item><item><title>Ohm – A library and language for building parsers, interpreters, compilers, etc.</title><link>https://news.panz3r.dev/post/f21b6b4dc7231fc14669d895858992e302c0044f1339ba35ca8305680f399df5/</link><pubDate>Sat, 27 Mar 2021 16:20:18 +0000</pubDate><guid>https://news.panz3r.dev/post/f21b6b4dc7231fc14669d895858992e302c0044f1339ba35ca8305680f399df5/</guid><description>
 Article URL: https://github.com/harc/ohm
 Comments URL: https://news.ycombinator.com/item?id=26603393
-Points: 210
-# Comments: 53</description></item><item><title>OAuth 2.0 Authentication Vulnerabilities</title><link>https://news.panz3r.dev/post/a8d21b43699312806db752fbdbe9703e96c3aa522fb2dda68d59401c6b0df957/</link><pubDate>Sat, 27 Mar 2021 16:04:16 +0000</pubDate><guid>https://news.panz3r.dev/post/a8d21b43699312806db752fbdbe9703e96c3aa522fb2dda68d59401c6b0df957/</guid><description>
+Points: 287
+# Comments: 63</description></item><item><title>OAuth 2.0 Authentication Vulnerabilities</title><link>https://news.panz3r.dev/post/a8d21b43699312806db752fbdbe9703e96c3aa522fb2dda68d59401c6b0df957/</link><pubDate>Sat, 27 Mar 2021 16:04:16 +0000</pubDate><guid>https://news.panz3r.dev/post/a8d21b43699312806db752fbdbe9703e96c3aa522fb2dda68d59401c6b0df957/</guid><description>
 Article URL: https://portswigger.net/web-security/oauth
 Comments URL: https://news.ycombinator.com/item?id=26603259
-Points: 97
+Points: 138
 # Comments: …</description></item><item><title>400-year-old Greenland shark ‘longest-living vertebrate’ (2016)</title><link>https://news.panz3r.dev/post/0f1c9ef056a3e600838342ebd50e0f24fb1b035d21791a5ae54583f66f8e2936/</link><pubDate>Sat, 27 Mar 2021 15:57:37 +0000</pubDate><guid>https://news.panz3r.dev/post/0f1c9ef056a3e600838342ebd50e0f24fb1b035d21791a5ae54583f66f8e2936/</guid><description>
 Article URL: https://www.bbc.com/news/science-environment-37047168
 Comments URL: https://news.ycombinator.com/item?id=26603197
-Points: 126
+Points: 189
 # …</description></item><item><title>Figma to React</title><link>https://news.panz3r.dev/post/db109ec6bece2ef384d03da3601ce5afbf1ef290180ea080c8b7389d38578d0e/</link><pubDate>Sat, 27 Mar 2021 15:43:20 +0000</pubDate><guid>https://news.panz3r.dev/post/db109ec6bece2ef384d03da3601ce5afbf1ef290180ea080c8b7389d38578d0e/</guid><description>
 Article URL: https://figma-to-react.vercel.app/
 Comments URL: https://news.ycombinator.com/item?id=26603097
-Points: 189
-# Comments: 62</description></item><item><title>Go+: Go designed for data science</title><link>https://news.panz3r.dev/post/0e353d036836c20aa1effcf58d1da164ef65e98d26de533902e3c1d9b156d777/</link><pubDate>Sat, 27 Mar 2021 14:02:29 +0000</pubDate><guid>https://news.panz3r.dev/post/0e353d036836c20aa1effcf58d1da164ef65e98d26de533902e3c1d9b156d777/</guid><description>
+Points: 279
+# Comments: 83</description></item><item><title>Go+: Go designed for data science</title><link>https://news.panz3r.dev/post/0e353d036836c20aa1effcf58d1da164ef65e98d26de533902e3c1d9b156d777/</link><pubDate>Sat, 27 Mar 2021 14:02:29 +0000</pubDate><guid>https://news.panz3r.dev/post/0e353d036836c20aa1effcf58d1da164ef65e98d26de533902e3c1d9b156d777/</guid><description>
 Article URL: https://goplus.org/
 Comments URL: https://news.ycombinator.com/item?id=26602331
 Points: 155
@@ -32,12 +40,12 @@ Article URL: https://sportebois.medium.com/better-architecture-diagrams-for-agil
 Comments …</description></item><item><title>Open Source Security Foundation</title><link>https://news.panz3r.dev/post/b6efe9fa8b93d4a6cd8fc43b0fe59e1ce03375e434bcd69add8ae4c505fd5e8a/</link><pubDate>Sat, 27 Mar 2021 13:11:39 +0000</pubDate><guid>https://news.panz3r.dev/post/b6efe9fa8b93d4a6cd8fc43b0fe59e1ce03375e434bcd69add8ae4c505fd5e8a/</guid><description>
 Article URL: https://openssf.org/
 Comments URL: https://news.ycombinator.com/item?id=26602033
-Points: 183
-# Comments: 49</description></item><item><title>BPF for storage: an exokernel-inspired approach [pdf]</title><link>https://news.panz3r.dev/post/dd056049691aaba97fb01f38f6f13efee87a537d8a6eb836dacfa0eab301c636/</link><pubDate>Sat, 27 Mar 2021 12:31:46 +0000</pubDate><guid>https://news.panz3r.dev/post/dd056049691aaba97fb01f38f6f13efee87a537d8a6eb836dacfa0eab301c636/</guid><description>
+Points: 217
+# Comments: 65</description></item><item><title>BPF for storage: an exokernel-inspired approach [pdf]</title><link>https://news.panz3r.dev/post/dd056049691aaba97fb01f38f6f13efee87a537d8a6eb836dacfa0eab301c636/</link><pubDate>Sat, 27 Mar 2021 12:31:46 +0000</pubDate><guid>https://news.panz3r.dev/post/dd056049691aaba97fb01f38f6f13efee87a537d8a6eb836dacfa0eab301c636/</guid><description>
 Article URL: https://arxiv.org/abs/2102.12922
 Comments URL: https://news.ycombinator.com/item?id=26601841
-Points: 89
-# Comments: 32</description></item><item><title>FileZilla now contains adware if you download from the official homepage</title><link>https://news.panz3r.dev/post/c197b45e673320a425108e194625eb614089bc0a4826b066a0f0d3c6d92b5c55/</link><pubDate>Sat, 27 Mar 2021 11:29:18 +0000</pubDate><guid>https://news.panz3r.dev/post/c197b45e673320a425108e194625eb614089bc0a4826b066a0f0d3c6d92b5c55/</guid><description>
+Points: 110
+# Comments: 35</description></item><item><title>FileZilla now contains adware if you download from the official homepage</title><link>https://news.panz3r.dev/post/c197b45e673320a425108e194625eb614089bc0a4826b066a0f0d3c6d92b5c55/</link><pubDate>Sat, 27 Mar 2021 11:29:18 +0000</pubDate><guid>https://news.panz3r.dev/post/c197b45e673320a425108e194625eb614089bc0a4826b066a0f0d3c6d92b5c55/</guid><description>
 Article URL: https://www.twitter.com/nixcraft/status/1375389973742948355
 Comments URL: https://news.ycombinator.com/item?id=26601533
 Points: …</description></item><item><title>Show HN: Stackby – Spreadsheets, Databases and No-code APIs in a single platform</title><link>https://news.panz3r.dev/post/bca3b1da06409abf6d943003c92bfa8e8a0ad14f92c414fe6f46a305b56c8bc0/</link><pubDate>Sat, 27 Mar 2021 11:23:33 +0000</pubDate><guid>https://news.panz3r.dev/post/bca3b1da06409abf6d943003c92bfa8e8a0ad14f92c414fe6f46a305b56c8bc0/</guid><description>
@@ -67,8 +75,8 @@ Points: 142
 # …</description></item><item><title>Louvre makes its entire collection available online</title><link>https://news.panz3r.dev/post/5b94a53ad1856f2b5a6ff55d74f3a182d9f5ab774f9269c5146abf466c934698/</link><pubDate>Sat, 27 Mar 2021 04:08:30 +0000</pubDate><guid>https://news.panz3r.dev/post/5b94a53ad1856f2b5a6ff55d74f3a182d9f5ab774f9269c5146abf466c934698/</guid><description>
 Article URL: https://collections.louvre.fr/en/
 Comments URL: https://news.ycombinator.com/item?id=26599830
-Points: 733
-# Comments: 151</description></item><item><title>Lessons from ten nations about building affordable, low-carbon neighborhoods</title><link>https://news.panz3r.dev/post/ff47dfb1d36cad728fd9b589908d0d4f45b613cd1f620825b2b39cd48aadfb95/</link><pubDate>Sat, 27 Mar 2021 03:41:37 +0000</pubDate><guid>https://news.panz3r.dev/post/ff47dfb1d36cad728fd9b589908d0d4f45b613cd1f620825b2b39cd48aadfb95/</guid><description>
+Points: 800
+# Comments: 166</description></item><item><title>Lessons from ten nations about building affordable, low-carbon neighborhoods</title><link>https://news.panz3r.dev/post/ff47dfb1d36cad728fd9b589908d0d4f45b613cd1f620825b2b39cd48aadfb95/</link><pubDate>Sat, 27 Mar 2021 03:41:37 +0000</pubDate><guid>https://news.panz3r.dev/post/ff47dfb1d36cad728fd9b589908d0d4f45b613cd1f620825b2b39cd48aadfb95/</guid><description>
 Article URL: https://www.sightline.org/2021/03/25/yes-other-countries-do-housing-better-case-1-japan/
 Comments URL: …</description></item><item><title>The Revolution in Classic Tetris</title><link>https://news.panz3r.dev/post/e7c7e8769a01f473c38c83676944d972863c8503f1ac47ba4da99e8ca845af80/</link><pubDate>Sat, 27 Mar 2021 01:34:05 +0000</pubDate><guid>https://news.panz3r.dev/post/e7c7e8769a01f473c38c83676944d972863c8503f1ac47ba4da99e8ca845af80/</guid><description>
 Article URL: https://www.newyorker.com/culture/cultural-comment/the-revolution-in-classic-tetris
@@ -109,6 +117,8 @@ Points: 342
 Article URL: https://supchina.com/2021/03/18/meeting-the-darkhad-the-soul-guards-of-genghis-khan/
 Comments URL: …</description></item><item><title>Fairphone suggests Qualcomm is the biggest barrier to long-term Android support</title><link>https://news.panz3r.dev/post/0963c0fc810d6a22ce125f12fd58de48e67c0057d70d45f6fa78e9441ac7bcf7/</link><pubDate>Fri, 26 Mar 2021 15:30:16 +0000</pubDate><guid>https://news.panz3r.dev/post/0963c0fc810d6a22ce125f12fd58de48e67c0057d70d45f6fa78e9441ac7bcf7/</guid><description>
 Article URL: https://arstechnica.com/gadgets/2021/03/the-fairphone-2-hits-five-years-of-updates-with-some-help-from-lineageos/
+Comments URL: …</description></item><item><title>Does Amazon make more from ads than AWS?</title><link>https://news.panz3r.dev/post/b4fb58390c070fd2b739098dc3dfe5d786c0a3c31f0d1d8252c564fc931a8d5d/</link><pubDate>Fri, 26 Mar 2021 15:25:41 +0000</pubDate><guid>https://news.panz3r.dev/post/b4fb58390c070fd2b739098dc3dfe5d786c0a3c31f0d1d8252c564fc931a8d5d/</guid><description>
+Article URL: https://www.ben-evans.com/benedictevans/2021/3/14/do-amazon-ads-bring-in-more-cash-than-aws
 Comments URL: …</description></item><item><title>Only Google is really allowed to crawl the web</title><link>https://news.panz3r.dev/post/ba412b9d65c5305b0810576f2cab869736ed3d57ab89d9372738ae717a77638c/</link><pubDate>Fri, 26 Mar 2021 14:34:15 +0000</pubDate><guid>https://news.panz3r.dev/post/ba412b9d65c5305b0810576f2cab869736ed3d57ab89d9372738ae717a77638c/</guid><description>
 Article URL: https://knuckleheads.club/
 Comments URL: https://news.ycombinator.com/item?id=26592635
@@ -135,7 +145,11 @@ Comments …
 			
 		</description></item><item><title>Pockit Modular computing demo [video]</title><link>https://news.panz3r.dev/post/fdab539be9673e67e193e14366bfd23f00f1b5155d59003cea0af47480e461cb/</link><pubDate>Fri, 26 Mar 2021 11:12:58 +0000</pubDate><guid>https://news.panz3r.dev/post/fdab539be9673e67e193e14366bfd23f00f1b5155d59003cea0af47480e461cb/</guid><description>
 Article URL: https://www.reddit.com/r/homeassistant/comments/mcyoe9/a_project_that_ive_been_workin_on_im_curious_what/
-Comments URL: …</description></item><item><title>How to implement a hash table in C</title><link>https://news.panz3r.dev/post/3a32b729b11ddb2f31f5c7133e7355335a2553b94f5226158d9d25660f0e9c68/</link><pubDate>Fri, 26 Mar 2021 09:39:01 +0000</pubDate><guid>https://news.panz3r.dev/post/3a32b729b11ddb2f31f5c7133e7355335a2553b94f5226158d9d25660f0e9c68/</guid><description>
+Comments URL: …</description></item><item><title>Extracting the abstract syntax tree from GCC (2015)</title><link>https://news.panz3r.dev/post/5c3e035ffba358d0ea5fefdd6035c4238ad7df49ca183ac4cc32d44bc5831319/</link><pubDate>Fri, 26 Mar 2021 10:37:45 +0000</pubDate><guid>https://news.panz3r.dev/post/5c3e035ffba358d0ea5fefdd6035c4238ad7df49ca183ac4cc32d44bc5831319/</guid><description>
+Article URL: https://lwn.net/Articles/629259/
+Comments URL: https://news.ycombinator.com/item?id=26590524
+Points: 53
+# Comments: 35</description></item><item><title>How to implement a hash table in C</title><link>https://news.panz3r.dev/post/3a32b729b11ddb2f31f5c7133e7355335a2553b94f5226158d9d25660f0e9c68/</link><pubDate>Fri, 26 Mar 2021 09:39:01 +0000</pubDate><guid>https://news.panz3r.dev/post/3a32b729b11ddb2f31f5c7133e7355335a2553b94f5226158d9d25660f0e9c68/</guid><description>
 Article URL: https://benhoyt.com/writings/hash-table-in-c/
 Comments URL: https://news.ycombinator.com/item?id=26590234
 Points: 238
@@ -175,7 +189,9 @@ Points: 138
 Article URL: https://en.wikipedia.org/wiki/Amdahl%27s_law
 Comments URL: https://news.ycombinator.com/item?id=26587026
 Points: 82
-# Comments: …</description></item><item><title>The bank effect and the big boat blocking the Suez</title><link>https://news.panz3r.dev/post/00ecc993f546198b70131ad6705d5678b28bc4da0d7496c1b6cb923699d3f5e9/</link><pubDate>Thu, 25 Mar 2021 23:16:40 +0000</pubDate><guid>https://news.panz3r.dev/post/00ecc993f546198b70131ad6705d5678b28bc4da0d7496c1b6cb923699d3f5e9/</guid><description>
+# Comments: …</description></item><item><title>The Pastry A.I. That Learned to Fight Cancer</title><link>https://news.panz3r.dev/post/dc28fb80d7a4091a1b4dbd21cb17d6e8b7d4bab931271a5b53eed3de7ed19211/</link><pubDate>Thu, 25 Mar 2021 23:22:54 +0000</pubDate><guid>https://news.panz3r.dev/post/dc28fb80d7a4091a1b4dbd21cb17d6e8b7d4bab931271a5b53eed3de7ed19211/</guid><description>
+Article URL: https://www.newyorker.com/tech/annals-of-technology/the-pastry-ai-that-learned-to-fight-cancer
+Comments URL: …</description></item><item><title>The bank effect and the big boat blocking the Suez</title><link>https://news.panz3r.dev/post/00ecc993f546198b70131ad6705d5678b28bc4da0d7496c1b6cb923699d3f5e9/</link><pubDate>Thu, 25 Mar 2021 23:16:40 +0000</pubDate><guid>https://news.panz3r.dev/post/00ecc993f546198b70131ad6705d5678b28bc4da0d7496c1b6cb923699d3f5e9/</guid><description>
 Article URL: https://www.ft.com/content/171c92ec-0a44-4dc5-acab-81ee2620d3c1
 Comments URL: https://news.ycombinator.com/item?id=26586866 …</description></item><item><title>Why OO Sucks by Joe Armstrong (2000)</title><link>https://news.panz3r.dev/post/bc3300d646715085d14b401268ba343cd44933841e37094ceeeba59dcd652114/</link><pubDate>Thu, 25 Mar 2021 23:12:44 +0000</pubDate><guid>https://news.panz3r.dev/post/bc3300d646715085d14b401268ba343cd44933841e37094ceeeba59dcd652114/</guid><description>
 Article URL: http://harmful.cat-v.org/software/OO_programming/why_oo_sucks
@@ -545,32 +561,4 @@ Comments URL: https://news.ycombinator.com/item?id=26552375
 Points: 175 …</description></item><item><title>How do plants extract nutrients from the ground?</title><link>https://news.panz3r.dev/post/019a068dabc042bcf0d81d621ef2b12fb764c6e218a48a206760a5d06c86d8a3/</link><pubDate>Tue, 23 Mar 2021 08:15:56 +0000</pubDate><guid>https://news.panz3r.dev/post/019a068dabc042bcf0d81d621ef2b12fb764c6e218a48a206760a5d06c86d8a3/</guid><description>
 Article URL: https://www.permaculture.co.uk/articles/how-plants-extract-nutrients
 Comments URL: …</description></item><item><title>Erlang Garbage Collection Details and Why It Matters (2015)</title><link>https://news.panz3r.dev/post/07998ba89657c3b748acb4b2a177057261e99e1f485b061640f4680c777b973e/</link><pubDate>Tue, 23 Mar 2021 06:30:50 +0000</pubDate><guid>https://news.panz3r.dev/post/07998ba89657c3b748acb4b2a177057261e99e1f485b061640f4680c777b973e/</guid><description>
-Article URL: …</description></item><item><title>Akira Kurosawa’s List of His 100 Favorite Movies (2015)</title><link>https://news.panz3r.dev/post/938b128774e14684faef2e97f3d9e4fd06a3fa62b8b225860cc01f6c059cacee/</link><pubDate>Tue, 23 Mar 2021 06:04:18 +0000</pubDate><guid>https://news.panz3r.dev/post/938b128774e14684faef2e97f3d9e4fd06a3fa62b8b225860cc01f6c059cacee/</guid><description>
-Article URL: https://www.openculture.com/2015/01/akira-kurosawas-list-of-his-100-favorite-movies.html
-Comments URL: …</description></item><item><title>The dispassionate developer</title><link>https://news.panz3r.dev/post/975e10d9849ce4b50738050a89673bdb97523bcf450ca410d99dbfe3302c2cab/</link><pubDate>Tue, 23 Mar 2021 05:47:07 +0000</pubDate><guid>https://news.panz3r.dev/post/975e10d9849ce4b50738050a89673bdb97523bcf450ca410d99dbfe3302c2cab/</guid><description>
-Article URL: https://blog.ploeh.dk/2021/03/22/the-dispassionate-developer/
-Comments URL: https://news.ycombinator.com/item?id=26551529 …</description></item><item><title>FCC Reaches Out to Collect Consumer Broadband Availability Experiences</title><link>https://news.panz3r.dev/post/6caec7ad0b0d6ae94f8a1e90bd0c20df75f54ce8aaea0dd782b7f8591894640a/</link><pubDate>Tue, 23 Mar 2021 05:36:02 +0000</pubDate><guid>https://news.panz3r.dev/post/6caec7ad0b0d6ae94f8a1e90bd0c20df75f54ce8aaea0dd782b7f8591894640a/</guid><description>
-Article URL: https://www.fcc.gov/document/fcc-reaches-out-collect-consumer-broadband-availability-experiences
-Comments URL: …</description></item><item><title>This Music Video Does Not Exist [video]</title><link>https://news.panz3r.dev/post/7c0217727d204f1cb13f82041d6fff7d0bea6675e58f907a628a6781d1223cfb/</link><pubDate>Tue, 23 Mar 2021 05:15:28 +0000</pubDate><guid>https://news.panz3r.dev/post/7c0217727d204f1cb13f82041d6fff7d0bea6675e58f907a628a6781d1223cfb/</guid><description>
-Article URL: https://www.thismusicvideodoesnotexist.com/
-Comments URL: https://news.ycombinator.com/item?id=26551366
-Points: 226
-# Comments: …</description></item><item><title>Darker Corners of Go</title><link>https://news.panz3r.dev/post/e13d3971d483d92161250f3d5df7efe489af94c6e5435ef73d95555495cd97d4/</link><pubDate>Tue, 23 Mar 2021 03:23:02 +0000</pubDate><guid>https://news.panz3r.dev/post/e13d3971d483d92161250f3d5df7efe489af94c6e5435ef73d95555495cd97d4/</guid><description>
-Article URL: https://rytisbiel.com/2021/03/06/darker-corners-of-go/
-Comments URL: https://news.ycombinator.com/item?id=26550685
-Points: 102 …</description></item><item><title>Backblaze Privacy Update: Third-Party Tracking</title><link>https://news.panz3r.dev/post/6b8f4995f2e072b64b2e647490e55e7134fe25e6c4cc33b94c80510d71ba1f95/</link><pubDate>Tue, 23 Mar 2021 02:58:37 +0000</pubDate><guid>https://news.panz3r.dev/post/6b8f4995f2e072b64b2e647490e55e7134fe25e6c4cc33b94c80510d71ba1f95/</guid><description>
-Article URL: https://www.backblaze.com/blog/privacy-update-third-party-tracking/
-Comments URL: https://news.ycombinator.com/item?id=26550506 …</description></item><item><title>Vim-gh-line: Vim plugin to open the current line on GitHub</title><link>https://news.panz3r.dev/post/8e833c6db4d3de38cc0448c54b7dd69c7b765908bffab1bdfd5dca530a20478c/</link><pubDate>Tue, 23 Mar 2021 02:55:49 +0000</pubDate><guid>https://news.panz3r.dev/post/8e833c6db4d3de38cc0448c54b7dd69c7b765908bffab1bdfd5dca530a20478c/</guid><description>
-Article URL: https://github.com/ruanyl/vim-gh-line
-Comments URL: https://news.ycombinator.com/item?id=26550490
-Points: 71
-# Comments: 35</description></item><item><title>Microsoft in talks to buy Discord for more than $10B</title><link>https://news.panz3r.dev/post/0b16f823071117b04a22498b1a550521c506a8175e23eba79f8cb9fa02237d47/</link><pubDate>Tue, 23 Mar 2021 02:47:14 +0000</pubDate><guid>https://news.panz3r.dev/post/0b16f823071117b04a22498b1a550521c506a8175e23eba79f8cb9fa02237d47/</guid><description>
-Article URL: https://www.bloomberg.com/news/articles/2021-03-23/microsoft-said-to-be-in-talks-to-buy-discord-for-more-than-10b
-Comments URL: …</description></item><item><title>DARPA now has AI-controlled F-16s working as a team in virtual dogfights</title><link>https://news.panz3r.dev/post/45228bf86e69575b9ee5200de5cceec1215bc7756ec45863533359b0210eb892/</link><pubDate>Tue, 23 Mar 2021 01:52:24 +0000</pubDate><guid>https://news.panz3r.dev/post/45228bf86e69575b9ee5200de5cceec1215bc7756ec45863533359b0210eb892/</guid><description>
-Article URL: https://www.thedrive.com/the-war-zone/39899/darpa-now-has-ai-controlled-f-16s-working-as-a-team-in-virtual-dogfights
-Comments …</description></item><item><title>Major employers scrap plans to cut back on offices – KPMG</title><link>https://news.panz3r.dev/post/7b83f71192b2ec3f48c3d7e7d4e24eca53f4164ea60a8a021951047be32f0990/</link><pubDate>Tue, 23 Mar 2021 00:41:45 +0000</pubDate><guid>https://news.panz3r.dev/post/7b83f71192b2ec3f48c3d7e7d4e24eca53f4164ea60a8a021951047be32f0990/</guid><description>
-Article URL: https://www.reuters.com/article/us-economy-ceos/major-employers-scrap-plans-to-cut-back-on-offices-kpmg-idUSKBN2BF005
-Comments …</description></item><item><title>NSA Issues Guidance on Zero Trust Security Model</title><link>https://news.panz3r.dev/post/1a434cb63da389c00044cb18b7ddf54476d3ccc4d26c225169a260a3aae5170b/</link><pubDate>Tue, 23 Mar 2021 00:24:05 +0000</pubDate><guid>https://news.panz3r.dev/post/1a434cb63da389c00044cb18b7ddf54476d3ccc4d26c225169a260a3aae5170b/</guid><description>
-Article URL: …</description></item><item><title>Substack's UI and 1Password temporarily cost me $2k</title><link>https://news.panz3r.dev/post/e5f93fa45056044d830d5f1dddba721567621794e6c2a37dbf864aba1c2bb393/</link><pubDate>Tue, 23 Mar 2021 00:16:16 +0000</pubDate><guid>https://news.panz3r.dev/post/e5f93fa45056044d830d5f1dddba721567621794e6c2a37dbf864aba1c2bb393/</guid><description>
-Article URL: https://timmyomahony.com/blog/substacks-ui-just-cost-me-2-023
-Comments URL: https://news.ycombinator.com/item?id=26549307 …</description></item></channel></rss>
+Article URL: …</description></item></channel></rss>

@@ -1,17 +1,56 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hacker-News-Frontpage on Panz3r News</title><link>https://news.panz3r.dev/tags/hacker-news-frontpage/</link><description>Recent content in Hacker-News-Frontpage on news.panz3r.dev</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Panz3r 2020 | Vitae theme for Hugo</copyright><lastBuildDate>Tue, 30 Mar 2021 15:48:13 +0000</lastBuildDate><atom:link href="https://news.panz3r.dev/tags/hacker-news-frontpage/index.xml" rel="self" type="application/rss+xml"/><item><title>'Fake' Amazon workers defend company on Twitter</title><link>https://news.panz3r.dev/post/2c1765103bd2590ddfc0d3764d5e3912a2e0d64672f3713d24d1d5ff3d71995e/</link><pubDate>Tue, 30 Mar 2021 15:48:13 +0000</pubDate><guid>https://news.panz3r.dev/post/2c1765103bd2590ddfc0d3764d5e3912a2e0d64672f3713d24d1d5ff3d71995e/</guid><description>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hacker-News-Frontpage on Panz3r News</title><link>https://news.panz3r.dev/tags/hacker-news-frontpage/</link><description>Recent content in Hacker-News-Frontpage on news.panz3r.dev</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Panz3r 2020 | Vitae theme for Hugo</copyright><lastBuildDate>Tue, 30 Mar 2021 21:02:33 +0000</lastBuildDate><atom:link href="https://news.panz3r.dev/tags/hacker-news-frontpage/index.xml" rel="self" type="application/rss+xml"/><item><title>EC2 Serial Console</title><link>https://news.panz3r.dev/post/710f19def3b28450c1bce1d4bb7a51199fccc8e75270c9c957dd6997df30e647/</link><pubDate>Tue, 30 Mar 2021 21:02:33 +0000</pubDate><guid>https://news.panz3r.dev/post/710f19def3b28450c1bce1d4bb7a51199fccc8e75270c9c957dd6997df30e647/</guid><description>
+Article URL: https://aws.amazon.com/blogs/aws/troubleshoot-boot-and-networking-issues-with-new-ec2-serial-console/
+Comments URL: …</description></item><item><title>C# 9 top-level programs and target-typed expressions</title><link>https://news.panz3r.dev/post/967a545c774fb64496eda5852c90c10cfb2878271f1d59d24023f87b05d4a008/</link><pubDate>Tue, 30 Mar 2021 20:37:39 +0000</pubDate><guid>https://news.panz3r.dev/post/967a545c774fb64496eda5852c90c10cfb2878271f1d59d24023f87b05d4a008/</guid><description>
+Article URL: https://developers.redhat.com/blog/2021/03/30/c-9-top-level-programs-and-target-typed-expressions/
+Comments URL: …</description></item><item><title>Kafka without ZooKeeper</title><link>https://news.panz3r.dev/post/faa89a2e5f9e953b270621d262fa3ea6566035a8d28624e7582788dc4a5617df/</link><pubDate>Tue, 30 Mar 2021 20:35:46 +0000</pubDate><guid>https://news.panz3r.dev/post/faa89a2e5f9e953b270621d262fa3ea6566035a8d28624e7582788dc4a5617df/</guid><description>
+Article URL: https://www.confluent.io/blog/kafka-without-zookeeper-a-sneak-peek/
+Comments URL: https://news.ycombinator.com/item?id=26640095 …</description></item><item><title>Volkswagen will not change name of U.S. operations: sources</title><link>https://news.panz3r.dev/post/515a4346c4ec40ec6b1dfbdc7b29a549892386aa5d1e66623388e957e8f9b89e/</link><pubDate>Tue, 30 Mar 2021 20:23:10 +0000</pubDate><guid>https://news.panz3r.dev/post/515a4346c4ec40ec6b1dfbdc7b29a549892386aa5d1e66623388e957e8f9b89e/</guid><description>
+Article URL: https://www.reuters.com/article/us-volkswagen-name/volkswagen-will-not-change-name-of-u-s-operations-sources-idUSKBN2BM2YJ …</description></item><item><title>Toxic people could become a reality, scientists researching snake venom say</title><link>https://news.panz3r.dev/post/38f2d6e4f6e44542303b34dcd6e9c86fd2fa20ff5e4ccffee841a572ff5115f4/</link><pubDate>Tue, 30 Mar 2021 20:06:34 +0000</pubDate><guid>https://news.panz3r.dev/post/38f2d6e4f6e44542303b34dcd6e9c86fd2fa20ff5e4ccffee841a572ff5115f4/</guid><description>
+Article URL: https://www.irishexaminer.com/world/arid-40254002.html
+Comments URL: https://news.ycombinator.com/item?id=26639722
+Points: 61
+# …</description></item><item><title>Google collects 20 times more telemetry from Android devices than Apple from iOS</title><link>https://news.panz3r.dev/post/2259e88cebcfefc37d5b9d4caa3acbec1ae08abcc458c8d7c44caa44a8bc049a/</link><pubDate>Tue, 30 Mar 2021 19:32:45 +0000</pubDate><guid>https://news.panz3r.dev/post/2259e88cebcfefc37d5b9d4caa3acbec1ae08abcc458c8d7c44caa44a8bc049a/</guid><description>
+Article URL: https://therecord.media/google-collects-20-times-more-telemetry-from-android-devices-than-apple-from-ios/
+Comments URL: …</description></item><item><title>See a Satellite Tonight</title><link>https://news.panz3r.dev/post/108adb1c3736b9de91e7ccffecab0262cc74fb578beef223c5e48dbc846fc152/</link><pubDate>Tue, 30 Mar 2021 18:26:37 +0000</pubDate><guid>https://news.panz3r.dev/post/108adb1c3736b9de91e7ccffecab0262cc74fb578beef223c5e48dbc846fc152/</guid><description>
+Article URL: https://james.darpinian.com/satellites/
+Comments URL: https://news.ycombinator.com/item?id=26638355
+Points: 79
+# Comments: 16</description></item><item><title>Whistleblower: Ubiquiti Breach “Catastrophic”</title><link>https://news.panz3r.dev/post/f9e77914d84b9c629d804a37915625fd21ca577cf52d784ec1fea2ce239be6ef/</link><pubDate>Tue, 30 Mar 2021 18:11:49 +0000</pubDate><guid>https://news.panz3r.dev/post/f9e77914d84b9c629d804a37915625fd21ca577cf52d784ec1fea2ce239be6ef/</guid><description>
+Article URL: https://krebsonsecurity.com/2021/03/whistleblower-ubiquiti-breach-catastrophic/
+Comments URL: …</description></item><item><title>Arm Announces Armv9 Architecture: SVE2, Security, and the Next Decade</title><link>https://news.panz3r.dev/post/5e400785dc93d662fe7799f172958d77e380da91a05f9b24bb5a491bbe264ca9/</link><pubDate>Tue, 30 Mar 2021 18:07:20 +0000</pubDate><guid>https://news.panz3r.dev/post/5e400785dc93d662fe7799f172958d77e380da91a05f9b24bb5a491bbe264ca9/</guid><description>
+Article URL: https://www.anandtech.com/show/16584/arm-announces-armv9-architecture
+Comments URL: …</description></item><item><title>Social media addiction linked to cyberbullying</title><link>https://news.panz3r.dev/post/0f6803a4207d39011856266dc08057a1e6db8c324941ebbb58d118dff012eb04/</link><pubDate>Tue, 30 Mar 2021 17:44:34 +0000</pubDate><guid>https://news.panz3r.dev/post/0f6803a4207d39011856266dc08057a1e6db8c324941ebbb58d118dff012eb04/</guid><description>
+Article URL: https://news.uga.edu/social-media-addiction-linked-to-cyberbullying/
+Comments URL: …</description></item><item><title>The Hitchhiker's Guide to Online Anonymity</title><link>https://news.panz3r.dev/post/831638edbb7a15045c53891f2f22c11cb724ab6dd89fc8b743fd6848eff8be67/</link><pubDate>Tue, 30 Mar 2021 17:28:05 +0000</pubDate><guid>https://news.panz3r.dev/post/831638edbb7a15045c53891f2f22c11cb724ab6dd89fc8b743fd6848eff8be67/</guid><description>
+Article URL: https://anonymousplanet.org/
+Comments URL: https://news.ycombinator.com/item?id=26637526
+Points: 119
+# Comments: 17</description></item><item><title>A man who tried to redeem the world with logic (2015)</title><link>https://news.panz3r.dev/post/d09b973ae4bc22ab53c7febd765ba42399757eab191a59c03d9b3780d38336a9/</link><pubDate>Tue, 30 Mar 2021 16:59:22 +0000</pubDate><guid>https://news.panz3r.dev/post/d09b973ae4bc22ab53c7febd765ba42399757eab191a59c03d9b3780d38336a9/</guid><description>
+Article URL: https://nautil.us/issue/21/information/the-man-who-tried-to-redeem-the-world-with-logic
+Comments URL: …</description></item><item><title>Japan's cherry blossom 'earliest peak since records began'</title><link>https://news.panz3r.dev/post/b8cf8577b18bc6be45166c79c485ed9a385208360e7cd0bd9ecd56fdee457605/</link><pubDate>Tue, 30 Mar 2021 16:54:41 +0000</pubDate><guid>https://news.panz3r.dev/post/b8cf8577b18bc6be45166c79c485ed9a385208360e7cd0bd9ecd56fdee457605/</guid><description>
+Article URL: https://www.bbc.com/news/world-asia-56574142
+Comments URL: https://news.ycombinator.com/item?id=26637065
+Points: 197
+# …</description></item><item><title>Child tweets gibberish from US nuclear-agency account</title><link>https://news.panz3r.dev/post/f02d12e8ff8162128c917b024a5b83b6bd7df36699e7274fce99d1443d3f185f/</link><pubDate>Tue, 30 Mar 2021 16:45:36 +0000</pubDate><guid>https://news.panz3r.dev/post/f02d12e8ff8162128c917b024a5b83b6bd7df36699e7274fce99d1443d3f185f/</guid><description>
+Article URL: https://www.bbc.com/news/technology-56578544
+Comments URL: https://news.ycombinator.com/item?id=26636938
+Points: 159
+# …</description></item><item><title>'Fake' Amazon workers defend company on Twitter</title><link>https://news.panz3r.dev/post/2c1765103bd2590ddfc0d3764d5e3912a2e0d64672f3713d24d1d5ff3d71995e/</link><pubDate>Tue, 30 Mar 2021 15:48:13 +0000</pubDate><guid>https://news.panz3r.dev/post/2c1765103bd2590ddfc0d3764d5e3912a2e0d64672f3713d24d1d5ff3d71995e/</guid><description>
 Article URL: https://www.bbc.com/news/technology-56581266
 Comments URL: https://news.ycombinator.com/item?id=26636021
-Points: 308
+Points: 658
 # …</description></item><item><title>Amazon loses effort to install camera to watch counting of ballots in union vote</title><link>https://news.panz3r.dev/post/0397ddaecebfcbc04bc15fd7ee7b7f0c3a1579c118606f8cd913dbc066be858e/</link><pubDate>Tue, 30 Mar 2021 15:22:36 +0000</pubDate><guid>https://news.panz3r.dev/post/0397ddaecebfcbc04bc15fd7ee7b7f0c3a1579c118606f8cd913dbc066be858e/</guid><description>
 Article URL: https://www.cnbc.com/2021/03/30/amazon-loses-effort-to-install-camera-to-watch-ballot-box-in-union-vote.html
-Comments URL: …</description></item><item><title>Storage is now available in Supabase (YC S20)</title><link>https://news.panz3r.dev/post/25275e5d24ecbbdf9b24a309acf965744f85713718ea641e16481721f6cda91e/</link><pubDate>Tue, 30 Mar 2021 14:45:12 +0000</pubDate><guid>https://news.panz3r.dev/post/25275e5d24ecbbdf9b24a309acf965744f85713718ea641e16481721f6cda91e/</guid><description>
+Comments URL: …</description></item><item><title>Golang: Know Your 'Nil'</title><link>https://news.panz3r.dev/post/35967b1dfd64bf38ff69e9127454ff83e073d97fe72c6e73e460aa44b4de7dc2/</link><pubDate>Tue, 30 Mar 2021 15:12:26 +0000</pubDate><guid>https://news.panz3r.dev/post/35967b1dfd64bf38ff69e9127454ff83e073d97fe72c6e73e460aa44b4de7dc2/</guid><description>
+Article URL: http://jeremymikkola.com/posts/2017_03_29_know_your_nil.html
+Comments URL: https://news.ycombinator.com/item?id=26635529 …</description></item><item><title>Storage is now available in Supabase (YC S20)</title><link>https://news.panz3r.dev/post/25275e5d24ecbbdf9b24a309acf965744f85713718ea641e16481721f6cda91e/</link><pubDate>Tue, 30 Mar 2021 14:45:12 +0000</pubDate><guid>https://news.panz3r.dev/post/25275e5d24ecbbdf9b24a309acf965744f85713718ea641e16481721f6cda91e/</guid><description>
 Article URL: https://supabase.io/blog/2021/03/30/supabase-storage
 Comments URL: https://news.ycombinator.com/item?id=26635184
-Points: 101
+Points: 150
 # …</description></item><item><title>Voltswagen of America</title><link>https://news.panz3r.dev/post/7bd4b39ba6122556000cf16ae31a99ad3c632df615721d6ac2d0c37f3e1b6393/</link><pubDate>Tue, 30 Mar 2021 14:17:38 +0000</pubDate><guid>https://news.panz3r.dev/post/7bd4b39ba6122556000cf16ae31a99ad3c632df615721d6ac2d0c37f3e1b6393/</guid><description>
 Article URL: https://media.vw.com/en-us/releases/1499
 Comments URL: https://news.ycombinator.com/item?id=26634857
-Points: 313
+Points: 536
 # Comments: …</description></item><item><title>Sega Lawyers Demand “Immediate Suspension” of Steam Database over Alleged Piracy</title><link>https://news.panz3r.dev/post/035e0358d81378ca66a4445a61735c530b24537d11114043933ca670d42b6a14/</link><pubDate>Tue, 30 Mar 2021 14:05:23 +0000</pubDate><guid>https://news.panz3r.dev/post/035e0358d81378ca66a4445a61735c530b24537d11114043933ca670d42b6a14/</guid><description>
 Article URL: https://torrentfreak.com/sega-lawyers-demand-immediate-suspension-of-steam-database-over-alleged-piracy-210330/
 Comments URL: …</description></item><item><title>Improving Shell Workflows with Fzf</title><link>https://news.panz3r.dev/post/98f972a05fb55ffc26d1d63b787f2be81c8cd44faf4a56138d295e6391dc685e/</link><pubDate>Tue, 30 Mar 2021 13:33:57 +0000</pubDate><guid>https://news.panz3r.dev/post/98f972a05fb55ffc26d1d63b787f2be81c8cd44faf4a56138d295e6391dc685e/</guid><description>
@@ -19,7 +58,7 @@ Article URL: https://seb.jambor.dev/posts/improving-shell-workflows-with-fzf/
 Comments URL: https://news.ycombinator.com/item?id=26634419 …</description></item><item><title>Unsplash is being acquired by Getty Images</title><link>https://news.panz3r.dev/post/968065fdbab3a391862f9a89ddcd5f1b83885c5f4c9695a7006772283a8e8e21/</link><pubDate>Tue, 30 Mar 2021 13:06:33 +0000</pubDate><guid>https://news.panz3r.dev/post/968065fdbab3a391862f9a89ddcd5f1b83885c5f4c9695a7006772283a8e8e21/</guid><description>
 Article URL: https://unsplash.com/blog/unsplash-getty/
 Comments URL: https://news.ycombinator.com/item?id=26634113
-Points: 321
+Points: 437
 # Comments: …</description></item><item><title>Apple’s Worldwide Developers Conference is back in its all-online format</title><link>https://news.panz3r.dev/post/ff6da63ed949b73a0b798bdeb9bcb4ef1cbf99db35de1ab5cff1e9a6b8483ac2/</link><pubDate>Tue, 30 Mar 2021 13:05:13 +0000</pubDate><guid>https://news.panz3r.dev/post/ff6da63ed949b73a0b798bdeb9bcb4ef1cbf99db35de1ab5cff1e9a6b8483ac2/</guid><description>
 Article URL: https://www.apple.com/newsroom/2021/03/apples-worldwide-developers-conference-is-back-in-its-all-online-format/
 Comments URL: …</description></item><item><title>PayPal launches crypto checkout service</title><link>https://news.panz3r.dev/post/6cd763f4cc8f459bd73f27c4b8cdf8af4984251286a104652c7f0bdf9e439c96/</link><pubDate>Tue, 30 Mar 2021 12:15:29 +0000</pubDate><guid>https://news.panz3r.dev/post/6cd763f4cc8f459bd73f27c4b8cdf8af4984251286a104652c7f0bdf9e439c96/</guid><description>
@@ -505,20 +544,4 @@ Comments URL: https://news.ycombinator.com/item?id=26586829 …</description></i
 Article URL: https://www.youtube.com/watch?v=X4faogRMOL4
 Comments URL: https://news.ycombinator.com/item?id=26586820
 Points: 95
-# Comments: …</description></item><item><title>A “Better C” Benchmark</title><link>https://news.panz3r.dev/post/9c67ebe40f1c8d31dcd0ea9a93cc15f5f2dca71f195c0c4877897bf35cb9f1d3/</link><pubDate>Thu, 25 Mar 2021 22:58:00 +0000</pubDate><guid>https://news.panz3r.dev/post/9c67ebe40f1c8d31dcd0ea9a93cc15f5f2dca71f195c0c4877897bf35cb9f1d3/</guid><description>
-Article URL: https://zserge.com/posts/better-c-benchmark/
-Comments URL: https://news.ycombinator.com/item?id=26586693
-Points: 78
-# Comments: …</description></item><item><title>At Home with Down Syndrome (2008)</title><link>https://news.panz3r.dev/post/27b102017bb3db9812fb19eb3ba6427c91b86f9a512b4354c1757e6187ae80da/</link><pubDate>Thu, 25 Mar 2021 21:22:11 +0000</pubDate><guid>https://news.panz3r.dev/post/27b102017bb3db9812fb19eb3ba6427c91b86f9a512b4354c1757e6187ae80da/</guid><description>
-Article URL: https://www.thenewatlantis.com/publications/at-home-with-down-syndrome
-Comments URL: …</description></item><item><title>The algorithms that make Instacart roll</title><link>https://news.panz3r.dev/post/e100b93593b332bf631c2e544766f863669338efd1720e536c1ac31c71e211b5/</link><pubDate>Thu, 25 Mar 2021 21:17:23 +0000</pubDate><guid>https://news.panz3r.dev/post/e100b93593b332bf631c2e544766f863669338efd1720e536c1ac31c71e211b5/</guid><description>
-Article URL: https://spectrum.ieee.org/artificial-intelligence/machine-learning/the-algorithms-that-make-instacart-roll
-Comments URL: …</description></item><item><title>Is that ship still stuck?</title><link>https://news.panz3r.dev/post/cffed6a15c62c2492c94d2237195b149bcf6fed8243a6e9a0243205879722738/</link><pubDate>Thu, 25 Mar 2021 20:58:16 +0000</pubDate><guid>https://news.panz3r.dev/post/cffed6a15c62c2492c94d2237195b149bcf6fed8243a6e9a0243205879722738/</guid><description>
-Article URL: https://istheshipstillstuck.com/
-Comments URL: https://news.ycombinator.com/item?id=26585282
-Points: 1176
-# Comments: 1020</description></item><item><title>Speculating the entire x86-64 instruction set in seconds with one weird trick</title><link>https://news.panz3r.dev/post/320bd61ca0aef57944a8e98c475fa65bad8941f8ab726cd9379d027d08c4adf1/</link><pubDate>Thu, 25 Mar 2021 19:07:30 +0000</pubDate><guid>https://news.panz3r.dev/post/320bd61ca0aef57944a8e98c475fa65bad8941f8ab726cd9379d027d08c4adf1/</guid><description>
-Article URL: https://blog.can.ac/2021/03/22/speculating-x86-64-isa-with-one-weird-trick/
-Comments URL: …</description></item><item><title>All my servers have an 8 GB empty file on disk</title><link>https://news.panz3r.dev/post/e23c762b7b3bb8ad4ed953c4aa51c83bdbfb78ef15992b45f9476d5b88f8a9d4/</link><pubDate>Thu, 25 Mar 2021 18:40:39 +0000</pubDate><guid>https://news.panz3r.dev/post/e23c762b7b3bb8ad4ed953c4aa51c83bdbfb78ef15992b45f9476d5b88f8a9d4/</guid><description>
-Article URL: https://brianschrader.com/archive/why-all-my-servers-have-an-8gb-empty-file/
-Comments URL: …</description></item></channel></rss>
+# Comments: …</description></item></channel></rss>

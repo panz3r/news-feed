@@ -1,4 +1,28 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hacker-News-Frontpage on Panz3r News</title><link>https://news.panz3r.dev/tags/hacker-news-frontpage/</link><description>Recent content in Hacker-News-Frontpage on news.panz3r.dev</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Panz3r 2020 | Vitae theme for Hugo</copyright><lastBuildDate>Thu, 01 Apr 2021 16:04:21 +0000</lastBuildDate><atom:link href="https://news.panz3r.dev/tags/hacker-news-frontpage/index.xml" rel="self" type="application/rss+xml"/><item><title>A categorized list of all Java and JVM features since JDK 8 to 16</title><link>https://news.panz3r.dev/post/f182885ff3c72241e309cde6959fad66ddc0f2557bd1ae981dc213ed3340b7fb/</link><pubDate>Thu, 01 Apr 2021 16:04:21 +0000</pubDate><guid>https://news.panz3r.dev/post/f182885ff3c72241e309cde6959fad66ddc0f2557bd1ae981dc213ed3340b7fb/</guid><description>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hacker-News-Frontpage on Panz3r News</title><link>https://news.panz3r.dev/tags/hacker-news-frontpage/</link><description>Recent content in Hacker-News-Frontpage on news.panz3r.dev</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Panz3r 2020 | Vitae theme for Hugo</copyright><lastBuildDate>Thu, 01 Apr 2021 21:51:57 +0000</lastBuildDate><atom:link href="https://news.panz3r.dev/tags/hacker-news-frontpage/index.xml" rel="self" type="application/rss+xml"/><item><title>MS Azure down: An emerging issue is being investigated</title><link>https://news.panz3r.dev/post/724d6328ef2b469803dc5f35bb0759bba9947ab37da9117e76b6e0eab5bb8896/</link><pubDate>Thu, 01 Apr 2021 21:51:57 +0000</pubDate><guid>https://news.panz3r.dev/post/724d6328ef2b469803dc5f35bb0759bba9947ab37da9117e76b6e0eab5bb8896/</guid><description>
+Article URL: https://status2.azure.com/
+Comments URL: https://news.ycombinator.com/item?id=26666585
+Points: 112
+# Comments: 44</description></item><item><title>Azure is having DNS issues</title><link>https://news.panz3r.dev/post/e41600b307724a0937d9537f872895935849679502d8d5843160e9e2ccb8faee/</link><pubDate>Thu, 01 Apr 2021 21:30:53 +0000</pubDate><guid>https://news.panz3r.dev/post/e41600b307724a0937d9537f872895935849679502d8d5843160e9e2ccb8faee/</guid><description>
+Article URL: http://status.azure.com/
+Comments URL: https://news.ycombinator.com/item?id=26666338
+Points: 67
+# Comments: 31</description></item><item><title>Filecoin Foundation Grants 50k FIL to the Internet Archive</title><link>https://news.panz3r.dev/post/298521b4a824e3307bbdf5cb540b3e4623ce42a16b8bc3825e0b7a051218906e/</link><pubDate>Thu, 01 Apr 2021 20:15:00 +0000</pubDate><guid>https://news.panz3r.dev/post/298521b4a824e3307bbdf5cb540b3e4623ce42a16b8bc3825e0b7a051218906e/</guid><description>
+Article URL: https://blog.archive.org/2021/04/01/filecoin-foundation-grants-50000-fil-to-the-internet-archive/
+Comments URL: …</description></item><item><title>Coinbase Announces Listing Date of Its Stock on the Nasdaq</title><link>https://news.panz3r.dev/post/845e408cb39754350dbe05f80762e82c088879f8c6e754093cd6bf9576621f05/</link><pubDate>Thu, 01 Apr 2021 20:11:08 +0000</pubDate><guid>https://news.panz3r.dev/post/845e408cb39754350dbe05f80762e82c088879f8c6e754093cd6bf9576621f05/</guid><description>
+Article URL: …</description></item><item><title>Zero click vulnerability in Apple’s macOS Mail</title><link>https://news.panz3r.dev/post/4db3b3e0e0ff8258d1605ac60be39009cf56dca22ee97653be085e010df899a6/</link><pubDate>Thu, 01 Apr 2021 19:03:49 +0000</pubDate><guid>https://news.panz3r.dev/post/4db3b3e0e0ff8258d1605ac60be39009cf56dca22ee97653be085e010df899a6/</guid><description>
+Article URL: https://mikko-kenttala.medium.com/zero-click-vulnerability-in-apples-macos-mail-59e0c14b106c
+Comments URL: …</description></item><item><title>Myanmar orders wireless internet shutdown until further notice: telecoms sources</title><link>https://news.panz3r.dev/post/fe5d518f026c61fcac7d8d934417b33ebfbc93fe132a258225ab4a27df5bfd14/</link><pubDate>Thu, 01 Apr 2021 18:48:35 +0000</pubDate><guid>https://news.panz3r.dev/post/fe5d518f026c61fcac7d8d934417b33ebfbc93fe132a258225ab4a27df5bfd14/</guid><description>
+Article URL: …</description></item><item><title>OpenBSD Adds Support for Coordinated Mars Time (MTC)</title><link>https://news.panz3r.dev/post/e13dc91456d2ef26a5599115118068d6a48fa7d29a8702828997d5716dfb47f2/</link><pubDate>Thu, 01 Apr 2021 18:36:05 +0000</pubDate><guid>https://news.panz3r.dev/post/e13dc91456d2ef26a5599115118068d6a48fa7d29a8702828997d5716dfb47f2/</guid><description>
+Article URL: https://marc.info/?l=openbsd-cvs&m=161730046519995
+Comments URL: https://news.ycombinator.com/item?id=26664361
+Points: 134
+# …</description></item><item><title>Bash-LSP: A language server for Bash</title><link>https://news.panz3r.dev/post/f35720ccf8e10773c2b2c5ecc15630f54697bac2c5a08576e68eed884a311b95/</link><pubDate>Thu, 01 Apr 2021 16:59:46 +0000</pubDate><guid>https://news.panz3r.dev/post/f35720ccf8e10773c2b2c5ecc15630f54697bac2c5a08576e68eed884a311b95/</guid><description>
+Article URL: https://github.com/bash-lsp/bash-language-server
+Comments URL: https://news.ycombinator.com/item?id=26663135
+Points: 123
+# …</description></item><item><title>100M Posts Analyzed: What You Need to Write the Best Headlines</title><link>https://news.panz3r.dev/post/d9e3787241ef3fc7ec61cedff3d9d8bfa064b6141d245fb24c40f5baff54c9ab/</link><pubDate>Thu, 01 Apr 2021 16:51:02 +0000</pubDate><guid>https://news.panz3r.dev/post/d9e3787241ef3fc7ec61cedff3d9d8bfa064b6141d245fb24c40f5baff54c9ab/</guid><description>
+Article URL: https://buzzsumo.com/resources/hundred-million-best-headlines-study/
+Comments URL: …</description></item><item><title>A categorized list of all Java and JVM features since JDK 8 to 16</title><link>https://news.panz3r.dev/post/f182885ff3c72241e309cde6959fad66ddc0f2557bd1ae981dc213ed3340b7fb/</link><pubDate>Thu, 01 Apr 2021 16:04:21 +0000</pubDate><guid>https://news.panz3r.dev/post/f182885ff3c72241e309cde6959fad66ddc0f2557bd1ae981dc213ed3340b7fb/</guid><description>
 Article URL: https://advancedweb.hu/a-categorized-list-of-all-java-and-jvm-features-since-jdk-8-to-16/
 Comments URL: …</description></item><item><title>Ask HN: Who is hiring? (April 2021)</title><link>https://news.panz3r.dev/post/8d8ab1aba0fe172242357c2021263cee0c2e95772dc162127ff459f1155d8a7a/</link><pubDate>Thu, 01 Apr 2021 15:13:35 +0000</pubDate><guid>https://news.panz3r.dev/post/8d8ab1aba0fe172242357c2021263cee0c2e95772dc162127ff459f1155d8a7a/</guid><description>
 Please state the location and include REMOTE, INTERNS and/or VISA when that sort of candidate is welcome. When remote work is not an option, …</description></item><item><title>Ask HN: Who wants to be hired? (April 2021)</title><link>https://news.panz3r.dev/post/fadb75185771140ad4186eba488d76ca7f7bb25b3c4b6353db4783cbaeb49b1e/</link><pubDate>Thu, 01 Apr 2021 15:00:34 +0000</pubDate><guid>https://news.panz3r.dev/post/fadb75185771140ad4186eba488d76ca7f7bb25b3c4b6353db4783cbaeb49b1e/</guid><description>
@@ -7,12 +31,15 @@ Article URL: https://www.core77.com/posts/81665/Eye-Opening-Photos-and-Video-Tak
 Comments URL: …</description></item><item><title>Pfizer 91% effective in updated data, protective against South African variant</title><link>https://news.panz3r.dev/post/26cc1f77e31c62a1b3beb8099aafdac9cf1dabcc6be97f3ff6948b96ba8569e6/</link><pubDate>Thu, 01 Apr 2021 13:51:11 +0000</pubDate><guid>https://news.panz3r.dev/post/26cc1f77e31c62a1b3beb8099aafdac9cf1dabcc6be97f3ff6948b96ba8569e6/</guid><description>
 Article URL: https://www.reuters.com/article/idUSKBN2BO55Y
 Comments URL: https://news.ycombinator.com/item?id=26660504
-Points: 173
-# …</description></item><item><title>Show HN: Mail Studio – IDE for designing responsive emails</title><link>https://news.panz3r.dev/post/c68a6b15c26740b83057c83b54267022124348487cd8d9d126bff7e7e375516a/</link><pubDate>Thu, 01 Apr 2021 12:26:07 +0000</pubDate><guid>https://news.panz3r.dev/post/c68a6b15c26740b83057c83b54267022124348487cd8d9d126bff7e7e375516a/</guid><description>
+Points: 373
+# …</description></item><item><title>OpenTTD 1.11.0</title><link>https://news.panz3r.dev/post/84862d78372ed90fd2046d9dd5de6e1f6ed4cb175bbd14ee9a23fbe632fe90df/</link><pubDate>Thu, 01 Apr 2021 13:21:35 +0000</pubDate><guid>https://news.panz3r.dev/post/84862d78372ed90fd2046d9dd5de6e1f6ed4cb175bbd14ee9a23fbe632fe90df/</guid><description>
+Article URL: https://www.openttd.org/news/2021/04/01/openttd-1-11-0.html
+Comments URL: https://news.ycombinator.com/item?id=26660154
+Points: …</description></item><item><title>Show HN: Mail Studio – IDE for designing responsive emails</title><link>https://news.panz3r.dev/post/c68a6b15c26740b83057c83b54267022124348487cd8d9d126bff7e7e375516a/</link><pubDate>Thu, 01 Apr 2021 12:26:07 +0000</pubDate><guid>https://news.panz3r.dev/post/c68a6b15c26740b83057c83b54267022124348487cd8d9d126bff7e7e375516a/</guid><description>
 Article URL: https://mailstudio.app/
 Comments URL: https://news.ycombinator.com/item?id=26659553
-Points: 225
-# Comments: 114</description></item><item><title>On the Decline of Perl – external factors</title><link>https://news.panz3r.dev/post/de22a1e7fd9c08fa8a6f5f1038274ba1a82091d00d5657f1cd23727c0f3af283/</link><pubDate>Thu, 01 Apr 2021 10:08:10 +0000</pubDate><guid>https://news.panz3r.dev/post/de22a1e7fd9c08fa8a6f5f1038274ba1a82091d00d5657f1cd23727c0f3af283/</guid><description>
+Points: 313
+# Comments: 174</description></item><item><title>On the Decline of Perl – external factors</title><link>https://news.panz3r.dev/post/de22a1e7fd9c08fa8a6f5f1038274ba1a82091d00d5657f1cd23727c0f3af283/</link><pubDate>Thu, 01 Apr 2021 10:08:10 +0000</pubDate><guid>https://news.panz3r.dev/post/de22a1e7fd9c08fa8a6f5f1038274ba1a82091d00d5657f1cd23727c0f3af283/</guid><description>
 Article URL: https://www.nntp.perl.org/group/perl.perl5.porters/2021/03/msg259484.html
 Comments URL: …</description></item><item><title>Cheers to 10 Years</title><link>https://news.panz3r.dev/post/1301a271761afb855c7ce55aa357fb91d18bb68fa573c0cf1427b72b55cb898b/</link><pubDate>Thu, 01 Apr 2021 09:32:13 +0000</pubDate><guid>https://news.panz3r.dev/post/1301a271761afb855c7ce55aa357fb91d18bb68fa573c0cf1427b72b55cb898b/</guid><description>
 Article URL: https://blog.elementary.io/ten-years/
@@ -23,12 +50,12 @@ Article URL: https://boris-marinov.github.io/category-theory-illustrated/04_orde
 Comments URL: …</description></item><item><title>Arabian Nights</title><link>https://news.panz3r.dev/post/f4aed8b27ac8d9462474a38a5dac460c47293607cf39d6588aeca1ed17b385e9/</link><pubDate>Thu, 01 Apr 2021 08:10:04 +0000</pubDate><guid>https://news.panz3r.dev/post/f4aed8b27ac8d9462474a38a5dac460c47293607cf39d6588aeca1ed17b385e9/</guid><description>
 Article URL: https://blog.pgdp.net/2021/04/01/arabian-nights/
 Comments URL: https://news.ycombinator.com/item?id=26657828
-Points: 147
+Points: 179
 # …</description></item><item><title>LineageOS 18.1</title><link>https://news.panz3r.dev/post/f01906540cdf1397ca4f5078cb654ecd48774626415be194d0638b9198abbdf4/</link><pubDate>Thu, 01 Apr 2021 08:06:13 +0000</pubDate><guid>https://news.panz3r.dev/post/f01906540cdf1397ca4f5078cb654ecd48774626415be194d0638b9198abbdf4/</guid><description>
 Article URL: https://lineageos.org/Changelog-25/
 Comments URL: https://news.ycombinator.com/item?id=26657805
-Points: 217
-# Comments: 85</description></item><item><title>TSMC cancels chip price cuts and promises $100B investment surge</title><link>https://news.panz3r.dev/post/d0ad4af2a5c1490a698e720de7442d75140e16aa296641e48851db8f8a29b13f/</link><pubDate>Thu, 01 Apr 2021 07:06:42 +0000</pubDate><guid>https://news.panz3r.dev/post/d0ad4af2a5c1490a698e720de7442d75140e16aa296641e48851db8f8a29b13f/</guid><description>
+Points: 281
+# Comments: 121</description></item><item><title>TSMC cancels chip price cuts and promises $100B investment surge</title><link>https://news.panz3r.dev/post/d0ad4af2a5c1490a698e720de7442d75140e16aa296641e48851db8f8a29b13f/</link><pubDate>Thu, 01 Apr 2021 07:06:42 +0000</pubDate><guid>https://news.panz3r.dev/post/d0ad4af2a5c1490a698e720de7442d75140e16aa296641e48851db8f8a29b13f/</guid><description>
 Article URL: https://asia.nikkei.com/Business/Tech/Semiconductors/TSMC-cancels-chip-price-cuts-and-promises-100bn-investment-surge
 Comments …</description></item><item><title>Great Bitter Lake Association, the Sort-of-Micronation Formed in the Suez Canal</title><link>https://news.panz3r.dev/post/eaa1e7b677cd7644ae8e606be58c8463ff5223bdc83ffb84da2ab7e8fcf6ccd8/</link><pubDate>Thu, 01 Apr 2021 06:49:17 +0000</pubDate><guid>https://news.panz3r.dev/post/eaa1e7b677cd7644ae8e606be58c8463ff5223bdc83ffb84da2ab7e8fcf6ccd8/</guid><description>
 Article URL: https://99percentinvisible.org/episode/great-bitter-lake-association/
@@ -117,11 +144,17 @@ Comments URL: https://news.ycombinator.com/item?id=26645813 …</description></i
 Article URL: https://input.djr.com/preview/
 Comments URL: https://news.ycombinator.com/item?id=26645343
 Points: 75
-# Comments: 29</description></item><item><title>Deliveroo shares drop 30% on UK IPO listing</title><link>https://news.panz3r.dev/post/75e19288d6d763474b76a3f3cfa74d9e80c2bdb275b1c9abc3456cdb6924af13/</link><pubDate>Wed, 31 Mar 2021 08:46:46 +0000</pubDate><guid>https://news.panz3r.dev/post/75e19288d6d763474b76a3f3cfa74d9e80c2bdb275b1c9abc3456cdb6924af13/</guid><description>
+# Comments: 29</description></item><item><title>Fish Doorbell</title><link>https://news.panz3r.dev/post/92159ec3b9c75ee9c45b32e148324bf117c48af4db78b9859e379d92e075ea4d/</link><pubDate>Wed, 31 Mar 2021 09:07:10 +0000</pubDate><guid>https://news.panz3r.dev/post/92159ec3b9c75ee9c45b32e148324bf117c48af4db78b9859e379d92e075ea4d/</guid><description>
+Article URL: https://dutchreview.com/news/fish-doorbell-utrecht/
+Comments URL: https://news.ycombinator.com/item?id=26645019
+Points: 83
+# …</description></item><item><title>Deliveroo shares drop 30% on UK IPO listing</title><link>https://news.panz3r.dev/post/75e19288d6d763474b76a3f3cfa74d9e80c2bdb275b1c9abc3456cdb6924af13/</link><pubDate>Wed, 31 Mar 2021 08:46:46 +0000</pubDate><guid>https://news.panz3r.dev/post/75e19288d6d763474b76a3f3cfa74d9e80c2bdb275b1c9abc3456cdb6924af13/</guid><description>
 Article URL: https://www.bbc.co.uk/news/business-56578445
 Comments URL: https://news.ycombinator.com/item?id=26644901
 Points: 56
-# Comments: …</description></item><item><title>Ask HN: Where do you find potential customers to validate your idea / MVP?</title><link>https://news.panz3r.dev/post/9b8fad1eec89d92debc428a89ec47f33de2198246ac22a63f6792f1e35fc16e5/</link><pubDate>Wed, 31 Mar 2021 08:02:43 +0000</pubDate><guid>https://news.panz3r.dev/post/9b8fad1eec89d92debc428a89ec47f33de2198246ac22a63f6792f1e35fc16e5/</guid><description>
+# Comments: …</description></item><item><title>Signed Char Lotte</title><link>https://news.panz3r.dev/post/b39f66ab993292d403380d68c9362e6543c4ce6f70d34cc44b934298fbddfbc3/</link><pubDate>Wed, 31 Mar 2021 08:36:32 +0000</pubDate><guid>https://news.panz3r.dev/post/b39f66ab993292d403380d68c9362e6543c4ce6f70d34cc44b934298fbddfbc3/</guid><description>
+Article URL: https://nickdrozd.github.io/2021/03/30/signed-char-lotte.html
+Comments URL: https://news.ycombinator.com/item?id=26644838 …</description></item><item><title>Ask HN: Where do you find potential customers to validate your idea / MVP?</title><link>https://news.panz3r.dev/post/9b8fad1eec89d92debc428a89ec47f33de2198246ac22a63f6792f1e35fc16e5/</link><pubDate>Wed, 31 Mar 2021 08:02:43 +0000</pubDate><guid>https://news.panz3r.dev/post/9b8fad1eec89d92debc428a89ec47f33de2198246ac22a63f6792f1e35fc16e5/</guid><description>
 Where do you find people to validate your idea / MVP and get feedback from? I've been building something over the past year that primarily …</description></item><item><title>Apple's Cooperation with Authoritarian Governments</title><link>https://news.panz3r.dev/post/931080bb9314b8599d0cec26e913ecd425a69b3e9af01e753c9b0fef7d95506d/</link><pubDate>Wed, 31 Mar 2021 06:50:52 +0000</pubDate><guid>https://news.panz3r.dev/post/931080bb9314b8599d0cec26e913ecd425a69b3e9af01e753c9b0fef7d95506d/</guid><description>
 Article URL: https://www.jessesquires.com/blog/2021/03/30/apple-cooperation-with-authoritarian-governments/
 Comments URL: …</description></item><item><title>UP: A tool for writing Linux pipes with instant live preview</title><link>https://news.panz3r.dev/post/dc1420a5d821f4b25a0c70a15337cb2bf0c6e941c4dfad95ce3c4210eee257b1/</link><pubDate>Wed, 31 Mar 2021 06:28:36 +0000</pubDate><guid>https://news.panz3r.dev/post/dc1420a5d821f4b25a0c70a15337cb2bf0c6e941c4dfad95ce3c4210eee257b1/</guid><description>
@@ -541,6 +574,4 @@ Points: 164
 Article URL: https://www.theatlantic.com/science/archive/2021/03/how-to-spot-a-liar/618425/
 Comments URL: …</description></item><item><title>High schooler invented color-changing sutures to detect infection</title><link>https://news.panz3r.dev/post/b661420eeb413d8459ea13fb72c9d95cbeb51a4ca2bf617649a9bfd3304b69f0/</link><pubDate>Sun, 28 Mar 2021 00:35:43 +0000</pubDate><guid>https://news.panz3r.dev/post/b661420eeb413d8459ea13fb72c9d95cbeb51a4ca2bf617649a9bfd3304b69f0/</guid><description>
 Article URL: https://www.smithsonianmag.com/innovation/high-schooler-invented-color-changing-sutures-detect-infection-180977345/
-Comments …</description></item><item><title>I tracked down my impostor</title><link>https://news.panz3r.dev/post/cab1c626fde059208c045f14511f41950d55adbdd4f8f674864effdbbd668931/</link><pubDate>Sat, 27 Mar 2021 18:02:48 +0000</pubDate><guid>https://news.panz3r.dev/post/cab1c626fde059208c045f14511f41950d55adbdd4f8f674864effdbbd668931/</guid><description>
-Article URL: https://www.theguardian.com/lifeandstyle/2021/mar/26/experience-i-tracked-down-my-impostor
-Comments URL: …</description></item></channel></rss>
+Comments …</description></item></channel></rss>

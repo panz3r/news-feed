@@ -1,21 +1,52 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hacker-News-Frontpage on Panz3r News</title><link>https://news.panz3r.dev/tags/hacker-news-frontpage/</link><description>Recent content in Hacker-News-Frontpage on news.panz3r.dev</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Panz3r 2020 | Vitae theme for Hugo</copyright><lastBuildDate>Wed, 07 Apr 2021 15:54:46 +0000</lastBuildDate><atom:link href="https://news.panz3r.dev/tags/hacker-news-frontpage/index.xml" rel="self" type="application/rss+xml"/><item><title>iOS 14 and Facebook Pixel causing increase in PSL inclusion requests</title><link>https://news.panz3r.dev/post/714fc3eaa1526ac91b63266c84e2117480e5a46bbfed58bae69f709600454e1a/</link><pubDate>Wed, 07 Apr 2021 15:54:46 +0000</pubDate><guid>https://news.panz3r.dev/post/714fc3eaa1526ac91b63266c84e2117480e5a46bbfed58bae69f709600454e1a/</guid><description>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hacker-News-Frontpage on Panz3r News</title><link>https://news.panz3r.dev/tags/hacker-news-frontpage/</link><description>Recent content in Hacker-News-Frontpage on news.panz3r.dev</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Panz3r 2020 | Vitae theme for Hugo</copyright><lastBuildDate>Wed, 07 Apr 2021 20:46:35 +0000</lastBuildDate><atom:link href="https://news.panz3r.dev/tags/hacker-news-frontpage/index.xml" rel="self" type="application/rss+xml"/><item><title>Metis and Bodybuilders</title><link>https://news.panz3r.dev/post/e83ec3f3fe24afd093c32385c905e6a10195a7b6b3c2f057a50f63cbc15e6dd4/</link><pubDate>Wed, 07 Apr 2021 20:46:35 +0000</pubDate><guid>https://news.panz3r.dev/post/e83ec3f3fe24afd093c32385c905e6a10195a7b6b3c2f057a50f63cbc15e6dd4/</guid><description>
+Article URL: https://astralcodexten.substack.com/p/metis-and-bodybuilders
+Comments URL: https://news.ycombinator.com/item?id=26731007 …</description></item><item><title>YouTube Kids a “vapid wasteland” say US lawmakers</title><link>https://news.panz3r.dev/post/12512a317ebb6d2bac15b145b20d1828a369ba0a4be275c7dfa56ef85a266503/</link><pubDate>Wed, 07 Apr 2021 18:59:17 +0000</pubDate><guid>https://news.panz3r.dev/post/12512a317ebb6d2bac15b145b20d1828a369ba0a4be275c7dfa56ef85a266503/</guid><description>
+Article URL: https://www.bbc.com/news/technology-56662103
+Comments URL: https://news.ycombinator.com/item?id=26729389
+Points: 136
+# …</description></item><item><title>Show HN: Kaboom.js is a zero-dependency declarative JavaScript game library</title><link>https://news.panz3r.dev/post/767a9dac34e255d7769245442acbd0ee90ddde57322949d664166436dfc4ada1/</link><pubDate>Wed, 07 Apr 2021 18:19:06 +0000</pubDate><guid>https://news.panz3r.dev/post/767a9dac34e255d7769245442acbd0ee90ddde57322949d664166436dfc4ada1/</guid><description>
+Article URL: https://kaboomjs.com/
+Comments URL: https://news.ycombinator.com/item?id=26728774
+Points: 105
+# Comments: 31</description></item><item><title>TailwindCSS JIT with Arbitrary Values</title><link>https://news.panz3r.dev/post/c381a0050a17476d8ff473e1ea3f7afa83a48580993b069c0e510aa184acca21/</link><pubDate>Wed, 07 Apr 2021 18:05:45 +0000</pubDate><guid>https://news.panz3r.dev/post/c381a0050a17476d8ff473e1ea3f7afa83a48580993b069c0e510aa184acca21/</guid><description>
+Article URL: https://tailwindcss.com/docs/just-in-time-mode
+Comments URL: https://news.ycombinator.com/item?id=26728575
+Points: 103
+# …</description></item><item><title>Cycling is more important than electric cars for reaching net-zero cities</title><link>https://news.panz3r.dev/post/28a4ef24dc42ab70b1200e20e7a83266ec0f722bf4ce4a3ce8e1ec73dde9604f/</link><pubDate>Wed, 07 Apr 2021 17:43:44 +0000</pubDate><guid>https://news.panz3r.dev/post/28a4ef24dc42ab70b1200e20e7a83266ec0f722bf4ce4a3ce8e1ec73dde9604f/</guid><description>
+Article URL: https://theconversation.com/cycling-is-ten-times-more-important-than-electric-cars-for-reaching-net-zero-cities-157163
+Comments …</description></item><item><title>Twitch will ban users for 'severe misconduct' that occurs away from its site</title><link>https://news.panz3r.dev/post/59de0fb07e3c2e986f07e46497611c0d3972397b0c2e9cb5fa4aa41c7c1ff800/</link><pubDate>Wed, 07 Apr 2021 17:27:36 +0000</pubDate><guid>https://news.panz3r.dev/post/59de0fb07e3c2e986f07e46497611c0d3972397b0c2e9cb5fa4aa41c7c1ff800/</guid><description>
+Article URL: …</description></item><item><title>Modern CI is too complex and misdirected</title><link>https://news.panz3r.dev/post/55ee4259af0a4fa14bc7af4945fdab4313e75d5d02e6beabcc82eb7e47cc61f4/</link><pubDate>Wed, 07 Apr 2021 17:13:33 +0000</pubDate><guid>https://news.panz3r.dev/post/55ee4259af0a4fa14bc7af4945fdab4313e75d5d02e6beabcc82eb7e47cc61f4/</guid><description>
+Article URL: https://gregoryszorc.com/blog/2021/04/07/modern-ci-is-too-complex-and-misdirected/
+Comments URL: …</description></item><item><title>Opensource.cooking: A simple, bloat-free cooking site</title><link>https://news.panz3r.dev/post/3096be66a8482f001d2e7b29ea7a538226452ef8dbb7c7da829540f32e18e62b/</link><pubDate>Wed, 07 Apr 2021 17:05:46 +0000</pubDate><guid>https://news.panz3r.dev/post/3096be66a8482f001d2e7b29ea7a538226452ef8dbb7c7da829540f32e18e62b/</guid><description>
+Article URL: https://opensource.cooking
+Comments URL: https://news.ycombinator.com/item?id=26727700
+Points: 69
+# Comments: 80</description></item><item><title>The NoPhone</title><link>https://news.panz3r.dev/post/037740e42033d9099ef11c299ec5e54786d86d80bb6607fdcab9611154dbd323/</link><pubDate>Wed, 07 Apr 2021 16:45:00 +0000</pubDate><guid>https://news.panz3r.dev/post/037740e42033d9099ef11c299ec5e54786d86d80bb6607fdcab9611154dbd323/</guid><description>
+Article URL: https://www.thenophone.com
+Comments URL: https://news.ycombinator.com/item?id=26727431
+Points: 120
+# Comments: 47</description></item><item><title>BleedingTooth: Linux Bluetooth Zero-Click Remote Code Execution</title><link>https://news.panz3r.dev/post/77738cc98ca0c0e8d06df91d2ee9b86b5550f0777f47993684f0993eca1031b4/</link><pubDate>Wed, 07 Apr 2021 16:06:56 +0000</pubDate><guid>https://news.panz3r.dev/post/77738cc98ca0c0e8d06df91d2ee9b86b5550f0777f47993684f0993eca1031b4/</guid><description>
+Article URL: https://google.github.io/security-research/pocs/linux/bleedingtooth/writeup.html
+Comments URL: …</description></item><item><title>iOS 14 and Facebook Pixel causing increase in PSL inclusion requests</title><link>https://news.panz3r.dev/post/714fc3eaa1526ac91b63266c84e2117480e5a46bbfed58bae69f709600454e1a/</link><pubDate>Wed, 07 Apr 2021 15:54:46 +0000</pubDate><guid>https://news.panz3r.dev/post/714fc3eaa1526ac91b63266c84e2117480e5a46bbfed58bae69f709600454e1a/</guid><description>
 Article URL: https://github.com/publicsuffix/list/issues/1245
 Comments URL: https://news.ycombinator.com/item?id=26726722
-Points: 61
+Points: 211
 # …</description></item><item><title>Particle mystery: physicists confirm the muon is more magnetic than predicted</title><link>https://news.panz3r.dev/post/dcb15634f12eac2ca5870272875cbaa0745e399d2fde063c26728ae9f4e2e519/</link><pubDate>Wed, 07 Apr 2021 15:26:03 +0000</pubDate><guid>https://news.panz3r.dev/post/dcb15634f12eac2ca5870272875cbaa0745e399d2fde063c26728ae9f4e2e519/</guid><description>
 Article URL: https://www.sciencemag.org/news/2021/04/particle-mystery-deepens-physicists-confirm-muon-more-magnetic-predicted
 Comments URL: …</description></item><item><title>A bit of XENIX history</title><link>https://news.panz3r.dev/post/1176d45fe1a7457b0f112282cd0871a07bc947ab40351e992bd00426ffa1974c/</link><pubDate>Wed, 07 Apr 2021 15:24:30 +0000</pubDate><guid>https://news.panz3r.dev/post/1176d45fe1a7457b0f112282cd0871a07bc947ab40351e992bd00426ffa1974c/</guid><description>
 Article URL: http://seefigure1.com/2014/04/15/xenixtime.html
 Comments URL: https://news.ycombinator.com/item?id=26726249
-Points: 54
+Points: 90
 # …</description></item><item><title>Signal Server code on GitHub is up to date again</title><link>https://news.panz3r.dev/post/1f8b5496c41a3c05f1f60819b4490a9268f3672566bcdd3b85ad30aa3e3a3b2a/</link><pubDate>Wed, 07 Apr 2021 15:00:58 +0000</pubDate><guid>https://news.panz3r.dev/post/1f8b5496c41a3c05f1f60819b4490a9268f3672566bcdd3b85ad30aa3e3a3b2a/</guid><description>
 Article URL: https://github.com/signalapp/Signal-Server/commits/master
 Comments URL: https://news.ycombinator.com/item?id=26725915
-Points: …</description></item><item><title>Dynamicland</title><link>https://news.panz3r.dev/post/1f0bc9c039ed3ab0d43085c3f32c759d49863b247f217400325d96af4c1f9070/</link><pubDate>Wed, 07 Apr 2021 14:22:37 +0000</pubDate><guid>https://news.panz3r.dev/post/1f0bc9c039ed3ab0d43085c3f32c759d49863b247f217400325d96af4c1f9070/</guid><description>
+Points: …</description></item><item><title>Writing advice should stop targeting people who hate to write</title><link>https://news.panz3r.dev/post/12c85116e56185f6badaec2fff0d3bb3a36dddf641153783f4cc76bf1858d9ba/</link><pubDate>Wed, 07 Apr 2021 14:40:53 +0000</pubDate><guid>https://news.panz3r.dev/post/12c85116e56185f6badaec2fff0d3bb3a36dddf641153783f4cc76bf1858d9ba/</guid><description>
+Article URL: https://enkiv2.medium.com/writing-advice-should-stop-targeting-people-who-hate-to-write-6d7d658954d2
+Comments URL: …</description></item><item><title>Dynamicland</title><link>https://news.panz3r.dev/post/1f0bc9c039ed3ab0d43085c3f32c759d49863b247f217400325d96af4c1f9070/</link><pubDate>Wed, 07 Apr 2021 14:22:37 +0000</pubDate><guid>https://news.panz3r.dev/post/1f0bc9c039ed3ab0d43085c3f32c759d49863b247f217400325d96af4c1f9070/</guid><description>
 Article URL: https://dynamicland.org/
 Comments URL: https://news.ycombinator.com/item?id=26725370
-Points: 96
-# Comments: 34</description></item><item><title>Screw it, I’ll host it myself</title><link>https://news.panz3r.dev/post/0116b0811a4c8a8bc83429d05d239a096b5abdb9702e11e39370eca3ab4c0400/</link><pubDate>Wed, 07 Apr 2021 14:10:02 +0000</pubDate><guid>https://news.panz3r.dev/post/0116b0811a4c8a8bc83429d05d239a096b5abdb9702e11e39370eca3ab4c0400/</guid><description>
+Points: 199
+# Comments: 65</description></item><item><title>Screw it, I’ll host it myself</title><link>https://news.panz3r.dev/post/0116b0811a4c8a8bc83429d05d239a096b5abdb9702e11e39370eca3ab4c0400/</link><pubDate>Wed, 07 Apr 2021 14:10:02 +0000</pubDate><guid>https://news.panz3r.dev/post/0116b0811a4c8a8bc83429d05d239a096b5abdb9702e11e39370eca3ab4c0400/</guid><description>
 Article URL: https://www.markozivanovic.com/screw-it-ill-host-it-myself/
 Comments URL: https://news.ycombinator.com/item?id=26725185
 Points: …</description></item><item><title>What have we lost? [video]</title><link>https://news.panz3r.dev/post/c75203a058a27fa72a1a83887d7abcbb8e874e54a800f22be8b4d055e12470d5/</link><pubDate>Wed, 07 Apr 2021 12:34:16 +0000</pubDate><guid>https://news.panz3r.dev/post/c75203a058a27fa72a1a83887d7abcbb8e874e54a800f22be8b4d055e12470d5/</guid><description>
@@ -27,7 +58,7 @@ Article URL: https://oleksandrkvl.github.io/2021/04/02/cpp-20-overview.html
 Comments URL: https://news.ycombinator.com/item?id=26723851 …</description></item><item><title>Time to regulate AI that interprets human emotions?</title><link>https://news.panz3r.dev/post/ac430f87c146e061cae8091fc1c272486df4a79249366a6645d052b1a57d0ea5/</link><pubDate>Wed, 07 Apr 2021 12:00:57 +0000</pubDate><guid>https://news.panz3r.dev/post/ac430f87c146e061cae8091fc1c272486df4a79249366a6645d052b1a57d0ea5/</guid><description>
 Article URL: https://www.nature.com/articles/d41586-021-00868-5
 Comments URL: https://news.ycombinator.com/item?id=26723582
-Points: 103
+Points: 136
 # …</description></item><item><title>Writing HTML in HTML (2019)</title><link>https://news.panz3r.dev/post/c07c6e18d969ba40c6daa6e539f5cf1927e9e0ab2eadc49918ac806fb4e81042/</link><pubDate>Wed, 07 Apr 2021 11:43:47 +0000</pubDate><guid>https://news.panz3r.dev/post/c07c6e18d969ba40c6daa6e539f5cf1927e9e0ab2eadc49918ac806fb4e81042/</guid><description>
 Article URL: http://john.ankarstrom.se/html/
 Comments URL: https://news.ycombinator.com/item?id=26723408
@@ -492,31 +523,4 @@ Article URL: https://www.paulosyibelo.com/2021/04/this-man-thought-opening-txt-f
 Comments URL: …</description></item><item><title>Fed up with the Mac, I spent six months with a Linux laptop</title><link>https://news.panz3r.dev/post/457749554fde575f19334b9faf27f36ec31a02a9595678732a77aa01877ac7d8/</link><pubDate>Fri, 02 Apr 2021 23:39:07 +0000</pubDate><guid>https://news.panz3r.dev/post/457749554fde575f19334b9faf27f36ec31a02a9595678732a77aa01877ac7d8/</guid><description>
 Article URL: …</description></item><item><title>Windows 95 – How Does It Look Today?</title><link>https://news.panz3r.dev/post/3e4d1b869ea1060abf818ef8a31708057c6795849177663b6f087bee5bc57b36/</link><pubDate>Fri, 02 Apr 2021 23:24:27 +0000</pubDate><guid>https://news.panz3r.dev/post/3e4d1b869ea1060abf818ef8a31708057c6795849177663b6f087bee5bc57b36/</guid><description>
 Article URL: https://dmitryelj.medium.com/windows-95-how-does-it-look-today-feda837922d9
-Comments URL: …</description></item><item><title>The matrix calculus you need for deep learning (2018)</title><link>https://news.panz3r.dev/post/207de1b01784df7c851df4f0bbfc4be4a98116dc8ec285eddaf2a0798d6de314/</link><pubDate>Fri, 02 Apr 2021 22:45:47 +0000</pubDate><guid>https://news.panz3r.dev/post/207de1b01784df7c851df4f0bbfc4be4a98116dc8ec285eddaf2a0798d6de314/</guid><description>
-Article URL: https://arxiv.org/abs/1802.01528
-Comments URL: https://news.ycombinator.com/item?id=26676729
-Points: 135
-# Comments: 30</description></item><item><title>Handles are the better pointers (2018)</title><link>https://news.panz3r.dev/post/367b8393f7cb223a1828082cb00e8c7c7deaec58194b46b1e41b87eaebe44872/</link><pubDate>Fri, 02 Apr 2021 22:27:43 +0000</pubDate><guid>https://news.panz3r.dev/post/367b8393f7cb223a1828082cb00e8c7c7deaec58194b46b1e41b87eaebe44872/</guid><description>
-Article URL: https://floooh.github.io/2018/06/17/handles-vs-pointers.html
-Comments URL: https://news.ycombinator.com/item?id=26676625 …</description></item><item><title>Cells Form into ‘Xenobots’ on Their Own</title><link>https://news.panz3r.dev/post/3840f7ceb491f8ac886ee016ae2029204bed9ae719a09e1340ef91e03b101544/</link><pubDate>Fri, 02 Apr 2021 22:18:23 +0000</pubDate><guid>https://news.panz3r.dev/post/3840f7ceb491f8ac886ee016ae2029204bed9ae719a09e1340ef91e03b101544/</guid><description>
-Article URL: https://www.quantamagazine.org/cells-form-into-xenobots-on-their-own-20210331/
-Comments URL: …</description></item><item><title>Exploring Tweets with SQLite and WASM</title><link>https://news.panz3r.dev/post/619af6e54b1df54b914c979c0febb3cd1253eac1f0b8f062f376f8c10f30836b/</link><pubDate>Fri, 02 Apr 2021 21:04:11 +0000</pubDate><guid>https://news.panz3r.dev/post/619af6e54b1df54b914c979c0febb3cd1253eac1f0b8f062f376f8c10f30836b/</guid><description>
-Article URL: https://divu.in/experiments/wasm/twitter-sqlite
-Comments URL: https://news.ycombinator.com/item?id=26675984
-Points: 88
-# …</description></item><item><title>An insider-trading indictment shows ties to Bloomberg News scoops</title><link>https://news.panz3r.dev/post/5a8b4dafc5f862d33a0d85f238ec7eddb56935def57eab004b4eef7bb0f142db/</link><pubDate>Fri, 02 Apr 2021 19:12:17 +0000</pubDate><guid>https://news.panz3r.dev/post/5a8b4dafc5f862d33a0d85f238ec7eddb56935def57eab004b4eef7bb0f142db/</guid><description>
-Article URL: https://www.cjr.org/business_of_news/an-insider-trading-indictment-shows-ties-to-bloomberg-news-scoops.php
-Comments URL: …</description></item><item><title>Securing a Postgres Database</title><link>https://news.panz3r.dev/post/63eb25db60dbe51066194ffac2899ed989c3d21e55654e33109e773e0b7357d4/</link><pubDate>Fri, 02 Apr 2021 19:02:37 +0000</pubDate><guid>https://news.panz3r.dev/post/63eb25db60dbe51066194ffac2899ed989c3d21e55654e33109e773e0b7357d4/</guid><description>
-Article URL: https://goteleport.com/blog/securing-postgres-postgresql/
-Comments URL: https://news.ycombinator.com/item?id=26674756
-Points: …</description></item><item><title>Show HN: Box2D fluid simulation in WebGL and WASM</title><link>https://news.panz3r.dev/post/2e64a8c6d749714e2e51209a20c5cd16c8cf1824c77d6eabbfddb68d8e2dced3/</link><pubDate>Fri, 02 Apr 2021 18:32:27 +0000</pubDate><guid>https://news.panz3r.dev/post/2e64a8c6d749714e2e51209a20c5cd16c8cf1824c77d6eabbfddb68d8e2dced3/</guid><description>
-Article URL: https://birchlabs.co.uk/box2d-wasm-liquidfun/
-Comments URL: https://news.ycombinator.com/item?id=26674352
-Points: 63
-# …</description></item><item><title>IRS guidance for thieves, drug dealers, and corrupt officials</title><link>https://news.panz3r.dev/post/14308252f24be7582b5ee02d122fc189c23d317ce54b4edd100a726e4d02a0dc/</link><pubDate>Fri, 02 Apr 2021 18:26:48 +0000</pubDate><guid>https://news.panz3r.dev/post/14308252f24be7582b5ee02d122fc189c23d317ce54b4edd100a726e4d02a0dc/</guid><description>
-Article URL: https://taxfoundation.org/irs-guidance-thieves-drug-dealers-and-corrupt-officials/
-Comments URL: …</description></item><item><title>Isamu Akasaki, inventor of first efficient blue LED, has died</title><link>https://news.panz3r.dev/post/0e587f8beafcbd0a21d4a399e31489a660980fb5ff51b8140823aeeb724983c6/</link><pubDate>Fri, 02 Apr 2021 18:24:09 +0000</pubDate><guid>https://news.panz3r.dev/post/0e587f8beafcbd0a21d4a399e31489a660980fb5ff51b8140823aeeb724983c6/</guid><description>
-Article URL: https://www.japantimes.co.jp/news/2021/04/02/national/isamu-akasaki-dies/
-Comments URL: …</description></item><item><title>CEO of Waymo John Krafcik is leaving</title><link>https://news.panz3r.dev/post/48521aaec59a0b5ac21b81ab97495c92e9f4a19141936fa2b8ee7a54c706aff5/</link><pubDate>Fri, 02 Apr 2021 17:54:00 +0000</pubDate><guid>https://news.panz3r.dev/post/48521aaec59a0b5ac21b81ab97495c92e9f4a19141936fa2b8ee7a54c706aff5/</guid><description>
-Article URL: https://blog.waymo.com/2021/04/capstone-of-my-career-email-from-john.html
 Comments URL: …</description></item></channel></rss>

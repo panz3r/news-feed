@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hacker-News-Frontpage on Panz3r News</title><link>https://news.panz3r.dev/tags/hacker-news-frontpage/</link><description>Recent content in Hacker-News-Frontpage on news.panz3r.dev</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Panz3r 2020 | Vitae theme for Hugo</copyright><lastBuildDate>Fri, 09 Apr 2021 05:20:32 +0000</lastBuildDate><atom:link href="https://news.panz3r.dev/tags/hacker-news-frontpage/index.xml" rel="self" type="application/rss+xml"/><item><title>Initial M1 support merged into Linux SoC tree</title><link>https://news.panz3r.dev/post/670700e4ac50560e7188354e67c638faa5bb47220e533e63f9fbfe009007a418/</link><pubDate>Fri, 09 Apr 2021 05:20:32 +0000</pubDate><guid>https://news.panz3r.dev/post/670700e4ac50560e7188354e67c638faa5bb47220e533e63f9fbfe009007a418/</guid><description>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hacker-News-Frontpage on Panz3r News</title><link>https://news.panz3r.dev/tags/hacker-news-frontpage/</link><description>Recent content in Hacker-News-Frontpage on news.panz3r.dev</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Panz3r 2020 | Vitae theme for Hugo</copyright><lastBuildDate>Fri, 09 Apr 2021 07:41:18 +0000</lastBuildDate><atom:link href="https://news.panz3r.dev/tags/hacker-news-frontpage/index.xml" rel="self" type="application/rss+xml"/><item><title>W3C slaps down Google's proposal to treat multiple domains as same origin</title><link>https://news.panz3r.dev/post/ccf1815e7d27a64ac5a3af610f52e4a0595feda846387078bcb246313724e8c9/</link><pubDate>Fri, 09 Apr 2021 07:41:18 +0000</pubDate><guid>https://news.panz3r.dev/post/ccf1815e7d27a64ac5a3af610f52e4a0595feda846387078bcb246313724e8c9/</guid><description>
+Article URL: https://www.theregister.com/2021/04/08/w3c_google_multple_domains/
+Comments URL: https://news.ycombinator.com/item?id=26747715 …</description></item><item><title>Initial M1 support merged into Linux SoC tree</title><link>https://news.panz3r.dev/post/670700e4ac50560e7188354e67c638faa5bb47220e533e63f9fbfe009007a418/</link><pubDate>Fri, 09 Apr 2021 05:20:32 +0000</pubDate><guid>https://news.panz3r.dev/post/670700e4ac50560e7188354e67c638faa5bb47220e533e63f9fbfe009007a418/</guid><description>
 Article URL: https://git.kernel.org/pub/scm/linux/kernel/git/soc/soc.git/commit/?h=for-next&id=0d5fe4b31785b732b71e764b55cda5c8d6e3bbbf …</description></item><item><title>Hawking Hawking</title><link>https://news.panz3r.dev/post/66e3c7f9bb67a3378d522f97190117e6fdc44d617c2ee90a7f1bba0de2680e6d/</link><pubDate>Fri, 09 Apr 2021 04:23:25 +0000</pubDate><guid>https://news.panz3r.dev/post/66e3c7f9bb67a3378d522f97190117e6fdc44d617c2ee90a7f1bba0de2680e6d/</guid><description>
 Article URL: https://www.math.columbia.edu/~woit/wordpress/?p=12235
 Comments URL: https://news.ycombinator.com/item?id=26746687
@@ -48,8 +50,8 @@ Points: 94
 # …</description></item><item><title>Home-Built Scanning Tunneling Microscope (2015)</title><link>https://news.panz3r.dev/post/71010709ad4a665f2d033f3406c6da52c5e2c7a2f202aaa449273c1bfec22473/</link><pubDate>Thu, 08 Apr 2021 16:45:58 +0000</pubDate><guid>https://news.panz3r.dev/post/71010709ad4a665f2d033f3406c6da52c5e2c7a2f202aaa449273c1bfec22473/</guid><description>
 Article URL: https://dberard.com/home-built-stm/
 Comments URL: https://news.ycombinator.com/item?id=26740968
-Points: 333
-# Comments: 76</description></item><item><title>Perfect Motherf****** Website</title><link>https://news.panz3r.dev/post/fc317f1be298d3a9a82a3fa7c53dc6685092b67a7cfc69c74a3b56f9c862d7ab/</link><pubDate>Thu, 08 Apr 2021 16:16:06 +0000</pubDate><guid>https://news.panz3r.dev/post/fc317f1be298d3a9a82a3fa7c53dc6685092b67a7cfc69c74a3b56f9c862d7ab/</guid><description>
+Points: 338
+# Comments: 77</description></item><item><title>Perfect Motherf****** Website</title><link>https://news.panz3r.dev/post/fc317f1be298d3a9a82a3fa7c53dc6685092b67a7cfc69c74a3b56f9c862d7ab/</link><pubDate>Thu, 08 Apr 2021 16:16:06 +0000</pubDate><guid>https://news.panz3r.dev/post/fc317f1be298d3a9a82a3fa7c53dc6685092b67a7cfc69c74a3b56f9c862d7ab/</guid><description>
 Article URL: https://perfectmotherfuckingwebsite.com/
 Comments URL: https://news.ycombinator.com/item?id=26740593
 Points: 196
@@ -63,8 +65,8 @@ Article URL: https://www.statnews.com/2021/04/07/consumer-neurotech-skeptic/
 Comments URL: https://news.ycombinator.com/item?id=26739872 …</description></item><item><title>A Brief F# Exploration</title><link>https://news.panz3r.dev/post/9db6cf9b566f78c2b65321d045f1fdcfd89f403a8b21d591b2394886e4422207/</link><pubDate>Thu, 08 Apr 2021 14:54:49 +0000</pubDate><guid>https://news.panz3r.dev/post/9db6cf9b566f78c2b65321d045f1fdcfd89f403a8b21d591b2394886e4422207/</guid><description>
 Article URL: https://notes.srid.ca/fsharp-exploration
 Comments URL: https://news.ycombinator.com/item?id=26739501
-Points: 58
-# Comments: 15</description></item><item><title>Ask HN: Why is the Linux community struggling to implement hibernation?</title><link>https://news.panz3r.dev/post/c5d44e90f150041bfb28c8bc2c0579e545386303e744b047dec095f6dc0cb70e/</link><pubDate>Thu, 08 Apr 2021 14:35:16 +0000</pubDate><guid>https://news.panz3r.dev/post/c5d44e90f150041bfb28c8bc2c0579e545386303e744b047dec095f6dc0cb70e/</guid><description>
+Points: 68
+# Comments: 24</description></item><item><title>Ask HN: Why is the Linux community struggling to implement hibernation?</title><link>https://news.panz3r.dev/post/c5d44e90f150041bfb28c8bc2c0579e545386303e744b047dec095f6dc0cb70e/</link><pubDate>Thu, 08 Apr 2021 14:35:16 +0000</pubDate><guid>https://news.panz3r.dev/post/c5d44e90f150041bfb28c8bc2c0579e545386303e744b047dec095f6dc0cb70e/</guid><description>
 Today I have found out that hibernation is by default disabled in my Ubuntu 18.04 distribution. After this, I found this 11 month old post …</description></item><item><title>Tell HN: Today I learned Epub is just HTML/CSS</title><link>https://news.panz3r.dev/post/4ea8f3f29b42d8cc9aa9b6ea69f255c07a00b70869562d0e32d74025fa6402ad/</link><pubDate>Thu, 08 Apr 2021 14:28:24 +0000</pubDate><guid>https://news.panz3r.dev/post/4ea8f3f29b42d8cc9aa9b6ea69f255c07a00b70869562d0e32d74025fa6402ad/</guid><description>
 Article URL: https://en.wikipedia.org/wiki/EPUB#:~:text=EPUB%20is%20an%20e%2Dbook,smartphones%2C%20tablets%2C%20and%20computers.
 Comments …</description></item><item><title>Muon G-2 Experiment at Fermilab Finds Hint of New Particles</title><link>https://news.panz3r.dev/post/f64e2cc7d89b8319aafd61cc52c900e32d11ea4c397030d751df027bd606ee97/</link><pubDate>Thu, 08 Apr 2021 14:19:20 +0000</pubDate><guid>https://news.panz3r.dev/post/f64e2cc7d89b8319aafd61cc52c900e32d11ea4c397030d751df027bd606ee97/</guid><description>
@@ -158,7 +160,11 @@ Comments URL: https://news.ycombinator.com/item?id=26732229 …</description></i
 Article URL: https://github.com/google/wuffs/blob/main/doc/wuffs-the-language.md
 Comments URL: https://news.ycombinator.com/item?id=26731305 …</description></item><item><title>Metis and Bodybuilders</title><link>https://news.panz3r.dev/post/e83ec3f3fe24afd093c32385c905e6a10195a7b6b3c2f057a50f63cbc15e6dd4/</link><pubDate>Wed, 07 Apr 2021 20:46:35 +0000</pubDate><guid>https://news.panz3r.dev/post/e83ec3f3fe24afd093c32385c905e6a10195a7b6b3c2f057a50f63cbc15e6dd4/</guid><description>
 Article URL: https://astralcodexten.substack.com/p/metis-and-bodybuilders
-Comments URL: https://news.ycombinator.com/item?id=26731007 …</description></item><item><title>YouTube Kids a “vapid wasteland” say US lawmakers</title><link>https://news.panz3r.dev/post/12512a317ebb6d2bac15b145b20d1828a369ba0a4be275c7dfa56ef85a266503/</link><pubDate>Wed, 07 Apr 2021 18:59:17 +0000</pubDate><guid>https://news.panz3r.dev/post/12512a317ebb6d2bac15b145b20d1828a369ba0a4be275c7dfa56ef85a266503/</guid><description>
+Comments URL: https://news.ycombinator.com/item?id=26731007 …</description></item><item><title>Deep genetic affinity between coastal Pacific and Amazonian natives</title><link>https://news.panz3r.dev/post/03cd79671bc6b173de9938811d18422879641f729a7fe4000549125fbe9466b4/</link><pubDate>Wed, 07 Apr 2021 20:30:19 +0000</pubDate><guid>https://news.panz3r.dev/post/03cd79671bc6b173de9938811d18422879641f729a7fe4000549125fbe9466b4/</guid><description>
+Article URL: https://www.pnas.org/content/118/14/e2025739118
+Comments URL: https://news.ycombinator.com/item?id=26730787
+Points: 68
+# …</description></item><item><title>YouTube Kids a “vapid wasteland” say US lawmakers</title><link>https://news.panz3r.dev/post/12512a317ebb6d2bac15b145b20d1828a369ba0a4be275c7dfa56ef85a266503/</link><pubDate>Wed, 07 Apr 2021 18:59:17 +0000</pubDate><guid>https://news.panz3r.dev/post/12512a317ebb6d2bac15b145b20d1828a369ba0a4be275c7dfa56ef85a266503/</guid><description>
 Article URL: https://www.bbc.com/news/technology-56662103
 Comments URL: https://news.ycombinator.com/item?id=26729389
 Points: 136
@@ -199,7 +205,7 @@ Comments URL: …</description></item><item><title>iOS 14 and Facebook Pixel cau
 Article URL: https://github.com/publicsuffix/list/issues/1245
 Comments URL: https://news.ycombinator.com/item?id=26726722
 Points: 253
-# …</description></item><item><title>Idempotence Now Prevents Pain Later</title><link>https://news.panz3r.dev/post/abc30008be0b7f9c02fccd11074e653a28acc7ab993a2810fbca6513a664347a/</link><pubDate>Wed, 07 Apr 2021 15:37:15 +0000</pubDate><guid>https://news.panz3r.dev/post/abc30008be0b7f9c02fccd11074e653a28acc7ab993a2810fbca6513a664347a/</guid><description>
+# …</description></item><item><title>Idempotence now prevents pain later</title><link>https://news.panz3r.dev/post/abc30008be0b7f9c02fccd11074e653a28acc7ab993a2810fbca6513a664347a/</link><pubDate>Wed, 07 Apr 2021 15:37:15 +0000</pubDate><guid>https://news.panz3r.dev/post/abc30008be0b7f9c02fccd11074e653a28acc7ab993a2810fbca6513a664347a/</guid><description>
 Article URL: https://ericlathrop.com/2021/04/idempotence-now-prevents-pain-later/
 Comments URL: …</description></item><item><title>Particle mystery: physicists confirm the muon is more magnetic than predicted</title><link>https://news.panz3r.dev/post/dcb15634f12eac2ca5870272875cbaa0745e399d2fde063c26728ae9f4e2e519/</link><pubDate>Wed, 07 Apr 2021 15:26:03 +0000</pubDate><guid>https://news.panz3r.dev/post/dcb15634f12eac2ca5870272875cbaa0745e399d2fde063c26728ae9f4e2e519/</guid><description>
 Article URL: https://www.sciencemag.org/news/2021/04/particle-mystery-deepens-physicists-confirm-muon-more-magnetic-predicted
@@ -564,16 +570,4 @@ Article URL: http://terathon.com/blog/a-mathematical-keyboard-layout/
 Comments URL: https://news.ycombinator.com/item?id=26688529
 Points: 56 …</description></item><item><title>AMD's Zen 3 CPUs Are Susceptible to Spectre-Like Vulnerability</title><link>https://news.panz3r.dev/post/8aa9f4ada5342fea5cf0990d895f079a9e0a8ee843355d39d4cb14f398bd21f6/</link><pubDate>Sun, 04 Apr 2021 11:05:12 +0000</pubDate><guid>https://news.panz3r.dev/post/8aa9f4ada5342fea5cf0990d895f079a9e0a8ee843355d39d4cb14f398bd21f6/</guid><description>
 Article URL: https://www.tomshardware.com/news/amd-zen-3-cpu-susceptible-spectre-like-vulnerability
-Comments URL: …</description></item><item><title>How to bypass Cloudflare bot protection</title><link>https://news.panz3r.dev/post/9c98c5bad80d190340204155ef6c7d4bc91538879ecad59e29a3fd1bf63b846b/</link><pubDate>Sun, 04 Apr 2021 10:53:36 +0000</pubDate><guid>https://news.panz3r.dev/post/9c98c5bad80d190340204155ef6c7d4bc91538879ecad59e29a3fd1bf63b846b/</guid><description>
-Article URL: https://jychp.medium.com/how-to-bypass-cloudflare-bot-protection-1f2c6c0c36fb
-Comments URL: …</description></item><item><title>Egypt demands over $1B in damages after Suez Canal blockage</title><link>https://news.panz3r.dev/post/710becbbb6bfb2b32e7bfc575f27829fe5fe8ab4b855280d76927f08843e8641/</link><pubDate>Sun, 04 Apr 2021 10:01:13 +0000</pubDate><guid>https://news.panz3r.dev/post/710becbbb6bfb2b32e7bfc575f27829fe5fe8ab4b855280d76927f08843e8641/</guid><description>
-Article URL: https://www.trtworld.com/business/egypt-demands-over-1b-in-damages-after-suez-canal-blockage-45537
-Comments URL: …</description></item><item><title>Butterick’s Practical Typography 2º Edition</title><link>https://news.panz3r.dev/post/2c7a8d787b45d6e7e6227aef36c0108332288e42f5dc8c7912e9b8b5982833a9/</link><pubDate>Sun, 04 Apr 2021 09:58:40 +0000</pubDate><guid>https://news.panz3r.dev/post/2c7a8d787b45d6e7e6227aef36c0108332288e42f5dc8c7912e9b8b5982833a9/</guid><description>
-Article URL: https://practicaltypography.com/
-Comments URL: https://news.ycombinator.com/item?id=26688142
-Points: 91
-# Comments: 21</description></item><item><title>NASA Startup Studio</title><link>https://news.panz3r.dev/post/c803f9daa8c1f9244c3da40021e1d1f63317c102a3be52dbca9d7cfc61b6e593/</link><pubDate>Sun, 04 Apr 2021 09:43:54 +0000</pubDate><guid>https://news.panz3r.dev/post/c803f9daa8c1f9244c3da40021e1d1f63317c102a3be52dbca9d7cfc61b6e593/</guid><description>
-Article URL: https://www.fedtech.io/nasastartupstudio
-Comments URL: https://news.ycombinator.com/item?id=26688091
-Points: 61
-# Comments: 6</description></item></channel></rss>
+Comments URL: …</description></item></channel></rss>

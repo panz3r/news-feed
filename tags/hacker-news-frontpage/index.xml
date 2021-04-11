@@ -1,36 +1,60 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hacker-News-Frontpage on Panz3r News</title><link>https://news.panz3r.dev/tags/hacker-news-frontpage/</link><description>Recent content in Hacker-News-Frontpage on news.panz3r.dev</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Panz3r 2020 | Vitae theme for Hugo</copyright><lastBuildDate>Sun, 11 Apr 2021 02:36:32 +0000</lastBuildDate><atom:link href="https://news.panz3r.dev/tags/hacker-news-frontpage/index.xml" rel="self" type="application/rss+xml"/><item><title>Google used past bid data to boost win rate in advertising auctions</title><link>https://news.panz3r.dev/post/633a4824e90e49985dbc91a954241e523064daae701688e73eda70804d90adab/</link><pubDate>Sun, 11 Apr 2021 02:36:32 +0000</pubDate><guid>https://news.panz3r.dev/post/633a4824e90e49985dbc91a954241e523064daae701688e73eda70804d90adab/</guid><description>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hacker-News-Frontpage on Panz3r News</title><link>https://news.panz3r.dev/tags/hacker-news-frontpage/</link><description>Recent content in Hacker-News-Frontpage on news.panz3r.dev</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Panz3r 2020 | Vitae theme for Hugo</copyright><lastBuildDate>Sun, 11 Apr 2021 08:24:33 +0000</lastBuildDate><atom:link href="https://news.panz3r.dev/tags/hacker-news-frontpage/index.xml" rel="self" type="application/rss+xml"/><item><title>Photopea, the free alternative to Photoshop, generates $250k/year from ads</title><link>https://news.panz3r.dev/post/745fb63a996b1d76746d7e2cb3438471a6807308c2a565bbcdbd8c8b004606f4/</link><pubDate>Sun, 11 Apr 2021 08:24:33 +0000</pubDate><guid>https://news.panz3r.dev/post/745fb63a996b1d76746d7e2cb3438471a6807308c2a565bbcdbd8c8b004606f4/</guid><description>
+Article URL: https://www.reddit.com/r/IAmA/comments/i8j5te/i_made_a_free_alternative_to_photoshop_that_is/g18ush0/
+Comments URL: …</description></item><item><title>Clubhouse data leak: 1.3M user records leaked online for free</title><link>https://news.panz3r.dev/post/b605fe73c18c3d32ec96283f41deac5124e5c69d0158bc81e98fa6344ef78175/</link><pubDate>Sun, 11 Apr 2021 07:35:24 +0000</pubDate><guid>https://news.panz3r.dev/post/b605fe73c18c3d32ec96283f41deac5124e5c69d0158bc81e98fa6344ef78175/</guid><description>
+Article URL: https://cybernews.com/security/clubhouse-data-leak-1-3-million-user-records-leaked-for-free-online/
+Comments URL: …</description></item><item><title>Is It Pokemon or Big Data?</title><link>https://news.panz3r.dev/post/3c1da754d95b253a19e1376cfe901440834779676c415c54e1f88b69f69190b4/</link><pubDate>Sun, 11 Apr 2021 06:05:08 +0000</pubDate><guid>https://news.panz3r.dev/post/3c1da754d95b253a19e1376cfe901440834779676c415c54e1f88b69f69190b4/</guid><description>
+Article URL: http://pixelastic.github.io/pokemonorbigdata/
+Comments URL: https://news.ycombinator.com/item?id=26767835
+Points: 51
+# …</description></item><item><title>The Economic Consequences of Increasing Sleep Among the Urban Poor</title><link>https://news.panz3r.dev/post/3da7038a03e9ec0569a1e90701d63d137d23e87a5911b16c8d4b6e5f75bf5048/</link><pubDate>Sun, 11 Apr 2021 05:22:20 +0000</pubDate><guid>https://news.panz3r.dev/post/3da7038a03e9ec0569a1e90701d63d137d23e87a5911b16c8d4b6e5f75bf5048/</guid><description>
+Article URL: https://academic.oup.com/qje/advance-article-abstract/doi/10.1093/qje/qjab013/6217436?redirectedFrom=fulltext
+Comments URL: …</description></item><item><title>Using PyTorch and NumPy? You're making a mistake</title><link>https://news.panz3r.dev/post/fa0899216a9c293fa6a03e6189a25bcd63a768ca7642dee5c0d90498a85ee6ea/</link><pubDate>Sun, 11 Apr 2021 04:14:50 +0000</pubDate><guid>https://news.panz3r.dev/post/fa0899216a9c293fa6a03e6189a25bcd63a768ca7642dee5c0d90498a85ee6ea/</guid><description>
+Article URL: https://tanelp.github.io/posts/a-bug-that-plagues-thousands-of-open-source-ml-projects/
+Comments URL: …</description></item><item><title>Google used past bid data to boost win rate in advertising auctions</title><link>https://news.panz3r.dev/post/633a4824e90e49985dbc91a954241e523064daae701688e73eda70804d90adab/</link><pubDate>Sun, 11 Apr 2021 02:36:32 +0000</pubDate><guid>https://news.panz3r.dev/post/633a4824e90e49985dbc91a954241e523064daae701688e73eda70804d90adab/</guid><description>
 Article URL: https://www.wsj.com/articles/googles-secret-project-bernanke-revealed-in-texas-antitrust-case-11618097760
-Comments URL: …</description></item><item><title>The Gaslighting of Science</title><link>https://news.panz3r.dev/post/a404543acdd3ff52540f440eebe88213336a94f6213173ee7c90b6ef6b3434c2/</link><pubDate>Sun, 11 Apr 2021 02:11:42 +0000</pubDate><guid>https://news.panz3r.dev/post/a404543acdd3ff52540f440eebe88213336a94f6213173ee7c90b6ef6b3434c2/</guid><description>
+Comments URL: …</description></item><item><title>PrettyZoo: Pretty Nice Zookeeper GUI</title><link>https://news.panz3r.dev/post/80b6a5fe47271147fba0dd202fcb6ac0b1ca04cfc010c40db95401e96d64c611/</link><pubDate>Sun, 11 Apr 2021 02:25:07 +0000</pubDate><guid>https://news.panz3r.dev/post/80b6a5fe47271147fba0dd202fcb6ac0b1ca04cfc010c40db95401e96d64c611/</guid><description>
+Article URL: https://github.com/vran-dev/PrettyZoo
+Comments URL: https://news.ycombinator.com/item?id=26767035
+Points: 64
+# Comments: 13</description></item><item><title>The Gaslighting of Science</title><link>https://news.panz3r.dev/post/a404543acdd3ff52540f440eebe88213336a94f6213173ee7c90b6ef6b3434c2/</link><pubDate>Sun, 11 Apr 2021 02:11:42 +0000</pubDate><guid>https://news.panz3r.dev/post/a404543acdd3ff52540f440eebe88213336a94f6213173ee7c90b6ef6b3434c2/</guid><description>
 Article URL: https://zeynep.substack.com/p/the-gaslighting-of-science
 Comments URL: https://news.ycombinator.com/item?id=26766991
 Points: …</description></item><item><title>Facebook had ample warning about privacy problems with “contact import” feature</title><link>https://news.panz3r.dev/post/9184e02ba8a76c63445e48eff9bf6ade58881534fabd9b4ec7b1b2bd086db431/</link><pubDate>Sun, 11 Apr 2021 01:56:55 +0000</pubDate><guid>https://news.panz3r.dev/post/9184e02ba8a76c63445e48eff9bf6ade58881534fabd9b4ec7b1b2bd086db431/</guid><description>
 Article URL: https://www.wired.com/story/facebook-data-leak-contact-import-flaws/
-Comments URL: …</description></item><item><title>Alibaba slapped with record $2.7B antitrust fine</title><link>https://news.panz3r.dev/post/4934f5c542785600371fbcff5601199e6051c2427d897459c691e04471ae416e/</link><pubDate>Sun, 11 Apr 2021 00:05:27 +0000</pubDate><guid>https://news.panz3r.dev/post/4934f5c542785600371fbcff5601199e6051c2427d897459c691e04471ae416e/</guid><description>
+Comments URL: …</description></item><item><title>The Cursed Computer Iceberg Meme</title><link>https://news.panz3r.dev/post/7d8eba4ab716c4e24a63317c57c389dcced9860ce8b831d02c5f093047cd5946/</link><pubDate>Sun, 11 Apr 2021 01:06:59 +0000</pubDate><guid>https://news.panz3r.dev/post/7d8eba4ab716c4e24a63317c57c389dcced9860ce8b831d02c5f093047cd5946/</guid><description>
+Article URL: https://suricrasia.online/iceberg/
+Comments URL: https://news.ycombinator.com/item?id=26766722
+Points: 74
+# Comments: 10</description></item><item><title>Show HN: Squirrelbyte – a SQLite-based JSON document server</title><link>https://news.panz3r.dev/post/04b3a0b8ee2b047ffe6cb2b37c935bb0b2b77772e02d8c09a498ce5faed4099f/</link><pubDate>Sun, 11 Apr 2021 00:21:56 +0000</pubDate><guid>https://news.panz3r.dev/post/04b3a0b8ee2b047ffe6cb2b37c935bb0b2b77772e02d8c09a498ce5faed4099f/</guid><description>
+Article URL: https://squirrelbyte.com/
+Comments URL: https://news.ycombinator.com/item?id=26766557
+Points: 73
+# Comments: 16</description></item><item><title>Alibaba slapped with record $2.7B antitrust fine</title><link>https://news.panz3r.dev/post/4934f5c542785600371fbcff5601199e6051c2427d897459c691e04471ae416e/</link><pubDate>Sun, 11 Apr 2021 00:05:27 +0000</pubDate><guid>https://news.panz3r.dev/post/4934f5c542785600371fbcff5601199e6051c2427d897459c691e04471ae416e/</guid><description>
 Article URL: https://www.zdnet.com/article/alibaba-slapped-with-record-2-7b-antitrust-fine/
 Comments URL: …</description></item><item><title>Towards the Science of Essential Decentralised Infrastructures (2020)</title><link>https://news.panz3r.dev/post/4274c9841550ffcac70c9007812f4033cdae173866d362b434d45604c1a5def9/</link><pubDate>Sat, 10 Apr 2021 21:35:06 +0000</pubDate><guid>https://news.panz3r.dev/post/4274c9841550ffcac70c9007812f4033cdae173866d362b434d45604c1a5def9/</guid><description>
 Article URL: https://dl.acm.org/doi/abs/10.1145/3428662.3429744
 Comments URL: https://news.ycombinator.com/item?id=26765355
-Points: 158
+Points: 179
 # …</description></item><item><title>I made a mobile app for my significant other and she won't use it</title><link>https://news.panz3r.dev/post/dab463d1a712b93be5c9ea1d6137d4ef9b6741fb8e8ae70ff6e55caa2a42abf0/</link><pubDate>Sat, 10 Apr 2021 21:09:00 +0000</pubDate><guid>https://news.panz3r.dev/post/dab463d1a712b93be5c9ea1d6137d4ef9b6741fb8e8ae70ff6e55caa2a42abf0/</guid><description>
 Article URL: https://jerseyfonseca.com/blogs/wewatch
 Comments URL: https://news.ycombinator.com/item?id=26765128
-Points: 133
-# Comments: 140 …</description></item><item><title>Brave disables Chromium FLoC features</title><link>https://news.panz3r.dev/post/f9f5f0598ab465ac2752ccb22d124afcbeaa946c44ef233619efa118f98d5104/</link><pubDate>Sat, 10 Apr 2021 21:01:31 +0000</pubDate><guid>https://news.panz3r.dev/post/f9f5f0598ab465ac2752ccb22d124afcbeaa946c44ef233619efa118f98d5104/</guid><description>
+Points: 234
+# Comments: 223 …</description></item><item><title>Brave disables Chromium FLoC features</title><link>https://news.panz3r.dev/post/f9f5f0598ab465ac2752ccb22d124afcbeaa946c44ef233619efa118f98d5104/</link><pubDate>Sat, 10 Apr 2021 21:01:31 +0000</pubDate><guid>https://news.panz3r.dev/post/f9f5f0598ab465ac2752ccb22d124afcbeaa946c44ef233619efa118f98d5104/</guid><description>
 Article URL: https://github.com/brave/brave-core/pull/8468
 Comments URL: https://news.ycombinator.com/item?id=26765084
-Points: 295
+Points: 343
 # …</description></item><item><title>Show HN: Remove background from image using machine learning</title><link>https://news.panz3r.dev/post/960223feaac39dfc51785d40b44fe43502be87cce6700eaed13dd3abe4c3f294/</link><pubDate>Sat, 10 Apr 2021 20:19:51 +0000</pubDate><guid>https://news.panz3r.dev/post/960223feaac39dfc51785d40b44fe43502be87cce6700eaed13dd3abe4c3f294/</guid><description>
 Article URL: https://removebackground.app
 Comments URL: https://news.ycombinator.com/item?id=26764766
-Points: 53
-# Comments: 23</description></item><item><title>Don’t hire top talent; hire for weaknesses</title><link>https://news.panz3r.dev/post/627f740f1010559774cb955799f62c66c0b71ea32c04de5761273eb1c9597b0b/</link><pubDate>Sat, 10 Apr 2021 19:41:38 +0000</pubDate><guid>https://news.panz3r.dev/post/627f740f1010559774cb955799f62c66c0b71ea32c04de5761273eb1c9597b0b/</guid><description>
+Points: 78
+# Comments: 33</description></item><item><title>Don’t hire top talent; hire for weaknesses</title><link>https://news.panz3r.dev/post/627f740f1010559774cb955799f62c66c0b71ea32c04de5761273eb1c9597b0b/</link><pubDate>Sat, 10 Apr 2021 19:41:38 +0000</pubDate><guid>https://news.panz3r.dev/post/627f740f1010559774cb955799f62c66c0b71ea32c04de5761273eb1c9597b0b/</guid><description>
 Article URL: https://benjiweber.co.uk/blog/2021/04/10/dont-hire-top-talent-hire-for-weaknesses/
 Comments URL: …</description></item><item><title>Larry Page's Comeback (2014)</title><link>https://news.panz3r.dev/post/0d2d80326be68dfec9bc12c00e10e0d7e756754063346279fa9d644f94f0e62a/</link><pubDate>Sat, 10 Apr 2021 19:20:22 +0000</pubDate><guid>https://news.panz3r.dev/post/0d2d80326be68dfec9bc12c00e10e0d7e756754063346279fa9d644f94f0e62a/</guid><description>
 Article URL: https://www.businessinsider.com/larry-page-the-untold-story-2014-4
 Comments URL: https://news.ycombinator.com/item?id=26764230 …</description></item><item><title>Downloading files from S3 with multithreading and Boto3</title><link>https://news.panz3r.dev/post/56123cf679f2ddf84178c2beda45956fd2b381ce8525f3e06f493ee200c00450/</link><pubDate>Sat, 10 Apr 2021 19:01:36 +0000</pubDate><guid>https://news.panz3r.dev/post/56123cf679f2ddf84178c2beda45956fd2b381ce8525f3e06f493ee200c00450/</guid><description>
 Article URL: https://emasquil.github.io/posts/multithreading-boto3/
 Comments URL: https://news.ycombinator.com/item?id=26764067
-Points: 101 …</description></item><item><title>“Buy and Hold” No More: The Resurgence of Active Trading</title><link>https://news.panz3r.dev/post/dc7d725712d2c54b69481f1a964fc0c29928557f68783335a6b229f0f8f51d4e/</link><pubDate>Sat, 10 Apr 2021 18:54:09 +0000</pubDate><guid>https://news.panz3r.dev/post/dc7d725712d2c54b69481f1a964fc0c29928557f68783335a6b229f0f8f51d4e/</guid><description>
+Points: 130 …</description></item><item><title>“Buy and Hold” No More: The Resurgence of Active Trading</title><link>https://news.panz3r.dev/post/dc7d725712d2c54b69481f1a964fc0c29928557f68783335a6b229f0f8f51d4e/</link><pubDate>Sat, 10 Apr 2021 18:54:09 +0000</pubDate><guid>https://news.panz3r.dev/post/dc7d725712d2c54b69481f1a964fc0c29928557f68783335a6b229f0f8f51d4e/</guid><description>
 Article URL: https://a16z.com/2021/03/29/active-trading/
 Comments URL: https://news.ycombinator.com/item?id=26763998
 Points: 73
@@ -79,7 +103,9 @@ Points: …</description></item><item><title>NASA space copter ready for first M
 Article URL: https://phys.org/news/2021-04-nasa-space-copter-ready-mars.html
 Comments URL: https://news.ycombinator.com/item?id=26760843 …</description></item><item><title>Setting up Starlink</title><link>https://news.panz3r.dev/post/2fa3b657ff39019d5960ae786de4fe654a4e6e6bd84feb6ddac85ded00680770/</link><pubDate>Sat, 10 Apr 2021 11:36:10 +0000</pubDate><guid>https://news.panz3r.dev/post/2fa3b657ff39019d5960ae786de4fe654a4e6e6bd84feb6ddac85ded00680770/</guid><description>
 Article URL: https://www.jeffgeerling.com/blog/2021/setting-starlink-spacexs-satellite-internet
-Comments URL: …</description></item><item><title>Et Tu, Procter and Gamble?</title><link>https://news.panz3r.dev/post/fe0b2779aefe7e21fe1438b01c584d9ee5f3ae8d38fea99a8cbe707d9993fcca/</link><pubDate>Sat, 10 Apr 2021 10:49:57 +0000</pubDate><guid>https://news.panz3r.dev/post/fe0b2779aefe7e21fe1438b01c584d9ee5f3ae8d38fea99a8cbe707d9993fcca/</guid><description>
+Comments URL: …</description></item><item><title>8-bit stack-machine emulated by 200 lines of C</title><link>https://news.panz3r.dev/post/b3eb2bb3265560e20eb48a840865ab34bbbeb9c6b362622b709b1662a50bc8ba/</link><pubDate>Sat, 10 Apr 2021 11:00:26 +0000</pubDate><guid>https://news.panz3r.dev/post/b3eb2bb3265560e20eb48a840865ab34bbbeb9c6b362622b709b1662a50bc8ba/</guid><description>
+Article URL: https://twitter.com/hundredrabbits/status/1378188349144395788
+Comments URL: https://news.ycombinator.com/item?id=26760573 …</description></item><item><title>Et Tu, Procter and Gamble?</title><link>https://news.panz3r.dev/post/fe0b2779aefe7e21fe1438b01c584d9ee5f3ae8d38fea99a8cbe707d9993fcca/</link><pubDate>Sat, 10 Apr 2021 10:49:57 +0000</pubDate><guid>https://news.panz3r.dev/post/fe0b2779aefe7e21fe1438b01c584d9ee5f3ae8d38fea99a8cbe707d9993fcca/</guid><description>
 Article URL: https://daringfireball.net/2021/04/et_tu_procter_gamble
 Comments URL: https://news.ycombinator.com/item?id=26760520
 Points: 123 …</description></item><item><title>The TeX tuneup of 2021 [pdf]</title><link>https://news.panz3r.dev/post/335d59fc1a1ede0a656b627878e015c9b80d9a1f55b96dc25db313e05ad4ef5e/</link><pubDate>Sat, 10 Apr 2021 08:45:24 +0000</pubDate><guid>https://news.panz3r.dev/post/335d59fc1a1ede0a656b627878e015c9b80d9a1f55b96dc25db313e05ad4ef5e/</guid><description>
@@ -93,7 +119,7 @@ Points: 50
 # …</description></item><item><title>Pihole-Antitelemetry</title><link>https://news.panz3r.dev/post/1a28af43de8b24a9ca657e92cb0a70f15bd5c7e002e3c9e24ead139b8d453df1/</link><pubDate>Sat, 10 Apr 2021 07:54:10 +0000</pubDate><guid>https://news.panz3r.dev/post/1a28af43de8b24a9ca657e92cb0a70f15bd5c7e002e3c9e24ead139b8d453df1/</guid><description>
 Article URL: https://github.com/MoralCode/pihole-antitelemetry
 Comments URL: https://news.ycombinator.com/item?id=26759781
-Points: 79
+Points: 104
 # …</description></item><item><title>Everyone is still terrible at creating software at scale</title><link>https://news.panz3r.dev/post/9cc28a8daa395eefadbbabea5974c7841012e2bf6f7d8c0b1f0edbde38126187/</link><pubDate>Sat, 10 Apr 2021 07:31:45 +0000</pubDate><guid>https://news.panz3r.dev/post/9cc28a8daa395eefadbbabea5974c7841012e2bf6f7d8c0b1f0edbde38126187/</guid><description>
 Article URL: https://margint.blog/2021/04/05/creating-software-at-scale/
 Comments URL: https://news.ycombinator.com/item?id=26759680
@@ -551,23 +577,4 @@ Article URL: https://ipython.readthedocs.io/en/stable/interactive/shell.html
 Comments URL: https://news.ycombinator.com/item?id=26711434 …</description></item><item><title>Surprisingly Slow</title><link>https://news.panz3r.dev/post/3ca8ba02ec17748d994bc04af09e981ec1760f6514dfae388ce1a889dee1439e/</link><pubDate>Tue, 06 Apr 2021 11:56:42 +0000</pubDate><guid>https://news.panz3r.dev/post/3ca8ba02ec17748d994bc04af09e981ec1760f6514dfae388ce1a889dee1439e/</guid><description>
 Article URL: https://gregoryszorc.com/blog/2021/04/06/surprisingly-slow/
 Comments URL: https://news.ycombinator.com/item?id=26710763
-Points: …</description></item><item><title>Django 3.2</title><link>https://news.panz3r.dev/post/14020c903a27b0035ab8caa52b0099ebea91ffc64689bfde2d7142eae0311580/</link><pubDate>Tue, 06 Apr 2021 09:58:42 +0000</pubDate><guid>https://news.panz3r.dev/post/14020c903a27b0035ab8caa52b0099ebea91ffc64689bfde2d7142eae0311580/</guid><description>
-Article URL: https://www.djangoproject.com/weblog/2021/apr/06/django-32-released/
-Comments URL: …</description></item><item><title>The Facebook phone numbers are now searchable in Have I Been Pwned</title><link>https://news.panz3r.dev/post/d8d4eb6bb2c75e16ef32d17748936606b5efa68e6c12e80fa43a8bcaf530a05b/</link><pubDate>Tue, 06 Apr 2021 09:29:34 +0000</pubDate><guid>https://news.panz3r.dev/post/d8d4eb6bb2c75e16ef32d17748936606b5efa68e6c12e80fa43a8bcaf530a05b/</guid><description>
-Article URL: https://www.troyhunt.com/the-facebook-phone-numbers-are-now-searchable-in-have-i-been-pwned/
-Comments URL: …</description></item><item><title>Kallithea – Self-hosted alternative to GitHub</title><link>https://news.panz3r.dev/post/a5ae283e3413cadbea2b152d0fe2fb2e66e5f117420b952f9e748fe3983ae1e3/</link><pubDate>Tue, 06 Apr 2021 08:13:21 +0000</pubDate><guid>https://news.panz3r.dev/post/a5ae283e3413cadbea2b152d0fe2fb2e66e5f117420b952f9e748fe3983ae1e3/</guid><description>
-Article URL: https://kallithea-scm.org/
-Comments URL: https://news.ycombinator.com/item?id=26709357
-Points: 179
-# Comments: 105</description></item><item><title>Breaking GitHub Private Pages for $35k</title><link>https://news.panz3r.dev/post/d759d3f202237a1a52b6695779a42147f0b6cb4b8caee56760e65532c281c211/</link><pubDate>Tue, 06 Apr 2021 07:40:51 +0000</pubDate><guid>https://news.panz3r.dev/post/d759d3f202237a1a52b6695779a42147f0b6cb4b8caee56760e65532c281c211/</guid><description>
-Article URL: https://robertchen.cc/blog/2021/04/03/github-pages-xss
-Comments URL: https://news.ycombinator.com/item?id=26709159
-Points: 808 …</description></item><item><title>Neuroscientists discover molecular mechanism that allows memories to form (2020)</title><link>https://news.panz3r.dev/post/a30e34411d68f8f301a3fdd5dbc6a735075e448df496cdc2689efa109b766673/</link><pubDate>Tue, 06 Apr 2021 07:26:28 +0000</pubDate><guid>https://news.panz3r.dev/post/a30e34411d68f8f301a3fdd5dbc6a735075e448df496cdc2689efa109b766673/</guid><description>
-Article URL: https://news.mit.edu/2020/engram-memories-form-1005
-Comments URL: https://news.ycombinator.com/item?id=26709053
-Points: 107
-# …</description></item><item><title>Things I Hate About PostgreSQL (2020)</title><link>https://news.panz3r.dev/post/d2b824a8d001f2232845737394a0efb1b38b85a48e721ff0bacdc78b9344ca43/</link><pubDate>Tue, 06 Apr 2021 07:20:09 +0000</pubDate><guid>https://news.panz3r.dev/post/d2b824a8d001f2232845737394a0efb1b38b85a48e721ff0bacdc78b9344ca43/</guid><description>
-Article URL: https://rbranson.medium.com/10-things-i-hate-about-postgresql-20dbab8c2791
-Comments URL: …</description></item><item><title>Booking.com fined €475k for reporting data breach too late</title><link>https://news.panz3r.dev/post/a4cde6347d2c3e5e65ae164d57f0de7a19dd3ec8d8014933ecbc710362b962e0/</link><pubDate>Tue, 06 Apr 2021 07:11:14 +0000</pubDate><guid>https://news.panz3r.dev/post/a4cde6347d2c3e5e65ae164d57f0de7a19dd3ec8d8014933ecbc710362b962e0/</guid><description>
-Article URL: https://therecord.media/booking-com-fined-e475000-for-reporting-data-breach-too-late/
-Comments URL: …</description></item></channel></rss>
+Points: …</description></item></channel></rss>

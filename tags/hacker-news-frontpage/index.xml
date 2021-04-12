@@ -1,25 +1,44 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hacker-News-Frontpage on Panz3r News</title><link>https://news.panz3r.dev/tags/hacker-news-frontpage/</link><description>Recent content in Hacker-News-Frontpage on news.panz3r.dev</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Panz3r 2020 | Vitae theme for Hugo</copyright><lastBuildDate>Sun, 11 Apr 2021 21:02:49 +0000</lastBuildDate><atom:link href="https://news.panz3r.dev/tags/hacker-news-frontpage/index.xml" rel="self" type="application/rss+xml"/><item><title>Japan decides to release water from Fukushima plant into sea</title><link>https://news.panz3r.dev/post/8933c9bd67fb0a12c1b989f8878f65d752af6959abe93d70256d1a2291126252/</link><pubDate>Sun, 11 Apr 2021 21:02:49 +0000</pubDate><guid>https://news.panz3r.dev/post/8933c9bd67fb0a12c1b989f8878f65d752af6959abe93d70256d1a2291126252/</guid><description>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hacker-News-Frontpage on Panz3r News</title><link>https://news.panz3r.dev/tags/hacker-news-frontpage/</link><description>Recent content in Hacker-News-Frontpage on news.panz3r.dev</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Panz3r 2020 | Vitae theme for Hugo</copyright><lastBuildDate>Sun, 11 Apr 2021 23:38:11 +0000</lastBuildDate><atom:link href="https://news.panz3r.dev/tags/hacker-news-frontpage/index.xml" rel="self" type="application/rss+xml"/><item><title>MLJ.jl: A Julia package for composable machine learning</title><link>https://news.panz3r.dev/post/c0e792129987325f86f8e30e421cb991b1e960fb59ecc45a323d03e7c9b4f454/</link><pubDate>Sun, 11 Apr 2021 23:38:11 +0000</pubDate><guid>https://news.panz3r.dev/post/c0e792129987325f86f8e30e421cb991b1e960fb59ecc45a323d03e7c9b4f454/</guid><description>
+Article URL: https://alan-turing-institute.github.io/MLJ.jl/dev/#Key-features
+Comments URL: https://news.ycombinator.com/item?id=26774590 …</description></item><item><title>Anxiety is in your body, not your mind</title><link>https://news.panz3r.dev/post/ca6a9a9b6a647fa6d330a68e00fe0e36eeaf73fdccc3c2031e24c87adebe016d/</link><pubDate>Sun, 11 Apr 2021 22:39:40 +0000</pubDate><guid>https://news.panz3r.dev/post/ca6a9a9b6a647fa6d330a68e00fe0e36eeaf73fdccc3c2031e24c87adebe016d/</guid><description>
+Article URL: https://elemental.medium.com/anxiety-is-in-your-body-not-your-mind-93031abd14eb
+Comments URL: …</description></item><item><title>std::unique_ptr implementation backed by Ethereum NFTs</title><link>https://news.panz3r.dev/post/9d832583a1bc72aef10cc97152cebfb8e801fbcc9e0c107b50c5ce14ee0a491c/</link><pubDate>Sun, 11 Apr 2021 21:32:04 +0000</pubDate><guid>https://news.panz3r.dev/post/9d832583a1bc72aef10cc97152cebfb8e801fbcc9e0c107b50c5ce14ee0a491c/</guid><description>
+Article URL: https://github.com/zhuowei/nft_ptr
+Comments URL: https://news.ycombinator.com/item?id=26773637
+Points: 223
+# Comments: 29</description></item><item><title>Japan decides to release water from Fukushima plant into sea</title><link>https://news.panz3r.dev/post/8933c9bd67fb0a12c1b989f8878f65d752af6959abe93d70256d1a2291126252/</link><pubDate>Sun, 11 Apr 2021 21:02:49 +0000</pubDate><guid>https://news.panz3r.dev/post/8933c9bd67fb0a12c1b989f8878f65d752af6959abe93d70256d1a2291126252/</guid><description>
 Article URL: https://asia.nikkei.com/Politics/Japan-decides-to-release-water-from-Fukushima-plant-into-sea
-Comments URL: …</description></item><item><title>Show HN: An encoding of the UK's self-isolation rules in Prolog</title><link>https://news.panz3r.dev/post/c07f3dbfa540a6e872d6f4c3fc827c5ef8ae8c903767f5646b922b37057a8bc2/</link><pubDate>Sun, 11 Apr 2021 20:31:14 +0000</pubDate><guid>https://news.panz3r.dev/post/c07f3dbfa540a6e872d6f4c3fc827c5ef8ae8c903767f5646b922b37057a8bc2/</guid><description>
+Comments URL: …</description></item><item><title>Linux, macOS, and Windows running simultaneously on a first gen Core i5</title><link>https://news.panz3r.dev/post/5e4ce820ab96e1ef17055dfc4493a14bd305f15ca221f59eef664d654a16d33c/</link><pubDate>Sun, 11 Apr 2021 20:51:58 +0000</pubDate><guid>https://news.panz3r.dev/post/5e4ce820ab96e1ef17055dfc4493a14bd305f15ca221f59eef664d654a16d33c/</guid><description>
+Article URL: https://lukesempire.com/2021/04/11/vms
+Comments URL: https://news.ycombinator.com/item?id=26773310
+Points: 129
+# Comments: 62</description></item><item><title>Show HN: An encoding of the UK's self-isolation rules in Prolog</title><link>https://news.panz3r.dev/post/c07f3dbfa540a6e872d6f4c3fc827c5ef8ae8c903767f5646b922b37057a8bc2/</link><pubDate>Sun, 11 Apr 2021 20:31:14 +0000</pubDate><guid>https://news.panz3r.dev/post/c07f3dbfa540a6e872d6f4c3fc827c5ef8ae8c903767f5646b922b37057a8bc2/</guid><description>
 Article URL: https://github.com/jamespwilliams/prolog-isolation-checker
 Comments URL: https://news.ycombinator.com/item?id=26773130
+Points: …</description></item><item><title>Problems with JPA/Hibernate</title><link>https://news.panz3r.dev/post/62ce2f0d7d785e3143067f7bdaa77dbb37f872a58b15af163cb11da79b034595/</link><pubDate>Sun, 11 Apr 2021 18:58:08 +0000</pubDate><guid>https://news.panz3r.dev/post/62ce2f0d7d785e3143067f7bdaa77dbb37f872a58b15af163cb11da79b034595/</guid><description>
+Article URL: https://www.stemlaur.com/blog/2021/03/30/tech-hibern-hate/
+Comments URL: https://news.ycombinator.com/item?id=26772550
 Points: …</description></item><item><title>MiSTer, an open-source FPGA gaming project</title><link>https://news.panz3r.dev/post/45a892e35d7008f8f033a2901fcef8dc5761ddd9c834ff4d88ab9748a7a91cd4/</link><pubDate>Sun, 11 Apr 2021 17:59:49 +0000</pubDate><guid>https://news.panz3r.dev/post/45a892e35d7008f8f033a2901fcef8dc5761ddd9c834ff4d88ab9748a7a91cd4/</guid><description>
 Article URL: https://github.com/MiSTer-devel/Main_MiSTer/wiki
 Comments URL: https://news.ycombinator.com/item?id=26772151
-Points: 193
+Points: 272
 # …</description></item><item><title>The Nuclear Lightbulb (2020)</title><link>https://news.panz3r.dev/post/d144a0e3237eb34880160f0a537ed89822c00e8e5c788da206f5c65b2d145426/</link><pubDate>Sun, 11 Apr 2021 17:28:40 +0000</pubDate><guid>https://news.panz3r.dev/post/d144a0e3237eb34880160f0a537ed89822c00e8e5c788da206f5c65b2d145426/</guid><description>
 Article URL: https://beyondnerva.com/2020/03/21/the-nuclear-lightbulb-a-brief-introduction/
 Comments URL: …</description></item><item><title>Demystifying programs that create programs, part 1: A disassembler</title><link>https://news.panz3r.dev/post/4e218e13650ec2047d377703422ad8086f381e5545b7e2160fe5a9d7c622c6c6/</link><pubDate>Sun, 11 Apr 2021 16:44:59 +0000</pubDate><guid>https://news.panz3r.dev/post/4e218e13650ec2047d377703422ad8086f381e5545b7e2160fe5a9d7c622c6c6/</guid><description>
 Article URL: https://briancallahan.net/blog/20210407.html
 Comments URL: https://news.ycombinator.com/item?id=26771655
-Points: 52
+Points: 79
 # Comments: …</description></item><item><title>Technologies I thought my son would never use</title><link>https://news.panz3r.dev/post/f591dfa66896915987005493e3f9b195754611b5b7afa83b7b34c62541d1ab49/</link><pubDate>Sun, 11 Apr 2021 16:41:55 +0000</pubDate><guid>https://news.panz3r.dev/post/f591dfa66896915987005493e3f9b195754611b5b7afa83b7b34c62541d1ab49/</guid><description>
 Article URL: https://www.tomshardware.com/opinion/15-technology-predictions-how-they-did
 Comments URL: …</description></item><item><title>Cree#, a morphemic programming language with Cree keywords and concepts</title><link>https://news.panz3r.dev/post/96dff9958f550e1c052c703c93199aea91860ac571c7c1f64c691e71353ba533/</link><pubDate>Sun, 11 Apr 2021 16:13:20 +0000</pubDate><guid>https://news.panz3r.dev/post/96dff9958f550e1c052c703c93199aea91860ac571c7c1f64c691e71353ba533/</guid><description>
 Article URL: https://esoteric.codes/blog/jon-corbett
 Comments URL: https://news.ycombinator.com/item?id=26771369
-Points: 52
-# Comments: 31</description></item><item><title>Cyber Attack on Iran's Nuclear Facility</title><link>https://news.panz3r.dev/post/c51d1e22459bf372b556863d94d358343adb2af278a04a5008049f4b5fd938d3/</link><pubDate>Sun, 11 Apr 2021 15:56:49 +0000</pubDate><guid>https://news.panz3r.dev/post/c51d1e22459bf372b556863d94d358343adb2af278a04a5008049f4b5fd938d3/</guid><description>
+Points: 80
+# Comments: 43</description></item><item><title>Gradle 7.0</title><link>https://news.panz3r.dev/post/cf7d959dee42b685f71fda595cce668c8d3c87a83c4efc6deeade37200f3086b/</link><pubDate>Sun, 11 Apr 2021 16:06:30 +0000</pubDate><guid>https://news.panz3r.dev/post/cf7d959dee42b685f71fda595cce668c8d3c87a83c4efc6deeade37200f3086b/</guid><description>
+Article URL: https://docs.gradle.org/7.0/release-notes.html
+Comments URL: https://news.ycombinator.com/item?id=26771300
+Points: 91
+# …</description></item><item><title>Cyber Attack on Iran's Nuclear Facility</title><link>https://news.panz3r.dev/post/c51d1e22459bf372b556863d94d358343adb2af278a04a5008049f4b5fd938d3/</link><pubDate>Sun, 11 Apr 2021 15:56:49 +0000</pubDate><guid>https://news.panz3r.dev/post/c51d1e22459bf372b556863d94d358343adb2af278a04a5008049f4b5fd938d3/</guid><description>
 Article URL: https://www.bbc.com/news/world-middle-east-56708778
 Comments URL: https://news.ycombinator.com/item?id=26771224
 Points: 218
@@ -28,7 +47,7 @@ Article URL: https://www.reuters.com/article/us-climate-change-france-flights-id
 Comments URL: …</description></item><item><title>The Ponzi Career</title><link>https://news.panz3r.dev/post/269145d83a4c852a0d7695c8bcaaa94eb4d74f7be0b997ce331316ccf97f818e/</link><pubDate>Sun, 11 Apr 2021 14:26:49 +0000</pubDate><guid>https://news.panz3r.dev/post/269145d83a4c852a0d7695c8bcaaa94eb4d74f7be0b997ce331316ccf97f818e/</guid><description>
 Article URL: https://www.drorpoleg.com/the-ponzi-career/
 Comments URL: https://news.ycombinator.com/item?id=26770562
-Points: 290
+Points: 397
 # Comments: …</description></item><item><title>Making Librem 5 Apps [video]</title><link>https://news.panz3r.dev/post/2a26fc7cb5476f6ad45e522469b45354fe6569cfd6ac6402450ddcacd4cf118a/</link><pubDate>Sun, 11 Apr 2021 14:11:10 +0000</pubDate><guid>https://news.panz3r.dev/post/2a26fc7cb5476f6ad45e522469b45354fe6569cfd6ac6402450ddcacd4cf118a/</guid><description>
 Article URL: https://puri.sm/posts/the-simplicity-of-making-librem-5-apps/
 Comments URL: https://news.ycombinator.com/item?id=26770486 …</description></item><item><title>Why do so many companies incorporate in Delaware?</title><link>https://news.panz3r.dev/post/2beb31d6d82edc6611bd3670fd59f6038c902a71f25ad3f35047c2fbc13facb0/</link><pubDate>Sun, 11 Apr 2021 14:04:43 +0000</pubDate><guid>https://news.panz3r.dev/post/2beb31d6d82edc6611bd3670fd59f6038c902a71f25ad3f35047c2fbc13facb0/</guid><description>
@@ -53,7 +72,11 @@ Comments URL: https://news.ycombinator.com/item?id=26769371
 Points: 174
 # Comments: …</description></item><item><title>M1 dev setup with a virtual Linux box</title><link>https://news.panz3r.dev/post/fdafc9ff10096f5eb7e4e313ec962499d4ab708dd1c5802e5784829ced65026b/</link><pubDate>Sun, 11 Apr 2021 08:50:39 +0000</pubDate><guid>https://news.panz3r.dev/post/fdafc9ff10096f5eb7e4e313ec962499d4ab708dd1c5802e5784829ced65026b/</guid><description>
 Article URL: https://kristiandupont.medium.com/m1-dev-setup-with-a-virtual-linux-box-1a2688231667
-Comments URL: …</description></item><item><title>AMA: Ivan Kutskir, creator of Photopea</title><link>https://news.panz3r.dev/post/745fb63a996b1d76746d7e2cb3438471a6807308c2a565bbcdbd8c8b004606f4/</link><pubDate>Sun, 11 Apr 2021 08:24:33 +0000</pubDate><guid>https://news.panz3r.dev/post/745fb63a996b1d76746d7e2cb3438471a6807308c2a565bbcdbd8c8b004606f4/</guid><description>
+Comments URL: …</description></item><item><title>First-Class I/O</title><link>https://news.panz3r.dev/post/8682c68753fc922f5845fc9cbea23fec575dd47fca6eacb01a1b8cfb7cc7e62e/</link><pubDate>Sun, 11 Apr 2021 08:37:35 +0000</pubDate><guid>https://news.panz3r.dev/post/8682c68753fc922f5845fc9cbea23fec575dd47fca6eacb01a1b8cfb7cc7e62e/</guid><description>
+Article URL: https://blog.sunfishcode.online/first-class-io/
+Comments URL: https://news.ycombinator.com/item?id=26768606
+Points: 71
+# …</description></item><item><title>AMA: Ivan Kutskir, creator of Photopea</title><link>https://news.panz3r.dev/post/745fb63a996b1d76746d7e2cb3438471a6807308c2a565bbcdbd8c8b004606f4/</link><pubDate>Sun, 11 Apr 2021 08:24:33 +0000</pubDate><guid>https://news.panz3r.dev/post/745fb63a996b1d76746d7e2cb3438471a6807308c2a565bbcdbd8c8b004606f4/</guid><description>
 Article URL: https://www.reddit.com/r/IAmA/comments/i8j5te/i_made_a_free_alternative_to_photoshop_that_is/g18ush0/
 Comments URL: …</description></item><item><title>Clubhouse data leak: 1.3M user records leaked online for free</title><link>https://news.panz3r.dev/post/b605fe73c18c3d32ec96283f41deac5124e5c69d0158bc81e98fa6344ef78175/</link><pubDate>Sun, 11 Apr 2021 07:35:24 +0000</pubDate><guid>https://news.panz3r.dev/post/b605fe73c18c3d32ec96283f41deac5124e5c69d0158bc81e98fa6344ef78175/</guid><description>
 Article URL: https://cybernews.com/security/clubhouse-data-leak-1-3-million-user-records-leaked-for-free-online/
@@ -583,28 +606,4 @@ Article URL: https://skruv.io/
 Comments URL: https://news.ycombinator.com/item?id=26722051
 Points: 101
 # Comments: 124</description></item><item><title>Ask HN: What tech job would let me get away with the least real work possible?</title><link>https://news.panz3r.dev/post/c40dae645d9b0d00e70fd67ed3b9c742b448433504c999a189d3bccec5c20a6d/</link><pubDate>Wed, 07 Apr 2021 08:41:03 +0000</pubDate><guid>https://news.panz3r.dev/post/c40dae645d9b0d00e70fd67ed3b9c742b448433504c999a189d3bccec5c20a6d/</guid><description>
-Hey HN,I'll probably get a lot of flak for this. Sorry.I'm an average developer looking for ways to work as little as humanely possible.The …</description></item><item><title>The antidote to civilisational collapse – An interview with Adam Curtis (2018)</title><link>https://news.panz3r.dev/post/ccc22147a0ac1c9289e19d606c195255dc157a0b936341443ca716cb08e9d4fd/</link><pubDate>Wed, 07 Apr 2021 06:02:57 +0000</pubDate><guid>https://news.panz3r.dev/post/ccc22147a0ac1c9289e19d606c195255dc157a0b936341443ca716cb08e9d4fd/</guid><description>
-Article URL: https://www.economist.com/open-future/2018/12/06/the-antidote-to-civilisational-collapse
-Comments URL: …</description></item><item><title>Lisp as an alternative to Java (2000)</title><link>https://news.panz3r.dev/post/ac1b0017b6a593f3911a0bebe21a3593fb4335a201ccfb63660b238f0e583119/</link><pubDate>Wed, 07 Apr 2021 03:49:17 +0000</pubDate><guid>https://news.panz3r.dev/post/ac1b0017b6a593f3911a0bebe21a3593fb4335a201ccfb63660b238f0e583119/</guid><description>
-Article URL: https://norvig.com/java-lisp.html
-Comments URL: https://news.ycombinator.com/item?id=26720403
-Points: 95
-# Comments: 30</description></item><item><title>Jeff Bezos comes out in support of increased corporate taxes</title><link>https://news.panz3r.dev/post/382ec8893ea8f2afedf7aabed0652d81bcb12244a97d304a04f14694b3f07c26/</link><pubDate>Wed, 07 Apr 2021 03:29:49 +0000</pubDate><guid>https://news.panz3r.dev/post/382ec8893ea8f2afedf7aabed0652d81bcb12244a97d304a04f14694b3f07c26/</guid><description>
-Article URL: https://www.cnn.com/2021/04/06/economy/amazon-jeff-bezos-corporate-tax-increase/index.html
-Comments URL: …</description></item><item><title>Update on Git.php.net Incident</title><link>https://news.panz3r.dev/post/a7184d81a0151ea8dd52529aa9d9c55ff19708f2f9e1ffd169cad1c85128064a/</link><pubDate>Wed, 07 Apr 2021 03:13:40 +0000</pubDate><guid>https://news.panz3r.dev/post/a7184d81a0151ea8dd52529aa9d9c55ff19708f2f9e1ffd169cad1c85128064a/</guid><description>
-Article URL: https://externals.io/message/113981
-Comments URL: https://news.ycombinator.com/item?id=26720201
-Points: 82
-# Comments: 41</description></item><item><title>7% of Americans don’t use the internet. Who are they?</title><link>https://news.panz3r.dev/post/6396d245010d9fb732dc01d34339dd864fcbf54cf7f5cfd2334a92e106e392f8/</link><pubDate>Wed, 07 Apr 2021 00:55:38 +0000</pubDate><guid>https://news.panz3r.dev/post/6396d245010d9fb732dc01d34339dd864fcbf54cf7f5cfd2334a92e106e392f8/</guid><description>
-Article URL: https://www.pewresearch.org/fact-tank/2021/04/02/7-of-americans-dont-use-the-internet-who-are-they/
-Comments URL: …</description></item><item><title>Show HN: DragonRuby Game Toolkit</title><link>https://news.panz3r.dev/post/21771480249e514ed6bac813b7b23744862333247d8a55229bbafbd9d5bbbb71/</link><pubDate>Wed, 07 Apr 2021 00:31:36 +0000</pubDate><guid>https://news.panz3r.dev/post/21771480249e514ed6bac813b7b23744862333247d8a55229bbafbd9d5bbbb71/</guid><description>
-Article URL: http://dragonruby.org/toolkit/game
-Comments URL: https://news.ycombinator.com/item?id=26719105
-Points: 172
-# Comments: 92</description></item><item><title>Exodus: Easily migrate your JVM code from Maven to Bazel</title><link>https://news.panz3r.dev/post/63970d8fdbad3955fda02072a1cebac6e999abadab946998515bc101090c1484/</link><pubDate>Tue, 06 Apr 2021 23:42:53 +0000</pubDate><guid>https://news.panz3r.dev/post/63970d8fdbad3955fda02072a1cebac6e999abadab946998515bc101090c1484/</guid><description>
-Article URL: https://github.com/wix/exodus
-Comments URL: https://news.ycombinator.com/item?id=26718760
-Points: 60
-# Comments: 57</description></item><item><title>Anatoli Bugorski: The Man Who Stuck His Head Inside a Particle Accelerator</title><link>https://news.panz3r.dev/post/d803cf087646843e8068f5267d117b03b5c2edf93309e39e5816af8742e1bc5e/</link><pubDate>Tue, 06 Apr 2021 23:21:33 +0000</pubDate><guid>https://news.panz3r.dev/post/d803cf087646843e8068f5267d117b03b5c2edf93309e39e5816af8742e1bc5e/</guid><description>
-Article URL: https://www.amusingplanet.com/2020/02/anatoli-bugorski-man-who-stuck-his-head.html
-Comments URL: …</description></item></channel></rss>
+Hey HN,I'll probably get a lot of flak for this. Sorry.I'm an average developer looking for ways to work as little as humanely possible.The …</description></item></channel></rss>

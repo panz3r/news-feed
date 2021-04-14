@@ -1,21 +1,46 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hacker-News-Frontpage on Panz3r News</title><link>https://news.panz3r.dev/tags/hacker-news-frontpage/</link><description>Recent content in Hacker-News-Frontpage on news.panz3r.dev</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Panz3r 2020 | Vitae theme for Hugo</copyright><lastBuildDate>Tue, 13 Apr 2021 20:45:21 +0000</lastBuildDate><atom:link href="https://news.panz3r.dev/tags/hacker-news-frontpage/index.xml" rel="self" type="application/rss+xml"/><item><title>Pass: The standard Unix password manager</title><link>https://news.panz3r.dev/post/f27638e3b353029d39ace522252f0270acfe38b22bb01e99ff7728553af63ee0/</link><pubDate>Tue, 13 Apr 2021 20:45:21 +0000</pubDate><guid>https://news.panz3r.dev/post/f27638e3b353029d39ace522252f0270acfe38b22bb01e99ff7728553af63ee0/</guid><description>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hacker-News-Frontpage on Panz3r News</title><link>https://news.panz3r.dev/tags/hacker-news-frontpage/</link><description>Recent content in Hacker-News-Frontpage on news.panz3r.dev</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Panz3r 2020 | Vitae theme for Hugo</copyright><lastBuildDate>Wed, 14 Apr 2021 04:15:32 +0000</lastBuildDate><atom:link href="https://news.panz3r.dev/tags/hacker-news-frontpage/index.xml" rel="self" type="application/rss+xml"/><item><title>Bitcoin Is a ‘Boon for Surveillance’, Says Former CIA Director</title><link>https://news.panz3r.dev/post/0415ae87916355719ba5236cc8ebe668df9c7fec6a0810dcfacff8532adf900c/</link><pubDate>Wed, 14 Apr 2021 04:15:32 +0000</pubDate><guid>https://news.panz3r.dev/post/0415ae87916355719ba5236cc8ebe668df9c7fec6a0810dcfacff8532adf900c/</guid><description>
+Article URL: https://decrypt.co/66411/cia-bitcoin-surveillance
+Comments URL: https://news.ycombinator.com/item?id=26802874
+Points: 86
+# …</description></item><item><title>Rust, not Firefox, is Mozilla's greatest industry contribution</title><link>https://news.panz3r.dev/post/db3020efe06eb754105fd100d215496176b6eb99f714c7279412e2d5d9ac12a3/</link><pubDate>Wed, 14 Apr 2021 03:30:38 +0000</pubDate><guid>https://news.panz3r.dev/post/db3020efe06eb754105fd100d215496176b6eb99f714c7279412e2d5d9ac12a3/</guid><description>
+Article URL: https://www.techrepublic.com/article/rust-not-firefox-is-mozillas-greatest-industry-contribution/
+Comments URL: …</description></item><item><title>FCC finally starts tackling America's robocall scourge</title><link>https://news.panz3r.dev/post/d4a7a1e870193697d64999a49ab95df497f774f9c0016e4950bcf98d7d6d338c/</link><pubDate>Wed, 14 Apr 2021 01:41:11 +0000</pubDate><guid>https://news.panz3r.dev/post/d4a7a1e870193697d64999a49ab95df497f774f9c0016e4950bcf98d7d6d338c/</guid><description>
+Article URL: https://www.theregister.com/2021/04/13/fcc_robocalls_action/
+Comments URL: https://news.ycombinator.com/item?id=26802011 …</description></item><item><title>Show HN: RentMyCPU – An open-source computational network</title><link>https://news.panz3r.dev/post/047c091d863a7b66ed904caabfc60426deae6a9f6909502e2bcf9391ba4067c2/</link><pubDate>Wed, 14 Apr 2021 00:17:43 +0000</pubDate><guid>https://news.panz3r.dev/post/047c091d863a7b66ed904caabfc60426deae6a9f6909502e2bcf9391ba4067c2/</guid><description>
+Article URL: https://github.com/franklbt/RentMyCPU
+Comments URL: https://news.ycombinator.com/item?id=26801418
+Points: 82
+# Comments: 34</description></item><item><title>Effort to disrupt exploitation of Microsoft Exchange Server vulnerabilities</title><link>https://news.panz3r.dev/post/c5f608b7d04abf643974165894894fe34008c263e3dfb0553db1f0e0accf9660/</link><pubDate>Tue, 13 Apr 2021 22:50:15 +0000</pubDate><guid>https://news.panz3r.dev/post/c5f608b7d04abf643974165894894fe34008c263e3dfb0553db1f0e0accf9660/</guid><description>
+Article URL: https://www.justice.gov/usao-sdtx/pr/justice-department-announces-court-authorized-effort-disrupt-exploitation-microsoft …</description></item><item><title>Exploring the Kubernetes API with Curl</title><link>https://news.panz3r.dev/post/09f553c1d4e3df52acf1d74f18cbc3cb60ec5eddb99416c590bc7d7d760da2e2/</link><pubDate>Tue, 13 Apr 2021 22:18:48 +0000</pubDate><guid>https://news.panz3r.dev/post/09f553c1d4e3df52acf1d74f18cbc3cb60ec5eddb99416c590bc7d7d760da2e2/</guid><description>
+Article URL: https://blog.tilt.dev/2021/03/18/kubernetes-is-so-simple.html
+Comments URL: https://news.ycombinator.com/item?id=26800094 …</description></item><item><title>The latest DSM update makes btrfs drives unavailable on budget Synology models</title><link>https://news.panz3r.dev/post/c30bc23aad7804624dd98abc45885ecfaac50c0a1de73a5a5e2c7c2d8013af57/</link><pubDate>Tue, 13 Apr 2021 22:15:52 +0000</pubDate><guid>https://news.panz3r.dev/post/c30bc23aad7804624dd98abc45885ecfaac50c0a1de73a5a5e2c7c2d8013af57/</guid><description>
+Article URL: https://community.synology.com/enu/forum/1/post/142519
+Comments URL: https://news.ycombinator.com/item?id=26800062
+Points: 99
+# …</description></item><item><title>The most important statistical ideas of the past 50 years</title><link>https://news.panz3r.dev/post/5d8d0b47e01af52854ae66f7d394e42ba07ca68a8de949b4c195748181843ad8/</link><pubDate>Tue, 13 Apr 2021 21:40:31 +0000</pubDate><guid>https://news.panz3r.dev/post/5d8d0b47e01af52854ae66f7d394e42ba07ca68a8de949b4c195748181843ad8/</guid><description>
+Article URL: https://fermatslibrary.com/s/what-are-the-most-important-statistical-ideas-of-the-past-50-years
+Comments URL: …</description></item><item><title>Pass: The standard Unix password manager</title><link>https://news.panz3r.dev/post/f27638e3b353029d39ace522252f0270acfe38b22bb01e99ff7728553af63ee0/</link><pubDate>Tue, 13 Apr 2021 20:45:21 +0000</pubDate><guid>https://news.panz3r.dev/post/f27638e3b353029d39ace522252f0270acfe38b22bb01e99ff7728553af63ee0/</guid><description>
 Article URL: https://www.passwordstore.org/
 Comments URL: https://news.ycombinator.com/item?id=26799021
-Points: 85
-# Comments: 67</description></item><item><title>WhatsApp's new privacy policy is so bad it might be illegal</title><link>https://news.panz3r.dev/post/4b8f09e1ef1c13294974286349230aa20e5beb128def0b4b3b26870bedbb2497/</link><pubDate>Tue, 13 Apr 2021 20:42:40 +0000</pubDate><guid>https://news.panz3r.dev/post/4b8f09e1ef1c13294974286349230aa20e5beb128def0b4b3b26870bedbb2497/</guid><description>
+Points: 223
+# Comments: 143</description></item><item><title>WhatsApp's new privacy policy is so bad it might be illegal</title><link>https://news.panz3r.dev/post/4b8f09e1ef1c13294974286349230aa20e5beb128def0b4b3b26870bedbb2497/</link><pubDate>Tue, 13 Apr 2021 20:42:40 +0000</pubDate><guid>https://news.panz3r.dev/post/4b8f09e1ef1c13294974286349230aa20e5beb128def0b4b3b26870bedbb2497/</guid><description>
 Article URL: https://www.androidpolice.com/2021/04/13/whatsapps-new-privacy-policy-is-so-bad-it-might-be-illegal/
 Comments URL: …</description></item><item><title>Deep dive in CORS: History, how it works, and best practices</title><link>https://news.panz3r.dev/post/72f872dca2121b97a723afc94510f168e1a966d34dcf418a8de42047be92071d/</link><pubDate>Tue, 13 Apr 2021 20:05:59 +0000</pubDate><guid>https://news.panz3r.dev/post/72f872dca2121b97a723afc94510f168e1a966d34dcf418a8de42047be92071d/</guid><description>
 Article URL: https://ieftimov.com/post/deep-dive-cors-history-how-it-works-best-practices/
-Comments URL: …</description></item><item><title>System76 Developing “Cosmic” Desktop Environment</title><link>https://news.panz3r.dev/post/a46c5cbf12d5f7053826225fa97f28e18f99d4397b71a860bad3f707d6708381/</link><pubDate>Tue, 13 Apr 2021 19:46:26 +0000</pubDate><guid>https://news.panz3r.dev/post/a46c5cbf12d5f7053826225fa97f28e18f99d4397b71a860bad3f707d6708381/</guid><description>
+Comments URL: …</description></item><item><title>Estate agent's hi-tech house tour exposes personal data</title><link>https://news.panz3r.dev/post/aa8fc8099fbec2d4f7dc352976577439030dfe1361dbc434d9f50e0590872857/</link><pubDate>Tue, 13 Apr 2021 20:03:16 +0000</pubDate><guid>https://news.panz3r.dev/post/aa8fc8099fbec2d4f7dc352976577439030dfe1361dbc434d9f50e0590872857/</guid><description>
+Article URL: https://www.bbc.com/news/technology-56718046
+Comments URL: https://news.ycombinator.com/item?id=26798367
+Points: 74
+# Comments: …</description></item><item><title>System76 Developing “Cosmic” Desktop Environment</title><link>https://news.panz3r.dev/post/a46c5cbf12d5f7053826225fa97f28e18f99d4397b71a860bad3f707d6708381/</link><pubDate>Tue, 13 Apr 2021 19:46:26 +0000</pubDate><guid>https://news.panz3r.dev/post/a46c5cbf12d5f7053826225fa97f28e18f99d4397b71a860bad3f707d6708381/</guid><description>
 Article URL: https://blog.system76.com/post/648371526931038208/cosmic-to-arrive-in-june-release-of-popos-2104
 Comments URL: …</description></item><item><title>Deno 1.9</title><link>https://news.panz3r.dev/post/455a8112e064ad2691e30d098c13c444b46fcc0fcbd3dc68643a510c7daad229/</link><pubDate>Tue, 13 Apr 2021 19:14:21 +0000</pubDate><guid>https://news.panz3r.dev/post/455a8112e064ad2691e30d098c13c444b46fcc0fcbd3dc68643a510c7daad229/</guid><description>
 Article URL: https://deno.com/blog/v1.9
 Comments URL: https://news.ycombinator.com/item?id=26797557
-Points: 294
-# Comments: 92</description></item><item><title>FreeBSD 13.0</title><link>https://news.panz3r.dev/post/6726df329ed1421d3d9d38ce751e2ba0f7621e4a855677feca96f14a5775da5d/</link><pubDate>Tue, 13 Apr 2021 18:54:39 +0000</pubDate><guid>https://news.panz3r.dev/post/6726df329ed1421d3d9d38ce751e2ba0f7621e4a855677feca96f14a5775da5d/</guid><description>
+Points: 491
+# Comments: 161</description></item><item><title>FreeBSD 13.0</title><link>https://news.panz3r.dev/post/6726df329ed1421d3d9d38ce751e2ba0f7621e4a855677feca96f14a5775da5d/</link><pubDate>Tue, 13 Apr 2021 18:54:39 +0000</pubDate><guid>https://news.panz3r.dev/post/6726df329ed1421d3d9d38ce751e2ba0f7621e4a855677feca96f14a5775da5d/</guid><description>
 Article URL: https://www.freebsd.org/releases/13.0R/relnotes/
 Comments URL: https://news.ycombinator.com/item?id=26797257
-Points: 147
+Points: 247
 # …</description></item><item><title>Update on beta testing payments in Signal</title><link>https://news.panz3r.dev/post/a02bc4bc325f4fb4352bb03c349f62559ccd1ee26f7f03d463a6c15bcbf9f457/</link><pubDate>Tue, 13 Apr 2021 18:49:42 +0000</pubDate><guid>https://news.panz3r.dev/post/a02bc4bc325f4fb4352bb03c349f62559ccd1ee26f7f03d463a6c15bcbf9f457/</guid><description>
 Article URL: https://signal.org/blog/update-on-beta-testing-payments/
 Comments URL: https://news.ycombinator.com/item?id=26797169
@@ -565,32 +590,4 @@ Points: 220
 Article URL: https://jacobian.org/2021/apr/7/embrace-the-grind/
 Comments URL: https://news.ycombinator.com/item?id=26747305
 Points: 854
-# …</description></item><item><title>Hacking a $200 Under Desk Exercise Bike</title><link>https://news.panz3r.dev/post/c3e1c30974ada8d69d89a85f10ff93f0d9fb690403b01f05c65281b14596f388/</link><pubDate>Fri, 09 Apr 2021 05:56:26 +0000</pubDate><guid>https://news.panz3r.dev/post/c3e1c30974ada8d69d89a85f10ff93f0d9fb690403b01f05c65281b14596f388/</guid><description>
-Article URL: https://codaris.github.io/UnderDeskBike/
-Comments URL: https://news.ycombinator.com/item?id=26747136
-Points: 207
-# Comments: …</description></item><item><title>VNC client running on a coffee machine</title><link>https://news.panz3r.dev/post/c482705d818db9bb68a5db8b4408ced7e3bdbb21f5401b959445e7deb592be1f/</link><pubDate>Fri, 09 Apr 2021 05:54:20 +0000</pubDate><guid>https://news.panz3r.dev/post/c482705d818db9bb68a5db8b4408ced7e3bdbb21f5401b959445e7deb592be1f/</guid><description>
-Article URL: https://raymii.org/s/blog/MS_Teams_on_a_Coffee_Machine_or_Framebuffer_VNC_Client.html
-Comments URL: …</description></item><item><title>Initial M1 support merged into Linux SoC tree</title><link>https://news.panz3r.dev/post/670700e4ac50560e7188354e67c638faa5bb47220e533e63f9fbfe009007a418/</link><pubDate>Fri, 09 Apr 2021 05:20:32 +0000</pubDate><guid>https://news.panz3r.dev/post/670700e4ac50560e7188354e67c638faa5bb47220e533e63f9fbfe009007a418/</guid><description>
-Article URL: https://git.kernel.org/pub/scm/linux/kernel/git/soc/soc.git/commit/?h=for-next&id=0d5fe4b31785b732b71e764b55cda5c8d6e3bbbf …</description></item><item><title>Hawking Hawking</title><link>https://news.panz3r.dev/post/66e3c7f9bb67a3378d522f97190117e6fdc44d617c2ee90a7f1bba0de2680e6d/</link><pubDate>Fri, 09 Apr 2021 04:23:25 +0000</pubDate><guid>https://news.panz3r.dev/post/66e3c7f9bb67a3378d522f97190117e6fdc44d617c2ee90a7f1bba0de2680e6d/</guid><description>
-Article URL: https://www.math.columbia.edu/~woit/wordpress/?p=12235
-Comments URL: https://news.ycombinator.com/item?id=26746687
-Points: 101 …</description></item><item><title>Tree.h in OpenBSD: dependency-free intrusive binary tree (2002)</title><link>https://news.panz3r.dev/post/4db6437bb0de710ec08377e42eb97d70980dd5c73bbb8624344c3f564bce0e8c/</link><pubDate>Fri, 09 Apr 2021 04:21:17 +0000</pubDate><guid>https://news.panz3r.dev/post/4db6437bb0de710ec08377e42eb97d70980dd5c73bbb8624344c3f564bce0e8c/</guid><description>
-Article URL: https://github.com/openbsd/src/blob/c1d6f13173b788e34852a303bda0c5a53861979e/sys/sys/tree.h
-Comments URL: …</description></item><item><title>FFmpeg 4.4</title><link>https://news.panz3r.dev/post/1874bb643f51bb2ec4c70766290cbf270880c2f34ee9de33341dd55ff267b75f/</link><pubDate>Fri, 09 Apr 2021 03:59:01 +0000</pubDate><guid>https://news.panz3r.dev/post/1874bb643f51bb2ec4c70766290cbf270880c2f34ee9de33341dd55ff267b75f/</guid><description>
-Article URL: http://ffmpeg.org/index.html#pr4.4
-Comments URL: https://news.ycombinator.com/item?id=26746537
-Points: 316
-# Comments: 112</description></item><item><title>Docker without Docker</title><link>https://news.panz3r.dev/post/ec8bf39bee1c13dd63c38de1a0a7c70a5cc0c33988f0dc2d3a203cba60a50b85/</link><pubDate>Fri, 09 Apr 2021 03:06:39 +0000</pubDate><guid>https://news.panz3r.dev/post/ec8bf39bee1c13dd63c38de1a0a7c70a5cc0c33988f0dc2d3a203cba60a50b85/</guid><description>
-Article URL: https://fly.io/blog/docker-without-docker/
-Comments URL: https://news.ycombinator.com/item?id=26746280
-Points: 572
-# Comments: …</description></item><item><title>How a carnivorous mushroom poisons its prey</title><link>https://news.panz3r.dev/post/a12dac3af26357cb7eaf7d4141e0a91584d48bd679d6c4d2787cb9dfd7939728/</link><pubDate>Fri, 09 Apr 2021 01:43:35 +0000</pubDate><guid>https://news.panz3r.dev/post/a12dac3af26357cb7eaf7d4141e0a91584d48bd679d6c4d2787cb9dfd7939728/</guid><description>
-Article URL: https://www.scientificamerican.com/article/how-a-carnivorous-mushroom-poisons-its-prey/
-Comments URL: …</description></item><item><title>CPU-based algorithm trains deep neural nets up to 15 times faster than top GPU</title><link>https://news.panz3r.dev/post/f6984caf5fc2034401f11c81194f321bf29c5ee31159c46bb50c53817d63c651/</link><pubDate>Fri, 09 Apr 2021 00:09:26 +0000</pubDate><guid>https://news.panz3r.dev/post/f6984caf5fc2034401f11c81194f321bf29c5ee31159c46bb50c53817d63c651/</guid><description>
-Article URL: https://techxplore.com/news/2021-04-rice-intel-optimize-ai-commodity.html
-Comments URL: …</description></item><item><title>Monkey MindPong</title><link>https://news.panz3r.dev/post/daa9d0d75a598d0edc01599c793b3541c22cf242277d2a14fd15dfa246e53578/</link><pubDate>Thu, 08 Apr 2021 23:55:29 +0000</pubDate><guid>https://news.panz3r.dev/post/daa9d0d75a598d0edc01599c793b3541c22cf242277d2a14fd15dfa246e53578/</guid><description>
-Article URL: https://neuralink.com/blog/
-Comments URL: https://news.ycombinator.com/item?id=26745227
-Points: 404
-# Comments: 157</description></item></channel></rss>
+# …</description></item></channel></rss>

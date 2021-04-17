@@ -1,30 +1,47 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hacker-News-Frontpage on Panz3r News</title><link>https://news.panz3r.dev/tags/hacker-news-frontpage/</link><description>Recent content in Hacker-News-Frontpage on news.panz3r.dev</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Panz3r 2020 | Vitae theme for Hugo</copyright><lastBuildDate>Sat, 17 Apr 2021 04:20:40 +0000</lastBuildDate><atom:link href="https://news.panz3r.dev/tags/hacker-news-frontpage/index.xml" rel="self" type="application/rss+xml"/><item><title>Librem 14 Begins Shipping</title><link>https://news.panz3r.dev/post/e5206dec2b01f45d6f19d5fb4eae5bd838334426e37e30e1ee1133b33c5b8dbd/</link><pubDate>Sat, 17 Apr 2021 04:20:40 +0000</pubDate><guid>https://news.panz3r.dev/post/e5206dec2b01f45d6f19d5fb4eae5bd838334426e37e30e1ee1133b33c5b8dbd/</guid><description>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hacker-News-Frontpage on Panz3r News</title><link>https://news.panz3r.dev/tags/hacker-news-frontpage/</link><description>Recent content in Hacker-News-Frontpage on news.panz3r.dev</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Panz3r 2020 | Vitae theme for Hugo</copyright><lastBuildDate>Sat, 17 Apr 2021 07:41:03 +0000</lastBuildDate><atom:link href="https://news.panz3r.dev/tags/hacker-news-frontpage/index.xml" rel="self" type="application/rss+xml"/><item><title>A Ship Got Stuck: What happens when 70M people visit your joke site?</title><link>https://news.panz3r.dev/post/20cd70a149d8cc7d9a52a161fde9152658aae46d42ef418300a32ea8f96bc544/</link><pubDate>Sat, 17 Apr 2021 07:41:03 +0000</pubDate><guid>https://news.panz3r.dev/post/20cd70a149d8cc7d9a52a161fde9152658aae46d42ef418300a32ea8f96bc544/</guid><description>
+Article URL: https://warzel.substack.com/p/a-ship-got-stuck-so-he-built-a-website
+Comments URL: …</description></item><item><title>I'd like to review your README</title><link>https://news.panz3r.dev/post/ee7fd438a4bffe07f6b83db3d4b1654421add5ac3d1e49f79e29873f37c9cc2f/</link><pubDate>Sat, 17 Apr 2021 06:59:33 +0000</pubDate><guid>https://news.panz3r.dev/post/ee7fd438a4bffe07f6b83db3d4b1654421add5ac3d1e49f79e29873f37c9cc2f/</guid><description>
+Article URL: https://liw.fi/readme-review/
+Comments URL: https://news.ycombinator.com/item?id=26842191
+Points: 127
+# Comments: 30</description></item><item><title>Self-Supervised Video Object Segmentation by Motion Grouping</title><link>https://news.panz3r.dev/post/91cc72014a4b55041ba3a2966feb93f43afddbafcdf4ae44d92150bced1498a2/</link><pubDate>Sat, 17 Apr 2021 06:21:21 +0000</pubDate><guid>https://news.panz3r.dev/post/91cc72014a4b55041ba3a2966feb93f43afddbafcdf4ae44d92150bced1498a2/</guid><description>
+Article URL: https://charigyang.github.io/motiongroup/
+Comments URL: https://news.ycombinator.com/item?id=26842018
+Points: 108
+# Comments: …</description></item><item><title>Librem 14 begins shipping</title><link>https://news.panz3r.dev/post/e5206dec2b01f45d6f19d5fb4eae5bd838334426e37e30e1ee1133b33c5b8dbd/</link><pubDate>Sat, 17 Apr 2021 04:20:40 +0000</pubDate><guid>https://news.panz3r.dev/post/e5206dec2b01f45d6f19d5fb4eae5bd838334426e37e30e1ee1133b33c5b8dbd/</guid><description>
 Article URL: https://puri.sm/posts/librem-14-begins-shipping/
 Comments URL: https://news.ycombinator.com/item?id=26841552
-Points: 75
-# …</description></item><item><title>EasyDNS is now accepting Dogecoin for payments</title><link>https://news.panz3r.dev/post/7c58817f088dafa897c36c81be7210bcf6ea4147d7156ad77b3528bbad2804cd/</link><pubDate>Sat, 17 Apr 2021 00:59:11 +0000</pubDate><guid>https://news.panz3r.dev/post/7c58817f088dafa897c36c81be7210bcf6ea4147d7156ad77b3528bbad2804cd/</guid><description>
+Points: 155
+# …</description></item><item><title>Zorin OS 16</title><link>https://news.panz3r.dev/post/187e85e344df8043578d178b0d84d4005a484c4a1c03027438f7439e15368555/</link><pubDate>Sat, 17 Apr 2021 02:33:37 +0000</pubDate><guid>https://news.panz3r.dev/post/187e85e344df8043578d178b0d84d4005a484c4a1c03027438f7439e15368555/</guid><description>
+Article URL: https://blog.zorin.com/2021/04/15/introducing-zorin-os-16-test-the-beta-today/
+Comments URL: …</description></item><item><title>Corrupt Signal DB issue crashing App and losing data</title><link>https://news.panz3r.dev/post/d221809c50a3c29a8e156bdbfbe0bfadd0588dd20f48a0532f14d2a7a71816cf/</link><pubDate>Sat, 17 Apr 2021 02:24:54 +0000</pubDate><guid>https://news.panz3r.dev/post/d221809c50a3c29a8e156bdbfbe0bfadd0588dd20f48a0532f14d2a7a71816cf/</guid><description>
+Article URL: https://github.com/signalapp/Signal-Android/issues/11160
+Comments URL: https://news.ycombinator.com/item?id=26841134
+Points: 78 …</description></item><item><title>EasyDNS is now accepting Dogecoin for payments</title><link>https://news.panz3r.dev/post/7c58817f088dafa897c36c81be7210bcf6ea4147d7156ad77b3528bbad2804cd/</link><pubDate>Sat, 17 Apr 2021 00:59:11 +0000</pubDate><guid>https://news.panz3r.dev/post/7c58817f088dafa897c36c81be7210bcf6ea4147d7156ad77b3528bbad2804cd/</guid><description>
 Article URL: https://easydns.com/blog/2021/04/16/easydns-now-accepting-doge-payments/
-Comments URL: …</description></item><item><title>Foundations of Complexity Economics</title><link>https://news.panz3r.dev/post/12d556b32290e19838c67e1ff4b1482c8957fb9613045097d1f7864c539698fc/</link><pubDate>Fri, 16 Apr 2021 22:32:04 +0000</pubDate><guid>https://news.panz3r.dev/post/12d556b32290e19838c67e1ff4b1482c8957fb9613045097d1f7864c539698fc/</guid><description>
+Comments URL: …</description></item><item><title>Nassim Taleb: Bitcoin failed as a currency and became a speculative ponzi scheme</title><link>https://news.panz3r.dev/post/5eb3b7401f484252ca87c79807a75069c4fbeb0160de7e3d5a718bee54da2558/</link><pubDate>Fri, 16 Apr 2021 23:05:46 +0000</pubDate><guid>https://news.panz3r.dev/post/5eb3b7401f484252ca87c79807a75069c4fbeb0160de7e3d5a718bee54da2558/</guid><description>
+Article URL: https://digesttime.com/2021/04/16/nassim-taleb-bitcoin-failed-as-a-currency-and-became-a-speculative-ponzi-scheme/
+Comments …</description></item><item><title>Foundations of Complexity Economics</title><link>https://news.panz3r.dev/post/12d556b32290e19838c67e1ff4b1482c8957fb9613045097d1f7864c539698fc/</link><pubDate>Fri, 16 Apr 2021 22:32:04 +0000</pubDate><guid>https://news.panz3r.dev/post/12d556b32290e19838c67e1ff4b1482c8957fb9613045097d1f7864c539698fc/</guid><description>
 Article URL: https://www.nature.com/articles/s42254-020-00273-3
 Comments URL: https://news.ycombinator.com/item?id=26839781
-Points: 66
+Points: 80
 # …</description></item><item><title>Content-aware image resizing in JavaScript</title><link>https://news.panz3r.dev/post/31a51fdbb62d2a70646a534d77be2e1d6984e909aaf3b48a34261f4fcb0ae25a/</link><pubDate>Fri, 16 Apr 2021 22:20:12 +0000</pubDate><guid>https://news.panz3r.dev/post/31a51fdbb62d2a70646a534d77be2e1d6984e909aaf3b48a34261f4fcb0ae25a/</guid><description>
 Article URL: https://trekhleb.dev/blog/2021/content-aware-image-resizing-in-javascript/
 Comments URL: …</description></item><item><title>Facebook prevents sharing New York Post story on BLM co-founder's real estate</title><link>https://news.panz3r.dev/post/830e1303d03937fe41391c17b8fa607b8acfcc132c1f2cfd6d08c39fab85ba49/</link><pubDate>Fri, 16 Apr 2021 21:38:06 +0000</pubDate><guid>https://news.panz3r.dev/post/830e1303d03937fe41391c17b8fa607b8acfcc132c1f2cfd6d08c39fab85ba49/</guid><description>
 Article URL: https://www.newsweek.com/facebook-prevents-sharing-new-york-post-story-black-lives-matter-founder-patrisse-cullors-real-1584050 …</description></item><item><title>Standard Notes is a safe place for your notes, thoughts, and life's work</title><link>https://news.panz3r.dev/post/5597e9eca4a1cf34b2b1cd499cc219f5b4b3b0986b7218a38d1ae5a4e5410661/</link><pubDate>Fri, 16 Apr 2021 20:56:49 +0000</pubDate><guid>https://news.panz3r.dev/post/5597e9eca4a1cf34b2b1cd499cc219f5b4b3b0986b7218a38d1ae5a4e5410661/</guid><description>
 Article URL: https://standardnotes.org
 Comments URL: https://news.ycombinator.com/item?id=26838992
-Points: 147
-# Comments: 125</description></item><item><title>QUIC and HTTP/3 Support Now in Firefox Nightly and Beta</title><link>https://news.panz3r.dev/post/0e9140d3b721ce03abd36cfc183d1a8381ba1feae3d379a1d73209678aad8b85/</link><pubDate>Fri, 16 Apr 2021 20:21:52 +0000</pubDate><guid>https://news.panz3r.dev/post/0e9140d3b721ce03abd36cfc183d1a8381ba1feae3d379a1d73209678aad8b85/</guid><description>
+Points: 219
+# Comments: 170</description></item><item><title>QUIC and HTTP/3 Support Now in Firefox Nightly and Beta</title><link>https://news.panz3r.dev/post/0e9140d3b721ce03abd36cfc183d1a8381ba1feae3d379a1d73209678aad8b85/</link><pubDate>Fri, 16 Apr 2021 20:21:52 +0000</pubDate><guid>https://news.panz3r.dev/post/0e9140d3b721ce03abd36cfc183d1a8381ba1feae3d379a1d73209678aad8b85/</guid><description>
 Article URL: https://hacks.mozilla.org/2021/04/quic-and-http-3-support-now-in-firefox-nightly-and-beta/
 Comments URL: …</description></item><item><title>What I Wish I Knew About U2F and Other Hardware MFA Protocols</title><link>https://news.panz3r.dev/post/26e6f03dca3180a1327c2181cda30d100cf7452d0c8748e230c697b57340f123/</link><pubDate>Fri, 16 Apr 2021 19:48:33 +0000</pubDate><guid>https://news.panz3r.dev/post/26e6f03dca3180a1327c2181cda30d100cf7452d0c8748e230c697b57340f123/</guid><description>
 Article URL: https://goteleport.com/blog/u2f-lessons-learned/
 Comments URL: https://news.ycombinator.com/item?id=26838333
-Points: 83
+Points: 102
 # …</description></item><item><title>Inflammation, but Not Telomere Length, Predicts Ageing at Extreme Old Age</title><link>https://news.panz3r.dev/post/93cf82c10e5470271e62b2e2e1e7c26e4d2772daaf31c8928dcc218763a74972/</link><pubDate>Fri, 16 Apr 2021 19:14:36 +0000</pubDate><guid>https://news.panz3r.dev/post/93cf82c10e5470271e62b2e2e1e7c26e4d2772daaf31c8928dcc218763a74972/</guid><description>
 Article URL: https://pubmed.ncbi.nlm.nih.gov/26629551/
 Comments URL: https://news.ycombinator.com/item?id=26837926
-Points: 165
+Points: 242
 # Comments: …</description></item><item><title>One-Click Anonymous Login</title><link>https://news.panz3r.dev/post/fb25061127800fe38a5e100292f0fae80b4efad04aaff292140e18de8b349fff/</link><pubDate>Fri, 16 Apr 2021 18:59:05 +0000</pubDate><guid>https://news.panz3r.dev/post/fb25061127800fe38a5e100292f0fae80b4efad04aaff292140e18de8b349fff/</guid><description>
 Article URL: https://human-id.org/
 Comments URL: https://news.ycombinator.com/item?id=26837735
@@ -119,7 +136,9 @@ Comments URL: https://news.ycombinator.com/item?id=26826331
 Points: 55
 # …</description></item><item><title>Element Matrix Services Launches Bridging for Microsoft Teams</title><link>https://news.panz3r.dev/post/54d5fe000f7a44311f641b75f269d4cd46f22988666fad06ff5592cc5a86bc91/</link><pubDate>Thu, 15 Apr 2021 21:21:53 +0000</pubDate><guid>https://news.panz3r.dev/post/54d5fe000f7a44311f641b75f269d4cd46f22988666fad06ff5592cc5a86bc91/</guid><description>
 Article URL: https://element.io/blog/ems-launches-bridging-for-microsoft-teams/
-Comments URL: https://news.ycombinator.com/item?id=26826266 …</description></item><item><title>PEP 563, PEP 649 and the future of pydantic and FastAPI</title><link>https://news.panz3r.dev/post/50b585c5694460f43291065b2411ac3741a6a75c6811ac0b91dc424a9ee0447d/</link><pubDate>Thu, 15 Apr 2021 21:10:46 +0000</pubDate><guid>https://news.panz3r.dev/post/50b585c5694460f43291065b2411ac3741a6a75c6811ac0b91dc424a9ee0447d/</guid><description>
+Comments URL: https://news.ycombinator.com/item?id=26826266 …</description></item><item><title>The Duties of John von Neumann’s Assistant in the 1930s (2020)</title><link>https://news.panz3r.dev/post/1787109a66dd07340df6d6909b9b90f70c87d24888e950883a58e42f24e9ef57/</link><pubDate>Thu, 15 Apr 2021 21:21:22 +0000</pubDate><guid>https://news.panz3r.dev/post/1787109a66dd07340df6d6909b9b90f70c87d24888e950883a58e42f24e9ef57/</guid><description>
+Article URL: https://www.cantorsparadise.com/the-duties-of-john-von-neumanns-assistant-in-the-1930s-8d08e538fe2b
+Comments URL: …</description></item><item><title>PEP 563, PEP 649 and the future of pydantic and FastAPI</title><link>https://news.panz3r.dev/post/50b585c5694460f43291065b2411ac3741a6a75c6811ac0b91dc424a9ee0447d/</link><pubDate>Thu, 15 Apr 2021 21:10:46 +0000</pubDate><guid>https://news.panz3r.dev/post/50b585c5694460f43291065b2411ac3741a6a75c6811ac0b91dc424a9ee0447d/</guid><description>
 Article URL: https://github.com/samuelcolvin/pydantic/issues/2678
 Comments URL: https://news.ycombinator.com/item?id=26826158
 Points: 251
@@ -211,7 +230,9 @@ Article URL: https://calendso.com
 Comments URL: https://news.ycombinator.com/item?id=26817795
 Points: 107
 # Comments: 29</description></item><item><title>France cuts two nuclear-powered submarines in half to make one new one</title><link>https://news.panz3r.dev/post/f1c2c915fb6447f52ded456f964e5508375c5fb293ae4d6852cf9b52ae69290b/</link><pubDate>Thu, 15 Apr 2021 07:40:27 +0000</pubDate><guid>https://news.panz3r.dev/post/f1c2c915fb6447f52ded456f964e5508375c5fb293ae4d6852cf9b52ae69290b/</guid><description>
-Article URL: https://abc17news.com/news/national-world/2021/04/14/france-cuts-two-nuclear-powered-submarines-in-half-to-make-one-new-one/ …</description></item><item><title>Don't Use Google Chrome</title><link>https://news.panz3r.dev/post/0c6c3011724c94a83f505658cceb8728faf47835c850a78a6938203f668eecbe/</link><pubDate>Thu, 15 Apr 2021 07:08:27 +0000</pubDate><guid>https://news.panz3r.dev/post/0c6c3011724c94a83f505658cceb8728faf47835c850a78a6938203f668eecbe/</guid><description>
+Article URL: https://abc17news.com/news/national-world/2021/04/14/france-cuts-two-nuclear-powered-submarines-in-half-to-make-one-new-one/ …</description></item><item><title>Successful BBQ pork butt and brisket is science (2018)</title><link>https://news.panz3r.dev/post/8b06d1e95d8e36d2564969d86ac3810a4bd3226919beae0ae0f6d9444dd902db/</link><pubDate>Thu, 15 Apr 2021 07:22:04 +0000</pubDate><guid>https://news.panz3r.dev/post/8b06d1e95d8e36d2564969d86ac3810a4bd3226919beae0ae0f6d9444dd902db/</guid><description>
+Article URL: https://arstechnica.com/science/2018/09/let-science-be-your-guide-for-the-perfect-labor-day-bbq/
+Comments URL: …</description></item><item><title>Don't Use Google Chrome</title><link>https://news.panz3r.dev/post/0c6c3011724c94a83f505658cceb8728faf47835c850a78a6938203f668eecbe/</link><pubDate>Thu, 15 Apr 2021 07:08:27 +0000</pubDate><guid>https://news.panz3r.dev/post/0c6c3011724c94a83f505658cceb8728faf47835c850a78a6938203f668eecbe/</guid><description>
 Article URL: https://spreadprivacy.com/block-floc-with-duckduckgo/
 Comments URL: https://news.ycombinator.com/item?id=26817034
 Points: 221
@@ -560,30 +581,4 @@ Points: 147
 # Comments: 20</description></item><item><title>Yuri Gagarin: Sixty years since the first man went into space [video]</title><link>https://news.panz3r.dev/post/4be012a2139b55e701eb22435bc8c8d8293f864854ffb4778b6c85a3a16db4a3/</link><pubDate>Mon, 12 Apr 2021 11:09:29 +0000</pubDate><guid>https://news.panz3r.dev/post/4be012a2139b55e701eb22435bc8c8d8293f864854ffb4778b6c85a3a16db4a3/</guid><description>
 Article URL: https://www.bbc.co.uk/news/av/science-environment-56690949
 Comments URL: https://news.ycombinator.com/item?id=26778073
-Points: …</description></item><item><title>The Beauty of Bresenham's Algorithm (2016)</title><link>https://news.panz3r.dev/post/b60f0e5bd1d50034102794690e5c41d505a5aee97b215d8c0f7cc2985fb92986/</link><pubDate>Mon, 12 Apr 2021 10:17:15 +0000</pubDate><guid>https://news.panz3r.dev/post/b60f0e5bd1d50034102794690e5c41d505a5aee97b215d8c0f7cc2985fb92986/</guid><description>
-Article URL: http://members.chello.at/easyfilter/bresenham.html
-Comments URL: https://news.ycombinator.com/item?id=26777800
-Points: 69
-# …</description></item><item><title>Mugo, a toy compiler for a subset of Go that can compile itself</title><link>https://news.panz3r.dev/post/5d7e1dd734edc2703b6e0f5550978ffe9c60dfbbf9578853ddb06c27dcd2b6a1/</link><pubDate>Mon, 12 Apr 2021 10:01:48 +0000</pubDate><guid>https://news.panz3r.dev/post/5d7e1dd734edc2703b6e0f5550978ffe9c60dfbbf9578853ddb06c27dcd2b6a1/</guid><description>
-Article URL: https://benhoyt.com/writings/mugo/
-Comments URL: https://news.ycombinator.com/item?id=26777705
-Points: 155
-# Comments: 43</description></item><item><title>Facebook loophole that lets world leaders deceive and harass their citizens</title><link>https://news.panz3r.dev/post/b70806b1ef41b326d27b5609f71f3d22bf6b4b29c6317aba056c6c7037559e27/</link><pubDate>Mon, 12 Apr 2021 09:16:30 +0000</pubDate><guid>https://news.panz3r.dev/post/b70806b1ef41b326d27b5609f71f3d22bf6b4b29c6317aba056c6c7037559e27/</guid><description>
-Article URL: https://www.theguardian.com/technology/2021/apr/12/facebook-loophole-state-backed-manipulation
-Comments URL: …</description></item><item><title>Using the switch(true) pattern in JavaScript</title><link>https://news.panz3r.dev/post/c4f7e28dce6e3d70fce6d7cfcd03376cb1e2c1155801c9094df84e0fc4f50773/</link><pubDate>Mon, 12 Apr 2021 08:22:48 +0000</pubDate><guid>https://news.panz3r.dev/post/c4f7e28dce6e3d70fce6d7cfcd03376cb1e2c1155801c9094df84e0fc4f50773/</guid><description>
-Article URL: https://seanbarry.dev/posts/switch-true-pattern
-Comments URL: https://news.ycombinator.com/item?id=26777090
-Points: 97
-# …</description></item><item><title>What was the point of [ “x$var” = “xval” ]?</title><link>https://news.panz3r.dev/post/1c50be86498ce9731abb92aef2d50f6eba44e25573307429e3ac16b5fb356138/</link><pubDate>Mon, 12 Apr 2021 07:57:18 +0000</pubDate><guid>https://news.panz3r.dev/post/1c50be86498ce9731abb92aef2d50f6eba44e25573307429e3ac16b5fb356138/</guid><description>
-Article URL: https://www.vidarholen.net/contents/blog/?p=1035
-Comments URL: https://news.ycombinator.com/item?id=26776956
-Points: 381
-# …</description></item><item><title>Illegal Prime Numbers</title><link>https://news.panz3r.dev/post/396d8f3ad045378be80d5669e08846faa00df416188916af420536f21cdba7c5/</link><pubDate>Mon, 12 Apr 2021 07:56:41 +0000</pubDate><guid>https://news.panz3r.dev/post/396d8f3ad045378be80d5669e08846faa00df416188916af420536f21cdba7c5/</guid><description>
-Article URL: https://en.wikipedia.org/wiki/Illegal_prime
-Comments URL: https://news.ycombinator.com/item?id=26776949
-Points: 57
-# Comments: …</description></item><item><title>Traversing nested data-structures in various languages</title><link>https://news.panz3r.dev/post/350c30b93f1e9a76671bfd935a1a60d927fa58dbef2bc5721a78a5fafdf20ac7/</link><pubDate>Mon, 12 Apr 2021 07:21:25 +0000</pubDate><guid>https://news.panz3r.dev/post/350c30b93f1e9a76671bfd935a1a60d927fa58dbef2bc5721a78a5fafdf20ac7/</guid><description>
-Article URL: https://github.com/josevalim/nested-data-structure-traversal
-Comments URL: https://news.ycombinator.com/item?id=26776786 …</description></item><item><title>Tesla hikes solar roof price on contracts signed over a year ago</title><link>https://news.panz3r.dev/post/ca8cbeaaa39ad46d6c368497287bb1b2241630e82fd5e328aa0b342d849eaac0/</link><pubDate>Mon, 12 Apr 2021 06:24:05 +0000</pubDate><guid>https://news.panz3r.dev/post/ca8cbeaaa39ad46d6c368497287bb1b2241630e82fd5e328aa0b342d849eaac0/</guid><description>
-Article URL: https://electrek.co/2021/04/11/tesla-hikes-solar-roof-price-on-contracts-signed-over-a-year-ago/
-Comments URL: …</description></item></channel></rss>
+Points: …</description></item></channel></rss>

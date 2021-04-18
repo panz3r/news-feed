@@ -1,19 +1,46 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hacker-News-Frontpage on Panz3r News</title><link>https://news.panz3r.dev/tags/hacker-news-frontpage/</link><description>Recent content in Hacker-News-Frontpage on news.panz3r.dev</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Panz3r 2020 | Vitae theme for Hugo</copyright><lastBuildDate>Sun, 18 Apr 2021 16:39:09 +0000</lastBuildDate><atom:link href="https://news.panz3r.dev/tags/hacker-news-frontpage/index.xml" rel="self" type="application/rss+xml"/><item><title>Turkey Bans Cryptocurrency Payments</title><link>https://news.panz3r.dev/post/c911f0f390290f82b4a86c3e258db07cc1c94fd428623585b60e58dd2311fbd6/</link><pubDate>Sun, 18 Apr 2021 16:39:09 +0000</pubDate><guid>https://news.panz3r.dev/post/c911f0f390290f82b4a86c3e258db07cc1c94fd428623585b60e58dd2311fbd6/</guid><description>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hacker-News-Frontpage on Panz3r News</title><link>https://news.panz3r.dev/tags/hacker-news-frontpage/</link><description>Recent content in Hacker-News-Frontpage on news.panz3r.dev</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Panz3r 2020 | Vitae theme for Hugo</copyright><lastBuildDate>Sun, 18 Apr 2021 20:33:11 +0000</lastBuildDate><atom:link href="https://news.panz3r.dev/tags/hacker-news-frontpage/index.xml" rel="self" type="application/rss+xml"/><item><title>Huawei could have wiretapped KPN</title><link>https://news.panz3r.dev/post/bb0f2541fbe9f5be0dec0240d2c69c34ce91db81c376bf528a4cb619e0cce829/</link><pubDate>Sun, 18 Apr 2021 20:33:11 +0000</pubDate><guid>https://news.panz3r.dev/post/bb0f2541fbe9f5be0dec0240d2c69c34ce91db81c376bf528a4cb619e0cce829/</guid><description>
+Article URL: https://nltimes.nl/2021/04/17/huawei-able-eavesdrop-dutch-mobile-network-kpn-report
+Comments URL: …</description></item><item><title>Paternoster Lift</title><link>https://news.panz3r.dev/post/80f0b43522ee01ebb52e31826d9fba8aee05de0a33c58f83df085143f4f6f508/</link><pubDate>Sun, 18 Apr 2021 19:35:40 +0000</pubDate><guid>https://news.panz3r.dev/post/80f0b43522ee01ebb52e31826d9fba8aee05de0a33c58f83df085143f4f6f508/</guid><description>
+Article URL: https://en.wikipedia.org/wiki/Paternoster_lift
+Comments URL: https://news.ycombinator.com/item?id=26855597
+Points: 94
+# …</description></item><item><title>Ask HN: Does anyone else find the AWS Lambda developer experience frustrating?</title><link>https://news.panz3r.dev/post/f3346270ee4b70ac61f0320d93bdb6009fe256b3182f8d38d432ed6a8135335c/</link><pubDate>Sun, 18 Apr 2021 18:35:28 +0000</pubDate><guid>https://news.panz3r.dev/post/f3346270ee4b70ac61f0320d93bdb6009fe256b3182f8d38d432ed6a8135335c/</guid><description>
+Hey HN,I've been using AWS lambda a bit recently, mostly as a way to glue together various bits and pieces.Maybe I'm doing this wrong but …</description></item><item><title>Mac Plus made of legos at 1:1 scale</title><link>https://news.panz3r.dev/post/2e518974f8e4e25ae25b74b4ced9174beada9dd60e0731a94ff266199abc2e2e/</link><pubDate>Sun, 18 Apr 2021 18:14:41 +0000</pubDate><guid>https://news.panz3r.dev/post/2e518974f8e4e25ae25b74b4ced9174beada9dd60e0731a94ff266199abc2e2e/</guid><description>
+Article URL: https://ideas.lego.com/projects/cf737f87-5e46-4433-aa4e-76891a1d2b99
+Comments URL: …</description></item><item><title>Public-ownership rental as a third option to renting or owning a house</title><link>https://news.panz3r.dev/post/23eb54cabf233acf7e914c1140ca0ef9bd84a0a7fb24d03bd6b79f07b0d51e6c/</link><pubDate>Sun, 18 Apr 2021 18:08:34 +0000</pubDate><guid>https://news.panz3r.dev/post/23eb54cabf233acf7e914c1140ca0ef9bd84a0a7fb24d03bd6b79f07b0d51e6c/</guid><description>
+Article URL: https://www.theatlantic.com/ideas/archive/2021/03/why-its-better-to-rent-than-to-own/618254
+Comments URL: …</description></item><item><title>Questions to ask in a job interview that reveal company culture</title><link>https://news.panz3r.dev/post/a5d3223f5a893af52183ff18c0f1253ad0d79801c5a1e69553d127bd9d5af3c6/</link><pubDate>Sun, 18 Apr 2021 16:57:12 +0000</pubDate><guid>https://news.panz3r.dev/post/a5d3223f5a893af52183ff18c0f1253ad0d79801c5a1e69553d127bd9d5af3c6/</guid><description>
+Article URL: https://www.fastcompany.com/90622890/10-questions-to-ask-in-a-job-interview-that-will-really-expose-a-companys-culture
+Comments …</description></item><item><title>Proposal: Treat FLoC as a security concern</title><link>https://news.panz3r.dev/post/bb05fc87cf7308987bff92a0b8455c11f2b8ac44554e63bf48e257e5a6a39e05/</link><pubDate>Sun, 18 Apr 2021 16:51:46 +0000</pubDate><guid>https://news.panz3r.dev/post/bb05fc87cf7308987bff92a0b8455c11f2b8ac44554e63bf48e257e5a6a39e05/</guid><description>
+Article URL: https://make.wordpress.org/core/2021/04/18/proposal-treat-floc-as-a-security-concern/
+Comments URL: …</description></item><item><title>Turkey Bans Cryptocurrency Payments</title><link>https://news.panz3r.dev/post/c911f0f390290f82b4a86c3e258db07cc1c94fd428623585b60e58dd2311fbd6/</link><pubDate>Sun, 18 Apr 2021 16:39:09 +0000</pubDate><guid>https://news.panz3r.dev/post/c911f0f390290f82b4a86c3e258db07cc1c94fd428623585b60e58dd2311fbd6/</guid><description>
 Article URL: https://www.bloomberg.com/news/articles/2021-04-16/turkey-bans-cryptocurrency-payments-saying-risks-are-too-great
-Comments URL: …</description></item><item><title>Livebook: A collaborative and interactive code notebook for Elixir</title><link>https://news.panz3r.dev/post/c8b1d091f98db84fde846b8bb5a3a8156c558e48c5ca24a2ad951ee0331c3949/</link><pubDate>Sun, 18 Apr 2021 15:27:12 +0000</pubDate><guid>https://news.panz3r.dev/post/c8b1d091f98db84fde846b8bb5a3a8156c558e48c5ca24a2ad951ee0331c3949/</guid><description>
+Comments URL: …</description></item><item><title>Show HN: Aidmin – Web-based database GUI</title><link>https://news.panz3r.dev/post/40806eb4d1b2410129a92a33c9e977932507aa95d793880780a57efd319c2e67/</link><pubDate>Sun, 18 Apr 2021 15:32:46 +0000</pubDate><guid>https://news.panz3r.dev/post/40806eb4d1b2410129a92a33c9e977932507aa95d793880780a57efd319c2e67/</guid><description>
+Article URL: https://aidmin.io
+Comments URL: https://news.ycombinator.com/item?id=26853339
+Points: 76
+# Comments: 24</description></item><item><title>Livebook: A collaborative and interactive code notebook for Elixir</title><link>https://news.panz3r.dev/post/c8b1d091f98db84fde846b8bb5a3a8156c558e48c5ca24a2ad951ee0331c3949/</link><pubDate>Sun, 18 Apr 2021 15:27:12 +0000</pubDate><guid>https://news.panz3r.dev/post/c8b1d091f98db84fde846b8bb5a3a8156c558e48c5ca24a2ad951ee0331c3949/</guid><description>
 Article URL: https://dashbit.co/blog/announcing-livebook?new=1
 Comments URL: https://news.ycombinator.com/item?id=26853285
-Points: 180
+Points: 419
 # …</description></item><item><title>Sex Workers Explain Why the Safe Tech Act Will Break the Internet</title><link>https://news.panz3r.dev/post/be40bae36115a25f00d9683a3e1ee26abe95b16c77c995c698097d5251b78eab/</link><pubDate>Sun, 18 Apr 2021 14:49:14 +0000</pubDate><guid>https://news.panz3r.dev/post/be40bae36115a25f00d9683a3e1ee26abe95b16c77c995c698097d5251b78eab/</guid><description>
 Article URL: https://www.vice.com/en/article/qj8d9q/sex-workers-explain-why-the-safe-tech-act-will-break-the-internet
 Comments URL: …</description></item><item><title>Drug Discovered to Regenerate Lost Teeth</title><link>https://news.panz3r.dev/post/800b7ce3f84baf2d5c82eb11f92e573887402f9f383d2c79cfcb0b6404484799/</link><pubDate>Sun, 18 Apr 2021 14:22:11 +0000</pubDate><guid>https://news.panz3r.dev/post/800b7ce3f84baf2d5c82eb11f92e573887402f9f383d2c79cfcb0b6404484799/</guid><description>
 Article URL: https://scitechdaily.com/need-a-new-tooth-drug-discovered-to-regenerate-lost-teeth/
-Comments URL: …</description></item><item><title>China’s Dystopian “New IP” Plan for a New Internet</title><link>https://news.panz3r.dev/post/3e4cbe554e6b41f8eb7ed815456f22ccc47288543c614ea8c9236ab44c4477fb/</link><pubDate>Sun, 18 Apr 2021 13:08:05 +0000</pubDate><guid>https://news.panz3r.dev/post/3e4cbe554e6b41f8eb7ed815456f22ccc47288543c614ea8c9236ab44c4477fb/</guid><description>
+Comments URL: …</description></item><item><title>Two people killed in fiery Tesla crash with no one driving</title><link>https://news.panz3r.dev/post/b76b8cb65a560cbb04d9bb3397fd172f00c44644c0b9745f55fdafeab58431ba/</link><pubDate>Sun, 18 Apr 2021 13:43:59 +0000</pubDate><guid>https://news.panz3r.dev/post/b76b8cb65a560cbb04d9bb3397fd172f00c44644c0b9745f55fdafeab58431ba/</guid><description>
+Article URL: https://www.click2houston.com/news/local/2021/04/18/2-men-dead-after-fiery-tesla-crash-in-spring-officials-say/
+Comments URL: …</description></item><item><title>Show HN: Farolero – Common Lisp style-conditions and restarts for Clojure</title><link>https://news.panz3r.dev/post/fcc0d889d4db41c4a07fce48830b7844a2dda5ed9472800e248c5677c7c96ba1/</link><pubDate>Sun, 18 Apr 2021 13:34:30 +0000</pubDate><guid>https://news.panz3r.dev/post/fcc0d889d4db41c4a07fce48830b7844a2dda5ed9472800e248c5677c7c96ba1/</guid><description>
+Article URL: https://github.com/IGJoshua/farolero
+Comments URL: https://news.ycombinator.com/item?id=26852309
+Points: 107
+# Comments: 26</description></item><item><title>China’s Dystopian “New IP” Plan for a New Internet</title><link>https://news.panz3r.dev/post/3e4cbe554e6b41f8eb7ed815456f22ccc47288543c614ea8c9236ab44c4477fb/</link><pubDate>Sun, 18 Apr 2021 13:08:05 +0000</pubDate><guid>https://news.panz3r.dev/post/3e4cbe554e6b41f8eb7ed815456f22ccc47288543c614ea8c9236ab44c4477fb/</guid><description>
 Article URL: https://www.justsecurity.org/75741/chinas-dystopian-new-ip-plan-shows-need-for-renewed-us-commitment-to-internet-governance/ …</description></item><item><title>How Developers Choose Names</title><link>https://news.panz3r.dev/post/2cfe6b507e78124cd1cfcbbec426f9a35589ea8874408ac289622e8d7b46887c/</link><pubDate>Sun, 18 Apr 2021 12:46:06 +0000</pubDate><guid>https://news.panz3r.dev/post/2cfe6b507e78124cd1cfcbbec426f9a35589ea8874408ac289622e8d7b46887c/</guid><description>
 Article URL: https://arxiv.org/abs/2103.07487
 Comments URL: https://news.ycombinator.com/item?id=26851930
 Points: 111
-# Comments: 87</description></item><item><title>Product-Led Is Just as Bad as Sales-Driven</title><link>https://news.panz3r.dev/post/5e69d19d1fc811e3f7e282c0e8b36816ce94afd5593be4e5d41ba92f32732a52/</link><pubDate>Sun, 18 Apr 2021 10:58:51 +0000</pubDate><guid>https://news.panz3r.dev/post/5e69d19d1fc811e3f7e282c0e8b36816ce94afd5593be4e5d41ba92f32732a52/</guid><description>
+# Comments: 87</description></item><item><title>Internal Consistency in Streaming Systems</title><link>https://news.panz3r.dev/post/037e7db8bd3eadbe4cfa219a3abbaa1b6b3d4c564b697fc71d014091aaedd4d7/</link><pubDate>Sun, 18 Apr 2021 12:20:00 +0000</pubDate><guid>https://news.panz3r.dev/post/037e7db8bd3eadbe4cfa219a3abbaa1b6b3d4c564b697fc71d014091aaedd4d7/</guid><description>
+Article URL: https://scattered-thoughts.net/writing/internal-consistency-in-streaming-systems/
+Comments URL: …</description></item><item><title>Product-Led Is Just as Bad as Sales-Driven</title><link>https://news.panz3r.dev/post/5e69d19d1fc811e3f7e282c0e8b36816ce94afd5593be4e5d41ba92f32732a52/</link><pubDate>Sun, 18 Apr 2021 10:58:51 +0000</pubDate><guid>https://news.panz3r.dev/post/5e69d19d1fc811e3f7e282c0e8b36816ce94afd5593be4e5d41ba92f32732a52/</guid><description>
 Article URL: https://itamargilad.com/product-led/
 Comments URL: https://news.ycombinator.com/item?id=26851433
 Points: 144
@@ -53,8 +80,8 @@ Comments URL: https://news.ycombinator.com/item?id=26847780
 Points: …</description></item><item><title>Internet Search Tips</title><link>https://news.panz3r.dev/post/0879483eadd9113bd588fe6c14af0ab76f7a0f0f97cab7f9f6a51010c88d70e7/</link><pubDate>Sat, 17 Apr 2021 21:28:26 +0000</pubDate><guid>https://news.panz3r.dev/post/0879483eadd9113bd588fe6c14af0ab76f7a0f0f97cab7f9f6a51010c88d70e7/</guid><description>
 Article URL: https://www.gwern.net/Search
 Comments URL: https://news.ycombinator.com/item?id=26847596
-Points: 74
-# Comments: 5</description></item><item><title>Buy it for life: Durable, Quality, Practical</title><link>https://news.panz3r.dev/post/d321b6fe238ff8c8d3ca13009cb852b84c77336779585d02bf5f2e97222b1ca7/</link><pubDate>Sat, 17 Apr 2021 20:37:56 +0000</pubDate><guid>https://news.panz3r.dev/post/d321b6fe238ff8c8d3ca13009cb852b84c77336779585d02bf5f2e97222b1ca7/</guid><description>
+Points: 210
+# Comments: 42</description></item><item><title>Buy it for life: Durable, Quality, Practical</title><link>https://news.panz3r.dev/post/d321b6fe238ff8c8d3ca13009cb852b84c77336779585d02bf5f2e97222b1ca7/</link><pubDate>Sat, 17 Apr 2021 20:37:56 +0000</pubDate><guid>https://news.panz3r.dev/post/d321b6fe238ff8c8d3ca13009cb852b84c77336779585d02bf5f2e97222b1ca7/</guid><description>
 Article URL: https://www.buyforlife.com/
 Comments URL: https://news.ycombinator.com/item?id=26847251
 Points: 54
@@ -118,7 +145,11 @@ Article URL: https://berthub.eu/articles/posts/5g-elephant-in-the-room/
 Comments URL: https://news.ycombinator.com/item?id=26843068
 Points: …</description></item><item><title>The Story of the SolarWinds Hack</title><link>https://news.panz3r.dev/post/6b0b651c5c1ae392635ed51a20301a9c5992245f9e5c781e8ee60d8cd1d2dba3/</link><pubDate>Sat, 17 Apr 2021 09:42:30 +0000</pubDate><guid>https://news.panz3r.dev/post/6b0b651c5c1ae392635ed51a20301a9c5992245f9e5c781e8ee60d8cd1d2dba3/</guid><description>
 Article URL: https://www.npr.org/2021/04/16/985439655/a-worst-nightmare-cyberattack-the-untold-story-of-the-solarwinds-hack
-Comments URL: …</description></item><item><title>Pangolin UI, a Desktop Shell, Written in Flutter, for Linux and Zircona</title><link>https://news.panz3r.dev/post/fd76f9024e92aaff89119a9d0343b60b1322a045eaad8d203f4803cfc4263ed9/</link><pubDate>Sat, 17 Apr 2021 09:26:27 +0000</pubDate><guid>https://news.panz3r.dev/post/fd76f9024e92aaff89119a9d0343b60b1322a045eaad8d203f4803cfc4263ed9/</guid><description>
+Comments URL: …</description></item><item><title>A Universal I/O Abstraction for C++ (2020)</title><link>https://news.panz3r.dev/post/8144de71b2244401833427949eb6e3944fff710cf7f9024f3f798b9227fae01b/</link><pubDate>Sat, 17 Apr 2021 09:34:10 +0000</pubDate><guid>https://news.panz3r.dev/post/8144de71b2244401833427949eb6e3944fff710cf7f9024f3f798b9227fae01b/</guid><description>
+Article URL: https://cor3ntin.github.io/posts/iouring/
+Comments URL: https://news.ycombinator.com/item?id=26842900
+Points: 67
+# Comments: 19 …</description></item><item><title>Pangolin UI, a Desktop Shell, Written in Flutter, for Linux and Zircona</title><link>https://news.panz3r.dev/post/fd76f9024e92aaff89119a9d0343b60b1322a045eaad8d203f4803cfc4263ed9/</link><pubDate>Sat, 17 Apr 2021 09:26:27 +0000</pubDate><guid>https://news.panz3r.dev/post/fd76f9024e92aaff89119a9d0343b60b1322a045eaad8d203f4803cfc4263ed9/</guid><description>
 Article URL: https://web.dahliaos.io/
 Comments URL: https://news.ycombinator.com/item?id=26842859
 Points: 123
@@ -136,7 +167,11 @@ Comments URL: …</description></item><item><title>I'd like to review your READM
 Article URL: https://liw.fi/readme-review/
 Comments URL: https://news.ycombinator.com/item?id=26842191
 Points: 253
-# Comments: 71</description></item><item><title>Self-Supervised Video Object Segmentation by Motion Grouping</title><link>https://news.panz3r.dev/post/91cc72014a4b55041ba3a2966feb93f43afddbafcdf4ae44d92150bced1498a2/</link><pubDate>Sat, 17 Apr 2021 06:21:21 +0000</pubDate><guid>https://news.panz3r.dev/post/91cc72014a4b55041ba3a2966feb93f43afddbafcdf4ae44d92150bced1498a2/</guid><description>
+# Comments: 71</description></item><item><title>B. Traven</title><link>https://news.panz3r.dev/post/51aa2a852b7c08878849a45bdffdb05e223d985e7172fde29361999d24cc2d7d/</link><pubDate>Sat, 17 Apr 2021 06:36:11 +0000</pubDate><guid>https://news.panz3r.dev/post/51aa2a852b7c08878849a45bdffdb05e223d985e7172fde29361999d24cc2d7d/</guid><description>
+Article URL: https://en.wikipedia.org/wiki/B._Traven
+Comments URL: https://news.ycombinator.com/item?id=26842081
+Points: 58
+# Comments: 12</description></item><item><title>Self-Supervised Video Object Segmentation by Motion Grouping</title><link>https://news.panz3r.dev/post/91cc72014a4b55041ba3a2966feb93f43afddbafcdf4ae44d92150bced1498a2/</link><pubDate>Sat, 17 Apr 2021 06:21:21 +0000</pubDate><guid>https://news.panz3r.dev/post/91cc72014a4b55041ba3a2966feb93f43afddbafcdf4ae44d92150bced1498a2/</guid><description>
 Article URL: https://charigyang.github.io/motiongroup/
 Comments URL: https://news.ycombinator.com/item?id=26842018
 Points: 154
@@ -535,44 +570,4 @@ Points: 108
 Article URL: https://andymatuschak.org/files/papers/Nelson1965.pdf
 Comments URL: https://news.ycombinator.com/item?id=26800703
 Points: 55
-# …</description></item><item><title>Effort to disrupt exploitation of Microsoft Exchange Server vulnerabilities</title><link>https://news.panz3r.dev/post/c5f608b7d04abf643974165894894fe34008c263e3dfb0553db1f0e0accf9660/</link><pubDate>Tue, 13 Apr 2021 22:50:15 +0000</pubDate><guid>https://news.panz3r.dev/post/c5f608b7d04abf643974165894894fe34008c263e3dfb0553db1f0e0accf9660/</guid><description>
-Article URL: https://www.justice.gov/usao-sdtx/pr/justice-department-announces-court-authorized-effort-disrupt-exploitation-microsoft …</description></item><item><title>Exploring the Kubernetes API with Curl</title><link>https://news.panz3r.dev/post/09f553c1d4e3df52acf1d74f18cbc3cb60ec5eddb99416c590bc7d7d760da2e2/</link><pubDate>Tue, 13 Apr 2021 22:18:48 +0000</pubDate><guid>https://news.panz3r.dev/post/09f553c1d4e3df52acf1d74f18cbc3cb60ec5eddb99416c590bc7d7d760da2e2/</guid><description>
-Article URL: https://blog.tilt.dev/2021/03/18/kubernetes-is-so-simple.html
-Comments URL: https://news.ycombinator.com/item?id=26800094 …</description></item><item><title>The latest DSM update makes btrfs drives unavailable on budget Synology models</title><link>https://news.panz3r.dev/post/c30bc23aad7804624dd98abc45885ecfaac50c0a1de73a5a5e2c7c2d8013af57/</link><pubDate>Tue, 13 Apr 2021 22:15:52 +0000</pubDate><guid>https://news.panz3r.dev/post/c30bc23aad7804624dd98abc45885ecfaac50c0a1de73a5a5e2c7c2d8013af57/</guid><description>
-Article URL: https://community.synology.com/enu/forum/1/post/142519
-Comments URL: https://news.ycombinator.com/item?id=26800062
-Points: 194 …</description></item><item><title>The most important statistical ideas of the past 50 years</title><link>https://news.panz3r.dev/post/5d8d0b47e01af52854ae66f7d394e42ba07ca68a8de949b4c195748181843ad8/</link><pubDate>Tue, 13 Apr 2021 21:40:31 +0000</pubDate><guid>https://news.panz3r.dev/post/5d8d0b47e01af52854ae66f7d394e42ba07ca68a8de949b4c195748181843ad8/</guid><description>
-Article URL: https://fermatslibrary.com/s/what-are-the-most-important-statistical-ideas-of-the-past-50-years
-Comments URL: …</description></item><item><title>Pass: The standard Unix password manager</title><link>https://news.panz3r.dev/post/f27638e3b353029d39ace522252f0270acfe38b22bb01e99ff7728553af63ee0/</link><pubDate>Tue, 13 Apr 2021 20:45:21 +0000</pubDate><guid>https://news.panz3r.dev/post/f27638e3b353029d39ace522252f0270acfe38b22bb01e99ff7728553af63ee0/</guid><description>
-Article URL: https://www.passwordstore.org/
-Comments URL: https://news.ycombinator.com/item?id=26799021
-Points: 316
-# Comments: 173</description></item><item><title>WhatsApp's new privacy policy is so bad it might be illegal</title><link>https://news.panz3r.dev/post/4b8f09e1ef1c13294974286349230aa20e5beb128def0b4b3b26870bedbb2497/</link><pubDate>Tue, 13 Apr 2021 20:42:40 +0000</pubDate><guid>https://news.panz3r.dev/post/4b8f09e1ef1c13294974286349230aa20e5beb128def0b4b3b26870bedbb2497/</guid><description>
-Article URL: https://www.androidpolice.com/2021/04/13/whatsapps-new-privacy-policy-is-so-bad-it-might-be-illegal/
-Comments URL: …</description></item><item><title>Deep dive in CORS: History, how it works, and best practices</title><link>https://news.panz3r.dev/post/72f872dca2121b97a723afc94510f168e1a966d34dcf418a8de42047be92071d/</link><pubDate>Tue, 13 Apr 2021 20:05:59 +0000</pubDate><guid>https://news.panz3r.dev/post/72f872dca2121b97a723afc94510f168e1a966d34dcf418a8de42047be92071d/</guid><description>
-Article URL: https://ieftimov.com/post/deep-dive-cors-history-how-it-works-best-practices/
-Comments URL: …</description></item><item><title>Estate agent's hi-tech house tour exposes personal data</title><link>https://news.panz3r.dev/post/aa8fc8099fbec2d4f7dc352976577439030dfe1361dbc434d9f50e0590872857/</link><pubDate>Tue, 13 Apr 2021 20:03:16 +0000</pubDate><guid>https://news.panz3r.dev/post/aa8fc8099fbec2d4f7dc352976577439030dfe1361dbc434d9f50e0590872857/</guid><description>
-Article URL: https://www.bbc.com/news/technology-56718046
-Comments URL: https://news.ycombinator.com/item?id=26798367
-Points: 81
-# Comments: …</description></item><item><title>System76 Developing “Cosmic” Desktop Environment</title><link>https://news.panz3r.dev/post/a46c5cbf12d5f7053826225fa97f28e18f99d4397b71a860bad3f707d6708381/</link><pubDate>Tue, 13 Apr 2021 19:46:26 +0000</pubDate><guid>https://news.panz3r.dev/post/a46c5cbf12d5f7053826225fa97f28e18f99d4397b71a860bad3f707d6708381/</guid><description>
-Article URL: https://blog.system76.com/post/648371526931038208/cosmic-to-arrive-in-june-release-of-popos-2104
-Comments URL: …</description></item><item><title>Deno 1.9</title><link>https://news.panz3r.dev/post/455a8112e064ad2691e30d098c13c444b46fcc0fcbd3dc68643a510c7daad229/</link><pubDate>Tue, 13 Apr 2021 19:14:21 +0000</pubDate><guid>https://news.panz3r.dev/post/455a8112e064ad2691e30d098c13c444b46fcc0fcbd3dc68643a510c7daad229/</guid><description>
-Article URL: https://deno.com/blog/v1.9
-Comments URL: https://news.ycombinator.com/item?id=26797557
-Points: 568
-# Comments: 190</description></item><item><title>FreeBSD 13.0</title><link>https://news.panz3r.dev/post/6726df329ed1421d3d9d38ce751e2ba0f7621e4a855677feca96f14a5775da5d/</link><pubDate>Tue, 13 Apr 2021 18:54:39 +0000</pubDate><guid>https://news.panz3r.dev/post/6726df329ed1421d3d9d38ce751e2ba0f7621e4a855677feca96f14a5775da5d/</guid><description>
-Article URL: https://www.freebsd.org/releases/13.0R/relnotes/
-Comments URL: https://news.ycombinator.com/item?id=26797257
-Points: 288
-# …</description></item><item><title>Update on beta testing payments in Signal</title><link>https://news.panz3r.dev/post/a02bc4bc325f4fb4352bb03c349f62559ccd1ee26f7f03d463a6c15bcbf9f457/</link><pubDate>Tue, 13 Apr 2021 18:49:42 +0000</pubDate><guid>https://news.panz3r.dev/post/a02bc4bc325f4fb4352bb03c349f62559ccd1ee26f7f03d463a6c15bcbf9f457/</guid><description>
-Article URL: https://signal.org/blog/update-on-beta-testing-payments/
-Comments URL: https://news.ycombinator.com/item?id=26797169
-Points: …</description></item><item><title>Is content moderation a dead end?</title><link>https://news.panz3r.dev/post/1829fde341d29a2d2597f04ae4c985d8771f7c3d112ab05c6cd878742bb9b202/</link><pubDate>Tue, 13 Apr 2021 18:10:08 +0000</pubDate><guid>https://news.panz3r.dev/post/1829fde341d29a2d2597f04ae4c985d8771f7c3d112ab05c6cd878742bb9b202/</guid><description>
-Article URL: https://www.ben-evans.com/benedictevans/2021/4/13/is-content-moderation-a-dead-end
-Comments URL: …</description></item><item><title>Surface Laptop 4</title><link>https://news.panz3r.dev/post/d70a117bee79face7ee82f5461a6372a9bb69266bf45e46c4fae3fa11202823e/</link><pubDate>Tue, 13 Apr 2021 18:06:50 +0000</pubDate><guid>https://news.panz3r.dev/post/d70a117bee79face7ee82f5461a6372a9bb69266bf45e46c4fae3fa11202823e/</guid><description>
-Article URL: https://blogs.windows.com/devices/2021/04/13/introducing-surface-laptop-4-and-new-accessories-for-enhanced-meeting-experiences/ …</description></item><item><title>What the Dunning-Kruger effect is and isn’t</title><link>https://news.panz3r.dev/post/c477596807d23c9a310ef465a5b5bbe905e23f82339cbe88cc5f1b2c4ce0782f/</link><pubDate>Tue, 13 Apr 2021 17:55:53 +0000</pubDate><guid>https://news.panz3r.dev/post/c477596807d23c9a310ef465a5b5bbe905e23f82339cbe88cc5f1b2c4ce0782f/</guid><description>
-Article URL: http://www.talyarkoni.org/blog/2010/07/07/What-the-Dunning-Kruger-effect-Is-and-Isnt/
-Comments URL: …</description></item><item><title>‘Counter Strike’ Bug Allows Hackers to Take over a PC with a Steam Invite</title><link>https://news.panz3r.dev/post/f2ad5d42f4d5fe58c2386c16d84ad9743c16ad55170a9fcb6b936f95eb9fadd5/</link><pubDate>Tue, 13 Apr 2021 17:46:26 +0000</pubDate><guid>https://news.panz3r.dev/post/f2ad5d42f4d5fe58c2386c16d84ad9743c16ad55170a9fcb6b936f95eb9fadd5/</guid><description>
-Article URL: https://www.vice.com/en/article/dyvgej/counter-strike-bug-allows-hackers-to-take-over-a-pc-with-a-steam-invite
-Comments URL: …</description></item></channel></rss>
+# …</description></item></channel></rss>

@@ -1,35 +1,62 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hacker-News-Frontpage on Panz3r News</title><link>https://news.panz3r.dev/tags/hacker-news-frontpage/</link><description>Recent content in Hacker-News-Frontpage on news.panz3r.dev</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Panz3r 2020 | Vitae theme for Hugo</copyright><lastBuildDate>Fri, 23 Apr 2021 16:28:21 +0000</lastBuildDate><atom:link href="https://news.panz3r.dev/tags/hacker-news-frontpage/index.xml" rel="self" type="application/rss+xml"/><item><title>4chan founder Chris Poole leaves Google</title><link>https://news.panz3r.dev/post/02b22f537345023a3bd08f09f75d16a31e7d1ff2c704a4833a0f1c002729b063/</link><pubDate>Fri, 23 Apr 2021 16:28:21 +0000</pubDate><guid>https://news.panz3r.dev/post/02b22f537345023a3bd08f09f75d16a31e7d1ff2c704a4833a0f1c002729b063/</guid><description>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hacker-News-Frontpage on Panz3r News</title><link>https://news.panz3r.dev/tags/hacker-news-frontpage/</link><description>Recent content in Hacker-News-Frontpage on news.panz3r.dev</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Panz3r 2020 | Vitae theme for Hugo</copyright><lastBuildDate>Fri, 23 Apr 2021 21:37:20 +0000</lastBuildDate><atom:link href="https://news.panz3r.dev/tags/hacker-news-frontpage/index.xml" rel="self" type="application/rss+xml"/><item><title>Minio Changes License to AGPL</title><link>https://news.panz3r.dev/post/04a87fa4a7c95f08811ba17b7c3a2b6933b1d0613f42fd89350d4c293a044963/</link><pubDate>Fri, 23 Apr 2021 21:37:20 +0000</pubDate><guid>https://news.panz3r.dev/post/04a87fa4a7c95f08811ba17b7c3a2b6933b1d0613f42fd89350d4c293a044963/</guid><description>
+Article URL: https://github.com/minio/minio/commit/069432566fcfac1f1053677cc925ddafd750730a
+Comments URL: …</description></item><item><title>CDC panel recommends resuming use of Johnson and Johnson vaccine</title><link>https://news.panz3r.dev/post/9dbe5cddba910cd69e407acfdbdee097e9d8bcba54fc499956d61f5dee8c86d7/</link><pubDate>Fri, 23 Apr 2021 21:26:12 +0000</pubDate><guid>https://news.panz3r.dev/post/9dbe5cddba910cd69e407acfdbdee097e9d8bcba54fc499956d61f5dee8c86d7/</guid><description>
+Article URL: https://www.axios.com/cdc-panel-johnson-johnson-vaccine-pause-lift-dfc002cf-716c-465b-86db-861cb0f1b4a1.html
+Comments URL: …</description></item><item><title>A new way to make maps with OpenStreetMap</title><link>https://news.panz3r.dev/post/68974fd5ad43edbbb48e81fc606d3ed97d09a50bb4e4e1542acdbb7532204ec0/</link><pubDate>Fri, 23 Apr 2021 19:28:11 +0000</pubDate><guid>https://news.panz3r.dev/post/68974fd5ad43edbbb48e81fc606d3ed97d09a50bb4e4e1542acdbb7532204ec0/</guid><description>
+Article URL: https://protomaps.com/blog/new-way-to-make-maps/
+Comments URL: https://news.ycombinator.com/item?id=26918259
+Points: 176
+# …</description></item><item><title>Volkswagen launches its first all-electric SUV, the ID.4</title><link>https://news.panz3r.dev/post/b8533ba069b8349b495d50422ed36bd0841868c9f3642614b6cb77e09def93bf/</link><pubDate>Fri, 23 Apr 2021 17:11:11 +0000</pubDate><guid>https://news.panz3r.dev/post/b8533ba069b8349b495d50422ed36bd0841868c9f3642614b6cb77e09def93bf/</guid><description>
+Article URL: https://abc7.com/volkswagen-id4-electric-suv-vehicles-volkswagon/10539182/
+Comments URL: …</description></item><item><title>Jaguar Land Rover to suspend output due to chip shortage</title><link>https://news.panz3r.dev/post/750faaa9cc029397fcef7da63da0c33cf793482dc23d1a49e836ff9e83e878df/</link><pubDate>Fri, 23 Apr 2021 16:51:13 +0000</pubDate><guid>https://news.panz3r.dev/post/750faaa9cc029397fcef7da63da0c33cf793482dc23d1a49e836ff9e83e878df/</guid><description>
+Article URL: https://www.bbc.com/news/business-56841946
+Comments URL: https://news.ycombinator.com/item?id=26916635
+Points: 283
+# Comments: …</description></item><item><title>4chan founder Chris Poole leaves Google</title><link>https://news.panz3r.dev/post/02b22f537345023a3bd08f09f75d16a31e7d1ff2c704a4833a0f1c002729b063/</link><pubDate>Fri, 23 Apr 2021 16:28:21 +0000</pubDate><guid>https://news.panz3r.dev/post/02b22f537345023a3bd08f09f75d16a31e7d1ff2c704a4833a0f1c002729b063/</guid><description>
 Article URL: https://arstechnica.com/gadgets/2021/04/4chan-founder-chris-poole-leaves-google/
+Comments URL: …</description></item><item><title>Vizy, an AI Camera for the Pi</title><link>https://news.panz3r.dev/post/cb7ce8111cf7b2a2e937b29c888148452bc39b11ec9e5524c556b13a20fdedd9/</link><pubDate>Fri, 23 Apr 2021 16:18:00 +0000</pubDate><guid>https://news.panz3r.dev/post/cb7ce8111cf7b2a2e937b29c888148452bc39b11ec9e5524c556b13a20fdedd9/</guid><description>
+Article URL: https://vizycam.com/
+Comments URL: https://news.ycombinator.com/item?id=26916274
+Points: 136
+# Comments: 38</description></item><item><title>A curated list of Music DSP and audio programming resources</title><link>https://news.panz3r.dev/post/dc0b4bfa6579605df4f0603f90cf04ce196eda27e7a660b67aa87f8c4866b00b/</link><pubDate>Fri, 23 Apr 2021 16:16:10 +0000</pubDate><guid>https://news.panz3r.dev/post/dc0b4bfa6579605df4f0603f90cf04ce196eda27e7a660b67aa87f8c4866b00b/</guid><description>
+Article URL: https://github.com/olilarkin/awesome-musicdsp
+Comments URL: https://news.ycombinator.com/item?id=26916254
+Points: 111
+# …</description></item><item><title>The most effective malaria vaccine yet discovered</title><link>https://news.panz3r.dev/post/ecd2c37f8172291a1b227268ff794e5ed97bc7d8e6ccbc9b553f1b6d0f0fd24c/</link><pubDate>Fri, 23 Apr 2021 16:13:36 +0000</pubDate><guid>https://news.panz3r.dev/post/ecd2c37f8172291a1b227268ff794e5ed97bc7d8e6ccbc9b553f1b6d0f0fd24c/</guid><description>
+Article URL: https://blogs.sciencemag.org/pipeline/archives/2021/04/23/great-malaria-vaccine-news
 Comments URL: …</description></item><item><title>Cycles X</title><link>https://news.panz3r.dev/post/ed9f7e8e4f507dfdfca1ea3a4248b4a26b5c59cd23c2f385f41a8753b168a9ff/</link><pubDate>Fri, 23 Apr 2021 16:08:44 +0000</pubDate><guid>https://news.panz3r.dev/post/ed9f7e8e4f507dfdfca1ea3a4248b4a26b5c59cd23c2f385f41a8753b168a9ff/</guid><description>
 Article URL: https://code.blender.org/2021/04/cycles-x/
 Comments URL: https://news.ycombinator.com/item?id=26916196
-Points: 75
+Points: 277
 # Comments: …</description></item><item><title>Light Pollution Map</title><link>https://news.panz3r.dev/post/f48c158e25c3a6f8fa4264d23dc31082bfe4f91e24d06e23ca9e34a22dc4c9f1/</link><pubDate>Fri, 23 Apr 2021 15:12:44 +0000</pubDate><guid>https://news.panz3r.dev/post/f48c158e25c3a6f8fa4264d23dc31082bfe4f91e24d06e23ca9e34a22dc4c9f1/</guid><description>
 Article URL: https://www.lightpollutionmap.info/
 Comments URL: https://news.ycombinator.com/item?id=26915536
-Points: 156
-# Comments: 80</description></item><item><title>NASA’s bold bet on Starship for the Moon may change spaceflight forever</title><link>https://news.panz3r.dev/post/ece0475404622ef13d7b7dcba198c21cc56dac41d20fcc346e941178d2b208b8/</link><pubDate>Fri, 23 Apr 2021 14:39:03 +0000</pubDate><guid>https://news.panz3r.dev/post/ece0475404622ef13d7b7dcba198c21cc56dac41d20fcc346e941178d2b208b8/</guid><description>
+Points: 328
+# Comments: 143</description></item><item><title>NASA’s bold bet on Starship for the Moon may change spaceflight forever</title><link>https://news.panz3r.dev/post/ece0475404622ef13d7b7dcba198c21cc56dac41d20fcc346e941178d2b208b8/</link><pubDate>Fri, 23 Apr 2021 14:39:03 +0000</pubDate><guid>https://news.panz3r.dev/post/ece0475404622ef13d7b7dcba198c21cc56dac41d20fcc346e941178d2b208b8/</guid><description>
 Article URL: https://arstechnica.com/science/2021/04/five-reasons-why-nasas-starship-award-is-a-watershed-moment-in-spaceflight/
 Comments …</description></item><item><title>Digging for performance gold: finding hidden performance wins</title><link>https://news.panz3r.dev/post/8e8a4ea196ec635f66a51af0fe16e7e994506abde65ac8247e9a0cab8c541b18/</link><pubDate>Fri, 23 Apr 2021 14:19:15 +0000</pubDate><guid>https://news.panz3r.dev/post/8e8a4ea196ec635f66a51af0fe16e7e994506abde65ac8247e9a0cab8c541b18/</guid><description>
 Article URL: https://blog.chromium.org/2021/04/digging-for-performance-gold.html
 Comments URL: https://news.ycombinator.com/item?id=26915022 …</description></item><item><title>Lego Microscope</title><link>https://news.panz3r.dev/post/3bc70ac43c9da5a1bc3253fddbfcf84e6ffd4aff87a56594c3383143fa53cdb1/</link><pubDate>Fri, 23 Apr 2021 12:32:05 +0000</pubDate><guid>https://news.panz3r.dev/post/3bc70ac43c9da5a1bc3253fddbfcf84e6ffd4aff87a56594c3383143fa53cdb1/</guid><description>
 Article URL: https://github.com/tobetz/LegoMicroscope
 Comments URL: https://news.ycombinator.com/item?id=26914023
-Points: 259
-# Comments: 81 …</description></item><item><title>Convicted Post Office workers have names cleared after cover-up of flawed system</title><link>https://news.panz3r.dev/post/1749857b24f9923a474b30839340149197f91553dfc65f47738b2f262120e17d/</link><pubDate>Fri, 23 Apr 2021 10:33:26 +0000</pubDate><guid>https://news.panz3r.dev/post/1749857b24f9923a474b30839340149197f91553dfc65f47738b2f262120e17d/</guid><description>
+Points: 348
+# Comments: 94 …</description></item><item><title>Convicted Post Office workers have names cleared after cover-up of flawed system</title><link>https://news.panz3r.dev/post/1749857b24f9923a474b30839340149197f91553dfc65f47738b2f262120e17d/</link><pubDate>Fri, 23 Apr 2021 10:33:26 +0000</pubDate><guid>https://news.panz3r.dev/post/1749857b24f9923a474b30839340149197f91553dfc65f47738b2f262120e17d/</guid><description>
 Article URL: https://www.bbc.co.uk/news/business-56859357
 Comments URL: https://news.ycombinator.com/item?id=26913183
 Points: 371
-# …</description></item><item><title>'World’s most powerful' tidal turbine sets sail from Dundee</title><link>https://news.panz3r.dev/post/8ed12e9af223acc57bfeb79bffe55a3372e963faf9f4377efa08935b48c7b5e1/</link><pubDate>Fri, 23 Apr 2021 08:17:40 +0000</pubDate><guid>https://news.panz3r.dev/post/8ed12e9af223acc57bfeb79bffe55a3372e963faf9f4377efa08935b48c7b5e1/</guid><description>
+# …</description></item><item><title>UK court clears post office staff convicted due to ‘corrupt data’</title><link>https://news.panz3r.dev/post/d1b0a640cf138c9c1d64c9437f39e6b9d96e9205864d01b892c89958f045b5ff/</link><pubDate>Fri, 23 Apr 2021 10:14:19 +0000</pubDate><guid>https://news.panz3r.dev/post/d1b0a640cf138c9c1d64c9437f39e6b9d96e9205864d01b892c89958f045b5ff/</guid><description>
+Article URL: https://www.theguardian.com/uk-news/2021/apr/23/court-clears-39-post-office-staff-convicted-due-to-corrupt-data
+Comments URL: …</description></item><item><title>'World’s most powerful' tidal turbine sets sail from Dundee</title><link>https://news.panz3r.dev/post/8ed12e9af223acc57bfeb79bffe55a3372e963faf9f4377efa08935b48c7b5e1/</link><pubDate>Fri, 23 Apr 2021 08:17:40 +0000</pubDate><guid>https://news.panz3r.dev/post/8ed12e9af223acc57bfeb79bffe55a3372e963faf9f4377efa08935b48c7b5e1/</guid><description>
 Article URL: https://www.bbc.co.uk/news/uk-scotland-tayside-central-56818538
-Comments URL: https://news.ycombinator.com/item?id=26912347 …</description></item><item><title>Apple Is Sued for Telling You That You're “Buying” Movies</title><link>https://news.panz3r.dev/post/0216fdc6fa18b1f6fd69699638708a2e31962c951aa6d24e30d32a34bb23569f/</link><pubDate>Fri, 23 Apr 2021 07:42:30 +0000</pubDate><guid>https://news.panz3r.dev/post/0216fdc6fa18b1f6fd69699638708a2e31962c951aa6d24e30d32a34bb23569f/</guid><description>
+Comments URL: https://news.ycombinator.com/item?id=26912347 …</description></item><item><title>Ask HN: How would you store 10PB of data for your startup today?</title><link>https://news.panz3r.dev/post/79ec8518dda7ce62a24ac5e840853f3169974f1bfd32498aa828f2f96b1b14c7/</link><pubDate>Fri, 23 Apr 2021 08:12:25 +0000</pubDate><guid>https://news.panz3r.dev/post/79ec8518dda7ce62a24ac5e840853f3169974f1bfd32498aa828f2f96b1b14c7/</guid><description>
+I'm running a startup and we're storing north of 10PB of data and growing. We're currently on AWS and our contract is up for renewal. I'm …</description></item><item><title>Apple Is Sued for Telling You That You're “Buying” Movies</title><link>https://news.panz3r.dev/post/0216fdc6fa18b1f6fd69699638708a2e31962c951aa6d24e30d32a34bb23569f/</link><pubDate>Fri, 23 Apr 2021 07:42:30 +0000</pubDate><guid>https://news.panz3r.dev/post/0216fdc6fa18b1f6fd69699638708a2e31962c951aa6d24e30d32a34bb23569f/</guid><description>
 Article URL: https://nofilmschool.com/apple-movie-buys
 Comments URL: https://news.ycombinator.com/item?id=26912118
 Points: 501
-# Comments: …</description></item><item><title>Googling is one of the most important skills for every developer</title><link>https://news.panz3r.dev/post/f72cc7766112f2b935c2d6fbe74818f44214ca0533f11e1b4139e31d4aa0cf92/</link><pubDate>Fri, 23 Apr 2021 06:37:26 +0000</pubDate><guid>https://news.panz3r.dev/post/f72cc7766112f2b935c2d6fbe74818f44214ca0533f11e1b4139e31d4aa0cf92/</guid><description>
+# Comments: …</description></item><item><title>Get better at Googling</title><link>https://news.panz3r.dev/post/f72cc7766112f2b935c2d6fbe74818f44214ca0533f11e1b4139e31d4aa0cf92/</link><pubDate>Fri, 23 Apr 2021 06:37:26 +0000</pubDate><guid>https://news.panz3r.dev/post/f72cc7766112f2b935c2d6fbe74818f44214ca0533f11e1b4139e31d4aa0cf92/</guid><description>
 Article URL: https://markodenic.com/use-google-like-a-pro/
 Comments URL: https://news.ycombinator.com/item?id=26911629
-Points: 292
+Points: 538
 # …</description></item><item><title>Beej’s Guide to C Programming [pdf]</title><link>https://news.panz3r.dev/post/a60c72c8931203eb18c82943517ae2c24b6b7219abe411f473a12e007744fff8/</link><pubDate>Fri, 23 Apr 2021 05:56:51 +0000</pubDate><guid>https://news.panz3r.dev/post/a60c72c8931203eb18c82943517ae2c24b6b7219abe411f473a12e007744fff8/</guid><description>
 Article URL: http://beej.us/guide/bgc/pdf/bgc_usl_c_1.pdf
 Comments URL: https://news.ycombinator.com/item?id=26911399
@@ -596,31 +623,4 @@ Points: …</description></item><item><title>Small cities in America’s Mountai
 Article URL: https://www.economist.com/united-states/2021/04/10/small-cities-in-americas-mountain-west-are-booming
 Comments URL: …</description></item><item><title>Power consumption of Game Boy flash cartridges</title><link>https://news.panz3r.dev/post/e52c53e45a5f9557507777403b3aa33bd115110e4832b08b4bc8627ca3908420/</link><pubDate>Sun, 18 Apr 2021 23:50:58 +0000</pubDate><guid>https://news.panz3r.dev/post/e52c53e45a5f9557507777403b3aa33bd115110e4832b08b4bc8627ca3908420/</guid><description>
 Article URL: https://gekkio.fi/blog/2021/power-consumption-of-game-boy-flash-cartridges/
-Comments URL: …</description></item><item><title>Show HN: hackernews.roundtable.audio turns HN posts into live audio discussions</title><link>https://news.panz3r.dev/post/6cb3bc87b5e7c030c53f2719d483bbbde74df1b2865a6d4195fa9a4c5f2e6a8f/</link><pubDate>Sun, 18 Apr 2021 22:01:03 +0000</pubDate><guid>https://news.panz3r.dev/post/6cb3bc87b5e7c030c53f2719d483bbbde74df1b2865a6d4195fa9a4c5f2e6a8f/</guid><description>
-Article URL: https://hackernews.roundtable.audio/
-Comments URL: https://news.ycombinator.com/item?id=26856883
-Points: 70
-# Comments: 44</description></item><item><title>PostScript Language Reference (1999) [pdf]</title><link>https://news.panz3r.dev/post/ff2de9ed2f1c5e379645b30a7cfd5360dc26a320c09f25e523bedd976e28de13/</link><pubDate>Sun, 18 Apr 2021 21:52:21 +0000</pubDate><guid>https://news.panz3r.dev/post/ff2de9ed2f1c5e379645b30a7cfd5360dc26a320c09f25e523bedd976e28de13/</guid><description>
-Article URL: https://www.adobe.com/content/dam/acom/en/devnet/actionscript/articles/PLRM.pdf
-Comments URL: …</description></item><item><title>Huawei could have wiretapped KPN</title><link>https://news.panz3r.dev/post/bb0f2541fbe9f5be0dec0240d2c69c34ce91db81c376bf528a4cb619e0cce829/</link><pubDate>Sun, 18 Apr 2021 20:33:11 +0000</pubDate><guid>https://news.panz3r.dev/post/bb0f2541fbe9f5be0dec0240d2c69c34ce91db81c376bf528a4cb619e0cce829/</guid><description>
-Article URL: https://nltimes.nl/2021/04/17/huawei-able-eavesdrop-dutch-mobile-network-kpn-report
-Comments URL: …</description></item><item><title>Show HN: Side project passed $2.5k/mo revenue after 2 years (Phoenix and Vue)</title><link>https://news.panz3r.dev/post/91f758c34ece60e13a613416017d1a913d3306b3871727a63bce93c8e3c7d2d2/</link><pubDate>Sun, 18 Apr 2021 19:51:20 +0000</pubDate><guid>https://news.panz3r.dev/post/91f758c34ece60e13a613416017d1a913d3306b3871727a63bce93c8e3c7d2d2/</guid><description>
-Several years ago, I had a client whose salespeople were using Excel to generate sales proposals. This was inefficient and the resulting …</description></item><item><title>Smartphones can detect solar storms</title><link>https://news.panz3r.dev/post/70c2e0ab0c07457511a91667cccc74028aabfc378da51c71e131e63752c24b04/</link><pubDate>Sun, 18 Apr 2021 19:44:22 +0000</pubDate><guid>https://news.panz3r.dev/post/70c2e0ab0c07457511a91667cccc74028aabfc378da51c71e131e63752c24b04/</guid><description>
-Article URL: https://academictimes.com/smartphones-can-detect-huge-solar-storms/
-Comments URL: https://news.ycombinator.com/item?id=26855659 …</description></item><item><title>Paternoster Lift</title><link>https://news.panz3r.dev/post/80f0b43522ee01ebb52e31826d9fba8aee05de0a33c58f83df085143f4f6f508/</link><pubDate>Sun, 18 Apr 2021 19:35:40 +0000</pubDate><guid>https://news.panz3r.dev/post/80f0b43522ee01ebb52e31826d9fba8aee05de0a33c58f83df085143f4f6f508/</guid><description>
-Article URL: https://en.wikipedia.org/wiki/Paternoster_lift
-Comments URL: https://news.ycombinator.com/item?id=26855597
-Points: 94
-# …</description></item><item><title>Ask HN: Does anyone else find the AWS Lambda developer experience frustrating?</title><link>https://news.panz3r.dev/post/f3346270ee4b70ac61f0320d93bdb6009fe256b3182f8d38d432ed6a8135335c/</link><pubDate>Sun, 18 Apr 2021 18:35:28 +0000</pubDate><guid>https://news.panz3r.dev/post/f3346270ee4b70ac61f0320d93bdb6009fe256b3182f8d38d432ed6a8135335c/</guid><description>
-Hey HN,I've been using AWS lambda a bit recently, mostly as a way to glue together various bits and pieces.Maybe I'm doing this wrong but …</description></item><item><title>Turning an iPad Pro into a classic Macintosh</title><link>https://news.panz3r.dev/post/f99462c4fcedd2b278c050a4fe2f79c1076e6c3e2f7326d4b74aff628588564c/</link><pubDate>Sun, 18 Apr 2021 18:30:14 +0000</pubDate><guid>https://news.panz3r.dev/post/f99462c4fcedd2b278c050a4fe2f79c1076e6c3e2f7326d4b74aff628588564c/</guid><description>
-Article URL: https://blog.gingerbeardman.com/2021/04/17/turning-an-ipad-pro-into-the-ultimate-classic-macintosh/
-Comments URL: …</description></item><item><title>Jumping Frenchmen of Maine</title><link>https://news.panz3r.dev/post/0608da46ccdebba1e98814cb3b06fc01d0e7fd8db6d3a254a50b20dc46bb1eec/</link><pubDate>Sun, 18 Apr 2021 18:18:04 +0000</pubDate><guid>https://news.panz3r.dev/post/0608da46ccdebba1e98814cb3b06fc01d0e7fd8db6d3a254a50b20dc46bb1eec/</guid><description>
-Article URL: https://en.wikipedia.org/wiki/Jumping_Frenchmen_of_Maine
-Comments URL: https://news.ycombinator.com/item?id=26854896
-Points: 81 …</description></item><item><title>Mac Plus made of legos at 1:1 scale</title><link>https://news.panz3r.dev/post/2e518974f8e4e25ae25b74b4ced9174beada9dd60e0731a94ff266199abc2e2e/</link><pubDate>Sun, 18 Apr 2021 18:14:41 +0000</pubDate><guid>https://news.panz3r.dev/post/2e518974f8e4e25ae25b74b4ced9174beada9dd60e0731a94ff266199abc2e2e/</guid><description>
-Article URL: https://ideas.lego.com/projects/cf737f87-5e46-4433-aa4e-76891a1d2b99
-Comments URL: …</description></item><item><title>Public-ownership rental as a third option to renting or owning a house</title><link>https://news.panz3r.dev/post/23eb54cabf233acf7e914c1140ca0ef9bd84a0a7fb24d03bd6b79f07b0d51e6c/</link><pubDate>Sun, 18 Apr 2021 18:08:34 +0000</pubDate><guid>https://news.panz3r.dev/post/23eb54cabf233acf7e914c1140ca0ef9bd84a0a7fb24d03bd6b79f07b0d51e6c/</guid><description>
-Article URL: https://www.theatlantic.com/ideas/archive/2021/03/why-its-better-to-rent-than-to-own/618254
-Comments URL: …</description></item><item><title>Reverse-engineering a vintage comparator chip</title><link>https://news.panz3r.dev/post/9a5626c64a8f23d01f4d1dd1592f059b4b14f8df2a91ec228b3881e7e766b433/</link><pubDate>Sun, 18 Apr 2021 17:48:41 +0000</pubDate><guid>https://news.panz3r.dev/post/9a5626c64a8f23d01f4d1dd1592f059b4b14f8df2a91ec228b3881e7e766b433/</guid><description>
-Article URL: http://www.righto.com/2021/04/reverse-engineering-vintage-comparator.html
 Comments URL: …</description></item></channel></rss>

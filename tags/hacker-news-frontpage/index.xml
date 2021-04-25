@@ -1,15 +1,37 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hacker-News-Frontpage on Panz3r News</title><link>https://news.panz3r.dev/tags/hacker-news-frontpage/</link><description>Recent content in Hacker-News-Frontpage on news.panz3r.dev</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Panz3r 2020 | Vitae theme for Hugo</copyright><lastBuildDate>Sat, 24 Apr 2021 21:31:30 +0000</lastBuildDate><atom:link href="https://news.panz3r.dev/tags/hacker-news-frontpage/index.xml" rel="self" type="application/rss+xml"/><item><title>‘Insanely cheap energy’: solar power continues to shock the world</title><link>https://news.panz3r.dev/post/b18bcbb6aa9c5ed6a6f103999c2980a885cf7c67cd55593fbbb1e344df074e33/</link><pubDate>Sat, 24 Apr 2021 21:31:30 +0000</pubDate><guid>https://news.panz3r.dev/post/b18bcbb6aa9c5ed6a6f103999c2980a885cf7c67cd55593fbbb1e344df074e33/</guid><description>
-Article URL: https://www.theguardian.com/australia-news/2021/apr/25/insanely-cheap-energy-how-solar-power-continues-to-shock-the-world …</description></item><item><title>Mars has right ingredients for present-day microbial life: study</title><link>https://news.panz3r.dev/post/2276e2971584e4df851334a231cd6bb2f79ae43311da41d101f01d1bc946fea9/</link><pubDate>Sat, 24 Apr 2021 18:42:22 +0000</pubDate><guid>https://news.panz3r.dev/post/2276e2971584e4df851334a231cd6bb2f79ae43311da41d101f01d1bc946fea9/</guid><description>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hacker-News-Frontpage on Panz3r News</title><link>https://news.panz3r.dev/tags/hacker-news-frontpage/</link><description>Recent content in Hacker-News-Frontpage on news.panz3r.dev</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Panz3r 2020 | Vitae theme for Hugo</copyright><lastBuildDate>Sun, 25 Apr 2021 00:53:31 +0000</lastBuildDate><atom:link href="https://news.panz3r.dev/tags/hacker-news-frontpage/index.xml" rel="self" type="application/rss+xml"/><item><title>Open letter from researchers involved in the “hypocrite commit” debacle</title><link>https://news.panz3r.dev/post/1a4b0bd3da9887b3415f8c34257d75a61880a4d17ce98f6e74dd2e05cf62a5c0/</link><pubDate>Sun, 25 Apr 2021 00:53:31 +0000</pubDate><guid>https://news.panz3r.dev/post/1a4b0bd3da9887b3415f8c34257d75a61880a4d17ce98f6e74dd2e05cf62a5c0/</guid><description>
+Article URL: https://lore.kernel.org/lkml/CAK8KejpUVLxmqp026JY7x5GzHU2YJLPU8SzTZUNXU2OXC70ZQQ@mail.gmail.com/T/#u
+Comments URL: …</description></item><item><title>Show HN: Verilog2factorio</title><link>https://news.panz3r.dev/post/0537b3568502a34d597a776a008674374780093256694d52e9d286802eb49a16/</link><pubDate>Sun, 25 Apr 2021 00:31:04 +0000</pubDate><guid>https://news.panz3r.dev/post/0537b3568502a34d597a776a008674374780093256694d52e9d286802eb49a16/</guid><description>
+Article URL: https://github.com/Redcrafter/verilog2factorio/
+Comments URL: https://news.ycombinator.com/item?id=26929370
+Points: 131
+# …</description></item><item><title>Common interface for Linux NIC statistics</title><link>https://news.panz3r.dev/post/fe5d67b14541266f5bd87941710133904c2b257da4d761ece89ee4886b6a5d2f/</link><pubDate>Sat, 24 Apr 2021 23:29:51 +0000</pubDate><guid>https://news.panz3r.dev/post/fe5d67b14541266f5bd87941710133904c2b257da4d761ece89ee4886b6a5d2f/</guid><description>
+Article URL: https://people.kernel.org/kuba/common-interface-for-nic-statistics
+Comments URL: https://news.ycombinator.com/item?id=26929111 …</description></item><item><title>‘Insanely cheap energy’: solar power continues to shock the world</title><link>https://news.panz3r.dev/post/b18bcbb6aa9c5ed6a6f103999c2980a885cf7c67cd55593fbbb1e344df074e33/</link><pubDate>Sat, 24 Apr 2021 21:31:30 +0000</pubDate><guid>https://news.panz3r.dev/post/b18bcbb6aa9c5ed6a6f103999c2980a885cf7c67cd55593fbbb1e344df074e33/</guid><description>
+Article URL: https://www.theguardian.com/australia-news/2021/apr/25/insanely-cheap-energy-how-solar-power-continues-to-shock-the-world …</description></item><item><title>Lmgrep: Lucene-based grep-like utility</title><link>https://news.panz3r.dev/post/59bb1a8b2bb9b980f68e59c4b7248a715a2ac3e2f0a8851bac7f887a3dd0d10e/</link><pubDate>Sat, 24 Apr 2021 20:43:47 +0000</pubDate><guid>https://news.panz3r.dev/post/59bb1a8b2bb9b980f68e59c4b7248a715a2ac3e2f0a8851bac7f887a3dd0d10e/</guid><description>
+Article URL: https://www.jocas.lt/blog/post/intro-to-lucene-grep/
+Comments URL: https://news.ycombinator.com/item?id=26928136
+Points: 53
+# …</description></item><item><title>Backdoored password manager stole data from as many as 29K enterprises</title><link>https://news.panz3r.dev/post/c2a24ab6165d6b0cf5b661dd2cde1bc873792e640355f8c54bb4f2acb647e803/</link><pubDate>Sat, 24 Apr 2021 20:33:14 +0000</pubDate><guid>https://news.panz3r.dev/post/c2a24ab6165d6b0cf5b661dd2cde1bc873792e640355f8c54bb4f2acb647e803/</guid><description>
+Article URL: https://arstechnica.com/gadgets/2021/04/hackers-backdoor-corporate-password-manager-and-steal-customer-data/?comments=1 …</description></item><item><title>Mars has right ingredients for present-day microbial life: study</title><link>https://news.panz3r.dev/post/2276e2971584e4df851334a231cd6bb2f79ae43311da41d101f01d1bc946fea9/</link><pubDate>Sat, 24 Apr 2021 18:42:22 +0000</pubDate><guid>https://news.panz3r.dev/post/2276e2971584e4df851334a231cd6bb2f79ae43311da41d101f01d1bc946fea9/</guid><description>
 Article URL: https://www.brown.edu/news/2021-04-22/subsurface
 Comments URL: https://news.ycombinator.com/item?id=26927288
 Points: 85
-# …</description></item><item><title>The unreasonable effectiveness of print debugging</title><link>https://news.panz3r.dev/post/35e136916a830193df4768865cc5a6454acf1d8c9797345f8e11547e2187ac69/</link><pubDate>Sat, 24 Apr 2021 15:28:43 +0000</pubDate><guid>https://news.panz3r.dev/post/35e136916a830193df4768865cc5a6454acf1d8c9797345f8e11547e2187ac69/</guid><description>
+# …</description></item><item><title>A Silly Anti-Disassembly Trick</title><link>https://news.panz3r.dev/post/dd995b4367c05b2118f666cbc8195ad536601dc6e3567e37163b9c91c96741a3/</link><pubDate>Sat, 24 Apr 2021 17:55:14 +0000</pubDate><guid>https://news.panz3r.dev/post/dd995b4367c05b2118f666cbc8195ad536601dc6e3567e37163b9c91c96741a3/</guid><description>
+Article URL: https://alexomara.com/blog/a-silly-anti-disassembly-trick/
+Comments URL: https://news.ycombinator.com/item?id=26926883
+Points: …</description></item><item><title>FFmpeg Cheat Sheet</title><link>https://news.panz3r.dev/post/bfab3ec988d26be1e338e16513f6180d536ac26f58b28a6edd94b808b06dd851/</link><pubDate>Sat, 24 Apr 2021 16:17:02 +0000</pubDate><guid>https://news.panz3r.dev/post/bfab3ec988d26be1e338e16513f6180d536ac26f58b28a6edd94b808b06dd851/</guid><description>
+Article URL: https://gist.github.com/steven2358/ba153c642fe2bb1e47485962df07c730
+Comments URL: https://news.ycombinator.com/item?id=26926026 …</description></item><item><title>The unreasonable effectiveness of print debugging</title><link>https://news.panz3r.dev/post/35e136916a830193df4768865cc5a6454acf1d8c9797345f8e11547e2187ac69/</link><pubDate>Sat, 24 Apr 2021 15:28:43 +0000</pubDate><guid>https://news.panz3r.dev/post/35e136916a830193df4768865cc5a6454acf1d8c9797345f8e11547e2187ac69/</guid><description>
 Article URL: https://buttondown.email/geoffreylitt/archive/starting-this-newsletter-print-debugging-byoc/
+Comments URL: …</description></item><item><title>Scalability, but at What Cost [pdf]</title><link>https://news.panz3r.dev/post/3123267f0ebb4ec9844161cead63ce72d09124a726f73e0ad4306af314a1ff4c/</link><pubDate>Sat, 24 Apr 2021 15:14:38 +0000</pubDate><guid>https://news.panz3r.dev/post/3123267f0ebb4ec9844161cead63ce72d09124a726f73e0ad4306af314a1ff4c/</guid><description>
+Article URL: https://www.usenix.org/system/files/conference/hotos15/hotos15-paper-mcsherry.pdf
 Comments URL: …</description></item><item><title>Resources for Amateur Compiler Writers</title><link>https://news.panz3r.dev/post/03b160d5288a8046e76e94c4f93fed7f0843db8cd1af9833c94f2fa311f7b499/</link><pubDate>Sat, 24 Apr 2021 14:58:21 +0000</pubDate><guid>https://news.panz3r.dev/post/03b160d5288a8046e76e94c4f93fed7f0843db8cd1af9833c94f2fa311f7b499/</guid><description>
 Article URL: https://c9x.me/compile/bib/
 Comments URL: https://news.ycombinator.com/item?id=26925314
-Points: 284
-# Comments: 80</description></item><item><title>InfiniTime 1.0</title><link>https://news.panz3r.dev/post/03c22462cafd89a60177b722109984f64948123e741f2ddbf2913a61dd5d2439/</link><pubDate>Sat, 24 Apr 2021 14:44:14 +0000</pubDate><guid>https://news.panz3r.dev/post/03c22462cafd89a60177b722109984f64948123e741f2ddbf2913a61dd5d2439/</guid><description>
+Points: 319
+# Comments: 87</description></item><item><title>The Art of Mathematics in Chalk</title><link>https://news.panz3r.dev/post/b33f22c0f9eb971cd9b3be94ebe2f0e0c715e41f326ede1d02486fc5b5bef260/</link><pubDate>Sat, 24 Apr 2021 14:45:12 +0000</pubDate><guid>https://news.panz3r.dev/post/b33f22c0f9eb971cd9b3be94ebe2f0e0c715e41f326ede1d02486fc5b5bef260/</guid><description>
+Article URL: https://www.scientificamerican.com/article/the-art-of-mathematics-in-chalk/
+Comments URL: …</description></item><item><title>InfiniTime 1.0</title><link>https://news.panz3r.dev/post/03c22462cafd89a60177b722109984f64948123e741f2ddbf2913a61dd5d2439/</link><pubDate>Sat, 24 Apr 2021 14:44:14 +0000</pubDate><guid>https://news.panz3r.dev/post/03c22462cafd89a60177b722109984f64948123e741f2ddbf2913a61dd5d2439/</guid><description>
 Article URL: https://www.pine64.org/2021/04/22/its-time-infinitime-1-0/
 Comments URL: https://news.ycombinator.com/item?id=26925197
 Points: …</description></item><item><title>Dan Kaminsky has died</title><link>https://news.panz3r.dev/post/c95cc4c0f2ecb5019943c8e7f94fffb169ce07256b442de2e1b97f4578a63282/</link><pubDate>Sat, 24 Apr 2021 14:25:58 +0000</pubDate><guid>https://news.panz3r.dev/post/c95cc4c0f2ecb5019943c8e7f94fffb169ce07256b442de2e1b97f4578a63282/</guid><description>
@@ -71,7 +93,10 @@ Points: 109
 Article URL: https://protomaps.com/blog/new-way-to-make-maps/
 Comments URL: https://news.ycombinator.com/item?id=26918259
 Points: 427
-# …</description></item><item><title>Volkswagen launches its first all-electric SUV, the ID.4</title><link>https://news.panz3r.dev/post/b8533ba069b8349b495d50422ed36bd0841868c9f3642614b6cb77e09def93bf/</link><pubDate>Fri, 23 Apr 2021 17:11:11 +0000</pubDate><guid>https://news.panz3r.dev/post/b8533ba069b8349b495d50422ed36bd0841868c9f3642614b6cb77e09def93bf/</guid><description>
+# …</description></item><item><title>Wasm3 compiles itself (using LLVM/Clang compiled to WASM)</title><link>https://news.panz3r.dev/post/8c017e385f0812d7eb858184c62713b2cc57b5c066798670ffee2aa3ca7d7e3a/</link><pubDate>Fri, 23 Apr 2021 17:11:53 +0000</pubDate><guid>https://news.panz3r.dev/post/8c017e385f0812d7eb858184c62713b2cc57b5c066798670ffee2aa3ca7d7e3a/</guid><description>
+Article URL: https://twitter.com/wasm3_engine/status/1384288567627640839
+Comments URL: https://news.ycombinator.com/item?id=26916866
+Points: …</description></item><item><title>Volkswagen launches its first all-electric SUV, the ID.4</title><link>https://news.panz3r.dev/post/b8533ba069b8349b495d50422ed36bd0841868c9f3642614b6cb77e09def93bf/</link><pubDate>Fri, 23 Apr 2021 17:11:11 +0000</pubDate><guid>https://news.panz3r.dev/post/b8533ba069b8349b495d50422ed36bd0841868c9f3642614b6cb77e09def93bf/</guid><description>
 Article URL: https://abc7.com/volkswagen-id4-electric-suv-vehicles-volkswagon/10539182/
 Comments URL: …</description></item><item><title>Jaguar Land Rover to suspend output due to chip shortage</title><link>https://news.panz3r.dev/post/750faaa9cc029397fcef7da63da0c33cf793482dc23d1a49e836ff9e83e878df/</link><pubDate>Fri, 23 Apr 2021 16:51:13 +0000</pubDate><guid>https://news.panz3r.dev/post/750faaa9cc029397fcef7da63da0c33cf793482dc23d1a49e836ff9e83e878df/</guid><description>
 Article URL: https://www.bbc.com/news/business-56841946
@@ -97,7 +122,9 @@ Points: 371
 Article URL: https://www.youtube.com/watch?v=byjhpzEoXFs
 Comments URL: https://news.ycombinator.com/item?id=26915862
 Points: 66
-# Comments: …</description></item><item><title>Light Pollution Map</title><link>https://news.panz3r.dev/post/f48c158e25c3a6f8fa4264d23dc31082bfe4f91e24d06e23ca9e34a22dc4c9f1/</link><pubDate>Fri, 23 Apr 2021 15:12:44 +0000</pubDate><guid>https://news.panz3r.dev/post/f48c158e25c3a6f8fa4264d23dc31082bfe4f91e24d06e23ca9e34a22dc4c9f1/</guid><description>
+# Comments: …</description></item><item><title>Using &lt;details> for menus and dialogs (2019)</title><link>https://news.panz3r.dev/post/80aa39d008c066fca81b5f2fa362b9897c8bce897934bc02e8aab1ea9b889e91/</link><pubDate>Fri, 23 Apr 2021 15:26:57 +0000</pubDate><guid>https://news.panz3r.dev/post/80aa39d008c066fca81b5f2fa362b9897c8bce897934bc02e8aab1ea9b889e91/</guid><description>
+Article URL: https://css-tricks.com/using-details-for-menus-and-dialogs-is-an-interesting-idea/
+Comments URL: …</description></item><item><title>Light Pollution Map</title><link>https://news.panz3r.dev/post/f48c158e25c3a6f8fa4264d23dc31082bfe4f91e24d06e23ca9e34a22dc4c9f1/</link><pubDate>Fri, 23 Apr 2021 15:12:44 +0000</pubDate><guid>https://news.panz3r.dev/post/f48c158e25c3a6f8fa4264d23dc31082bfe4f91e24d06e23ca9e34a22dc4c9f1/</guid><description>
 Article URL: https://www.lightpollutionmap.info/
 Comments URL: https://news.ycombinator.com/item?id=26915536
 Points: 447
@@ -263,7 +290,9 @@ Points: …</description></item><item><title>Show HN: I made a sandbox game to h
 Article URL: https://simulator.money/
 Comments URL: https://news.ycombinator.com/item?id=26900079
 Points: 362
-# Comments: 120</description></item><item><title>From WinZips to Cat GIFs, Jacob Ziv’s Algorithms Have Powered Decades of Compr</title><link>https://news.panz3r.dev/post/967e3d92ff94a5c45a65a0524bb99ef9a1cd774b7c5ce22bc5cc12dc7a383218/</link><pubDate>Thu, 22 Apr 2021 07:34:39 +0000</pubDate><guid>https://news.panz3r.dev/post/967e3d92ff94a5c45a65a0524bb99ef9a1cd774b7c5ce22bc5cc12dc7a383218/</guid><description>
+# Comments: 120</description></item><item><title>Intel Internet Party Line (1997)</title><link>https://news.panz3r.dev/post/9bffd439d9882885ca69463dd9c5619775ad74e60b2b07e5f39b13a72e1dc8ab/</link><pubDate>Thu, 22 Apr 2021 07:44:25 +0000</pubDate><guid>https://news.panz3r.dev/post/9bffd439d9882885ca69463dd9c5619775ad74e60b2b07e5f39b13a72e1dc8ab/</guid><description>
+Article URL: https://web.archive.org/web/19970419202411/http://www1.intel.com/iaweb/ipl/index.htm
+Comments URL: …</description></item><item><title>From WinZips to Cat GIFs, Jacob Ziv’s Algorithms Have Powered Decades of Compr</title><link>https://news.panz3r.dev/post/967e3d92ff94a5c45a65a0524bb99ef9a1cd774b7c5ce22bc5cc12dc7a383218/</link><pubDate>Thu, 22 Apr 2021 07:34:39 +0000</pubDate><guid>https://news.panz3r.dev/post/967e3d92ff94a5c45a65a0524bb99ef9a1cd774b7c5ce22bc5cc12dc7a383218/</guid><description>
 Article URL: https://spectrum.ieee.org/geek-life/profiles/from-winzips-to-cat-gifs-jacob-zivs-algorithms-have-powered-decades-of-compression …</description></item><item><title>How to navigate directories faster with Bash (2015)</title><link>https://news.panz3r.dev/post/cc24bbd61f08c8667bbcb80a246916a8cdab0097c848682031e5194cc8e1c745/</link><pubDate>Thu, 22 Apr 2021 06:42:51 +0000</pubDate><guid>https://news.panz3r.dev/post/cc24bbd61f08c8667bbcb80a246916a8cdab0097c848682031e5194cc8e1c745/</guid><description>
 Article URL: https://mhoffman.github.io/2015/05/21/how-to-navigate-directories-with-the-shell.html
 Comments URL: …</description></item><item><title>Employee accused of skipping work for 15 years</title><link>https://news.panz3r.dev/post/46e9a5676d8103b0123f37a9eb6adb5b29ae1d9b4b68657d23621fbeb6086088/</link><pubDate>Thu, 22 Apr 2021 06:25:18 +0000</pubDate><guid>https://news.panz3r.dev/post/46e9a5676d8103b0123f37a9eb6adb5b29ae1d9b4b68657d23621fbeb6086088/</guid><description>
@@ -523,34 +552,4 @@ Points: 224
 Article URL: https://www.pspad.com/en/
 Comments URL: https://news.ycombinator.com/item?id=26871558
 Points: 62
-# Comments: 76</description></item><item><title>Understanding Indirect Time-of-Flight Depth Sensing</title><link>https://news.panz3r.dev/post/21d75068dd6a79b36989b6c37ed38b1a2347076e87d066acf919774a79776493/</link><pubDate>Tue, 20 Apr 2021 05:59:49 +0000</pubDate><guid>https://news.panz3r.dev/post/21d75068dd6a79b36989b6c37ed38b1a2347076e87d066acf919774a79776493/</guid><description>
-Article URL: https://devblogs.microsoft.com/azure-depth-platform/understanding-indirect-tof-depth-sensing/
-Comments URL: …</description></item><item><title>Home ownership is the West’s biggest economic-policy mistake</title><link>https://news.panz3r.dev/post/91dbd4a3e19721bf5b2f5a4592bd9218c3a57f7faa49ad163c5265d38352a6d0/</link><pubDate>Tue, 20 Apr 2021 05:58:56 +0000</pubDate><guid>https://news.panz3r.dev/post/91dbd4a3e19721bf5b2f5a4592bd9218c3a57f7faa49ad163c5265d38352a6d0/</guid><description>
-Article URL: https://www.economist.com/leaders/2020/01/16/home-ownership-is-the-wests-biggest-economic-policy-mistake
-Comments URL: …</description></item><item><title>FiiO M3K review – a pocketable-high quality audio player (2018)</title><link>https://news.panz3r.dev/post/a841b668dfa1aaecff8b5badbcc35f642448e2d422cf376408b3d8bf0e6e6bd9/</link><pubDate>Tue, 20 Apr 2021 05:05:54 +0000</pubDate><guid>https://news.panz3r.dev/post/a841b668dfa1aaecff8b5badbcc35f642448e2d422cf376408b3d8bf0e6e6bd9/</guid><description>
-Article URL: https://accessibleaudio.co/2018/12/27/fiio-m3k-review-a-pocketable-high-quality-audio-player/
-Comments URL: …</description></item><item><title>The Endless Acid Banger: algorithmic self-composing acid techno music</title><link>https://news.panz3r.dev/post/75441888a0d3604547e896593698ab989c55bd633cb6d4fdfc6296cbb0d8e7a9/</link><pubDate>Tue, 20 Apr 2021 04:28:29 +0000</pubDate><guid>https://news.panz3r.dev/post/75441888a0d3604547e896593698ab989c55bd633cb6d4fdfc6296cbb0d8e7a9/</guid><description>
-Article URL: https://www.vitling.xyz/toys/acid-banger/
-Comments URL: https://news.ycombinator.com/item?id=26870666
-Points: 886
-# Comments: …</description></item><item><title>Neighbour manages to pollute the 2.4 ghz spectrum with his 120 IoT devices</title><link>https://news.panz3r.dev/post/d2b04369325018acd892378fce5b980ea23f4f1f96166475a883bca91b3e5e15/</link><pubDate>Tue, 20 Apr 2021 04:02:03 +0000</pubDate><guid>https://news.panz3r.dev/post/d2b04369325018acd892378fce5b980ea23f4f1f96166475a883bca91b3e5e15/</guid><description>
-Article URL: https://devrant.com/rants/4186069/dev-my-neighbours-have-so-many-fucking-iot-devices-that-they-basically-fuck-over
-Comments …</description></item><item><title>IBM employee forced to stop kernel work for using personal email address</title><link>https://news.panz3r.dev/post/1bfdc2a6424c0d0831b45309c0f3c799dbfa42be88ddbae25087d3fabcd5f594/</link><pubDate>Tue, 20 Apr 2021 01:49:50 +0000</pubDate><guid>https://news.panz3r.dev/post/1bfdc2a6424c0d0831b45309c0f3c799dbfa42be88ddbae25087d3fabcd5f594/</guid><description>
-Article URL: https://git.kernel.org/pub/scm/linux/kernel/git/netdev/net.git/commit/?id=4acd47644ef1e1c8f8f5bc40b7cf1c5b9bcbbc4e
-Comments …</description></item><item><title>The Hotdog web browser and browser engine</title><link>https://news.panz3r.dev/post/1961d29294a19c3d242041d7070427e50ec05cec8271832d064479c2615d26b9/</link><pubDate>Tue, 20 Apr 2021 01:35:00 +0000</pubDate><guid>https://news.panz3r.dev/post/1961d29294a19c3d242041d7070427e50ec05cec8271832d064479c2615d26b9/</guid><description>
-Article URL: https://github.com/danfragoso/thdwb
-Comments URL: https://news.ycombinator.com/item?id=26869814
-Points: 161
-# Comments: 73</description></item><item><title>OpenSSH 8.6 Released</title><link>https://news.panz3r.dev/post/b8f6812a398161c0d4dcec5041ce8b65ac2f586052a7035b2f90e729007b3f3b/</link><pubDate>Tue, 20 Apr 2021 01:19:44 +0000</pubDate><guid>https://news.panz3r.dev/post/b8f6812a398161c0d4dcec5041ce8b65ac2f586052a7035b2f90e729007b3f3b/</guid><description>
-Article URL: https://lwn.net/Articles/853445/
-Comments URL: https://news.ycombinator.com/item?id=26869735
-Points: 60
-# Comments: 14</description></item><item><title>Shadow Simulator – run real applications over a simulated Internet topology</title><link>https://news.panz3r.dev/post/1fa6d7bdc8f5142a9c1453ca420b5b2a15acbbdd8562ec3307f54a459d166770/</link><pubDate>Tue, 20 Apr 2021 00:28:27 +0000</pubDate><guid>https://news.panz3r.dev/post/1fa6d7bdc8f5142a9c1453ca420b5b2a15acbbdd8562ec3307f54a459d166770/</guid><description>
-Article URL: https://shadow.github.io/
-Comments URL: https://news.ycombinator.com/item?id=26869398
-Points: 114
-# Comments: 9</description></item><item><title>Software Infrastructure 2.0: A Wishlist</title><link>https://news.panz3r.dev/post/162fa2817c5efb709eaf98739f10204bd5ece302c8897fe7cb71c044799aa609/</link><pubDate>Mon, 19 Apr 2021 23:31:57 +0000</pubDate><guid>https://news.panz3r.dev/post/162fa2817c5efb709eaf98739f10204bd5ece302c8897fe7cb71c044799aa609/</guid><description>
-Article URL: https://erikbern.com/2021/04/19/software-infrastructure-2.0-a-wishlist.html
-Comments URL: …</description></item><item><title>Book review on the history of modern Singapore</title><link>https://news.panz3r.dev/post/f988d3bf958d60857fc8980d6487764a12bddc3e867177abdfa8b7fc11731b4b/</link><pubDate>Mon, 19 Apr 2021 23:21:10 +0000</pubDate><guid>https://news.panz3r.dev/post/f988d3bf958d60857fc8980d6487764a12bddc3e867177abdfa8b7fc11731b4b/</guid><description>
-Article URL: https://www.lrb.co.uk/the-paper/v43/n06/thomas-meaney/the-bayswater-grocer
-Comments URL: …</description></item></channel></rss>
+# Comments: 76</description></item></channel></rss>

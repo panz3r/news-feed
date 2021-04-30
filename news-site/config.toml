@@ -2,7 +2,7 @@ baseURL = "https://news.panz3r.dev/"
 languageCode = "en-us"
 title = "Panz3r News"
 theme = "hugo-vitae"
-paginate = 10
+paginate = 100
 enableRobotsTXT = true
 
 copyright = "[Panz3r](https://github.com/panz3r) 2021 | [Vitae](https://github.com/panz3r/hugo-vitae) theme for [Hugo](https://gohugo.io)"

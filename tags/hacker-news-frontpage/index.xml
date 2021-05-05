@@ -1,13 +1,46 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hacker-News-Frontpage on Panz3r News</title><link>https://news.panz3r.dev/tags/hacker-news-frontpage/</link><description>Recent content in Hacker-News-Frontpage on news.panz3r.dev</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Panz3r 2021 | Vitae theme for Hugo</copyright><lastBuildDate>Wed, 05 May 2021 08:22:47 +0000</lastBuildDate><atom:link href="https://news.panz3r.dev/tags/hacker-news-frontpage/index.xml" rel="self" type="application/rss+xml"/><item><title>Netflix IT exec forced employees to use products from vendors that bribed him</title><link>https://news.panz3r.dev/post/f43dc58db915c32bb797e614694d15e3ba0a630205d50c077ee704f5a7ae0823/</link><pubDate>Wed, 05 May 2021 08:22:47 +0000</pubDate><guid>https://news.panz3r.dev/post/f43dc58db915c32bb797e614694d15e3ba0a630205d50c077ee704f5a7ae0823/</guid><description>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hacker-News-Frontpage on Panz3r News</title><link>https://news.panz3r.dev/tags/hacker-news-frontpage/</link><description>Recent content in Hacker-News-Frontpage on news.panz3r.dev</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Panz3r 2021 | Vitae theme for Hugo</copyright><lastBuildDate>Wed, 05 May 2021 15:50:53 +0000</lastBuildDate><atom:link href="https://news.panz3r.dev/tags/hacker-news-frontpage/index.xml" rel="self" type="application/rss+xml"/><item><title>Orbit is now open source</title><link>https://news.panz3r.dev/post/180d25db5bd1d4f33534c11759741cc42428ec0622b98adc374be65442f6e37a/</link><pubDate>Wed, 05 May 2021 15:50:53 +0000</pubDate><guid>https://news.panz3r.dev/post/180d25db5bd1d4f33534c11759741cc42428ec0622b98adc374be65442f6e37a/</guid><description>
+Article URL: https://github.com/andymatuschak/orbit
+Comments URL: https://news.ycombinator.com/item?id=27051468
+Points: 89
+# Comments: 25</description></item><item><title>LSD, Cargo Shorts and the Fall of a High-Flying Tech CEO</title><link>https://news.panz3r.dev/post/a9c560f07a3a98f7cc727e9cc2bc9e83ad4e3fb74138458082023b2f60291088/</link><pubDate>Wed, 05 May 2021 15:38:08 +0000</pubDate><guid>https://news.panz3r.dev/post/a9c560f07a3a98f7cc727e9cc2bc9e83ad4e3fb74138458082023b2f60291088/</guid><description>
+Article URL: https://www.bloomberg.com/news/articles/2021-05-03/lsd-cargo-shorts-and-the-fall-of-a-high-flying-tech-ceo
+Comments URL: …</description></item><item><title>Show HN: I wrote the book Building Mobile Apps at Scale</title><link>https://news.panz3r.dev/post/b2ac27d000ccdc16b0969cad1134dd8b28176c530f66f74d049cae81a9027fb2/</link><pubDate>Wed, 05 May 2021 15:05:40 +0000</pubDate><guid>https://news.panz3r.dev/post/b2ac27d000ccdc16b0969cad1134dd8b28176c530f66f74d049cae81a9027fb2/</guid><description>
+Article URL: http://mobileatscale.com/
+Comments URL: https://news.ycombinator.com/item?id=27050801
+Points: 70
+# Comments: 12</description></item><item><title>PlayCanvas Launches Node-Based Animation Editor for WebGL</title><link>https://news.panz3r.dev/post/ca1a58bed8e8c384b5cf15d274befb21028d96b3c951bfecc6db07656202c857/</link><pubDate>Wed, 05 May 2021 15:00:34 +0000</pubDate><guid>https://news.panz3r.dev/post/ca1a58bed8e8c384b5cf15d274befb21028d96b3c951bfecc6db07656202c857/</guid><description>
+Article URL: https://blog.playcanvas.com/introducing-the-anim-state-graph/
+Comments URL: https://news.ycombinator.com/item?id=27050731 …</description></item><item><title>TimescaleDB raises $40M</title><link>https://news.panz3r.dev/post/cc0c0b52861d77e30d4f0c5dd038c86db3ca551d17c4ef0e7d8e6f3516d4ab16/</link><pubDate>Wed, 05 May 2021 14:13:53 +0000</pubDate><guid>https://news.panz3r.dev/post/cc0c0b52861d77e30d4f0c5dd038c86db3ca551d17c4ef0e7d8e6f3516d4ab16/</guid><description>
+Article URL: https://blog.timescale.com/blog/40-million-to-help-developers-measure-everything-that-matters/
+Comments URL: …</description></item><item><title>Peloton recalling all treadmills after reports of injuries, one death</title><link>https://news.panz3r.dev/post/bd40aff03f3497042da557d8a156b820ecae9ac31a7ff34e52b19006f897e1dd/</link><pubDate>Wed, 05 May 2021 14:07:36 +0000</pubDate><guid>https://news.panz3r.dev/post/bd40aff03f3497042da557d8a156b820ecae9ac31a7ff34e52b19006f897e1dd/</guid><description>
+Article URL: https://www.cnbc.com/2021/05/05/peloton-recalling-all-treadmills-after-reports-of-injuries-one-death.html
+Comments URL: …</description></item><item><title>White House eyes subsidies for nuclear plants to help meet climate targets</title><link>https://news.panz3r.dev/post/e455282239934532ebca083cb23df8edf5ccf9c6d688d57b198c67c55f5da81e/</link><pubDate>Wed, 05 May 2021 13:14:25 +0000</pubDate><guid>https://news.panz3r.dev/post/e455282239934532ebca083cb23df8edf5ccf9c6d688d57b198c67c55f5da81e/</guid><description>
+Article URL: …</description></item><item><title>Go proposal: new package to provide generic slice functions</title><link>https://news.panz3r.dev/post/7382e6188b52a5d9c9223eead8e5b0b2bdc32dafef15b34404b76be7ff78066b/</link><pubDate>Wed, 05 May 2021 11:23:54 +0000</pubDate><guid>https://news.panz3r.dev/post/7382e6188b52a5d9c9223eead8e5b0b2bdc32dafef15b34404b76be7ff78066b/</guid><description>
+Article URL: https://github.com/golang/go/issues/45955
+Comments URL: https://news.ycombinator.com/item?id=27048531
+Points: 156
+# Comments: …</description></item><item><title>Tesla Car Hacked Remotely from Drone via Zero-Click Exploit</title><link>https://news.panz3r.dev/post/b460bf51585f4f38e17d45642f8651bf520bceaa1058f7d7bcfb746301aeb303/</link><pubDate>Wed, 05 May 2021 10:34:47 +0000</pubDate><guid>https://news.panz3r.dev/post/b460bf51585f4f38e17d45642f8651bf520bceaa1058f7d7bcfb746301aeb303/</guid><description>
+Article URL: https://www.securityweek.com/tesla-car-hacked-remotely-drone-zero-click-exploit
+Comments URL: …</description></item><item><title>Show HN: Split-Grid Generator</title><link>https://news.panz3r.dev/post/4a8979dae791d9dbb3ba5d2d4723803d8792a54d6f99c965fdcc1d799f54510e/</link><pubDate>Wed, 05 May 2021 10:34:08 +0000</pubDate><guid>https://news.panz3r.dev/post/4a8979dae791d9dbb3ba5d2d4723803d8792a54d6f99c965fdcc1d799f54510e/</guid><description>
+Article URL: https://split.js.org/#/split-grid
+Comments URL: https://news.ycombinator.com/item?id=27048269
+Points: 76
+# Comments: 9</description></item><item><title>National Artificial Intelligence Initiative</title><link>https://news.panz3r.dev/post/8d001397d1efef7e62ac583aaabe8ef3299c7bb5ccf93cff3be125d255d3499c/</link><pubDate>Wed, 05 May 2021 09:56:55 +0000</pubDate><guid>https://news.panz3r.dev/post/8d001397d1efef7e62ac583aaabe8ef3299c7bb5ccf93cff3be125d255d3499c/</guid><description>
+Article URL: https://www.ai.gov/
+Comments URL: https://news.ycombinator.com/item?id=27048048
+Points: 120
+# Comments: 51</description></item><item><title>SeL4 on RISC-V Verified to Binary Code</title><link>https://news.panz3r.dev/post/7a5a8efdc06a480b9e0530c5c6fdb2c6b4897f594719eaaf6cd1f834b1cdd353/</link><pubDate>Wed, 05 May 2021 08:31:39 +0000</pubDate><guid>https://news.panz3r.dev/post/7a5a8efdc06a480b9e0530c5c6fdb2c6b4897f594719eaaf6cd1f834b1cdd353/</guid><description>
+Article URL: https://microkerneldude.wordpress.com/2021/05/05/sel4-on-risc-v-verified-to-binary-code/
+Comments URL: …</description></item><item><title>Netflix IT exec forced employees to use products from vendors that bribed him</title><link>https://news.panz3r.dev/post/f43dc58db915c32bb797e614694d15e3ba0a630205d50c077ee704f5a7ae0823/</link><pubDate>Wed, 05 May 2021 08:22:47 +0000</pubDate><guid>https://news.panz3r.dev/post/f43dc58db915c32bb797e614694d15e3ba0a630205d50c077ee704f5a7ae0823/</guid><description>
 Article URL: https://arstechnica.com/tech-policy/2021/05/netflix-it-exec-forced-employees-to-use-products-from-vendors-that-bribed-him/ …</description></item><item><title>ClearURLs – automatically remove tracking elements from URLs</title><link>https://news.panz3r.dev/post/9934cb2f0840ff99740e05952193b962d4a930d65804f58868d5e19d78c7bd11/</link><pubDate>Wed, 05 May 2021 07:46:54 +0000</pubDate><guid>https://news.panz3r.dev/post/9934cb2f0840ff99740e05952193b962d4a930d65804f58868d5e19d78c7bd11/</guid><description>
 Article URL: https://github.com/ClearURLs/Addon/
 Comments URL: https://news.ycombinator.com/item?id=27047243
-Points: 134
-# Comments: 63</description></item><item><title>Doctors investigate mystery brain disease in Canada</title><link>https://news.panz3r.dev/post/0879bda34b96da8d2fdaefa996abee82348b0089a06daa5a63b50f71b3d6a899/</link><pubDate>Wed, 05 May 2021 07:29:26 +0000</pubDate><guid>https://news.panz3r.dev/post/0879bda34b96da8d2fdaefa996abee82348b0089a06daa5a63b50f71b3d6a899/</guid><description>
+Points: 537
+# Comments: 214</description></item><item><title>Doctors investigate mystery brain disease in Canada</title><link>https://news.panz3r.dev/post/0879bda34b96da8d2fdaefa996abee82348b0089a06daa5a63b50f71b3d6a899/</link><pubDate>Wed, 05 May 2021 07:29:26 +0000</pubDate><guid>https://news.panz3r.dev/post/0879bda34b96da8d2fdaefa996abee82348b0089a06daa5a63b50f71b3d6a899/</guid><description>
 Article URL: https://www.bbc.com/news/world-us-canada-56910393
 Comments URL: https://news.ycombinator.com/item?id=27047148
-Points: 93
-# …</description></item><item><title>$1 Unistroke Recognizer</title><link>https://news.panz3r.dev/post/6b601f18fd366b5f54347df379af6c5128a7d059b9e3a1c7972c15583d3579a6/</link><pubDate>Wed, 05 May 2021 06:28:55 +0000</pubDate><guid>https://news.panz3r.dev/post/6b601f18fd366b5f54347df379af6c5128a7d059b9e3a1c7972c15583d3579a6/</guid><description>
+Points: 250
+# …</description></item><item><title>$1 Unistroke Recognizer (2007)</title><link>https://news.panz3r.dev/post/6b601f18fd366b5f54347df379af6c5128a7d059b9e3a1c7972c15583d3579a6/</link><pubDate>Wed, 05 May 2021 06:28:55 +0000</pubDate><guid>https://news.panz3r.dev/post/6b601f18fd366b5f54347df379af6c5128a7d059b9e3a1c7972c15583d3579a6/</guid><description>
 Article URL: http://depts.washington.edu/acelab/proj/dollar/index.html
 Comments URL: https://news.ycombinator.com/item?id=27046822
 Points: …</description></item><item><title>Using QEMU-user emulation to reverse engineer binaries</title><link>https://news.panz3r.dev/post/17ad8d52bdc39693bc521708fca510ac0784721fcfb7a152ee04bc588e030abe/</link><pubDate>Wed, 05 May 2021 04:44:04 +0000</pubDate><guid>https://news.panz3r.dev/post/17ad8d52bdc39693bc521708fca510ac0784721fcfb7a152ee04bc588e030abe/</guid><description>
@@ -128,7 +161,11 @@ Comments URL: …</description></item><item><title>Show HN: I reverse engineered
 Article URL: https://boze.app
 Comments URL: https://news.ycombinator.com/item?id=27034904
 Points: 372
-# Comments: 180</description></item><item><title>YouTube is now building its own video-transcoding chips</title><link>https://news.panz3r.dev/post/e56bd96b6c81602f1caf458c9d01ab9d5bfaf31d9512813a2ac67165573a06da/</link><pubDate>Tue, 04 May 2021 06:31:21 +0000</pubDate><guid>https://news.panz3r.dev/post/e56bd96b6c81602f1caf458c9d01ab9d5bfaf31d9512813a2ac67165573a06da/</guid><description>
+# Comments: 180</description></item><item><title>Survival Capsule</title><link>https://news.panz3r.dev/post/174dfa3ab823e161e64dce8556478277760dc5c824a9dbba706a1ae3dc053dba/</link><pubDate>Tue, 04 May 2021 07:34:24 +0000</pubDate><guid>https://news.panz3r.dev/post/174dfa3ab823e161e64dce8556478277760dc5c824a9dbba706a1ae3dc053dba/</guid><description>
+Article URL: http://survival-capsule.com/Home.html
+Comments URL: https://news.ycombinator.com/item?id=27034871
+Points: 55
+# Comments: 46</description></item><item><title>YouTube is now building its own video-transcoding chips</title><link>https://news.panz3r.dev/post/e56bd96b6c81602f1caf458c9d01ab9d5bfaf31d9512813a2ac67165573a06da/</link><pubDate>Tue, 04 May 2021 06:31:21 +0000</pubDate><guid>https://news.panz3r.dev/post/e56bd96b6c81602f1caf458c9d01ab9d5bfaf31d9512813a2ac67165573a06da/</guid><description>
 Article URL: https://arstechnica.com/gadgets/2021/04/youtube-is-now-building-its-own-video-transcoding-chips/
 Comments URL: …</description></item><item><title>Instant replay: Debugging C and C++ programs with rr</title><link>https://news.panz3r.dev/post/ce9002b3645916e475e64aedf394ccd10a76b8c15ee499b768d7c77f66027f24/</link><pubDate>Tue, 04 May 2021 06:23:50 +0000</pubDate><guid>https://news.panz3r.dev/post/ce9002b3645916e475e64aedf394ccd10a76b8c15ee499b768d7c77f66027f24/</guid><description>
 Article URL: https://developers.redhat.com/blog/2021/05/03/instant-replay-debugging-c-and-c-programs-with-rr/
@@ -137,7 +174,8 @@ Article URL: https://www.smithsonianmag.com/smart-news/sorceresss-kit-was-discov
 Comments URL: …</description></item><item><title>Excalidraw+</title><link>https://news.panz3r.dev/post/a4d861fc6dc3e5b979e9a4df99063b923de9bcfc6def152eb727ac703c5d77d7/</link><pubDate>Tue, 04 May 2021 04:38:40 +0000</pubDate><guid>https://news.panz3r.dev/post/a4d861fc6dc3e5b979e9a4df99063b923de9bcfc6def152eb727ac703c5d77d7/</guid><description>
 Article URL: https://blog.excalidraw.com/introducing-excalidraw-plus/
 Comments URL: https://news.ycombinator.com/item?id=27034119
-Points: 71 …</description></item><item><title>The computers are getting better at writing</title><link>https://news.panz3r.dev/post/033b5c269afdac6491f2648c3cab7b5eae63c51c0ec3923f1488a51471376cd3/</link><pubDate>Tue, 04 May 2021 00:48:53 +0000</pubDate><guid>https://news.panz3r.dev/post/033b5c269afdac6491f2648c3cab7b5eae63c51c0ec3923f1488a51471376cd3/</guid><description>
+Points: 71 …</description></item><item><title>I Found My Grandpa’s Notes 20 Years After He Died</title><link>https://news.panz3r.dev/post/25b8a22da2da2ed945929fef180729c189d5089fef90e3d2cf625b4dbeade865/</link><pubDate>Tue, 04 May 2021 04:30:46 +0000</pubDate><guid>https://news.panz3r.dev/post/25b8a22da2da2ed945929fef180729c189d5089fef90e3d2cf625b4dbeade865/</guid><description>
+Article URL: https://medium.com/lessons-from-history/i-found-my-grandfathers-notes-20-years-after-he-died-here-s-what-i-learnt-b550a65069d7 …</description></item><item><title>The computers are getting better at writing</title><link>https://news.panz3r.dev/post/033b5c269afdac6491f2648c3cab7b5eae63c51c0ec3923f1488a51471376cd3/</link><pubDate>Tue, 04 May 2021 00:48:53 +0000</pubDate><guid>https://news.panz3r.dev/post/033b5c269afdac6491f2648c3cab7b5eae63c51c0ec3923f1488a51471376cd3/</guid><description>
 Article URL: https://www.newyorker.com/culture/cultural-comment/the-computers-are-getting-better-at-writing
 Comments URL: …</description></item><item><title>First genetically modified mosquitoes released in the United States</title><link>https://news.panz3r.dev/post/0c7535ceaf2be48c020218e827f9e46b7b91b22b535b2570946375a7e6106111/</link><pubDate>Tue, 04 May 2021 00:40:22 +0000</pubDate><guid>https://news.panz3r.dev/post/0c7535ceaf2be48c020218e827f9e46b7b91b22b535b2570946375a7e6106111/</guid><description>
 Article URL: https://www.nature.com/articles/d41586-021-01186-6
@@ -521,50 +559,4 @@ Comments URL: https://news.ycombinator.com/item?id=26997458 …</description></i
 Article URL: https://www.bbc.com/news/technology-56933733
 Comments URL: https://news.ycombinator.com/item?id=26997432
 Points: 115
-# …</description></item><item><title>Taiwan bans recruitment for jobs in China</title><link>https://news.panz3r.dev/post/5b8a940290f502d409f185a291bb7fe9c4a41af7af214ba622d841585667318a/</link><pubDate>Fri, 30 Apr 2021 17:01:56 +0000</pubDate><guid>https://news.panz3r.dev/post/5b8a940290f502d409f185a291bb7fe9c4a41af7af214ba622d841585667318a/</guid><description>
-Article URL: https://asia.nikkei.com/Business/Tech/Semiconductors/Taiwan-bans-recruitment-for-jobs-in-China-to-combat-brain-drain
-Comments …</description></item><item><title>Lightning, Gods, and Mushrooms (2013)</title><link>https://news.panz3r.dev/post/3510dcda6fd964c0e95a49e4d921770d1c132bd777082c564fa7608319f165fd/</link><pubDate>Fri, 30 Apr 2021 16:56:54 +0000</pubDate><guid>https://news.panz3r.dev/post/3510dcda6fd964c0e95a49e4d921770d1c132bd777082c564fa7608319f165fd/</guid><description>
-Article URL: https://blog.mycology.cornell.edu/2013/01/20/zap-lightning-gods-and-mushrooms/
-Comments URL: …</description></item><item><title>Exploiting Undocumented Hardware Blocks in the LPC55S69</title><link>https://news.panz3r.dev/post/6cd4c079f488096da8eabc73fcd2769a31561823ea6b80acd546a01386640fca/</link><pubDate>Fri, 30 Apr 2021 16:19:09 +0000</pubDate><guid>https://news.panz3r.dev/post/6cd4c079f488096da8eabc73fcd2769a31561823ea6b80acd546a01386640fca/</guid><description>
-Article URL: https://oxide.computer/blog/lpc55/
-Comments URL: https://news.ycombinator.com/item?id=26995445
-Points: 89
-# Comments: 12</description></item><item><title>Washington state approves capital gains tax</title><link>https://news.panz3r.dev/post/7d0b7bd06d6f1220dbebac7e790ed251ecfe6913e74aea1ac5727bb114db5f27/</link><pubDate>Fri, 30 Apr 2021 16:15:19 +0000</pubDate><guid>https://news.panz3r.dev/post/7d0b7bd06d6f1220dbebac7e790ed251ecfe6913e74aea1ac5727bb114db5f27/</guid><description>
-Article URL: https://www.geekwire.com/2021/washington-lawmakers-approve-capital-gains-tax-first-time-state-history/
-Comments URL: …</description></item><item><title>Everything Old Is New Again: Binary Security of WebAssembly [pdf]</title><link>https://news.panz3r.dev/post/137242df5868f4390bf3fa66a9dd843375eca489eceeb56ea2ebd5216bc81210/</link><pubDate>Fri, 30 Apr 2021 15:31:27 +0000</pubDate><guid>https://news.panz3r.dev/post/137242df5868f4390bf3fa66a9dd843375eca489eceeb56ea2ebd5216bc81210/</guid><description>
-Article URL: https://www.unibw.de/patch/papers/usenixsecurity20-wasm.pdf
-Comments URL: https://news.ycombinator.com/item?id=26994741
-Points: …</description></item><item><title>Labor shortage or terrible jobs?</title><link>https://news.panz3r.dev/post/2672ab935b5bca1ec0c532a39cb64817e74ca5aeb4fe5ba06180b78fd66f8609/</link><pubDate>Fri, 30 Apr 2021 14:51:18 +0000</pubDate><guid>https://news.panz3r.dev/post/2672ab935b5bca1ec0c532a39cb64817e74ca5aeb4fe5ba06180b78fd66f8609/</guid><description>
-Article URL: https://annehelen.substack.com/p/the-capitalism-is-broken-economy
-Comments URL: https://news.ycombinator.com/item?id=26994175 …</description></item><item><title>The 'Great Wave' has mystified art lovers for generations (2019)</title><link>https://news.panz3r.dev/post/b5281f2f2087ba3667d06ec94ff19ad389e60790fc80d7c02c831207025380c1/</link><pubDate>Fri, 30 Apr 2021 14:38:06 +0000</pubDate><guid>https://news.panz3r.dev/post/b5281f2f2087ba3667d06ec94ff19ad389e60790fc80d7c02c831207025380c1/</guid><description>
-Article URL: https://edition.cnn.com/style/article/hokusai-great-wave-ukiyo-e-woodblock/index.html
-Comments URL: …</description></item><item><title>Apple’s Notarizing</title><link>https://news.panz3r.dev/post/7acf40fa39d8b5d7e2bab2c142200b4b5588353a33bef7fcf2992806b1719944/</link><pubDate>Fri, 30 Apr 2021 14:24:03 +0000</pubDate><guid>https://news.panz3r.dev/post/7acf40fa39d8b5d7e2bab2c142200b4b5588353a33bef7fcf2992806b1719944/</guid><description>
-Article URL: https://www.cdfinder.de/guide/blog/apple_hell.html
-Comments URL: https://news.ycombinator.com/item?id=26993857
-Points: 157
-# …</description></item><item><title>It's your device, you should be able to repair it</title><link>https://news.panz3r.dev/post/70ed1747be7454c003de0f125c2ca602a0ab49be7a3ccbc8b44d188918d43a7d/</link><pubDate>Fri, 30 Apr 2021 14:20:09 +0000</pubDate><guid>https://news.panz3r.dev/post/70ed1747be7454c003de0f125c2ca602a0ab49be7a3ccbc8b44d188918d43a7d/</guid><description>
-Article URL: https://www.bbc.com/news/business-56799069
-Comments URL: https://news.ycombinator.com/item?id=26993808
-Points: 582
-# Comments: …</description></item><item><title>Apple reveals more about AirTag stalking protections</title><link>https://news.panz3r.dev/post/2ba5a72848ae6c518c81a9bfc0f4efa8bea336996044e2fc72d8ee6dd66416dc/</link><pubDate>Fri, 30 Apr 2021 14:16:10 +0000</pubDate><guid>https://news.panz3r.dev/post/2ba5a72848ae6c518c81a9bfc0f4efa8bea336996044e2fc72d8ee6dd66416dc/</guid><description>
-Article URL: https://www.fastcompany.com/90630404/apple-airtags-could-enable-domestic-abuse-in-terrifying-ways
-Comments URL: …</description></item><item><title>Launch HN: Porter (YC S20) – Open-source Heroku in your own cloud</title><link>https://news.panz3r.dev/post/81490484005452104ce0bbea251216150524af15aa850c786d4fd2a2be758177/</link><pubDate>Fri, 30 Apr 2021 13:49:04 +0000</pubDate><guid>https://news.panz3r.dev/post/81490484005452104ce0bbea251216150524af15aa850c786d4fd2a2be758177/</guid><description>
-Hi HN! We are Alexander, Justin, and Trevor from Porter. We're building a Kubernetes-based Platform as a Service (PaaS) that deploys …</description></item><item><title>A serverless email server on AWS using S3 and SES</title><link>https://news.panz3r.dev/post/f293c27b15fb15935a3e11955c00bcf9c86380ab1feba6a7f8d4aef02de1098d/</link><pubDate>Fri, 30 Apr 2021 12:52:47 +0000</pubDate><guid>https://news.panz3r.dev/post/f293c27b15fb15935a3e11955c00bcf9c86380ab1feba6a7f8d4aef02de1098d/</guid><description>
-Article URL: https://github.com/0x4447/0x4447_product_s3_email
-Comments URL: https://news.ycombinator.com/item?id=26992737
-Points: 324
-# …</description></item><item><title>YouTube TV removed from Roku channel store amid Google contract dispute</title><link>https://news.panz3r.dev/post/a7e233faa7feb1afd8e2308e30870f9e59cbe3d658dfa7fa622a723ab07e00e1/</link><pubDate>Fri, 30 Apr 2021 12:07:23 +0000</pubDate><guid>https://news.panz3r.dev/post/a7e233faa7feb1afd8e2308e30870f9e59cbe3d658dfa7fa622a723ab07e00e1/</guid><description>
-Article URL: https://www.axios.com/roku-youtube-tv-removed-google-5580ffdf-b865-428c-91ca-8ad83802fedf.html
-Comments URL: …</description></item><item><title>Squoosh: Make images smaller using best-in-class codecs, right in the browser</title><link>https://news.panz3r.dev/post/82f62e2e95f6b3b37dd57578040c35f7747dca1eb6c76108b4946da22ea4ee1f/</link><pubDate>Fri, 30 Apr 2021 11:57:39 +0000</pubDate><guid>https://news.panz3r.dev/post/82f62e2e95f6b3b37dd57578040c35f7747dca1eb6c76108b4946da22ea4ee1f/</guid><description>
-Article URL: https://squoosh.app/
-Comments URL: https://news.ycombinator.com/item?id=26992277
-Points: 195
-# Comments: 61</description></item><item><title>Perfectly Ordinary Stones, Carried for 1,300 Years (2014)</title><link>https://news.panz3r.dev/post/89499b7ffb46b3efeac1a1c208e6d892aebf760c5d12f812826752bf73d35997/</link><pubDate>Fri, 30 Apr 2021 11:50:40 +0000</pubDate><guid>https://news.panz3r.dev/post/89499b7ffb46b3efeac1a1c208e6d892aebf760c5d12f812826752bf73d35997/</guid><description>
-Article URL: https://ishimochi.com/
-Comments URL: https://news.ycombinator.com/item?id=26992218
-Points: 76
-# Comments: 40</description></item><item><title>Stock Market Returns Are Anything but Average</title><link>https://news.panz3r.dev/post/21953abf832233cba2da7cb1f4bc4bd20638abf0db9ac23ea9deff897d166563/</link><pubDate>Fri, 30 Apr 2021 11:48:27 +0000</pubDate><guid>https://news.panz3r.dev/post/21953abf832233cba2da7cb1f4bc4bd20638abf0db9ac23ea9deff897d166563/</guid><description>
-Article URL: https://awealthofcommonsense.com/2021/04/stock-market-returns-are-anything-but-average/
-Comments URL: …</description></item><item><title>A Gambler Who Cracked the Horse-Racing Code (2018)</title><link>https://news.panz3r.dev/post/2f4d228764dbd933654922c936d80c258e67c15570e5a0d6038194db08068f9b/</link><pubDate>Fri, 30 Apr 2021 11:28:51 +0000</pubDate><guid>https://news.panz3r.dev/post/2f4d228764dbd933654922c936d80c258e67c15570e5a0d6038194db08068f9b/</guid><description>
-Article URL: https://www.bloomberg.com/news/features/2018-05-03/the-gambler-who-cracked-the-horse-racing-code
-Comments URL: …</description></item></channel></rss>
+# …</description></item></channel></rss>

@@ -1,39 +1,53 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hacker-News-Frontpage on Panz3r News</title><link>https://news.panz3r.dev/tags/hacker-news-frontpage/</link><description>Recent content in Hacker-News-Frontpage on news.panz3r.dev</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Panz3r 2021 | Vitae theme for Hugo</copyright><lastBuildDate>Mon, 10 May 2021 02:18:54 +0000</lastBuildDate><atom:link href="https://news.panz3r.dev/tags/hacker-news-frontpage/index.xml" rel="self" type="application/rss+xml"/><item><title>Tell HN: Don't put your status page on the same domain as your app</title><link>https://news.panz3r.dev/post/9948ac85291cc5973689c4316627ad046a03282d0794006b293588ccd2d3d17b/</link><pubDate>Mon, 10 May 2021 02:18:54 +0000</pubDate><guid>https://news.panz3r.dev/post/9948ac85291cc5973689c4316627ad046a03282d0794006b293588ccd2d3d17b/</guid><description>
-If your status page returns a 502 at the same time that your app returns a 502, you might be in trouble. https://status.discord.com/ really …</description></item><item><title>Why I Love Coding (2012)</title><link>https://news.panz3r.dev/post/faf24e1e3538cae78b9eb4a0dd43be5a43327baa3aea715dfe979e77f92ba222/</link><pubDate>Mon, 10 May 2021 01:43:42 +0000</pubDate><guid>https://news.panz3r.dev/post/faf24e1e3538cae78b9eb4a0dd43be5a43327baa3aea715dfe979e77f92ba222/</guid><description>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hacker-News-Frontpage on Panz3r News</title><link>https://news.panz3r.dev/tags/hacker-news-frontpage/</link><description>Recent content in Hacker-News-Frontpage on news.panz3r.dev</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Panz3r 2021 | Vitae theme for Hugo</copyright><lastBuildDate>Mon, 10 May 2021 06:16:31 +0000</lastBuildDate><atom:link href="https://news.panz3r.dev/tags/hacker-news-frontpage/index.xml" rel="self" type="application/rss+xml"/><item><title>The word “decide” has deadly origins</title><link>https://news.panz3r.dev/post/ec809856d0e475e972e73de71565746c9d5c8430074d669534453ed9605ebac5/</link><pubDate>Mon, 10 May 2021 06:16:31 +0000</pubDate><guid>https://news.panz3r.dev/post/ec809856d0e475e972e73de71565746c9d5c8430074d669534453ed9605ebac5/</guid><description>
+Article URL: https://www.etymologynerd.com/blog/choices
+Comments URL: https://news.ycombinator.com/item?id=27103230
+Points: 151
+# Comments: …</description></item><item><title>Teeing, a hidden gem in the Java API</title><link>https://news.panz3r.dev/post/a2888cd6c16cb198866cc4750c936ffbd251e49d93f9af4442aa14064cc457bd/</link><pubDate>Mon, 10 May 2021 05:30:28 +0000</pubDate><guid>https://news.panz3r.dev/post/a2888cd6c16cb198866cc4750c936ffbd251e49d93f9af4442aa14064cc457bd/</guid><description>
+Article URL: https://blog.frankel.ch/teeing-java-api/
+Comments URL: https://news.ycombinator.com/item?id=27103033
+Points: 140
+# Comments: 41 …</description></item><item><title>Adding ANSI C11 C compiler to D so it can import and compile C files directly</title><link>https://news.panz3r.dev/post/89b7fdc4b868c06944c0b3ff9854ef327fbca39307970ae3a57d6edafb2a54a2/</link><pubDate>Mon, 10 May 2021 04:06:57 +0000</pubDate><guid>https://news.panz3r.dev/post/89b7fdc4b868c06944c0b3ff9854ef327fbca39307970ae3a57d6edafb2a54a2/</guid><description>
+Article URL: https://github.com/dlang/dmd/pull/12507
+Comments URL: https://news.ycombinator.com/item?id=27102584
+Points: 82
+# Comments: 39</description></item><item><title>Tell HN: Don't put your status page on the same domain as your app</title><link>https://news.panz3r.dev/post/9948ac85291cc5973689c4316627ad046a03282d0794006b293588ccd2d3d17b/</link><pubDate>Mon, 10 May 2021 02:18:54 +0000</pubDate><guid>https://news.panz3r.dev/post/9948ac85291cc5973689c4316627ad046a03282d0794006b293588ccd2d3d17b/</guid><description>
+If your status page returns a 502 at the same time that your app returns a 502, you might be in trouble. https://status.discord.com/ really …</description></item><item><title>The mortifying ordeal of pairing all day</title><link>https://news.panz3r.dev/post/c212cf7205123b3078f1b573ff35f25ee43121cce819f78e324b253e29786d53/</link><pubDate>Mon, 10 May 2021 01:44:15 +0000</pubDate><guid>https://news.panz3r.dev/post/c212cf7205123b3078f1b573ff35f25ee43121cce819f78e324b253e29786d53/</guid><description>
+Article URL: https://www.simplermachines.com/the-mortifying-ordeal-of-pairing-all-day/
+Comments URL: …</description></item><item><title>Why I Love Coding (2012)</title><link>https://news.panz3r.dev/post/faf24e1e3538cae78b9eb4a0dd43be5a43327baa3aea715dfe979e77f92ba222/</link><pubDate>Mon, 10 May 2021 01:43:42 +0000</pubDate><guid>https://news.panz3r.dev/post/faf24e1e3538cae78b9eb4a0dd43be5a43327baa3aea715dfe979e77f92ba222/</guid><description>
 Article URL: https://henrikwarne.com/2012/06/02/why-i-love-coding/
 Comments URL: https://news.ycombinator.com/item?id=27101805
-Points: 88
+Points: 155
 # …</description></item><item><title>US passes emergency waiver over fuel pipeline cyber-attack</title><link>https://news.panz3r.dev/post/c272c322d320e685678831085d052e5abbd90e01f6c595373f8f7f3be7c15de7/</link><pubDate>Mon, 10 May 2021 00:00:56 +0000</pubDate><guid>https://news.panz3r.dev/post/c272c322d320e685678831085d052e5abbd90e01f6c595373f8f7f3be7c15de7/</guid><description>
 Article URL: https://www.bbc.com/news/business-57050690
 Comments URL: https://news.ycombinator.com/item?id=27101092
-Points: 500
+Points: 546
 # Comments: …</description></item><item><title>Simple bank shutdown goes awry, leaving customers without account access</title><link>https://news.panz3r.dev/post/3fc40ea52ca7c3a0c634d3595ab296decfb421d96a6da635bda490a36bc4b6cf/</link><pubDate>Sun, 09 May 2021 22:53:45 +0000</pubDate><guid>https://news.panz3r.dev/post/3fc40ea52ca7c3a0c634d3595ab296decfb421d96a6da635bda490a36bc4b6cf/</guid><description>
 Article URL: https://www.theverge.com/2021/5/9/22427811/simple-bbva-transition-errors-bank-shutdown
 Comments URL: …</description></item><item><title>The Animal Is Tired</title><link>https://news.panz3r.dev/post/09f52a40ec0907acde94c5544664b5da741f1f16f816408281e915092949e631/</link><pubDate>Sun, 09 May 2021 22:11:18 +0000</pubDate><guid>https://news.panz3r.dev/post/09f52a40ec0907acde94c5544664b5da741f1f16f816408281e915092949e631/</guid><description>
 Article URL: http://www.robinhobb.com/blog/posts/38429
 Comments URL: https://news.ycombinator.com/item?id=27100299
-Points: 603
+Points: 823
 # Comments: …</description></item><item><title>Objective-S: architecture-oriented language based on Smalltalk and Objective-C</title><link>https://news.panz3r.dev/post/3ada735649575b291c5a474b786e9a2a32de2d3bf35bb182edc074468e8e28fa/</link><pubDate>Sun, 09 May 2021 22:05:53 +0000</pubDate><guid>https://news.panz3r.dev/post/3ada735649575b291c5a474b786e9a2a32de2d3bf35bb182edc074468e8e28fa/</guid><description>
 Article URL: http://objective.st/
 Comments URL: https://news.ycombinator.com/item?id=27100272
-Points: 72
-# Comments: 18</description></item><item><title>Why do we buy into the 'cult' of overwork?</title><link>https://news.panz3r.dev/post/33e74bfcaf7c3a9e78dc4f9cf7ea00f0c305bb84923dd95801f51bab7ba67e1b/</link><pubDate>Sun, 09 May 2021 21:28:03 +0000</pubDate><guid>https://news.panz3r.dev/post/33e74bfcaf7c3a9e78dc4f9cf7ea00f0c305bb84923dd95801f51bab7ba67e1b/</guid><description>
+Points: 94
+# Comments: 32</description></item><item><title>Why do we buy into the 'cult' of overwork?</title><link>https://news.panz3r.dev/post/33e74bfcaf7c3a9e78dc4f9cf7ea00f0c305bb84923dd95801f51bab7ba67e1b/</link><pubDate>Sun, 09 May 2021 21:28:03 +0000</pubDate><guid>https://news.panz3r.dev/post/33e74bfcaf7c3a9e78dc4f9cf7ea00f0c305bb84923dd95801f51bab7ba67e1b/</guid><description>
 Article URL: https://www.bbc.com/worklife/article/20210507-why-we-glorify-the-cult-of-burnout-and-overwork
 Comments URL: …</description></item><item><title>New York Attorney General declares top ISPs committed net neutrality fraud</title><link>https://news.panz3r.dev/post/940afd6d75c8339999da11540d60075b5a1c7aaab465d33e5df5eaa533970514/</link><pubDate>Sun, 09 May 2021 21:05:25 +0000</pubDate><guid>https://news.panz3r.dev/post/940afd6d75c8339999da11540d60075b5a1c7aaab465d33e5df5eaa533970514/</guid><description>
 Article URL: https://www.zdnet.com/article/new-york-attorney-general-declares-top-isps-committed-net-neutrality-fraud/
 Comments URL: …</description></item><item><title>The Ultimate Guide to Inflation</title><link>https://news.panz3r.dev/post/3aed1761803621bd0ac3ba3f13094195d79c22f844da0fc0cb433ca7d41dc3ac/</link><pubDate>Sun, 09 May 2021 20:42:17 +0000</pubDate><guid>https://news.panz3r.dev/post/3aed1761803621bd0ac3ba3f13094195d79c22f844da0fc0cb433ca7d41dc3ac/</guid><description>
 Article URL: https://www.lynalden.com/inflation/
 Comments URL: https://news.ycombinator.com/item?id=27099536
-Points: 429
-# Comments: 207</description></item><item><title>Beautiful Italian towns will pay you to work remotely</title><link>https://news.panz3r.dev/post/985b1200559ebbd5285227b0576ddd098f6ed2b9f70e23d4595811fa8123f95c/</link><pubDate>Sun, 09 May 2021 20:21:30 +0000</pubDate><guid>https://news.panz3r.dev/post/985b1200559ebbd5285227b0576ddd098f6ed2b9f70e23d4595811fa8123f95c/</guid><description>
+Points: 546
+# Comments: 266</description></item><item><title>Beautiful Italian towns will pay you to work remotely</title><link>https://news.panz3r.dev/post/985b1200559ebbd5285227b0576ddd098f6ed2b9f70e23d4595811fa8123f95c/</link><pubDate>Sun, 09 May 2021 20:21:30 +0000</pubDate><guid>https://news.panz3r.dev/post/985b1200559ebbd5285227b0576ddd098f6ed2b9f70e23d4595811fa8123f95c/</guid><description>
 Article URL: https://edition.cnn.com/travel/article/italy-towns-pay-remote-working-cmd/index.html
 Comments URL: …</description></item><item><title>Introduction to Security Good Practices</title><link>https://news.panz3r.dev/post/6a33bbe8292ae3fa815e8480691753d7b11437658284a4c25b5fd2132fedaaed/</link><pubDate>Sun, 09 May 2021 19:39:41 +0000</pubDate><guid>https://news.panz3r.dev/post/6a33bbe8292ae3fa815e8480691753d7b11437658284a4c25b5fd2132fedaaed/</guid><description>
 Article URL: https://dataswamp.org/~solene/2021-05-09-introduction-to-security.html
 Comments URL: …</description></item><item><title>PocketPCR</title><link>https://news.panz3r.dev/post/7c6409ad52b410b568bf7369adcf898dc34da3409eebcbf8ef4d671ebc1ab0b7/</link><pubDate>Sun, 09 May 2021 19:36:33 +0000</pubDate><guid>https://news.panz3r.dev/post/7c6409ad52b410b568bf7369adcf898dc34da3409eebcbf8ef4d671ebc1ab0b7/</guid><description>
 Article URL: https://gaudi.ch/PocketPCR/
 Comments URL: https://news.ycombinator.com/item?id=27098999
-Points: 69
-# Comments: 13</description></item><item><title>History of RSpec</title><link>https://news.panz3r.dev/post/5a67f476ad296fa713e1b8eb560cebeef10df32e17eb588c7747ed76107edf8a/</link><pubDate>Sun, 09 May 2021 18:05:00 +0000</pubDate><guid>https://news.panz3r.dev/post/5a67f476ad296fa713e1b8eb560cebeef10df32e17eb588c7747ed76107edf8a/</guid><description>
+Points: 109
+# Comments: 24</description></item><item><title>History of RSpec</title><link>https://news.panz3r.dev/post/5a67f476ad296fa713e1b8eb560cebeef10df32e17eb588c7747ed76107edf8a/</link><pubDate>Sun, 09 May 2021 18:05:00 +0000</pubDate><guid>https://news.panz3r.dev/post/5a67f476ad296fa713e1b8eb560cebeef10df32e17eb588c7747ed76107edf8a/</guid><description>
 Article URL: https://www.stevenrbaker.com/tech/history-of-rspec.html
 Comments URL: https://news.ycombinator.com/item?id=27098157
 Points: 69 …</description></item><item><title>Why is it a bad idea to filter by zeroing out FFT bins? (2020)</title><link>https://news.panz3r.dev/post/1c468764cb104c533adde847a216dfc6bfcfdd2b10f365dac8a7fdaf8565d075/</link><pubDate>Sun, 09 May 2021 17:19:10 +0000</pubDate><guid>https://news.panz3r.dev/post/1c468764cb104c533adde847a216dfc6bfcfdd2b10f365dac8a7fdaf8565d075/</guid><description>
@@ -197,8 +211,8 @@ Article URL: https://education.ti.com/en/products/calculators/graphing-calculato
 Comments URL: …</description></item><item><title>Show HN: RonDB – fast key-value database in the cloud</title><link>https://news.panz3r.dev/post/18228620b1c2beef041bba29a3f0216a066945a4cbec4c4878a5f626480659b6/</link><pubDate>Sat, 08 May 2021 05:57:21 +0000</pubDate><guid>https://news.panz3r.dev/post/18228620b1c2beef041bba29a3f0216a066945a4cbec4c4878a5f626480659b6/</guid><description>
 Article URL: https://www.rondb.com/
 Comments URL: https://news.ycombinator.com/item?id=27084333
-Points: 75
-# Comments: 20</description></item><item><title>Grazing Goat Problems</title><link>https://news.panz3r.dev/post/3d8204c2ae48f4587e4ea720459ff65a32abb75bd719ebb3399964ddace2adec/</link><pubDate>Sat, 08 May 2021 04:25:13 +0000</pubDate><guid>https://news.panz3r.dev/post/3d8204c2ae48f4587e4ea720459ff65a32abb75bd719ebb3399964ddace2adec/</guid><description>
+Points: 98
+# Comments: 32</description></item><item><title>Grazing Goat Problems</title><link>https://news.panz3r.dev/post/3d8204c2ae48f4587e4ea720459ff65a32abb75bd719ebb3399964ddace2adec/</link><pubDate>Sat, 08 May 2021 04:25:13 +0000</pubDate><guid>https://news.panz3r.dev/post/3d8204c2ae48f4587e4ea720459ff65a32abb75bd719ebb3399964ddace2adec/</guid><description>
 Article URL: https://www.quantamagazine.org/solve-math-equations-that-are-stubborn-as-a-goat-20210506/
 Comments URL: …</description></item><item><title>iPad Camera Multitasking</title><link>https://news.panz3r.dev/post/0643570dac02acefb1606e3cd46b78280f7bda0aa1644775bb18eb6ea35c6d10/</link><pubDate>Sat, 08 May 2021 04:16:33 +0000</pubDate><guid>https://news.panz3r.dev/post/0643570dac02acefb1606e3cd46b78280f7bda0aa1644775bb18eb6ea35c6d10/</guid><description>
 Article URL: https://blog.thinktapwork.com/post/649630720084639744/ipad-camera-multitasking
@@ -302,8 +316,8 @@ Points: 60
 # Comments: 11</description></item><item><title>Shelljs – Portable Unix shell commands for Node.js</title><link>https://news.panz3r.dev/post/5aed212045cdaf1b6ff8101188efa4b9b9d4dfe3712f2be239aceb479c4e2120/</link><pubDate>Fri, 07 May 2021 07:17:09 +0000</pubDate><guid>https://news.panz3r.dev/post/5aed212045cdaf1b6ff8101188efa4b9b9d4dfe3712f2be239aceb479c4e2120/</guid><description>
 Article URL: https://github.com/shelljs/shelljs
 Comments URL: https://news.ycombinator.com/item?id=27073217
-Points: 99
-# Comments: 42</description></item><item><title>Worg (Emacs Org documentation) maintainer needed</title><link>https://news.panz3r.dev/post/a1d6b70b6636f30f0eff9733544ef32a6f7093a2ee701bc344c9ed2307792528/</link><pubDate>Fri, 07 May 2021 06:54:18 +0000</pubDate><guid>https://news.panz3r.dev/post/a1d6b70b6636f30f0eff9733544ef32a6f7093a2ee701bc344c9ed2307792528/</guid><description>
+Points: 111
+# Comments: 53</description></item><item><title>Worg (Emacs Org documentation) maintainer needed</title><link>https://news.panz3r.dev/post/a1d6b70b6636f30f0eff9733544ef32a6f7093a2ee701bc344c9ed2307792528/</link><pubDate>Fri, 07 May 2021 06:54:18 +0000</pubDate><guid>https://news.panz3r.dev/post/a1d6b70b6636f30f0eff9733544ef32a6f7093a2ee701bc344c9ed2307792528/</guid><description>
 Article URL: https://orgmode.org/list/87y2ctuqcj.fsf@gnu.org/
 Comments URL: https://news.ycombinator.com/item?id=27073066
 Points: 70
@@ -564,47 +578,4 @@ Article URL: …</description></item><item><title>Go proposal: new package to pr
 Article URL: https://github.com/golang/go/issues/45955
 Comments URL: https://news.ycombinator.com/item?id=27048531
 Points: 156
-# Comments: …</description></item><item><title>A Historical Perspective on COBOL (2020)</title><link>https://news.panz3r.dev/post/91fa461d1fa68fef768a6e686a26835447627fe746eaa5ac4aee391aff408e2b/</link><pubDate>Wed, 05 May 2021 10:53:16 +0000</pubDate><guid>https://news.panz3r.dev/post/91fa461d1fa68fef768a6e686a26835447627fe746eaa5ac4aee391aff408e2b/</guid><description>
-Article URL: https://logicmag.io/care/built-to-last/
-Comments URL: https://news.ycombinator.com/item?id=27048358
-Points: 50
-# Comments: 20</description></item><item><title>Transactional memory similarity to garbage collection</title><link>https://news.panz3r.dev/post/b0770d157f295ac3fd26c58ce725be589c07ddc4f0ae4a81774461b9a749c9a9/</link><pubDate>Wed, 05 May 2021 10:49:29 +0000</pubDate><guid>https://news.panz3r.dev/post/b0770d157f295ac3fd26c58ce725be589c07ddc4f0ae4a81774461b9a749c9a9/</guid><description>
-Article URL: https://www.realworldtech.com/forum/?threadid=201184&curpostid=201369
-Comments URL: …</description></item><item><title>Tesla Car Hacked Remotely from Drone via Zero-Click Exploit</title><link>https://news.panz3r.dev/post/b460bf51585f4f38e17d45642f8651bf520bceaa1058f7d7bcfb746301aeb303/</link><pubDate>Wed, 05 May 2021 10:34:47 +0000</pubDate><guid>https://news.panz3r.dev/post/b460bf51585f4f38e17d45642f8651bf520bceaa1058f7d7bcfb746301aeb303/</guid><description>
-Article URL: https://www.securityweek.com/tesla-car-hacked-remotely-drone-zero-click-exploit
-Comments URL: …</description></item><item><title>Show HN: Split-Grid Generator</title><link>https://news.panz3r.dev/post/4a8979dae791d9dbb3ba5d2d4723803d8792a54d6f99c965fdcc1d799f54510e/</link><pubDate>Wed, 05 May 2021 10:34:08 +0000</pubDate><guid>https://news.panz3r.dev/post/4a8979dae791d9dbb3ba5d2d4723803d8792a54d6f99c965fdcc1d799f54510e/</guid><description>
-Article URL: https://split.js.org/#/split-grid
-Comments URL: https://news.ycombinator.com/item?id=27048269
-Points: 76
-# Comments: 9</description></item><item><title>Pencil Project – open-source GUI prototyping tool</title><link>https://news.panz3r.dev/post/1cf43dd39fcafdef60a52ea8a58c5581f3e5c6747cd19f1d356ee8ee55e0bbd6/</link><pubDate>Wed, 05 May 2021 10:19:40 +0000</pubDate><guid>https://news.panz3r.dev/post/1cf43dd39fcafdef60a52ea8a58c5581f3e5c6747cd19f1d356ee8ee55e0bbd6/</guid><description>
-Article URL: https://pencil.evolus.vn/
-Comments URL: https://news.ycombinator.com/item?id=27048163
-Points: 125
-# Comments: 21</description></item><item><title>National Artificial Intelligence Initiative</title><link>https://news.panz3r.dev/post/8d001397d1efef7e62ac583aaabe8ef3299c7bb5ccf93cff3be125d255d3499c/</link><pubDate>Wed, 05 May 2021 09:56:55 +0000</pubDate><guid>https://news.panz3r.dev/post/8d001397d1efef7e62ac583aaabe8ef3299c7bb5ccf93cff3be125d255d3499c/</guid><description>
-Article URL: https://www.ai.gov/
-Comments URL: https://news.ycombinator.com/item?id=27048048
-Points: 174
-# Comments: 76</description></item><item><title>The original “Hello World”: B. W. Kernighan's intro to B (1973)</title><link>https://news.panz3r.dev/post/b2d79dd34b8f5955a33354fb2d9804c0bc798a25308844581c1ecb8fd696b903/</link><pubDate>Wed, 05 May 2021 09:52:23 +0000</pubDate><guid>https://news.panz3r.dev/post/b2d79dd34b8f5955a33354fb2d9804c0bc798a25308844581c1ecb8fd696b903/</guid><description>
-Article URL: https://web.archive.org/web/20060225195733/http://cm.bell-labs.com/cm/cs/who/dmr/btut.html
-Comments URL: …</description></item><item><title>SeL4 on RISC-V Verified to Binary Code</title><link>https://news.panz3r.dev/post/7a5a8efdc06a480b9e0530c5c6fdb2c6b4897f594719eaaf6cd1f834b1cdd353/</link><pubDate>Wed, 05 May 2021 08:31:39 +0000</pubDate><guid>https://news.panz3r.dev/post/7a5a8efdc06a480b9e0530c5c6fdb2c6b4897f594719eaaf6cd1f834b1cdd353/</guid><description>
-Article URL: https://microkerneldude.wordpress.com/2021/05/05/sel4-on-risc-v-verified-to-binary-code/
-Comments URL: …</description></item><item><title>Happy Hacking: Music Implementation in NieR:Automata (2017)</title><link>https://news.panz3r.dev/post/f9efd02768d521d928c7cbd1ec44b5658ab5952ddc839feeb242fca142606688/</link><pubDate>Wed, 05 May 2021 08:27:02 +0000</pubDate><guid>https://news.panz3r.dev/post/f9efd02768d521d928c7cbd1ec44b5658ab5952ddc839feeb242fca142606688/</guid><description>
-Article URL: https://www.platinumgames.com/official-blog/article/9581
-Comments URL: https://news.ycombinator.com/item?id=27047496
-Points: …</description></item><item><title>Netflix IT exec forced employees to use products from vendors that bribed him</title><link>https://news.panz3r.dev/post/f43dc58db915c32bb797e614694d15e3ba0a630205d50c077ee704f5a7ae0823/</link><pubDate>Wed, 05 May 2021 08:22:47 +0000</pubDate><guid>https://news.panz3r.dev/post/f43dc58db915c32bb797e614694d15e3ba0a630205d50c077ee704f5a7ae0823/</guid><description>
-Article URL: https://arstechnica.com/tech-policy/2021/05/netflix-it-exec-forced-employees-to-use-products-from-vendors-that-bribed-him/ …</description></item><item><title>MindCuber for Lego Mindstorms EV3</title><link>https://news.panz3r.dev/post/49f74022f3ca03015b814264dc1a733d37b43a7dcd29c69622ea2003e2cc8354/</link><pubDate>Wed, 05 May 2021 08:06:12 +0000</pubDate><guid>https://news.panz3r.dev/post/49f74022f3ca03015b814264dc1a733d37b43a7dcd29c69622ea2003e2cc8354/</guid><description>
-Article URL: http://mindcuber.com/
-Comments URL: https://news.ycombinator.com/item?id=27047369
-Points: 50
-# Comments: 11</description></item><item><title>ClearURLs – automatically remove tracking elements from URLs</title><link>https://news.panz3r.dev/post/9934cb2f0840ff99740e05952193b962d4a930d65804f58868d5e19d78c7bd11/</link><pubDate>Wed, 05 May 2021 07:46:54 +0000</pubDate><guid>https://news.panz3r.dev/post/9934cb2f0840ff99740e05952193b962d4a930d65804f58868d5e19d78c7bd11/</guid><description>
-Article URL: https://github.com/ClearURLs/Addon/
-Comments URL: https://news.ycombinator.com/item?id=27047243
-Points: 740
-# Comments: 281</description></item><item><title>Doctors investigate mystery brain disease in Canada</title><link>https://news.panz3r.dev/post/0879bda34b96da8d2fdaefa996abee82348b0089a06daa5a63b50f71b3d6a899/</link><pubDate>Wed, 05 May 2021 07:29:26 +0000</pubDate><guid>https://news.panz3r.dev/post/0879bda34b96da8d2fdaefa996abee82348b0089a06daa5a63b50f71b3d6a899/</guid><description>
-Article URL: https://www.bbc.com/news/world-us-canada-56910393
-Comments URL: https://news.ycombinator.com/item?id=27047148
-Points: 250
-# …</description></item><item><title>$1 Unistroke Recognizer (2007)</title><link>https://news.panz3r.dev/post/6b601f18fd366b5f54347df379af6c5128a7d059b9e3a1c7972c15583d3579a6/</link><pubDate>Wed, 05 May 2021 06:28:55 +0000</pubDate><guid>https://news.panz3r.dev/post/6b601f18fd366b5f54347df379af6c5128a7d059b9e3a1c7972c15583d3579a6/</guid><description>
-Article URL: http://depts.washington.edu/acelab/proj/dollar/index.html
-Comments URL: https://news.ycombinator.com/item?id=27046822
-Points: …</description></item></channel></rss>
+# Comments: …</description></item></channel></rss>

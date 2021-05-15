@@ -1,11 +1,49 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hacker-News-Frontpage on Panz3r News</title><link>https://news.panz3r.dev/tags/hacker-news-frontpage/</link><description>Recent content in Hacker-News-Frontpage on news.panz3r.dev</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Panz3r 2021 | Vitae theme for Hugo</copyright><lastBuildDate>Sat, 15 May 2021 08:56:15 +0000</lastBuildDate><atom:link href="https://news.panz3r.dev/tags/hacker-news-frontpage/index.xml" rel="self" type="application/rss+xml"/><item><title>Anal oxygen administration may save lives</title><link>https://news.panz3r.dev/post/d4fd18a933467090abb1f568839f0918f7f003d80abf6778d8c978facb1f44f3/</link><pubDate>Sat, 15 May 2021 08:56:15 +0000</pubDate><guid>https://news.panz3r.dev/post/d4fd18a933467090abb1f568839f0918f7f003d80abf6778d8c978facb1f44f3/</guid><description>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hacker-News-Frontpage on Panz3r News</title><link>https://news.panz3r.dev/tags/hacker-news-frontpage/</link><description>Recent content in Hacker-News-Frontpage on news.panz3r.dev</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Panz3r 2021 | Vitae theme for Hugo</copyright><lastBuildDate>Sat, 15 May 2021 15:40:54 +0000</lastBuildDate><atom:link href="https://news.panz3r.dev/tags/hacker-news-frontpage/index.xml" rel="self" type="application/rss+xml"/><item><title>Six Years of Rust</title><link>https://news.panz3r.dev/post/bd52ed3a8198b8d4981ac0ed164d89eb99727b9dd8cf3c1337997841c60d5ebe/</link><pubDate>Sat, 15 May 2021 15:40:54 +0000</pubDate><guid>https://news.panz3r.dev/post/bd52ed3a8198b8d4981ac0ed164d89eb99727b9dd8cf3c1337997841c60d5ebe/</guid><description>
+Article URL: https://blog.rust-lang.org/2021/05/15/six-years-of-rust.html
+Comments URL: https://news.ycombinator.com/item?id=27166191 …</description></item><item><title>Modern Javascript: Everything you missed over the last 10 years (2020)</title><link>https://news.panz3r.dev/post/f7f05301a25cd491e1a214540d21b48291fd88890fdd1c819f81416dfe9eb8ed/</link><pubDate>Sat, 15 May 2021 15:15:57 +0000</pubDate><guid>https://news.panz3r.dev/post/f7f05301a25cd491e1a214540d21b48291fd88890fdd1c819f81416dfe9eb8ed/</guid><description>
+Article URL: https://turriate.com/articles/modern-javascript-everything-you-missed-over-10-years
+Comments URL: …</description></item><item><title>Nim 2.0 thoughts</title><link>https://news.panz3r.dev/post/6a5a50eedf3037c87366fde4b8bb1981222915bcf4b46f7da23664cf3729ed3b/</link><pubDate>Sat, 15 May 2021 14:08:12 +0000</pubDate><guid>https://news.panz3r.dev/post/6a5a50eedf3037c87366fde4b8bb1981222915bcf4b46f7da23664cf3729ed3b/</guid><description>
+Article URL: https://forum.nim-lang.org/t/7983
+Comments URL: https://news.ycombinator.com/item?id=27165366
+Points: 124
+# Comments: 47</description></item><item><title>Offline-First PWA for Plotly Visualization of CSV via SQLite</title><link>https://news.panz3r.dev/post/10bc91913ef48e719eafe7d9202c1ed0872ab89126710d643c0d1d2ba4f8f522/</link><pubDate>Sat, 15 May 2021 13:48:01 +0000</pubDate><guid>https://news.panz3r.dev/post/10bc91913ef48e719eafe7d9202c1ed0872ab89126710d643c0d1d2ba4f8f522/</guid><description>
+Article URL: https://github.com/lana-k/sqliteviz
+Comments URL: https://news.ycombinator.com/item?id=27165192
+Points: 95
+# Comments: 12</description></item><item><title>Joe Ligon: America's 'longest juvenile lifer' on 68 years in prison</title><link>https://news.panz3r.dev/post/64eb6c0f0b4739c5d26506047f34eab5682ccce565b5153fede4e558ac9d4534/</link><pubDate>Sat, 15 May 2021 13:35:33 +0000</pubDate><guid>https://news.panz3r.dev/post/64eb6c0f0b4739c5d26506047f34eab5682ccce565b5153fede4e558ac9d4534/</guid><description>
+Article URL: https://www.bbc.com/news/world-us-canada-57022924
+Comments URL: https://news.ycombinator.com/item?id=27165078
+Points: 60
+# …</description></item><item><title>Design structured diagrams, built to increase your team's trust in your docs</title><link>https://news.panz3r.dev/post/5aae853c14411b62b66efc36b67e689057d5bcbec659fd3753807e2b7ee90a9a/</link><pubDate>Sat, 15 May 2021 12:55:52 +0000</pubDate><guid>https://news.panz3r.dev/post/5aae853c14411b62b66efc36b67e689057d5bcbec659fd3753807e2b7ee90a9a/</guid><description>
+Article URL: https://icepanel.io/
+Comments URL: https://news.ycombinator.com/item?id=27164769
+Points: 136
+# Comments: 44</description></item><item><title>Things you can’t do in Rust (and what to do instead)</title><link>https://news.panz3r.dev/post/e49eaae40520fb8d45b20298cec04a531efae2ac2ba0e2a003a61ca9d31645e1/</link><pubDate>Sat, 15 May 2021 10:27:44 +0000</pubDate><guid>https://news.panz3r.dev/post/e49eaae40520fb8d45b20298cec04a531efae2ac2ba0e2a003a61ca9d31645e1/</guid><description>
+Article URL: https://blog.logrocket.com/what-you-cant-do-in-rust-and-what-to-do-instead/
+Comments URL: …</description></item><item><title>Java JDK 1.0 (1996)</title><link>https://news.panz3r.dev/post/2ec423ef08d040519c0c534b7f575a3316c9bb792d3e17daabc79482373a2308/</link><pubDate>Sat, 15 May 2021 10:21:30 +0000</pubDate><guid>https://news.panz3r.dev/post/2ec423ef08d040519c0c534b7f575a3316c9bb792d3e17daabc79482373a2308/</guid><description>
+Article URL: https://github.com/ufuu/JDK10
+Comments URL: https://news.ycombinator.com/item?id=27163964
+Points: 125
+# Comments: 35</description></item><item><title>The Midnight Pub</title><link>https://news.panz3r.dev/post/3958454f6239576911ecef8eeb7f3e88b4e021aa310ec21980877026c68e3853/</link><pubDate>Sat, 15 May 2021 09:59:06 +0000</pubDate><guid>https://news.panz3r.dev/post/3958454f6239576911ecef8eeb7f3e88b4e021aa310ec21980877026c68e3853/</guid><description>
+Article URL: https://midnight.pub/
+Comments URL: https://news.ycombinator.com/item?id=27163866
+Points: 52
+# Comments: 6</description></item><item><title>Anal oxygen administration may save lives</title><link>https://news.panz3r.dev/post/d4fd18a933467090abb1f568839f0918f7f003d80abf6778d8c978facb1f44f3/</link><pubDate>Sat, 15 May 2021 08:56:15 +0000</pubDate><guid>https://news.panz3r.dev/post/d4fd18a933467090abb1f568839f0918f7f003d80abf6778d8c978facb1f44f3/</guid><description>
 Article URL: https://www.economist.com/science-and-technology/2021/05/14/anal-oxygen-administration-may-save-lives
+Comments URL: …</description></item><item><title>The Bourne shell lets you set variables in if expressions</title><link>https://news.panz3r.dev/post/5cd949d690e128a670eb2ec877a6aab0758b8db0f013c642f1f820b2a3a1abd7/</link><pubDate>Sat, 15 May 2021 08:37:28 +0000</pubDate><guid>https://news.panz3r.dev/post/5cd949d690e128a670eb2ec877a6aab0758b8db0f013c642f1f820b2a3a1abd7/</guid><description>
+Article URL: https://utcc.utoronto.ca/~cks/space/blog/programming/BourneIfCanSetVars
+Comments URL: …</description></item><item><title>Old electric cars are a raw material of the future</title><link>https://news.panz3r.dev/post/fe363495772e9c9a1b2a92caae991d042ff0d4eb9a62390a345f6776aa79c099/</link><pubDate>Sat, 15 May 2021 07:19:25 +0000</pubDate><guid>https://news.panz3r.dev/post/fe363495772e9c9a1b2a92caae991d042ff0d4eb9a62390a345f6776aa79c099/</guid><description>
+Article URL: https://www.economist.com/science-and-technology/2021/05/13/old-electric-cars-are-a-raw-material-of-the-future
 Comments URL: …</description></item><item><title>“Bush Hid the Facts”</title><link>https://news.panz3r.dev/post/ddb91a0fa553d9d1c8c75f828b393a3d47b8626c282f32eccfd83e6061cd03f7/</link><pubDate>Sat, 15 May 2021 04:22:03 +0000</pubDate><guid>https://news.panz3r.dev/post/ddb91a0fa553d9d1c8c75f828b393a3d47b8626c282f32eccfd83e6061cd03f7/</guid><description>
 Article URL: https://en.wikipedia.org/wiki/Bush_hid_the_facts
 Comments URL: https://news.ycombinator.com/item?id=27162342
 Points: 110
 # …</description></item><item><title>Ask HN: What lessons did you learn from your best or worst colleagues?</title><link>https://news.panz3r.dev/post/05736f8fefae354bf132d0a4f3990f84a399cc4951bcb0ad3747211b2b6a42d3/</link><pubDate>Sat, 15 May 2021 02:56:25 +0000</pubDate><guid>https://news.panz3r.dev/post/05736f8fefae354bf132d0a4f3990f84a399cc4951bcb0ad3747211b2b6a42d3/</guid><description>
-I have a theory that you learn lessons from all your colleagues--best, worst, and everything in between. Interested to hear what lessons you …</description></item><item><title>China lands rover on Mars</title><link>https://news.panz3r.dev/post/96a507464c2cb36b977010068c7eace377aee202b3442053e71b06b4796c6ba9/</link><pubDate>Sat, 15 May 2021 01:41:42 +0000</pubDate><guid>https://news.panz3r.dev/post/96a507464c2cb36b977010068c7eace377aee202b3442053e71b06b4796c6ba9/</guid><description>
+I have a theory that you learn lessons from all your colleagues--best, worst, and everything in between. Interested to hear what lessons you …</description></item><item><title>Facebook faces ‘devastating’ EU-to-US data transfer ban</title><link>https://news.panz3r.dev/post/6362b56a98c5aa479528aac6debcca1c1dc79573d7be055f16c965af391a5959/</link><pubDate>Sat, 15 May 2021 02:33:44 +0000</pubDate><guid>https://news.panz3r.dev/post/6362b56a98c5aa479528aac6debcca1c1dc79573d7be055f16c965af391a5959/</guid><description>
+Article URL: https://aje.io/fftg5
+Comments URL: https://news.ycombinator.com/item?id=27161783
+Points: 177
+# Comments: 98</description></item><item><title>China lands rover on Mars</title><link>https://news.panz3r.dev/post/96a507464c2cb36b977010068c7eace377aee202b3442053e71b06b4796c6ba9/</link><pubDate>Sat, 15 May 2021 01:41:42 +0000</pubDate><guid>https://news.panz3r.dev/post/96a507464c2cb36b977010068c7eace377aee202b3442053e71b06b4796c6ba9/</guid><description>
 Article URL: https://www.bbc.com/news/science-environment-57122914
 Comments URL: https://news.ycombinator.com/item?id=27161524
 Points: 367
@@ -68,7 +106,11 @@ Points: 56
 # Comments: 42</description></item><item><title>Ask HN: What do you think will come after Kubernetes?</title><link>https://news.panz3r.dev/post/4aff7a905f6607fff87b076b655fb571ab8ddfda34ee8778f0ebc68f4117af5f/</link><pubDate>Fri, 14 May 2021 15:49:06 +0000</pubDate><guid>https://news.panz3r.dev/post/4aff7a905f6607fff87b076b655fb571ab8ddfda34ee8778f0ebc68f4117af5f/</guid><description>
 I mean, Kubernetes became a thing after Docker became a thing before(and so on, all the way down to VMs), so it's reasonable to assume that …</description></item><item><title>DarkSide ransomware gang quits after servers, Bitcoin stash seized</title><link>https://news.panz3r.dev/post/fda474011f529acd8144594e0a2786c0bb5ad27447ab2a5cf8c3900f03021392/</link><pubDate>Fri, 14 May 2021 15:47:30 +0000</pubDate><guid>https://news.panz3r.dev/post/fda474011f529acd8144594e0a2786c0bb5ad27447ab2a5cf8c3900f03021392/</guid><description>
 Article URL: https://krebsonsecurity.com/2021/05/darkside-ransomware-gang-quits-after-servers-bitcoin-stash-seized/
-Comments URL: …</description></item><item><title>The Missing Semester of CS Education</title><link>https://news.panz3r.dev/post/2e5a326710681445f323d9d53786423191b6327ff00a0131acf5c2d3d7bfc0ef/</link><pubDate>Fri, 14 May 2021 14:16:34 +0000</pubDate><guid>https://news.panz3r.dev/post/2e5a326710681445f323d9d53786423191b6327ff00a0131acf5c2d3d7bfc0ef/</guid><description>
+Comments URL: …</description></item><item><title>Telescope.nvim: Find, Filter, Preview, Pick</title><link>https://news.panz3r.dev/post/7f0c9ed46b99a25ff08354455e58b60eeb35b81a507b443238cc2e46ad1f0c2d/</link><pubDate>Fri, 14 May 2021 15:29:34 +0000</pubDate><guid>https://news.panz3r.dev/post/7f0c9ed46b99a25ff08354455e58b60eeb35b81a507b443238cc2e46ad1f0c2d/</guid><description>
+Article URL: https://github.com/nvim-telescope/telescope.nvim
+Comments URL: https://news.ycombinator.com/item?id=27155306
+Points: 115
+# …</description></item><item><title>The Missing Semester of CS Education</title><link>https://news.panz3r.dev/post/2e5a326710681445f323d9d53786423191b6327ff00a0131acf5c2d3d7bfc0ef/</link><pubDate>Fri, 14 May 2021 14:16:34 +0000</pubDate><guid>https://news.panz3r.dev/post/2e5a326710681445f323d9d53786423191b6327ff00a0131acf5c2d3d7bfc0ef/</guid><description>
 Article URL: https://missing.csail.mit.edu/
 Comments URL: https://news.ycombinator.com/item?id=27154577
 Points: 129
@@ -571,55 +613,4 @@ Comments URL: …</description></item><item><title>Story of a Tshirt with a Shel
 Article URL: https://github.com/marcin-chwedczuk/shellcode-tshirt
 Comments URL: https://news.ycombinator.com/item?id=27109082
 Points: 58
-# …</description></item><item><title>eBPF on Windows</title><link>https://news.panz3r.dev/post/76bd538cf2921256f2974930c2a96849a23bb18b7d35cb0fbb975ecff2cf8fbb/</link><pubDate>Mon, 10 May 2021 17:35:15 +0000</pubDate><guid>https://news.panz3r.dev/post/76bd538cf2921256f2974930c2a96849a23bb18b7d35cb0fbb975ecff2cf8fbb/</guid><description>
-Article URL: https://github.com/microsoft/ebpf-for-windows
-Comments URL: https://news.ycombinator.com/item?id=27108593
-Points: 264
-# …</description></item><item><title>Tracking One Year of Malicious Tor Exit Relay Activities (Part II)</title><link>https://news.panz3r.dev/post/d51df62d1fbd9f1fca7dc720bfd889b2ffdb2e5957c53caa57b5bb4f3ce34515/</link><pubDate>Mon, 10 May 2021 16:55:24 +0000</pubDate><guid>https://news.panz3r.dev/post/d51df62d1fbd9f1fca7dc720bfd889b2ffdb2e5957c53caa57b5bb4f3ce34515/</guid><description>
-Article URL: https://nusenu.medium.com/tracking-one-year-of-malicious-tor-exit-relay-activities-part-ii-85c80875c5df
-Comments URL: …</description></item><item><title>Why does every advert look the same? Corporate Memphis</title><link>https://news.panz3r.dev/post/67bf7d587858a914cc840c944f61ea135677ba5e220ff90a977ff74b417dd290/</link><pubDate>Mon, 10 May 2021 16:29:09 +0000</pubDate><guid>https://news.panz3r.dev/post/67bf7d587858a914cc840c944f61ea135677ba5e220ff90a977ff74b417dd290/</guid><description>
-Article URL: https://www.wired.co.uk/article/corporate-memphis-design-tech
-Comments URL: https://news.ycombinator.com/item?id=27107820 …</description></item><item><title>Pyre: A performant type-checker for Python 3</title><link>https://news.panz3r.dev/post/3d6135b3b9ccac6a81b6f5abf134a3b2440909fafdc97a989c72831caca97b83/</link><pubDate>Mon, 10 May 2021 16:14:44 +0000</pubDate><guid>https://news.panz3r.dev/post/3d6135b3b9ccac6a81b6f5abf134a3b2440909fafdc97a989c72831caca97b83/</guid><description>
-Article URL: https://pyre-check.org
-Comments URL: https://news.ycombinator.com/item?id=27107647
-Points: 100
-# Comments: 69</description></item><item><title>US Army Training for Advanced Situational Awareness (April, 2021) [pdf]</title><link>https://news.panz3r.dev/post/894466b93f6ae91937f427c1fca29512badc3a526780557efe13f7efdb71b88b/</link><pubDate>Mon, 10 May 2021 16:02:34 +0000</pubDate><guid>https://news.panz3r.dev/post/894466b93f6ae91937f427c1fca29512badc3a526780557efe13f7efdb71b88b/</guid><description>
-Article URL: https://armypubs.army.mil/epubs/DR_pubs/DR_a/ARN32030-TC_3-22.69-000-WEB-1.pdf
-Comments URL: …</description></item><item><title>Show HN: Django SQL Dashboard</title><link>https://news.panz3r.dev/post/47b8d6b90050670380ad1f583c03aa31bd280963a99ba4abb8a535f365cc4c86/</link><pubDate>Mon, 10 May 2021 15:53:54 +0000</pubDate><guid>https://news.panz3r.dev/post/47b8d6b90050670380ad1f583c03aa31bd280963a99ba4abb8a535f365cc4c86/</guid><description>
-Article URL: https://django-sql-dashboard.datasette.io/en/latest/
-Comments URL: https://news.ycombinator.com/item?id=27107428
-Points: 152
-# …</description></item><item><title>Perverse Downstream Consequences of Debunking</title><link>https://news.panz3r.dev/post/01d8858945f192582ddf61d7dcb2ece538961e446c194b96f39360870f9a4dee/</link><pubDate>Mon, 10 May 2021 15:34:29 +0000</pubDate><guid>https://news.panz3r.dev/post/01d8858945f192582ddf61d7dcb2ece538961e446c194b96f39360870f9a4dee/</guid><description>
-Article URL: https://dl.acm.org/doi/10.1145/3411764.3445642
-Comments URL: https://news.ycombinator.com/item?id=27107175
-Points: 56
-# …</description></item><item><title>The FBI Seized Safe Deposit Boxes Knowing ‘Some’ Belonged to ‘Honest Citizens’</title><link>https://news.panz3r.dev/post/bea803c319017a3ab4484c271d803a5f91f650ba331686b9d6bace5b716a7e0d/</link><pubDate>Mon, 10 May 2021 15:03:28 +0000</pubDate><guid>https://news.panz3r.dev/post/bea803c319017a3ab4484c271d803a5f91f650ba331686b9d6bace5b716a7e0d/</guid><description>
-Article URL: …</description></item><item><title>Facebook Should Halt Instagram Kids Plan, Attorneys General Say</title><link>https://news.panz3r.dev/post/b20f07b58259a4598eba7a9bdc57a16d95d063cde1005b21637d520a2e438bf4/</link><pubDate>Mon, 10 May 2021 14:51:24 +0000</pubDate><guid>https://news.panz3r.dev/post/b20f07b58259a4598eba7a9bdc57a16d95d063cde1005b21637d520a2e438bf4/</guid><description>
-Article URL: https://www.bloomberg.com/news/articles/2021-05-10/facebook-should-halt-instagram-kids-plan-attorneys-general-say
-Comments URL: …</description></item><item><title>Epidemiologist R Handbook</title><link>https://news.panz3r.dev/post/40ceb509fc9034cb06b523113ee04ac9e549e12c84dcb0f1866c4c40d64dfedf/</link><pubDate>Mon, 10 May 2021 14:43:34 +0000</pubDate><guid>https://news.panz3r.dev/post/40ceb509fc9034cb06b523113ee04ac9e549e12c84dcb0f1866c4c40d64dfedf/</guid><description>
-Article URL: https://epirhandbook.com/
-Comments URL: https://news.ycombinator.com/item?id=27106489
-Points: 180
-# Comments: 5</description></item><item><title>A Somewhat Comprehensive History of U.S. Senators Who Have Died in Duels</title><link>https://news.panz3r.dev/post/f26124a740bee8569c85d46160d1579d532be14d02543d6c051bb504f1a55e1d/</link><pubDate>Mon, 10 May 2021 14:39:50 +0000</pubDate><guid>https://news.panz3r.dev/post/f26124a740bee8569c85d46160d1579d532be14d02543d6c051bb504f1a55e1d/</guid><description>
-Article URL: https://defector.com/us-senators-duels-history-owned/
-Comments URL: https://news.ycombinator.com/item?id=27106453
-Points: 60
-# …</description></item><item><title>Dear EU: Please Don't Ruin the Root</title><link>https://news.panz3r.dev/post/b0af8a432d0f76eaa00e563a6c6813100c1b13db0cd28dc5adfbf79aceb97c98/</link><pubDate>Mon, 10 May 2021 14:39:37 +0000</pubDate><guid>https://news.panz3r.dev/post/b0af8a432d0f76eaa00e563a6c6813100c1b13db0cd28dc5adfbf79aceb97c98/</guid><description>
-Article URL: https://berthub.eu/articles/posts/dont-ruin-the-root/
-Comments URL: https://news.ycombinator.com/item?id=27106448
-Points: 324
-# …</description></item><item><title>Engineer Who Won the Nobel Prize Twice in Physics</title><link>https://news.panz3r.dev/post/c211acbc3b1d485e46a57c8a7edbb699cd00432d378df8eac3bdbc519b8573f4/</link><pubDate>Mon, 10 May 2021 14:22:55 +0000</pubDate><guid>https://news.panz3r.dev/post/c211acbc3b1d485e46a57c8a7edbb699cd00432d378df8eac3bdbc519b8573f4/</guid><description>
-Article URL: https://www.wondersofphysics.com/2021/05/two-time-nobel-pize-winner-physics.html
-Comments URL: …</description></item><item><title>Why OpenDoc failed, and then failed 3 more times?</title><link>https://news.panz3r.dev/post/899bbd16e51f5eaef8dd3327d683f919a512292163ba998d0f3d12d7a8fdc560/</link><pubDate>Mon, 10 May 2021 14:17:27 +0000</pubDate><guid>https://news.panz3r.dev/post/899bbd16e51f5eaef8dd3327d683f919a512292163ba998d0f3d12d7a8fdc560/</guid><description>
-Article URL: https://instadeq.com/blog/posts/why-opendoc-failed-and-then-failed-3-more-times/
-Comments URL: …</description></item><item><title>Writing books is not really a good idea</title><link>https://news.panz3r.dev/post/4c9028c7753f832c268ba445b991b48cdbb80c804e8ed498ec67dfd8dbe1a2f6/</link><pubDate>Mon, 10 May 2021 14:01:27 +0000</pubDate><guid>https://news.panz3r.dev/post/4c9028c7753f832c268ba445b991b48cdbb80c804e8ed498ec67dfd8dbe1a2f6/</guid><description>
-Article URL: https://ellegriffin.substack.com/p/creator-economy-for-fiction-authors
-Comments URL: …</description></item><item><title>OpenPOWER Foundation announces LibreBMC, a POWER-based, fully open-source BMC</title><link>https://news.panz3r.dev/post/785d311b1bd949aca457848c322a71e411cb81271e8cee41f9fcd7cf525eadb6/</link><pubDate>Mon, 10 May 2021 13:35:06 +0000</pubDate><guid>https://news.panz3r.dev/post/785d311b1bd949aca457848c322a71e411cb81271e8cee41f9fcd7cf525eadb6/</guid><description>
-Article URL: https://openpowerfoundation.org/openpower-foundation-announces-librebmc-a-power-based-fully-open-source-bmc/
-Comments URL: …</description></item><item><title>Hacker News Classics (2018)</title><link>https://news.panz3r.dev/post/8562111fa64622bf7487575ad81a179cfcca615a1ec56a64159559c4a38e0e74/</link><pubDate>Mon, 10 May 2021 11:55:28 +0000</pubDate><guid>https://news.panz3r.dev/post/8562111fa64622bf7487575ad81a179cfcca615a1ec56a64159559c4a38e0e74/</guid><description>
-Article URL: https://jsomers.net/hn/
-Comments URL: https://news.ycombinator.com/item?id=27104939
-Points: 129
-# Comments: 35</description></item><item><title>CVE-2021-32471 – Input validation in Marvin Minsky 1967 Turing Machine</title><link>https://news.panz3r.dev/post/505670be92fbb02bbebb36fa29cbea9e4762c82e39b2098c4c904f244762de7b/</link><pubDate>Mon, 10 May 2021 11:18:17 +0000</pubDate><guid>https://news.panz3r.dev/post/505670be92fbb02bbebb36fa29cbea9e4762c82e39b2098c4c904f244762de7b/</guid><description>
-Article URL: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-32471
-Comments URL: https://news.ycombinator.com/item?id=27104695 …</description></item></channel></rss>
+# …</description></item></channel></rss>

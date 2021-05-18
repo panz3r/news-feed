@@ -1,7 +1,54 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hacker-News-Frontpage on Panz3r News</title><link>https://news.panz3r.dev/tags/hacker-news-frontpage/</link><description>Recent content in Hacker-News-Frontpage on news.panz3r.dev</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Panz3r 2021 | Vitae theme for Hugo</copyright><lastBuildDate>Tue, 18 May 2021 10:31:03 +0000</lastBuildDate><atom:link href="https://news.panz3r.dev/tags/hacker-news-frontpage/index.xml" rel="self" type="application/rss+xml"/><item><title>Microsoft Authenticator Chrome Extention is not from MS and is phishing</title><link>https://news.panz3r.dev/post/58ad0370b544e8bf4072b9ce45543899a07b9b51097bfef244b4c5afc34704c5/</link><pubDate>Tue, 18 May 2021 10:31:03 +0000</pubDate><guid>https://news.panz3r.dev/post/58ad0370b544e8bf4072b9ce45543899a07b9b51097bfef244b4c5afc34704c5/</guid><description>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hacker-News-Frontpage on Panz3r News</title><link>https://news.panz3r.dev/tags/hacker-news-frontpage/</link><description>Recent content in Hacker-News-Frontpage on news.panz3r.dev</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Panz3r 2021 | Vitae theme for Hugo</copyright><lastBuildDate>Tue, 18 May 2021 17:16:54 +0000</lastBuildDate><atom:link href="https://news.panz3r.dev/tags/hacker-news-frontpage/index.xml" rel="self" type="application/rss+xml"/><item><title>PlanetScale – The Database for Developers</title><link>https://news.panz3r.dev/post/5a230fc573270dfa54e126a9a709d6da57ad307a8fcd4d4fbe894b18220c2423/</link><pubDate>Tue, 18 May 2021 17:16:54 +0000</pubDate><guid>https://news.panz3r.dev/post/5a230fc573270dfa54e126a9a709d6da57ad307a8fcd4d4fbe894b18220c2423/</guid><description>
+Article URL: https://www.planetscale.com/blog/announcing-planetscale-the-database-for-developers
+Comments URL: …</description></item><item><title>Halide for iPad</title><link>https://news.panz3r.dev/post/9925386e942f48d654923fb87a20c08c06221fc5198293292c17841be147a94a/</link><pubDate>Tue, 18 May 2021 16:04:13 +0000</pubDate><guid>https://news.panz3r.dev/post/9925386e942f48d654923fb87a20c08c06221fc5198293292c17841be147a94a/</guid><description>
+Article URL: https://lux.camera/halide-pro-camera-for-ipad/
+Comments URL: https://news.ycombinator.com/item?id=27196576
+Points: 55
+# …</description></item><item><title>Site Isolation in Firefox</title><link>https://news.panz3r.dev/post/55944a6a3c9de1d5a2b02d2915aa766520b8aa95bbebd2cc032e9ca55b47dbd6/</link><pubDate>Tue, 18 May 2021 16:02:01 +0000</pubDate><guid>https://news.panz3r.dev/post/55944a6a3c9de1d5a2b02d2915aa766520b8aa95bbebd2cc032e9ca55b47dbd6/</guid><description>
+Article URL: https://blog.mozilla.org/security/2021/05/18/introducing-site-isolation-in-firefox/
+Comments URL: …</description></item><item><title>Companies may be punished for paying ransoms to sanctioned hackers</title><link>https://news.panz3r.dev/post/8dc336780f4b4e519336ad41e067cf43ea9de2c3f0c1910f8ea742e36a365d6e/</link><pubDate>Tue, 18 May 2021 15:54:39 +0000</pubDate><guid>https://news.panz3r.dev/post/8dc336780f4b4e519336ad41e067cf43ea9de2c3f0c1910f8ea742e36a365d6e/</guid><description>
+Article URL: …</description></item><item><title>Hydras suggest that sleep evolved before brains</title><link>https://news.panz3r.dev/post/59660e6c66feb706b284b64769848fb0968a9deebe7387cd267877046ce4554b/</link><pubDate>Tue, 18 May 2021 15:19:52 +0000</pubDate><guid>https://news.panz3r.dev/post/59660e6c66feb706b284b64769848fb0968a9deebe7387cd267877046ce4554b/</guid><description>
+Article URL: https://www.quantamagazine.org/sleep-evolved-before-brains-hydras-are-living-proof-20210518/
+Comments URL: …</description></item><item><title>Building Products at Stripe</title><link>https://news.panz3r.dev/post/06329abf79e81f9c02ff0627c50ebbcff619a7c2ef15bd42cb61c9a5c004e3f4/</link><pubDate>Tue, 18 May 2021 14:25:05 +0000</pubDate><guid>https://news.panz3r.dev/post/06329abf79e81f9c02ff0627c50ebbcff619a7c2ef15bd42cb61c9a5c004e3f4/</guid><description>
+Article URL: https://newsletter.bringthedonuts.com/p/building-products-at-stripe
+Comments URL: https://news.ycombinator.com/item?id=27194976 …</description></item><item><title>First Public Working Drafts: WebGPU and WebGPU Shading Language</title><link>https://news.panz3r.dev/post/741961110e2c9012aeca9a99f13049d18a83b61cd3f6f7d0d6f3bba36374afa6/</link><pubDate>Tue, 18 May 2021 14:16:49 +0000</pubDate><guid>https://news.panz3r.dev/post/741961110e2c9012aeca9a99f13049d18a83b61cd3f6f7d0d6f3bba36374afa6/</guid><description>
+Article URL: https://www.w3.org/blog/news/archives/9059
+Comments URL: https://news.ycombinator.com/item?id=27194857
+Points: 86
+# Comments: …</description></item><item><title>Forced Entrepreneurs</title><link>https://news.panz3r.dev/post/cf5088916a1a7633ffd1189815787a76fc3256d5f32241c5cec50eb3edc97484/</link><pubDate>Tue, 18 May 2021 14:15:44 +0000</pubDate><guid>https://news.panz3r.dev/post/cf5088916a1a7633ffd1189815787a76fc3256d5f32241c5cec50eb3edc97484/</guid><description>
+Article URL: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2801637
+Comments URL: https://news.ycombinator.com/item?id=27194840
+Points: …</description></item><item><title>Spin-torque oscillators for WiFi band transmission and energy harvesting</title><link>https://news.panz3r.dev/post/2d3f8f855a1e151ac54d3a389a39c64e3485b54e84c2b7a551842f3f699cdd60/</link><pubDate>Tue, 18 May 2021 14:09:56 +0000</pubDate><guid>https://news.panz3r.dev/post/2d3f8f855a1e151ac54d3a389a39c64e3485b54e84c2b7a551842f3f699cdd60/</guid><description>
+Article URL: https://www.nature.com/articles/s41467-021-23181-1
+Comments URL: https://news.ycombinator.com/item?id=27194758
+Points: 57
+# …</description></item><item><title>Ethereum will use around 99.95% less energy post merge</title><link>https://news.panz3r.dev/post/f095621620acf6e73d67598f30a451e54e299b5c9d96d361bc16760c721b5cd1/</link><pubDate>Tue, 18 May 2021 13:55:41 +0000</pubDate><guid>https://news.panz3r.dev/post/f095621620acf6e73d67598f30a451e54e299b5c9d96d361bc16760c721b5cd1/</guid><description>
+Article URL: https://blog.ethereum.org/2021/05/18/country-power-no-more/
+Comments URL: https://news.ycombinator.com/item?id=27194586
+Points: …</description></item><item><title>Fierce Nerds</title><link>https://news.panz3r.dev/post/9b94e4f4a48b4d751f98f5f2db2392ebd174394ff678cd17883ab4c048f398a2/</link><pubDate>Tue, 18 May 2021 13:30:45 +0000</pubDate><guid>https://news.panz3r.dev/post/9b94e4f4a48b4d751f98f5f2db2392ebd174394ff678cd17883ab4c048f398a2/</guid><description>
+Article URL: http://paulgraham.com/fn.html
+Comments URL: https://news.ycombinator.com/item?id=27194284
+Points: 213
+# Comments: 229</description></item><item><title>1Password for Linux</title><link>https://news.panz3r.dev/post/dbfbed72ff7e6f0008e2f4fbbcce1d36e7d08723729fa6c9179b43d804e818b1/</link><pubDate>Tue, 18 May 2021 13:29:35 +0000</pubDate><guid>https://news.panz3r.dev/post/dbfbed72ff7e6f0008e2f4fbbcce1d36e7d08723729fa6c9179b43d804e818b1/</guid><description>
+Article URL: https://blog.1password.com/welcoming-linux-to-the-1password-family/
+Comments URL: https://news.ycombinator.com/item?id=27194279 …</description></item><item><title>Amazon is reportedly negotiating to acquire MGM for about $9B</title><link>https://news.panz3r.dev/post/18e64e8172fdd258182d1de36b32d44b142cf250dd9aacf404689a755b33f93a/</link><pubDate>Tue, 18 May 2021 13:18:31 +0000</pubDate><guid>https://news.panz3r.dev/post/18e64e8172fdd258182d1de36b32d44b142cf250dd9aacf404689a755b33f93a/</guid><description>
+Article URL: https://www.businessinsider.com/amazon-reportedly-negotiating-to-acquire-mgm-for-9-billion-2021-5
+Comments URL: …</description></item><item><title>Ad block shouldn't break your checkout</title><link>https://news.panz3r.dev/post/9de205a2cfe91f50278f5c8657d6f53d87da6589673108f047ba38845d141272/</link><pubDate>Tue, 18 May 2021 13:00:57 +0000</pubDate><guid>https://news.panz3r.dev/post/9de205a2cfe91f50278f5c8657d6f53d87da6589673108f047ba38845d141272/</guid><description>
+Article URL: https://ilakovac.com/teespring-ublock-issue
+Comments URL: https://news.ycombinator.com/item?id=27193974
+Points: 127
+# Comments: …</description></item><item><title>Apple Readies MacBook Pro, MacBook Air Revamps</title><link>https://news.panz3r.dev/post/ed6299320586e1e5ea5ed1e9fd7e8e6cb74b593cb41aedf57ceafb798d09c397/</link><pubDate>Tue, 18 May 2021 12:55:34 +0000</pubDate><guid>https://news.panz3r.dev/post/ed6299320586e1e5ea5ed1e9fd7e8e6cb74b593cb41aedf57ceafb798d09c397/</guid><description>
+Article URL: https://www.bloomberg.com/news/articles/2021-05-18/apple-readies-macbook-pro-macbook-air-revamps-with-faster-chips
+Comments …</description></item><item><title>Hyundai Nexo sets new world record 887.5 km travelled on single tank of hydrogen</title><link>https://news.panz3r.dev/post/df37a5dcee3d90e98cb530ba258ca573500e3f766dcd31f3e1e075f91c674c88/</link><pubDate>Tue, 18 May 2021 12:19:59 +0000</pubDate><guid>https://news.panz3r.dev/post/df37a5dcee3d90e98cb530ba258ca573500e3f766dcd31f3e1e075f91c674c88/</guid><description>
+Article URL: https://www.h2-view.com/story/hyundai-nexo-breaks-world-record-for-longest-distance-travelled-in-a-fcev/
+Comments URL: …</description></item><item><title>Microsoft Authenticator Chrome Extention is not from MS and is phishing</title><link>https://news.panz3r.dev/post/58ad0370b544e8bf4072b9ce45543899a07b9b51097bfef244b4c5afc34704c5/</link><pubDate>Tue, 18 May 2021 10:31:03 +0000</pubDate><guid>https://news.panz3r.dev/post/58ad0370b544e8bf4072b9ce45543899a07b9b51097bfef244b4c5afc34704c5/</guid><description>
 Article URL: https://chrome.google.com/webstore/detail/microsoft-authenticator/mabdjppmcjpjploliggpbonahnjjlgkf/related?hl=en-US
 Comments …</description></item><item><title>Are you satisfied with Elixir or do you regret choosing Elixir?</title><link>https://news.panz3r.dev/post/fbcd73b67274104bb842fb8940b1b5a1b5fbb57c31b0735778c73b0d6863a642/</link><pubDate>Tue, 18 May 2021 10:02:44 +0000</pubDate><guid>https://news.panz3r.dev/post/fbcd73b67274104bb842fb8940b1b5a1b5fbb57c31b0735778c73b0d6863a642/</guid><description>
-I'll be starting to work on a new project from next month and I've been reading all but good news about Elixir. I have talked to people in …</description></item><item><title>Man Against Marketing</title><link>https://news.panz3r.dev/post/2bde0e514344757c4c983bf7c6685b86f75fdca7c67db60c72d2f586de1bb8a0/</link><pubDate>Tue, 18 May 2021 08:50:31 +0000</pubDate><guid>https://news.panz3r.dev/post/2bde0e514344757c4c983bf7c6685b86f75fdca7c67db60c72d2f586de1bb8a0/</guid><description>
+I'll be starting to work on a new project from next month and I've been reading all but good news about Elixir. I have talked to people in …</description></item><item><title>AMP pages no longer get preferential treatment in Google search</title><link>https://news.panz3r.dev/post/1d25dec2ba7c7135378489d69efc0977cb55226fba846070bc00286ab9dac05d/</link><pubDate>Tue, 18 May 2021 09:27:27 +0000</pubDate><guid>https://news.panz3r.dev/post/1d25dec2ba7c7135378489d69efc0977cb55226fba846070bc00286ab9dac05d/</guid><description>
+Article URL: https://plausible.io/blog/google-amp
+Comments URL: https://news.ycombinator.com/item?id=27192685
+Points: 218
+# Comments: 48</description></item><item><title>Man Against Marketing</title><link>https://news.panz3r.dev/post/2bde0e514344757c4c983bf7c6685b86f75fdca7c67db60c72d2f586de1bb8a0/</link><pubDate>Tue, 18 May 2021 08:50:31 +0000</pubDate><guid>https://news.panz3r.dev/post/2bde0e514344757c4c983bf7c6685b86f75fdca7c67db60c72d2f586de1bb8a0/</guid><description>
 Article URL: https://johnhellion.substack.com/p/man-against-marketing
 Comments URL: https://news.ycombinator.com/item?id=27192497
 Points: 53 …</description></item><item><title>Uber used 50 Dutch shell companies to dodge taxes</title><link>https://news.panz3r.dev/post/653c5f2f77530cc0516952e7f363a95e744ff97d79259dc2cfb39c9a2ca59d33/</link><pubDate>Tue, 18 May 2021 07:43:45 +0000</pubDate><guid>https://news.panz3r.dev/post/653c5f2f77530cc0516952e7f363a95e744ff97d79259dc2cfb39c9a2ca59d33/</guid><description>
@@ -226,7 +273,11 @@ Points: 83
 Article URL: https://mxb.dev/blog/container-queries-web-components/
 Comments URL: https://news.ycombinator.com/item?id=27173010
 Points: 61
-# …</description></item><item><title>Metric Display Standards. Best practices for presenting numbers</title><link>https://news.panz3r.dev/post/a10011102634a0eaf7c5618d546cf694ee860ae5e644939576a543901f541797/</link><pubDate>Sun, 16 May 2021 11:04:26 +0000</pubDate><guid>https://news.panz3r.dev/post/a10011102634a0eaf7c5618d546cf694ee860ae5e644939576a543901f541797/</guid><description>
+# …</description></item><item><title>Bit-sync: synchronizing arbitrary data using rsync algorithm in pure JavaScript</title><link>https://news.panz3r.dev/post/b6ec14045c138bd96794a94a8fc93c96a21555715a196b7b66bab3d4b6f95d22/</link><pubDate>Sun, 16 May 2021 11:12:42 +0000</pubDate><guid>https://news.panz3r.dev/post/b6ec14045c138bd96794a94a8fc93c96a21555715a196b7b66bab3d4b6f95d22/</guid><description>
+Article URL: https://github.com/claytongulick/bit-sync
+Comments URL: https://news.ycombinator.com/item?id=27172849
+Points: 89
+# Comments: 14 …</description></item><item><title>Metric Display Standards. Best practices for presenting numbers</title><link>https://news.panz3r.dev/post/a10011102634a0eaf7c5618d546cf694ee860ae5e644939576a543901f541797/</link><pubDate>Sun, 16 May 2021 11:04:26 +0000</pubDate><guid>https://news.panz3r.dev/post/a10011102634a0eaf7c5618d546cf694ee860ae5e644939576a543901f541797/</guid><description>
 Article URL: https://medium.com/salesforce-ux/metric-display-standards-54736533c81
 Comments URL: …</description></item><item><title>Python Language Summit: PEP 654 – Exception Groups and Except</title><link>https://news.panz3r.dev/post/490c4f481663b841aeb69fb1dac6f1ad7dad3a14fcbebae8dc8f86231863a030/</link><pubDate>Sun, 16 May 2021 08:00:08 +0000</pubDate><guid>https://news.panz3r.dev/post/490c4f481663b841aeb69fb1dac6f1ad7dad3a14fcbebae8dc8f86231863a030/</guid><description>
 Article URL: https://pyfound.blogspot.com/2021/05/the-2021-python-language-summit-pep-654.html
@@ -237,7 +288,11 @@ Many times you just want to plug something in. PostgreSQL, Node.JS Express, Java
 Article URL: https://fabiensanglard.net/lte/index.html
 Comments URL: https://news.ycombinator.com/item?id=27171860
 Points: 728
-# Comments: …</description></item><item><title>Samsung boosts non-memory chip investment to $151B</title><link>https://news.panz3r.dev/post/4de609574de87e4e4f28d32d769aae1430d21cc90f56b60209585c606ebf7937/</link><pubDate>Sun, 16 May 2021 06:51:45 +0000</pubDate><guid>https://news.panz3r.dev/post/4de609574de87e4e4f28d32d769aae1430d21cc90f56b60209585c606ebf7937/</guid><description>
+# Comments: …</description></item><item><title>Mac the Knife</title><link>https://news.panz3r.dev/post/fab7969e2c930c4c64d0c7037f340df2608fa560db33f50bfa902578611dc9db/</link><pubDate>Sun, 16 May 2021 07:13:45 +0000</pubDate><guid>https://news.panz3r.dev/post/fab7969e2c930c4c64d0c7037f340df2608fa560db33f50bfa902578611dc9db/</guid><description>
+Article URL: https://rbelmont.mameworld.info/?p=1436
+Comments URL: https://news.ycombinator.com/item?id=27171852
+Points: 68
+# Comments: 13</description></item><item><title>Samsung boosts non-memory chip investment to $151B</title><link>https://news.panz3r.dev/post/4de609574de87e4e4f28d32d769aae1430d21cc90f56b60209585c606ebf7937/</link><pubDate>Sun, 16 May 2021 06:51:45 +0000</pubDate><guid>https://news.panz3r.dev/post/4de609574de87e4e4f28d32d769aae1430d21cc90f56b60209585c606ebf7937/</guid><description>
 Article URL: https://www.reuters.com/technology/samsung-raises-non-memory-chip-investment-target-skorea-announces-bigger-tax-2021-05-13/ …</description></item><item><title>Brain size drives differences in yawn duration across mammals and birds</title><link>https://news.panz3r.dev/post/9016b19c6e45306557f846e17fcbb526b77236d8c2f3688d6a1e826b32230d57/</link><pubDate>Sun, 16 May 2021 06:36:09 +0000</pubDate><guid>https://news.panz3r.dev/post/9016b19c6e45306557f846e17fcbb526b77236d8c2f3688d6a1e826b32230d57/</guid><description>
 Article URL: https://www.nature.com/articles/s42003-021-02019-y
 Comments URL: https://news.ycombinator.com/item?id=27171684
@@ -505,49 +560,4 @@ Comments URL: https://news.ycombinator.com/item?id=27145275 …</description></i
 Article URL: https://www.vice.com/en/article/88ng8x/pentagon-americans-surveillance-without-warrant-internet-browsing
 Comments URL: …</description></item><item><title>$365B wiped off cryptocurrency market after Tesla stops accepting Bitcoin</title><link>https://news.panz3r.dev/post/296d5eddadd684eabbfe33f9734d774aacad75c293814ba939585543047692f2/</link><pubDate>Thu, 13 May 2021 18:04:35 +0000</pubDate><guid>https://news.panz3r.dev/post/296d5eddadd684eabbfe33f9734d774aacad75c293814ba939585543047692f2/</guid><description>
 Article URL: https://www.cnbc.com/2021/05/13/bitcoin-btc-price-falls-after-tesla-stops-car-purchases-with-crypto.html
-Comments URL: …</description></item><item><title>Three things to never build yourself: auth, notifications, payments</title><link>https://news.panz3r.dev/post/912acb07915824fc21e50a54bd9e6e6942ba2e0a970d17fad773f7b061d56ab3/</link><pubDate>Thu, 13 May 2021 17:39:47 +0000</pubDate><guid>https://news.panz3r.dev/post/912acb07915824fc21e50a54bd9e6e6942ba2e0a970d17fad773f7b061d56ab3/</guid><description>
-Article URL: https://www.courier.com/blog/the-three-things-to-never-build-in-your-app
-Comments URL: …</description></item><item><title>Enigma: GPT-2 trained on 10K Nature Papers: Can you spot the difference?</title><link>https://news.panz3r.dev/post/b85ea4723880e211fcdb886b05423d201c150e45334b004b2d1cc03036e7d653/</link><pubDate>Thu, 13 May 2021 17:26:27 +0000</pubDate><guid>https://news.panz3r.dev/post/b85ea4723880e211fcdb886b05423d201c150e45334b004b2d1cc03036e7d653/</guid><description>
-Article URL: https://stefanzukin.com/enigma/
-Comments URL: https://news.ycombinator.com/item?id=27144764
-Points: 178
-# Comments: 99</description></item><item><title>Notion API – public beta</title><link>https://news.panz3r.dev/post/a561415aa3384421853b270b27f5e66c09479a4b579a6290cd30e493d23fcfad/</link><pubDate>Thu, 13 May 2021 17:08:21 +0000</pubDate><guid>https://news.panz3r.dev/post/a561415aa3384421853b270b27f5e66c09479a4b579a6290cd30e493d23fcfad/</guid><description>
-Article URL: https://developers.notion.so
-Comments URL: https://news.ycombinator.com/item?id=27144566
-Points: 509
-# Comments: 219</description></item><item><title>The Bizarre World of Scam Audiobooks</title><link>https://news.panz3r.dev/post/9270ff6d12ef45721b7bc6c8d3db5cde005067d4458a0b5ea05ed1e3316ccfa5/</link><pubDate>Thu, 13 May 2021 16:33:47 +0000</pubDate><guid>https://news.panz3r.dev/post/9270ff6d12ef45721b7bc6c8d3db5cde005067d4458a0b5ea05ed1e3316ccfa5/</guid><description>
-Article URL: https://www.vice.com/en/article/dyvgaq/bot-gibberish-audio-books-scam
-Comments URL: …</description></item><item><title>Why load balancing gRPC is tricky?</title><link>https://news.panz3r.dev/post/3f14baa009ef06142df26acdb41a2f5146967333a458449379e8498bcb113833/</link><pubDate>Thu, 13 May 2021 16:22:21 +0000</pubDate><guid>https://news.panz3r.dev/post/3f14baa009ef06142df26acdb41a2f5146967333a458449379e8498bcb113833/</guid><description>
-Article URL: https://majidfn.com/blog/20201222-grpc-load-balancing/
-Comments URL: https://news.ycombinator.com/item?id=27143960
-Points: 55
-# …</description></item><item><title>Golden Handcuffs</title><link>https://news.panz3r.dev/post/304f32155e494fbad8fab8c0be2a7eb18aa81232754b5df8772eecdd26b7777a/</link><pubDate>Thu, 13 May 2021 16:17:31 +0000</pubDate><guid>https://news.panz3r.dev/post/304f32155e494fbad8fab8c0be2a7eb18aa81232754b5df8772eecdd26b7777a/</guid><description>
-Article URL: https://avc.com/2021/05/golden-handcuffs-2/
-Comments URL: https://news.ycombinator.com/item?id=27143898
-Points: 140
-# Comments: …</description></item><item><title>In Mahle's Contact-Free Electric Motor, Power Reaches the Rotor Wirelessly</title><link>https://news.panz3r.dev/post/122ab77e4e498da1b97bdf98677e72582f7cc0f7dbc6599e04b56f8bb2b038d2/</link><pubDate>Thu, 13 May 2021 16:09:21 +0000</pubDate><guid>https://news.panz3r.dev/post/122ab77e4e498da1b97bdf98677e72582f7cc0f7dbc6599e04b56f8bb2b038d2/</guid><description>
-Article URL: https://spectrum.ieee.org/cars-that-think/transportation/advanced-cars/mahles-electric-motor-says-look-ma-no-contacts
-Comments …</description></item><item><title>Launch HN: Ditto (YC W20) – Keep product text in sync from design to production</title><link>https://news.panz3r.dev/post/085177d93bf350945d38beca08905da52b01a077a8a48c1f4aaf612d1dd84c9a/</link><pubDate>Thu, 13 May 2021 15:07:30 +0000</pubDate><guid>https://news.panz3r.dev/post/085177d93bf350945d38beca08905da52b01a077a8a48c1f4aaf612d1dd84c9a/</guid><description>
-Jess and Jo here, and we're excited to share Ditto with you all (https://dittowords.com). Ditto is a way to manage product copy—the text …</description></item><item><title>Framework’s repairable laptop is up for preorder, starting at $999</title><link>https://news.panz3r.dev/post/ca511adb02833b2a879dcf828c341d5e361aef9dc9255572d29a0e47f7e9b07e/</link><pubDate>Thu, 13 May 2021 15:06:09 +0000</pubDate><guid>https://news.panz3r.dev/post/ca511adb02833b2a879dcf828c341d5e361aef9dc9255572d29a0e47f7e9b07e/</guid><description>
-Article URL: https://techcrunch.com/2021/05/13/frameworks-repairable-laptop-is-up-for-pre-order-starting-at-999/
-Comments URL: …</description></item><item><title>"Memory athletes" and the techniques they use [audio]</title><link>https://news.panz3r.dev/post/7bf1276d5f400153bb1b981b9cb7b0fc36d22a597959595e8a8b56b6f915f4f6/</link><pubDate>Thu, 13 May 2021 14:47:29 +0000</pubDate><guid>https://news.panz3r.dev/post/7bf1276d5f400153bb1b981b9cb7b0fc36d22a597959595e8a8b56b6f915f4f6/</guid><description>
-Article URL: https://www.bbc.co.uk/programmes/m000tmm1
-Comments URL: https://news.ycombinator.com/item?id=27142663
-Points: 87
-# Comments: 43 …</description></item><item><title>Colonial Pipeline Paid Hackers Nearly $5M in Ransom</title><link>https://news.panz3r.dev/post/66d8cc2a4d3ea493176a73e3419175e6bece7d48bf41a51171dda0aae2547bb3/</link><pubDate>Thu, 13 May 2021 14:26:01 +0000</pubDate><guid>https://news.panz3r.dev/post/66d8cc2a4d3ea493176a73e3419175e6bece7d48bf41a51171dda0aae2547bb3/</guid><description>
-Article URL: https://www.bloomberg.com/news/articles/2021-05-13/colonial-pipeline-paid-hackers-nearly-5-million-in-ransom
-Comments URL: …</description></item><item><title>Target stops selling Pokémon cards in store, citing safety concerns</title><link>https://news.panz3r.dev/post/70de7d3bbad53e0043f6e92f0426f21958d1131151c9ea831884b15b8ed78841/</link><pubDate>Thu, 13 May 2021 13:59:52 +0000</pubDate><guid>https://news.panz3r.dev/post/70de7d3bbad53e0043f6e92f0426f21958d1131151c9ea831884b15b8ed78841/</guid><description>
-Article URL: https://www.polygon.com/22433872/pokemon-cards-target-restock-shining-fates-in-store-availability
-Comments URL: …</description></item><item><title>Show HN: I made a platform to publish my Google Docs files as blogs</title><link>https://news.panz3r.dev/post/2b1a4f0aed509d865eb1f0db9d1a9051692fb7041c872d2edd405c209c9505f0/</link><pubDate>Thu, 13 May 2021 13:58:17 +0000</pubDate><guid>https://news.panz3r.dev/post/2b1a4f0aed509d865eb1f0db9d1a9051692fb7041c872d2edd405c209c9505f0/</guid><description>
-Article URL: https://hexo.press
-Comments URL: https://news.ycombinator.com/item?id=27142146
-Points: 123
-# Comments: 41</description></item><item><title>Ferrofluid display cell Bluetooth speaker</title><link>https://news.panz3r.dev/post/9b5fc28e0a75e412f33d914605f72f15b32c578a852e7b2f649fc081c95f4108/</link><pubDate>Thu, 13 May 2021 13:25:49 +0000</pubDate><guid>https://news.panz3r.dev/post/9b5fc28e0a75e412f33d914605f72f15b32c578a852e7b2f649fc081c95f4108/</guid><description>
-Article URL: https://hackaday.io/project/179136-ferrofluid-display-cell-bluetooth-speaker
-Comments URL: …</description></item><item><title>Show HN: Learn Python the Right Way – free introduction to Python book</title><link>https://news.panz3r.dev/post/c07e457639d916cdeb66571a8995d7d3d586e6180f1984877288a9214d61df0c/</link><pubDate>Thu, 13 May 2021 13:08:50 +0000</pubDate><guid>https://news.panz3r.dev/post/c07e457639d916cdeb66571a8995d7d3d586e6180f1984877288a9214d61df0c/</guid><description>
-Article URL: https://learnpythontherightway.com
-Comments URL: https://news.ycombinator.com/item?id=27141644
-Points: 171
-# Comments: 52</description></item><item><title>Vue 3 drops IE11 support plan</title><link>https://news.panz3r.dev/post/06a2579f47265c02a491afe7ef705eb817b1f2526aa28c6e9c1e5644453030e7/</link><pubDate>Thu, 13 May 2021 11:18:42 +0000</pubDate><guid>https://news.panz3r.dev/post/06a2579f47265c02a491afe7ef705eb817b1f2526aa28c6e9c1e5644453030e7/</guid><description>
-Article URL: https://github.com/vuejs/rfcs/blob/master/active-rfcs/0038-vue3-ie11-support.md
 Comments URL: …</description></item></channel></rss>

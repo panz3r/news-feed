@@ -1,4 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hacker-News-Frontpage on Panz3r News</title><link>https://news.panz3r.dev/tags/hacker-news-frontpage/</link><description>Recent content in Hacker-News-Frontpage on news.panz3r.dev</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Panz3r 2021 | Vitae theme for Hugo</copyright><lastBuildDate>Sat, 22 May 2021 20:40:31 +0000</lastBuildDate><atom:link href="https://news.panz3r.dev/tags/hacker-news-frontpage/index.xml" rel="self" type="application/rss+xml"/><item><title>Sixth grader expelled after Zoom provided possibly inaccurate IP address</title><link>https://news.panz3r.dev/post/6fcf33f5a39cb7b30dd7edae671e79ef2fe895c04399da84071645a7923270e5/</link><pubDate>Sat, 22 May 2021 20:40:31 +0000</pubDate><guid>https://news.panz3r.dev/post/6fcf33f5a39cb7b30dd7edae671e79ef2fe895c04399da84071645a7923270e5/</guid><description>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hacker-News-Frontpage on Panz3r News</title><link>https://news.panz3r.dev/tags/hacker-news-frontpage/</link><description>Recent content in Hacker-News-Frontpage on news.panz3r.dev</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Panz3r 2021 | Vitae theme for Hugo</copyright><lastBuildDate>Sun, 23 May 2021 01:57:02 +0000</lastBuildDate><atom:link href="https://news.panz3r.dev/tags/hacker-news-frontpage/index.xml" rel="self" type="application/rss+xml"/><item><title>HAProxy 2.4</title><link>https://news.panz3r.dev/post/3e5d7bac809c32f43237d3f1f0a5a1667f9fbbff12d598c25516f05215d8c4a8/</link><pubDate>Sun, 23 May 2021 01:57:02 +0000</pubDate><guid>https://news.panz3r.dev/post/3e5d7bac809c32f43237d3f1f0a5a1667f9fbbff12d598c25516f05215d8c4a8/</guid><description>
+Article URL: https://www.haproxy.com/blog/announcing-haproxy-2-4/
+Comments URL: https://news.ycombinator.com/item?id=27251837
+Points: 77
+# …</description></item><item><title>My Road to Erlang (2008)</title><link>https://news.panz3r.dev/post/2795738091111f94ae70d0327f94f5785d595ecc5c3a38d1c0129c4a906670bb/</link><pubDate>Sat, 22 May 2021 21:56:52 +0000</pubDate><guid>https://news.panz3r.dev/post/2795738091111f94ae70d0327f94f5785d595ecc5c3a38d1c0129c4a906670bb/</guid><description>
+Article URL: https://prog21.dadgum.com/22.html
+Comments URL: https://news.ycombinator.com/item?id=27250619
+Points: 97
+# Comments: 13</description></item><item><title>Sixth grader expelled after Zoom provided possibly inaccurate IP address</title><link>https://news.panz3r.dev/post/6fcf33f5a39cb7b30dd7edae671e79ef2fe895c04399da84071645a7923270e5/</link><pubDate>Sat, 22 May 2021 20:40:31 +0000</pubDate><guid>https://news.panz3r.dev/post/6fcf33f5a39cb7b30dd7edae671e79ef2fe895c04399da84071645a7923270e5/</guid><description>
 Article URL: https://www.ajc.com/news/gwinnett-student-challenges-suspension-over-zoom-bombing-allegations/UMQAYE3COVAB3DE4M2Q6QPHVCI/ …</description></item><item><title>Tosh: Changing your SSH server's listen address every 30 seconds based on TOTP</title><link>https://news.panz3r.dev/post/86abf856841dc6b561c83e7b0bd80346a17b8575a54cb1eb9ba5a05170dc791e/</link><pubDate>Sat, 22 May 2021 19:26:09 +0000</pubDate><guid>https://news.panz3r.dev/post/86abf856841dc6b561c83e7b0bd80346a17b8575a54cb1eb9ba5a05170dc791e/</guid><description>
 Article URL: https://github.com/mikroskeem/tosh
 Comments URL: https://news.ycombinator.com/item?id=27249555
@@ -6,24 +14,32 @@ Points: 114
 # Comments: 84</description></item><item><title>Show HN: I hate adding updating to my apps, so I created Pakkly</title><link>https://news.panz3r.dev/post/82220bab9d330d6dee5621249781515850d2c1f513f11917e7d8d5b9d72d8834/</link><pubDate>Sat, 22 May 2021 19:09:27 +0000</pubDate><guid>https://news.panz3r.dev/post/82220bab9d330d6dee5621249781515850d2c1f513f11917e7d8d5b9d72d8834/</guid><description>
 Article URL: https://pakkly.com
 Comments URL: https://news.ycombinator.com/item?id=27249413
-Points: 62
-# Comments: 19</description></item><item><title>Show HN: Inflation-adjusted Hacker News</title><link>https://news.panz3r.dev/post/060ef13d9a9bc9cb4184dcf313d62df92355e541b3d8886e998f8224037bf1b7/</link><pubDate>Sat, 22 May 2021 18:30:57 +0000</pubDate><guid>https://news.panz3r.dev/post/060ef13d9a9bc9cb4184dcf313d62df92355e541b3d8886e998f8224037bf1b7/</guid><description>
+Points: 88
+# Comments: 42</description></item><item><title>Show HN: Inflation-adjusted Hacker News</title><link>https://news.panz3r.dev/post/060ef13d9a9bc9cb4184dcf313d62df92355e541b3d8886e998f8224037bf1b7/</link><pubDate>Sat, 22 May 2021 18:30:57 +0000</pubDate><guid>https://news.panz3r.dev/post/060ef13d9a9bc9cb4184dcf313d62df92355e541b3d8886e998f8224037bf1b7/</guid><description>
 Article URL: https://instruments.digital/inflation-adjusted-hn/
 Comments URL: https://news.ycombinator.com/item?id=27249082
-Points: 296
+Points: 372
 # …</description></item><item><title>KolibriOS</title><link>https://news.panz3r.dev/post/470aecb39b9dbcacc4c9c5247a903218d0a12bc0fd8ed15f266a5b38cf0f7c0a/</link><pubDate>Sat, 22 May 2021 18:29:47 +0000</pubDate><guid>https://news.panz3r.dev/post/470aecb39b9dbcacc4c9c5247a903218d0a12bc0fd8ed15f266a5b38cf0f7c0a/</guid><description>
 Article URL: http://www.kolibrios.org/en/
 Comments URL: https://news.ycombinator.com/item?id=27249075
-Points: 146
-# Comments: 43</description></item><item><title>Antibody levels highly predictive of immune protection from symptomatic Covid</title><link>https://news.panz3r.dev/post/9f8957b4175463c3b31b34adff978abd74d6124a1d0a7c050ea9c4e2c08bec9e/</link><pubDate>Sat, 22 May 2021 17:11:13 +0000</pubDate><guid>https://news.panz3r.dev/post/9f8957b4175463c3b31b34adff978abd74d6124a1d0a7c050ea9c4e2c08bec9e/</guid><description>
+Points: 271
+# Comments: 77</description></item><item><title>Show HN: ClangQL – Query C++ codebases using SQLite</title><link>https://news.panz3r.dev/post/081144ffec101387d58bcbeb023ca99494a9db21efb63fca413b2b9f671af805/</link><pubDate>Sat, 22 May 2021 18:15:22 +0000</pubDate><guid>https://news.panz3r.dev/post/081144ffec101387d58bcbeb023ca99494a9db21efb63fca413b2b9f671af805/</guid><description>
+Article URL: https://github.com/frabert/ClangQL
+Comments URL: https://news.ycombinator.com/item?id=27248960
+Points: 65
+# Comments: 6</description></item><item><title>DatasetGAN: Efficient Labeled Data for AI Training</title><link>https://news.panz3r.dev/post/73af6580e1902dfcede2ca39b993bdac6c0a1c694d09a60b2f48776b0e87ef78/</link><pubDate>Sat, 22 May 2021 17:49:32 +0000</pubDate><guid>https://news.panz3r.dev/post/73af6580e1902dfcede2ca39b993bdac6c0a1c694d09a60b2f48776b0e87ef78/</guid><description>
+Article URL: https://nv-tlabs.github.io/datasetGAN/
+Comments URL: https://news.ycombinator.com/item?id=27248747
+Points: 68
+# Comments: 10</description></item><item><title>Antibody levels highly predictive of immune protection from symptomatic Covid</title><link>https://news.panz3r.dev/post/9f8957b4175463c3b31b34adff978abd74d6124a1d0a7c050ea9c4e2c08bec9e/</link><pubDate>Sat, 22 May 2021 17:11:13 +0000</pubDate><guid>https://news.panz3r.dev/post/9f8957b4175463c3b31b34adff978abd74d6124a1d0a7c050ea9c4e2c08bec9e/</guid><description>
 Article URL: https://www.nature.com/articles/s41591-021-01377-8
 Comments URL: https://news.ycombinator.com/item?id=27248406
 Points: 67
 # …</description></item><item><title>Generate RSS feeds with grep(1), sed(1), and Awk(1)</title><link>https://news.panz3r.dev/post/a52a36c1691ec827d878ee5f4071f2b460675bdcd645b3a2b24c4f4a86dc3583/</link><pubDate>Sat, 22 May 2021 17:09:17 +0000</pubDate><guid>https://news.panz3r.dev/post/a52a36c1691ec827d878ee5f4071f2b460675bdcd645b3a2b24c4f4a86dc3583/</guid><description>
 Article URL: https://www.romanzolotarev.com/rssg.html
 Comments URL: https://news.ycombinator.com/item?id=27248383
-Points: 50
-# Comments: 11</description></item><item><title>Common data model mistakes made by startups</title><link>https://news.panz3r.dev/post/18fe0d07321481eb11c8106c4646d8c61b4ec6346402dfd9292d8731a6680b36/</link><pubDate>Sat, 22 May 2021 16:34:56 +0000</pubDate><guid>https://news.panz3r.dev/post/18fe0d07321481eb11c8106c4646d8c61b4ec6346402dfd9292d8731a6680b36/</guid><description>
+Points: 75
+# Comments: 20</description></item><item><title>Common data model mistakes made by startups</title><link>https://news.panz3r.dev/post/18fe0d07321481eb11c8106c4646d8c61b4ec6346402dfd9292d8731a6680b36/</link><pubDate>Sat, 22 May 2021 16:34:56 +0000</pubDate><guid>https://news.panz3r.dev/post/18fe0d07321481eb11c8106c4646d8c61b4ec6346402dfd9292d8731a6680b36/</guid><description>
 Article URL: https://www.metabase.com/learn/data-diet/analytics/data-model-mistakes.html
 Comments URL: …</description></item><item><title>An early look at Postgres 14: Performance and monitoring Improvements</title><link>https://news.panz3r.dev/post/c40bc84ed7b25b4418feec955eb6c565726dde5e37c3e5aed1d6c0acbe1498ab/</link><pubDate>Sat, 22 May 2021 15:47:37 +0000</pubDate><guid>https://news.panz3r.dev/post/c40bc84ed7b25b4418feec955eb6c565726dde5e37c3e5aed1d6c0acbe1498ab/</guid><description>
 Article URL: https://pganalyze.com/blog/postgres-14-performance-monitoring
@@ -50,7 +66,11 @@ Comments URL: https://news.ycombinator.com/item?id=27245310
 Points: 125
 # Comments: 33</description></item><item><title>Working at a startup is overrated, both financially and emotionally</title><link>https://news.panz3r.dev/post/877096c88b7199e1329012b4a8535e5734dbdf8651919ff5ac0773c6166ccd31/</link><pubDate>Sat, 22 May 2021 10:01:20 +0000</pubDate><guid>https://news.panz3r.dev/post/877096c88b7199e1329012b4a8535e5734dbdf8651919ff5ac0773c6166ccd31/</guid><description>
 Article URL: https://every.to/napkin-math/you-probably-shouldn-t-work-at-a-startup-9387b632-345c-4a22-bac0-3cb92f0eecf1##
-Comments URL: …</description></item><item><title>Being Poor (2005)</title><link>https://news.panz3r.dev/post/a00efd6a76b4de3ea62993be07afe8e348b5d9fa4cf9160824d1fb70e4bc350e/</link><pubDate>Sat, 22 May 2021 07:01:33 +0000</pubDate><guid>https://news.panz3r.dev/post/a00efd6a76b4de3ea62993be07afe8e348b5d9fa4cf9160824d1fb70e4bc350e/</guid><description>
+Comments URL: …</description></item><item><title>The Architecture of Uber’s API Gateway</title><link>https://news.panz3r.dev/post/2517ef5d40e6006cd918d152cdf93d6b2956c2b45ce6994fc0ae59be470dc70c/</link><pubDate>Sat, 22 May 2021 09:52:35 +0000</pubDate><guid>https://news.panz3r.dev/post/2517ef5d40e6006cd918d152cdf93d6b2956c2b45ce6994fc0ae59be470dc70c/</guid><description>
+Article URL: https://eng.uber.com/architecture-api-gateway/
+Comments URL: https://news.ycombinator.com/item?id=27245058
+Points: 91
+# …</description></item><item><title>Being Poor (2005)</title><link>https://news.panz3r.dev/post/a00efd6a76b4de3ea62993be07afe8e348b5d9fa4cf9160824d1fb70e4bc350e/</link><pubDate>Sat, 22 May 2021 07:01:33 +0000</pubDate><guid>https://news.panz3r.dev/post/a00efd6a76b4de3ea62993be07afe8e348b5d9fa4cf9160824d1fb70e4bc350e/</guid><description>
 Article URL: https://whatever.scalzi.com/2005/09/03/being-poor/
 Comments URL: https://news.ycombinator.com/item?id=27244223
 Points: 137
@@ -60,7 +80,9 @@ Comments URL: https://news.ycombinator.com/item?id=27244017 …</description></i
 Article URL: https://bellard.org/nncp/
 Comments URL: https://news.ycombinator.com/item?id=27244004
 Points: 343
-# Comments: 134</description></item><item><title>How to Tell a Job Offer from an ID Theft Trap</title><link>https://news.panz3r.dev/post/59816ebcef435b41dac053049b7ddc9e9cb1b0f18862e6a7bce981e373fa5f8b/</link><pubDate>Sat, 22 May 2021 04:43:24 +0000</pubDate><guid>https://news.panz3r.dev/post/59816ebcef435b41dac053049b7ddc9e9cb1b0f18862e6a7bce981e373fa5f8b/</guid><description>
+# Comments: 134</description></item><item><title>Collectors who hunt down radioactive glassware</title><link>https://news.panz3r.dev/post/02ea4a6f9b0b28e7c96569724adaaac06bb10a68bc6b4829c8f7df92d805269d/</link><pubDate>Sat, 22 May 2021 05:05:16 +0000</pubDate><guid>https://news.panz3r.dev/post/02ea4a6f9b0b28e7c96569724adaaac06bb10a68bc6b4829c8f7df92d805269d/</guid><description>
+Article URL: https://www.atlasobscura.com/articles/uranium-glass-radioactive-plates-cups.html
+Comments URL: …</description></item><item><title>How to Tell a Job Offer from an ID Theft Trap</title><link>https://news.panz3r.dev/post/59816ebcef435b41dac053049b7ddc9e9cb1b0f18862e6a7bce981e373fa5f8b/</link><pubDate>Sat, 22 May 2021 04:43:24 +0000</pubDate><guid>https://news.panz3r.dev/post/59816ebcef435b41dac053049b7ddc9e9cb1b0f18862e6a7bce981e373fa5f8b/</guid><description>
 Article URL: https://krebsonsecurity.com/2021/05/how-to-tell-a-job-offer-from-an-id-theft-trap/
 Comments URL: …</description></item><item><title>The intestinal microbiome of latrine sediments from two medieval cities (2020)</title><link>https://news.panz3r.dev/post/bbd93f2fb80c88934d3d976e8377b8d1651b72d223b02433e7e634358540189c/</link><pubDate>Sat, 22 May 2021 03:23:43 +0000</pubDate><guid>https://news.panz3r.dev/post/bbd93f2fb80c88934d3d976e8377b8d1651b72d223b02433e7e634358540189c/</guid><description>
 Article URL: https://royalsocietypublishing.org/doi/10.1098/rstb.2019.0576
@@ -128,7 +150,11 @@ Comments URL: …</description></item><item><title>MagicaCSG: A lightweight sign
 Article URL: https://ephtracy.github.io/index.html?page=magicacsg
 Comments URL: https://news.ycombinator.com/item?id=27234755
 Points: 55
-# …</description></item><item><title>2022 Ford F-150 Lightning</title><link>https://news.panz3r.dev/post/5cf9d63585ee8c10a4471300da5ffd7a2078ea561f2c31dcbd51c935472f9c44/</link><pubDate>Fri, 21 May 2021 13:57:56 +0000</pubDate><guid>https://news.panz3r.dev/post/5cf9d63585ee8c10a4471300da5ffd7a2078ea561f2c31dcbd51c935472f9c44/</guid><description>
+# …</description></item><item><title>C++20: Building a Thread-Pool with Coroutines</title><link>https://news.panz3r.dev/post/b1190e57a51f1690f5e870323b8c3ada874558368185eaf972d77411c0b25b1a/</link><pubDate>Fri, 21 May 2021 13:58:25 +0000</pubDate><guid>https://news.panz3r.dev/post/b1190e57a51f1690f5e870323b8c3ada874558368185eaf972d77411c0b25b1a/</guid><description>
+Article URL: https://blog.eiler.eu/posts/20210512/
+Comments URL: https://news.ycombinator.com/item?id=27234044
+Points: 88
+# Comments: 25</description></item><item><title>2022 Ford F-150 Lightning</title><link>https://news.panz3r.dev/post/5cf9d63585ee8c10a4471300da5ffd7a2078ea561f2c31dcbd51c935472f9c44/</link><pubDate>Fri, 21 May 2021 13:57:56 +0000</pubDate><guid>https://news.panz3r.dev/post/5cf9d63585ee8c10a4471300da5ffd7a2078ea561f2c31dcbd51c935472f9c44/</guid><description>
 Article URL: https://www.ford.com/trucks/f150/f150-lightning/2022/
 Comments URL: https://news.ycombinator.com/item?id=27234039
 Points: 660
@@ -158,8 +184,8 @@ Article URL: https://www.jeremyong.com/cpp/2021/05/20/graphics-pipelines-for-you
 Comments URL: …</description></item><item><title>Freesound just reached 500K Creative Commons sounds</title><link>https://news.panz3r.dev/post/53999893b7212e68d525141e5eeae8ecbaf4b101c5c9935aaafa4865e603ddf9/</link><pubDate>Fri, 21 May 2021 10:25:05 +0000</pubDate><guid>https://news.panz3r.dev/post/53999893b7212e68d525141e5eeae8ecbaf4b101c5c9935aaafa4865e603ddf9/</guid><description>
 Article URL: https://blog.freesound.org/?p=1340
 Comments URL: https://news.ycombinator.com/item?id=27232297
-Points: 250
-# Comments: 21</description></item><item><title>Earth Species: Roadmaps towards decoding non-human languages</title><link>https://news.panz3r.dev/post/01dbf47d27cbd497e88a2a06cc9587d15d0af8f48c0e4686390050a580259a0c/</link><pubDate>Fri, 21 May 2021 09:36:58 +0000</pubDate><guid>https://news.panz3r.dev/post/01dbf47d27cbd497e88a2a06cc9587d15d0af8f48c0e4686390050a580259a0c/</guid><description>
+Points: 445
+# Comments: 43</description></item><item><title>Earth Species: Roadmaps towards decoding non-human languages</title><link>https://news.panz3r.dev/post/01dbf47d27cbd497e88a2a06cc9587d15d0af8f48c0e4686390050a580259a0c/</link><pubDate>Fri, 21 May 2021 09:36:58 +0000</pubDate><guid>https://news.panz3r.dev/post/01dbf47d27cbd497e88a2a06cc9587d15d0af8f48c0e4686390050a580259a0c/</guid><description>
 Article URL: https://github.com/earthspecies/project
 Comments URL: https://news.ycombinator.com/item?id=27232047
 Points: 52
@@ -571,8 +597,4 @@ Comments URL: https://news.ycombinator.com/item?id=27191795
 Points: 348
 # Comments: 59</description></item><item><title>The Colonial Pipeline Was Fine, Shutdown to Make Sure Its Owner Would Get Paid</title><link>https://news.panz3r.dev/post/914afa5e50e280ba00e4a943b73ca76349aa052f2c07a14d21e11e18094ccd3d/</link><pubDate>Tue, 18 May 2021 06:25:23 +0000</pubDate><guid>https://news.panz3r.dev/post/914afa5e50e280ba00e4a943b73ca76349aa052f2c07a14d21e11e18094ccd3d/</guid><description>
 Article URL: https://jalopnik.com/the-colonial-pipeline-was-fine-but-it-was-shutdown-to-1846911689
-Comments URL: …</description></item><item><title>Breakthrough in deciphering Minoan Linear A script</title><link>https://news.panz3r.dev/post/edf6d4b1454e2b294e35a6e309f3133a6d5fe502943eca2c8753bdd7ce8b002f/</link><pubDate>Tue, 18 May 2021 04:51:05 +0000</pubDate><guid>https://news.panz3r.dev/post/edf6d4b1454e2b294e35a6e309f3133a6d5fe502943eca2c8753bdd7ce8b002f/</guid><description>
-Article URL: https://greekreporter.com/2021/05/13/minoan-language-linear-a-linked-to-linear-b-in-groundbreaking-new-research/
-Comments URL: …</description></item><item><title>America’s Dead Souls</title><link>https://news.panz3r.dev/post/dc700a7b40a7a84558437ac996e77fe1338c3ea2eacdd1c69c8ff879e67b96e1/</link><pubDate>Tue, 18 May 2021 04:44:40 +0000</pubDate><guid>https://news.panz3r.dev/post/dc700a7b40a7a84558437ac996e77fe1338c3ea2eacdd1c69c8ff879e67b96e1/</guid><description>
-Article URL: https://www.theparisreview.org/blog/2021/05/17/americas-dead-souls/
-Comments URL: https://news.ycombinator.com/item?id=27191329 …</description></item></channel></rss>
+Comments URL: …</description></item></channel></rss>

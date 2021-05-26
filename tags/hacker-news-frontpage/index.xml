@@ -1,12 +1,38 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hacker-News-Frontpage on Panz3r News</title><link>https://news.panz3r.dev/tags/hacker-news-frontpage/</link><description>Recent content in Hacker-News-Frontpage on news.panz3r.dev</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Panz3r 2021 | Vitae theme for Hugo</copyright><lastBuildDate>Wed, 26 May 2021 05:11:32 +0000</lastBuildDate><atom:link href="https://news.panz3r.dev/tags/hacker-news-frontpage/index.xml" rel="self" type="application/rss+xml"/><item><title>Freenode Ops Take Control of 700 Channels</title><link>https://news.panz3r.dev/post/df8462e1e7bfa3530dc69e07e7b5c9bb9e39b3cfa5d9769a4be9bfcdb7d0a8bc/</link><pubDate>Wed, 26 May 2021 05:11:32 +0000</pubDate><guid>https://news.panz3r.dev/post/df8462e1e7bfa3530dc69e07e7b5c9bb9e39b3cfa5d9769a4be9bfcdb7d0a8bc/</guid><description>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hacker-News-Frontpage on Panz3r News</title><link>https://news.panz3r.dev/tags/hacker-news-frontpage/</link><description>Recent content in Hacker-News-Frontpage on news.panz3r.dev</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Panz3r 2021 | Vitae theme for Hugo</copyright><lastBuildDate>Wed, 26 May 2021 10:31:22 +0000</lastBuildDate><atom:link href="https://news.panz3r.dev/tags/hacker-news-frontpage/index.xml" rel="self" type="application/rss+xml"/><item><title>One Week of Libera Chat</title><link>https://news.panz3r.dev/post/d7a2e978e0d5a936af2347e21c7cd0bf079b00410c8d4dff8e1eb39681895824/</link><pubDate>Wed, 26 May 2021 10:31:22 +0000</pubDate><guid>https://news.panz3r.dev/post/d7a2e978e0d5a936af2347e21c7cd0bf079b00410c8d4dff8e1eb39681895824/</guid><description>
+Article URL: https://libera.chat/news/one-week-of-libera-chat
+Comments URL: https://news.ycombinator.com/item?id=27288613
+Points: 85
+# …</description></item><item><title>Finally Understanding PNG (2017)</title><link>https://news.panz3r.dev/post/e536fa4ed6ca8fe3cec81e07b6a70e69cba7d618d87529afe584f52000eb7744/</link><pubDate>Wed, 26 May 2021 08:42:28 +0000</pubDate><guid>https://news.panz3r.dev/post/e536fa4ed6ca8fe3cec81e07b6a70e69cba7d618d87529afe584f52000eb7744/</guid><description>
+Article URL: https://compress-or-die.com/Understanding-PNG
+Comments URL: https://news.ycombinator.com/item?id=27287917
+Points: 50
+# …</description></item><item><title>The Expanse UI Design</title><link>https://news.panz3r.dev/post/eed1faecd9b920d117a399392572b6e47ad2394f2aff623f7ed127183f925cd9/</link><pubDate>Wed, 26 May 2021 08:42:06 +0000</pubDate><guid>https://news.panz3r.dev/post/eed1faecd9b920d117a399392572b6e47ad2394f2aff623f7ed127183f925cd9/</guid><description>
+Article URL: https://www.hudsandguis.com/home/2021/theexpanse
+Comments URL: https://news.ycombinator.com/item?id=27287912
+Points: 136
+# …</description></item><item><title>Gentoo Freenode channels have been hijacked</title><link>https://news.panz3r.dev/post/667b67072a590dffd09ca5876c62cbacea594d4f71d5e310993814a97b4e05fd/</link><pubDate>Wed, 26 May 2021 08:12:27 +0000</pubDate><guid>https://news.panz3r.dev/post/667b67072a590dffd09ca5876c62cbacea594d4f71d5e310993814a97b4e05fd/</guid><description>
+Article URL: https://www.gentoo.org/news/2021/05/26/gentoo-freenode-channels-hijacked.html
+Comments URL: …</description></item><item><title>Online Antipiracy firm sending copyright notices for downloading Ubuntu ISO</title><link>https://news.panz3r.dev/post/6cba9372fa3d01c926735af470771a0913b45463d185a508f00ccaef4e6ff7f9/</link><pubDate>Wed, 26 May 2021 08:07:19 +0000</pubDate><guid>https://news.panz3r.dev/post/6cba9372fa3d01c926735af470771a0913b45463d185a508f00ccaef4e6ff7f9/</guid><description>
+Article URL: https://www.reddit.com/r/linux/comments/nkztyv
+Comments URL: https://news.ycombinator.com/item?id=27287716
+Points: 120
+# …</description></item><item><title>Master List of Logical Fallacies (2018)</title><link>https://news.panz3r.dev/post/b2b45a35a5ada3a4eab91a627331832bafc89b9e2882e49bb8d132875d07a5df/</link><pubDate>Wed, 26 May 2021 07:15:24 +0000</pubDate><guid>https://news.panz3r.dev/post/b2b45a35a5ada3a4eab91a627331832bafc89b9e2882e49bb8d132875d07a5df/</guid><description>
+Article URL: http://utminers.utep.edu/omwilliamson/ENGL1311/fallacies.htm
+Comments URL: https://news.ycombinator.com/item?id=27287363 …</description></item><item><title>Gio – write immediate-mode GUI programs in Go</title><link>https://news.panz3r.dev/post/f39fe884bbef83094a99683f115d7bae3d2c3610d6636a671b62ea7eff039aa4/</link><pubDate>Wed, 26 May 2021 06:58:11 +0000</pubDate><guid>https://news.panz3r.dev/post/f39fe884bbef83094a99683f115d7bae3d2c3610d6636a671b62ea7eff039aa4/</guid><description>
+Article URL: https://gioui.org/
+Comments URL: https://news.ycombinator.com/item?id=27287270
+Points: 84
+# Comments: 32</description></item><item><title>Freenode Ops Take Control of 700 Channels</title><link>https://news.panz3r.dev/post/df8462e1e7bfa3530dc69e07e7b5c9bb9e39b3cfa5d9769a4be9bfcdb7d0a8bc/</link><pubDate>Wed, 26 May 2021 05:11:32 +0000</pubDate><guid>https://news.panz3r.dev/post/df8462e1e7bfa3530dc69e07e7b5c9bb9e39b3cfa5d9769a4be9bfcdb7d0a8bc/</guid><description>
 Article URL: https://mastodon.sdf.org/@kline/106299403921451814
 Comments URL: https://news.ycombinator.com/item?id=27286628
 Points: 83
 # …</description></item><item><title>M1racles: An Apple M1 covert channel vulnerability</title><link>https://news.panz3r.dev/post/9ca5e26460fe0fe1c32e2b9294e4b643219c9d6197f68d1a4155d1d34cdfa511/</link><pubDate>Wed, 26 May 2021 03:02:00 +0000</pubDate><guid>https://news.panz3r.dev/post/9ca5e26460fe0fe1c32e2b9294e4b643219c9d6197f68d1a4155d1d34cdfa511/</guid><description>
 Article URL: https://m1racles.com/
 Comments URL: https://news.ycombinator.com/item?id=27285700
-Points: 390
-# Comments: 112</description></item><item><title>Introduction to Robotics</title><link>https://news.panz3r.dev/post/9db3cd025dfd34412a6c856623a24a9c0eaccba8ccbd069d201728d041ebb763/</link><pubDate>Tue, 25 May 2021 23:44:17 +0000</pubDate><guid>https://news.panz3r.dev/post/9db3cd025dfd34412a6c856623a24a9c0eaccba8ccbd069d201728d041ebb763/</guid><description>
+Points: 700
+# Comments: 186</description></item><item><title>Our memory is better than experts thought</title><link>https://news.panz3r.dev/post/fc5b8cf6be7dbbde84cd510aa890e0c7ea11b0980c2b376d8aeea348df0940b1/</link><pubDate>Wed, 26 May 2021 01:30:30 +0000</pubDate><guid>https://news.panz3r.dev/post/fc5b8cf6be7dbbde84cd510aa890e0c7ea11b0980c2b376d8aeea348df0940b1/</guid><description>
+Article URL: https://www.scientificamerican.com/article/our-memory-is-even-better-than-experts-thought/
+Comments URL: …</description></item><item><title>Introduction to Robotics</title><link>https://news.panz3r.dev/post/9db3cd025dfd34412a6c856623a24a9c0eaccba8ccbd069d201728d041ebb763/</link><pubDate>Tue, 25 May 2021 23:44:17 +0000</pubDate><guid>https://news.panz3r.dev/post/9db3cd025dfd34412a6c856623a24a9c0eaccba8ccbd069d201728d041ebb763/</guid><description>
 Article URL: https://robotacademy.net.au/masterclass/introduction-to-robotics/?lesson=206
 Comments URL: …</description></item><item><title>Chrome extensions are tampering with security headers</title><link>https://news.panz3r.dev/post/9be53da224fe9d75b3819bee536b532fc7e697cf0f098c27c6184ed471c5da0b/</link><pubDate>Tue, 25 May 2021 23:38:28 +0000</pubDate><guid>https://news.panz3r.dev/post/9be53da224fe9d75b3819bee536b532fc7e697cf0f098c27c6184ed471c5da0b/</guid><description>
 Article URL: https://therecord.media/thousands-of-chrome-extensions-are-tampering-with-security-headers/
@@ -34,7 +60,7 @@ Comments URL: https://news.ycombinator.com/item?id=27280174
 Points: 154 …</description></item><item><title>Stripe Payment Links</title><link>https://news.panz3r.dev/post/cc8a7a99c559e6095c90d981123967e31abc4aa70b4b349ce246dea57863612a/</link><pubDate>Tue, 25 May 2021 18:00:30 +0000</pubDate><guid>https://news.panz3r.dev/post/cc8a7a99c559e6095c90d981123967e31abc4aa70b4b349ce246dea57863612a/</guid><description>
 Article URL: https://stripe.com/payments/payment-links
 Comments URL: https://news.ycombinator.com/item?id=27280096
-Points: 793
+Points: 878
 # Comments: …</description></item><item><title>How inevitable is the concept of numbers?</title><link>https://news.panz3r.dev/post/aea4a36f909f52b34f4a7f960a9a3a48c6b1a7786461e48aa8ef31ff83bd7287/</link><pubDate>Tue, 25 May 2021 17:46:08 +0000</pubDate><guid>https://news.panz3r.dev/post/aea4a36f909f52b34f4a7f960a9a3a48c6b1a7786461e48aa8ef31ff83bd7287/</guid><description>
 Article URL: https://writings.stephenwolfram.com/2021/05/how-inevitable-is-the-concept-of-numbers/
 Comments URL: …</description></item><item><title>Transcript of controller telling plane to land in Minsk</title><link>https://news.panz3r.dev/post/ddddc7bb5fb6a3256ffc563437cb5f665a4d4d961dcb182222b8e69d2e330667/</link><pubDate>Tue, 25 May 2021 16:51:28 +0000</pubDate><guid>https://news.panz3r.dev/post/ddddc7bb5fb6a3256ffc563437cb5f665a4d4d961dcb182222b8e69d2e330667/</guid><description>
@@ -45,8 +71,8 @@ Article URL: https://security.googleblog.com/2021/05/introducing-half-double-new
 Comments URL: …</description></item><item><title>Launch HN: Fig (YC S20) – Autocomplete for the Terminal</title><link>https://news.panz3r.dev/post/438373592dfd2ceb62bac4fb53df596c19ebb862475209efad10358a2bcb6e7d/</link><pubDate>Tue, 25 May 2021 15:09:02 +0000</pubDate><guid>https://news.panz3r.dev/post/438373592dfd2ceb62bac4fb53df596c19ebb862475209efad10358a2bcb6e7d/</guid><description>
 Article URL: https://fig.io?ref=hn
 Comments URL: https://news.ycombinator.com/item?id=27277819
-Points: 466
-# Comments: 326</description></item><item><title>Second Climacs – Emacs Implementation in Common Lisp</title><link>https://news.panz3r.dev/post/859b4b25907d875a4676f74a43c97f61353a946ae01ad5194c0171f7702fb07c/</link><pubDate>Tue, 25 May 2021 14:53:12 +0000</pubDate><guid>https://news.panz3r.dev/post/859b4b25907d875a4676f74a43c97f61353a946ae01ad5194c0171f7702fb07c/</guid><description>
+Points: 502
+# Comments: 341</description></item><item><title>Second Climacs – Emacs Implementation in Common Lisp</title><link>https://news.panz3r.dev/post/859b4b25907d875a4676f74a43c97f61353a946ae01ad5194c0171f7702fb07c/</link><pubDate>Tue, 25 May 2021 14:53:12 +0000</pubDate><guid>https://news.panz3r.dev/post/859b4b25907d875a4676f74a43c97f61353a946ae01ad5194c0171f7702fb07c/</guid><description>
 Article URL: https://github.com/robert-strandh/Second-Climacs
 Comments URL: https://news.ycombinator.com/item?id=27277575
 Points: 92
@@ -89,7 +115,9 @@ Points: 249
 Article URL: https://news.mit.edu/2021/misinformation-correcting-worse-0520
 Comments URL: https://news.ycombinator.com/item?id=27275393 …</description></item><item><title>GCHQ’s mass data-sharing violated right to privacy, court rules</title><link>https://news.panz3r.dev/post/96b5cf8b1b30a8f6cac1756e8909cf9ae2c1a4931b68b6ec238963cd9f438f3c/</link><pubDate>Tue, 25 May 2021 10:09:02 +0000</pubDate><guid>https://news.panz3r.dev/post/96b5cf8b1b30a8f6cac1756e8909cf9ae2c1a4931b68b6ec238963cd9f438f3c/</guid><description>
 Article URL: https://www.theguardian.com/uk-news/2021/may/25/gchqs-mass-data-sharing-violated-right-to-privacy-court-rules
-Comments URL: …</description></item><item><title>Magit 3.0 Released</title><link>https://news.panz3r.dev/post/d6656f0608138a9c2c453cfa8c84700c5260153bd324efbd4ceb2670b21fa2c4/</link><pubDate>Tue, 25 May 2021 09:17:30 +0000</pubDate><guid>https://news.panz3r.dev/post/d6656f0608138a9c2c453cfa8c84700c5260153bd324efbd4ceb2670b21fa2c4/</guid><description>
+Comments URL: …</description></item><item><title>The fastest and shortest algorithm for all well-defined problems (2002)</title><link>https://news.panz3r.dev/post/55f4af2dc5a2c22c9f428e7807578d860bf6c43c2f580632a9f27c7cd787a941/</link><pubDate>Tue, 25 May 2021 09:53:50 +0000</pubDate><guid>https://news.panz3r.dev/post/55f4af2dc5a2c22c9f428e7807578d860bf6c43c2f580632a9f27c7cd787a941/</guid><description>
+Article URL: https://www.researchgate.net/publication/220180215_The_Fastest_and_Shortest_Algorithm_for_All_Well-Defined_Problems
+Comments …</description></item><item><title>Magit 3.0 Released</title><link>https://news.panz3r.dev/post/d6656f0608138a9c2c453cfa8c84700c5260153bd324efbd4ceb2670b21fa2c4/</link><pubDate>Tue, 25 May 2021 09:17:30 +0000</pubDate><guid>https://news.panz3r.dev/post/d6656f0608138a9c2c453cfa8c84700c5260153bd324efbd4ceb2670b21fa2c4/</guid><description>
 Article URL: https://emacsair.me/2021/05/25/magit-3.0/
 Comments URL: https://news.ycombinator.com/item?id=27274670
 Points: 216
@@ -97,7 +125,7 @@ Points: 216
 Article URL: https://www.smh.com.au/world/europe/it-s-absurd-italian-seaside-residents-hit-with-bygone-feudal-tax-20210525-p57uxi.html …</description></item><item><title>Clojure by Example (2015)</title><link>https://news.panz3r.dev/post/069b8c9dffaedac3022923d59089e1b30b3bfbd59aa16d76f3be142f873488e9/</link><pubDate>Tue, 25 May 2021 07:26:09 +0000</pubDate><guid>https://news.panz3r.dev/post/069b8c9dffaedac3022923d59089e1b30b3bfbd59aa16d76f3be142f873488e9/</guid><description>
 Article URL: https://kimh.github.io/clojure-by-example/#about
 Comments URL: https://news.ycombinator.com/item?id=27273911
-Points: 81
+Points: 122
 # …</description></item><item><title>EU bans Belarusian airlines from European skies</title><link>https://news.panz3r.dev/post/80a2083d6ba0b4e9fb0aa1fcb4d1aed654ab9b5ecc6b28ade5baf71a028c93f2/</link><pubDate>Tue, 25 May 2021 07:00:45 +0000</pubDate><guid>https://news.panz3r.dev/post/80a2083d6ba0b4e9fb0aa1fcb4d1aed654ab9b5ecc6b28ade5baf71a028c93f2/</guid><description>
 Article URL: https://www.bbc.com/news/world-europe-57236489
 Comments URL: https://news.ycombinator.com/item?id=27273752
@@ -535,50 +563,4 @@ Points: 77
 Article URL: https://web.dev/learn/css/
 Comments URL: https://news.ycombinator.com/item?id=27233019
 Points: 705
-# Comments: 167</description></item><item><title>A VR Frame’s Life</title><link>https://news.panz3r.dev/post/d540173536723bd8c04638d866b36e88323289e9a7ffb37d912008f847d5f32d/</link><pubDate>Fri, 21 May 2021 11:14:38 +0000</pubDate><guid>https://news.panz3r.dev/post/d540173536723bd8c04638d866b36e88323289e9a7ffb37d912008f847d5f32d/</guid><description>
-Article URL: https://developer.oculus.com/blog/a-vr-frames-life/
-Comments URL: https://news.ycombinator.com/item?id=27232627
-Points: 97
-# …</description></item><item><title>Atomic Gardening</title><link>https://news.panz3r.dev/post/54d79801cd8f7110c199665095cee2bb512ff5889f526ecea8b4762e8fc10265/</link><pubDate>Fri, 21 May 2021 11:08:12 +0000</pubDate><guid>https://news.panz3r.dev/post/54d79801cd8f7110c199665095cee2bb512ff5889f526ecea8b4762e8fc10265/</guid><description>
-Article URL: https://en.wikipedia.org/wiki/Atomic_gardening
-Comments URL: https://news.ycombinator.com/item?id=27232581
-Points: 150
-# …</description></item><item><title>What’s your API’s “Time To 200”?</title><link>https://news.panz3r.dev/post/a7e0991b2acc287f2a35e6e580f0f1226c84e3d2f8e3129eb337a29536c2b315/</link><pubDate>Fri, 21 May 2021 11:04:08 +0000</pubDate><guid>https://news.panz3r.dev/post/a7e0991b2acc287f2a35e6e580f0f1226c84e3d2f8e3129eb337a29536c2b315/</guid><description>
-Article URL: https://shkspr.mobi/blog/2021/05/whats-your-apis-time-to-200/
-Comments URL: https://news.ycombinator.com/item?id=27232552 …</description></item><item><title>Scientists rediscover lost coffee species suited to a warmer climate</title><link>https://news.panz3r.dev/post/198fc7c43116b45fc9629f40d423455c6f883e9dc9f62d5eb2764a846ea32296/</link><pubDate>Fri, 21 May 2021 11:01:19 +0000</pubDate><guid>https://news.panz3r.dev/post/198fc7c43116b45fc9629f40d423455c6f883e9dc9f62d5eb2764a846ea32296/</guid><description>
-Article URL: https://www.cbc.ca/news/science/coffee-stenophylla-1.5995940
-Comments URL: https://news.ycombinator.com/item?id=27232530 …</description></item><item><title>Graphics Pipelines for Young Bloods</title><link>https://news.panz3r.dev/post/d58fd21a91155f4ec306992049a79bef57117d9e310289338c0683582f832455/</link><pubDate>Fri, 21 May 2021 10:59:45 +0000</pubDate><guid>https://news.panz3r.dev/post/d58fd21a91155f4ec306992049a79bef57117d9e310289338c0683582f832455/</guid><description>
-Article URL: https://www.jeremyong.com/cpp/2021/05/20/graphics-pipelines-for-young-bloods/
-Comments URL: …</description></item><item><title>Freesound just reached 500K Creative Commons sounds</title><link>https://news.panz3r.dev/post/53999893b7212e68d525141e5eeae8ecbaf4b101c5c9935aaafa4865e603ddf9/</link><pubDate>Fri, 21 May 2021 10:25:05 +0000</pubDate><guid>https://news.panz3r.dev/post/53999893b7212e68d525141e5eeae8ecbaf4b101c5c9935aaafa4865e603ddf9/</guid><description>
-Article URL: https://blog.freesound.org/?p=1340
-Comments URL: https://news.ycombinator.com/item?id=27232297
-Points: 708
-# Comments: 66</description></item><item><title>Earth Species: Roadmaps towards decoding non-human languages</title><link>https://news.panz3r.dev/post/01dbf47d27cbd497e88a2a06cc9587d15d0af8f48c0e4686390050a580259a0c/</link><pubDate>Fri, 21 May 2021 09:36:58 +0000</pubDate><guid>https://news.panz3r.dev/post/01dbf47d27cbd497e88a2a06cc9587d15d0af8f48c0e4686390050a580259a0c/</guid><description>
-Article URL: https://github.com/earthspecies/project
-Comments URL: https://news.ycombinator.com/item?id=27232047
-Points: 52
-# Comments: 17</description></item><item><title>Metaprogramming in Elixir</title><link>https://news.panz3r.dev/post/85484bc3f76aa7d396591ad0a72439b6a1ce08fb2904a711fc149b7a8918d6ac/</link><pubDate>Fri, 21 May 2021 09:15:40 +0000</pubDate><guid>https://news.panz3r.dev/post/85484bc3f76aa7d396591ad0a72439b6a1ce08fb2904a711fc149b7a8918d6ac/</guid><description>
-Article URL: https://serokell.io/blog/elixir-metaprogramming
-Comments URL: https://news.ycombinator.com/item?id=27231926
-Points: 86
-# …</description></item><item><title>How to port your OS to EC2</title><link>https://news.panz3r.dev/post/640a699eebdf94de9b338d030b7d452a7c6f5dee2898191ef02f99279caa6943/</link><pubDate>Fri, 21 May 2021 08:08:50 +0000</pubDate><guid>https://news.panz3r.dev/post/640a699eebdf94de9b338d030b7d452a7c6f5dee2898191ef02f99279caa6943/</guid><description>
-Article URL: https://www.daemonology.net/blog/2018-07-14-port-OS-to-EC2.html
-Comments URL: https://news.ycombinator.com/item?id=27231601 …</description></item><item><title>Ruby 3 JIT can make Rails faster</title><link>https://news.panz3r.dev/post/ba0ce28f63bf336c4394c8c187d0c68454b9718b672c3b452b5bbc8f71224194/</link><pubDate>Fri, 21 May 2021 08:01:04 +0000</pubDate><guid>https://news.panz3r.dev/post/ba0ce28f63bf336c4394c8c187d0c68454b9718b672c3b452b5bbc8f71224194/</guid><description>
-Article URL: https://k0kubun.medium.com/ruby-3-jit-can-make-rails-faster-756310f235a
-Comments URL: …</description></item><item><title>My thoughts about the Principal role</title><link>https://news.panz3r.dev/post/e5fa4ff9c6cb0acbe22e88ab5a97d8a5a190473b53adcedc0f75700dd73b2945/</link><pubDate>Fri, 21 May 2021 07:52:39 +0000</pubDate><guid>https://news.panz3r.dev/post/e5fa4ff9c6cb0acbe22e88ab5a97d8a5a190473b53adcedc0f75700dd73b2945/</guid><description>
-Article URL: https://www.galiglobal.com/blog/2021/20210313-The-principal-role.html
-Comments URL: …</description></item><item><title>The Third Thumb Project</title><link>https://news.panz3r.dev/post/d337fa7a70b8bf1a929b72e15b48449589831325484c2d42073a1c86afe6b954/</link><pubDate>Fri, 21 May 2021 07:45:55 +0000</pubDate><guid>https://news.panz3r.dev/post/d337fa7a70b8bf1a929b72e15b48449589831325484c2d42073a1c86afe6b954/</guid><description>
-Article URL: https://www.daniclodedesign.com/thethirdthumb
-Comments URL: https://news.ycombinator.com/item?id=27231485
-Points: 86
-# …</description></item><item><title>Now your car is a cybersecurity risk, too</title><link>https://news.panz3r.dev/post/fc67596c00f87a26c198035e95c231d844fc41f19d011d215e2b054602761dfb/</link><pubDate>Fri, 21 May 2021 07:43:37 +0000</pubDate><guid>https://news.panz3r.dev/post/fc67596c00f87a26c198035e95c231d844fc41f19d011d215e2b054602761dfb/</guid><description>
-Article URL: https://www.eetimes.com/now-your-car-is-a-cybersecurity-risk-too/
-Comments URL: https://news.ycombinator.com/item?id=27231471 …</description></item><item><title>Mega65 – Open 8-Bit Computer</title><link>https://news.panz3r.dev/post/4b8ab06e48c44b0ca5a85e2ded9e7787c831be1f0ba85f1e90385f66f9376e3d/</link><pubDate>Fri, 21 May 2021 07:07:47 +0000</pubDate><guid>https://news.panz3r.dev/post/4b8ab06e48c44b0ca5a85e2ded9e7787c831be1f0ba85f1e90385f66f9376e3d/</guid><description>
-Article URL: https://mega65.org/
-Comments URL: https://news.ycombinator.com/item?id=27231293
-Points: 73
-# Comments: 19</description></item><item><title>useStateMachine: A ½ kb state machine hook for React</title><link>https://news.panz3r.dev/post/7601149787e7b63997b9d1232f4bc07f03d6653204f6e1e9e2aaa4f4bb91bbdc/</link><pubDate>Fri, 21 May 2021 07:01:14 +0000</pubDate><guid>https://news.panz3r.dev/post/7601149787e7b63997b9d1232f4bc07f03d6653204f6e1e9e2aaa4f4bb91bbdc/</guid><description>
-Article URL: https://github.com/cassiozen/useStateMachine
-Comments URL: https://news.ycombinator.com/item?id=27231269
-Points: 206
-# …</description></item></channel></rss>
+# Comments: 167</description></item></channel></rss>

@@ -1,34 +1,62 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hacker-News-Frontpage on Panz3r News</title><link>https://news.panz3r.dev/tags/hacker-news-frontpage/</link><description>Recent content in Hacker-News-Frontpage on news.panz3r.dev</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Panz3r 2021 | Vitae theme for Hugo</copyright><lastBuildDate>Tue, 01 Jun 2021 18:37:09 +0000</lastBuildDate><atom:link href="https://news.panz3r.dev/tags/hacker-news-frontpage/index.xml" rel="self" type="application/rss+xml"/><item><title>DARPA Awards Moderna a Grant for Up to $25M to Develop mRNA Therapeutics (2013)</title><link>https://news.panz3r.dev/post/4d1925c436606efafcac22465c890bfd5f83a4d03a585d169f8435d7988f0e41/</link><pubDate>Tue, 01 Jun 2021 18:37:09 +0000</pubDate><guid>https://news.panz3r.dev/post/4d1925c436606efafcac22465c890bfd5f83a4d03a585d169f8435d7988f0e41/</guid><description>
-Article URL: https://investors.modernatx.com/news-releases/news-release-details/darpa-awards-moderna-therapeutics-grant-25-million-develop …</description></item><item><title>Apple, FedEx and the cookie apocalypse</title><link>https://news.panz3r.dev/post/16fc751604e064d56c42ec1bf204980e09d6be0385893848e9116950c9187e12/</link><pubDate>Tue, 01 Jun 2021 18:00:49 +0000</pubDate><guid>https://news.panz3r.dev/post/16fc751604e064d56c42ec1bf204980e09d6be0385893848e9116950c9187e12/</guid><description>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hacker-News-Frontpage on Panz3r News</title><link>https://news.panz3r.dev/tags/hacker-news-frontpage/</link><description>Recent content in Hacker-News-Frontpage on news.panz3r.dev</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Panz3r 2021 | Vitae theme for Hugo</copyright><lastBuildDate>Tue, 01 Jun 2021 22:42:45 +0000</lastBuildDate><atom:link href="https://news.panz3r.dev/tags/hacker-news-frontpage/index.xml" rel="self" type="application/rss+xml"/><item><title>Covid deaths plunge after 75% of town's adults vaccinated</title><link>https://news.panz3r.dev/post/51c132ea97870bae7992d3284034d62f37ca3fa381389e53fcdaab2fcb2cb79f/</link><pubDate>Tue, 01 Jun 2021 22:42:45 +0000</pubDate><guid>https://news.panz3r.dev/post/51c132ea97870bae7992d3284034d62f37ca3fa381389e53fcdaab2fcb2cb79f/</guid><description>
+Article URL: https://www.bbc.com/news/world-latin-america-57309538
+Comments URL: https://news.ycombinator.com/item?id=27362415
+Points: 56
+# …</description></item><item><title>DIY Book Scanner</title><link>https://news.panz3r.dev/post/38c1dbe3cc6b85a1a6686745bd8aa6d2e519359b6ca0fd498a2dcbb36afc1df0/</link><pubDate>Tue, 01 Jun 2021 21:47:46 +0000</pubDate><guid>https://news.panz3r.dev/post/38c1dbe3cc6b85a1a6686745bd8aa6d2e519359b6ca0fd498a2dcbb36afc1df0/</guid><description>
+Article URL: https://www.diybookscanner.org/
+Comments URL: https://news.ycombinator.com/item?id=27361815
+Points: 70
+# Comments: 16</description></item><item><title>Show HN: Level up your poker game with Floptimal. Preflop ranges reimagined</title><link>https://news.panz3r.dev/post/8a3cdc544440c2f0afefddcb861f0360d0e47150e3f4e9506f70d54885ea96e2/</link><pubDate>Tue, 01 Jun 2021 21:28:40 +0000</pubDate><guid>https://news.panz3r.dev/post/8a3cdc544440c2f0afefddcb861f0360d0e47150e3f4e9506f70d54885ea96e2/</guid><description>
+Article URL: https://floptimal.com
+Comments URL: https://news.ycombinator.com/item?id=27361584
+Points: 65
+# Comments: 30</description></item><item><title>OBS Studio 27.0</title><link>https://news.panz3r.dev/post/b8c933d4f523a170799c3c29a6a04ee77b67bc54f0b2c50e4eb6511e28b6f5af/</link><pubDate>Tue, 01 Jun 2021 19:38:47 +0000</pubDate><guid>https://news.panz3r.dev/post/b8c933d4f523a170799c3c29a6a04ee77b67bc54f0b2c50e4eb6511e28b6f5af/</guid><description>
+Article URL: https://github.com/obsproject/obs-studio/releases/tag/27.0.0
+Comments URL: https://news.ycombinator.com/item?id=27360141 …</description></item><item><title>The Apple M1 compiles Linux 30% faster than my Intel i9</title><link>https://news.panz3r.dev/post/e69d66c7b4610ca28a684b84807162b7b7876aaa03e9e2375f45f0bd0490365c/</link><pubDate>Tue, 01 Jun 2021 19:12:15 +0000</pubDate><guid>https://news.panz3r.dev/post/e69d66c7b4610ca28a684b84807162b7b7876aaa03e9e2375f45f0bd0490365c/</guid><description>
+Article URL: https://www.jeffgeerling.com/blog/2021/apple-m1-compiles-linux-30-faster-my-intel-i9
+Comments URL: …</description></item><item><title>One-Fifth of U.S. Beef Capacity Wiped Out by JBS Cyberattack</title><link>https://news.panz3r.dev/post/d5c5afe881adb058df281727264987730b244871440654c404af8c886b71ec8e/</link><pubDate>Tue, 01 Jun 2021 18:53:48 +0000</pubDate><guid>https://news.panz3r.dev/post/d5c5afe881adb058df281727264987730b244871440654c404af8c886b71ec8e/</guid><description>
+Article URL: https://www.bloomberg.com/news/articles/2021-05-31/meat-is-latest-cyber-victim-as-hackers-hit-top-supplier-jbs
+Comments URL: …</description></item><item><title>DARPA Awards Moderna a Grant for Up to $25M to Develop mRNA Therapeutics (2013)</title><link>https://news.panz3r.dev/post/4d1925c436606efafcac22465c890bfd5f83a4d03a585d169f8435d7988f0e41/</link><pubDate>Tue, 01 Jun 2021 18:37:09 +0000</pubDate><guid>https://news.panz3r.dev/post/4d1925c436606efafcac22465c890bfd5f83a4d03a585d169f8435d7988f0e41/</guid><description>
+Article URL: https://investors.modernatx.com/news-releases/news-release-details/darpa-awards-moderna-therapeutics-grant-25-million-develop …</description></item><item><title>Best practices around creating production ready web apps with Docker Compose</title><link>https://news.panz3r.dev/post/49ac4773c285c47d53ad6fd629553f3ffd4c2cf4fe26d68cb8ea1ac2be31b0da/</link><pubDate>Tue, 01 Jun 2021 18:25:11 +0000</pubDate><guid>https://news.panz3r.dev/post/49ac4773c285c47d53ad6fd629553f3ffd4c2cf4fe26d68cb8ea1ac2be31b0da/</guid><description>
+Article URL: https://nickjanetakis.com/blog/best-practices-around-production-ready-web-apps-with-docker-compose
+Comments URL: …</description></item><item><title>Light-shrinking material lets ordinary microscope see in super resolution</title><link>https://news.panz3r.dev/post/69b8c5abfdb396ddfedc4dbdf0081ffe3e23d32f11cd3012364b661c6c0be27e/</link><pubDate>Tue, 01 Jun 2021 18:01:41 +0000</pubDate><guid>https://news.panz3r.dev/post/69b8c5abfdb396ddfedc4dbdf0081ffe3e23d32f11cd3012364b661c6c0be27e/</guid><description>
+Article URL: https://phys.org/news/2021-06-light-shrinking-material-ordinary-microscope-super.html
+Comments URL: …</description></item><item><title>Apple, FedEx and the cookie apocalypse</title><link>https://news.panz3r.dev/post/16fc751604e064d56c42ec1bf204980e09d6be0385893848e9116950c9187e12/</link><pubDate>Tue, 01 Jun 2021 18:00:49 +0000</pubDate><guid>https://news.panz3r.dev/post/16fc751604e064d56c42ec1bf204980e09d6be0385893848e9116950c9187e12/</guid><description>
 Article URL: https://www.ben-evans.com/benedictevans/2021/5/25/apple-fedex-and-the-cookie-apocalypse
 Comments URL: …</description></item><item><title>Helix: a post-modern modal text editor</title><link>https://news.panz3r.dev/post/243a674b9e29e3f119a9c4b947fa54f8bcdbd438825efc3a2fa0229fac064323/</link><pubDate>Tue, 01 Jun 2021 17:48:20 +0000</pubDate><guid>https://news.panz3r.dev/post/243a674b9e29e3f119a9c4b947fa54f8bcdbd438825efc3a2fa0229fac064323/</guid><description>
 Article URL: https://helix-editor.com/
 Comments URL: https://news.ycombinator.com/item?id=27358479
-Points: 119
-# Comments: 56</description></item><item><title>Amazon changes TOS to let customers sue, after facing 75K+ arbitration demands</title><link>https://news.panz3r.dev/post/b97c5a47c6ad075019e43d5697758ea32aa01d5c93ff10a361f94bd2cb6fc1a9/</link><pubDate>Tue, 01 Jun 2021 15:58:03 +0000</pubDate><guid>https://news.panz3r.dev/post/b97c5a47c6ad075019e43d5697758ea32aa01d5c93ff10a361f94bd2cb6fc1a9/</guid><description>
+Points: 369
+# Comments: 180</description></item><item><title>Intl</title><link>https://news.panz3r.dev/post/21243e7281e1ec5578161b228f9cfd196ffa418d890b498911ff9329f838a7e0/</link><pubDate>Tue, 01 Jun 2021 16:57:42 +0000</pubDate><guid>https://news.panz3r.dev/post/21243e7281e1ec5578161b228f9cfd196ffa418d890b498911ff9329f838a7e0/</guid><description>
+Article URL: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl
+Comments URL: …</description></item><item><title>America has a drinking problem</title><link>https://news.panz3r.dev/post/de6847f13b9565e4449a4b32b3508812d882c27d84d2d4278ecf86f1c7ca477a/</link><pubDate>Tue, 01 Jun 2021 16:54:27 +0000</pubDate><guid>https://news.panz3r.dev/post/de6847f13b9565e4449a4b32b3508812d882c27d84d2d4278ecf86f1c7ca477a/</guid><description>
+Article URL: https://www.theatlantic.com/magazine/archive/2021/07/america-drinking-alone-problem/619017/
+Comments URL: …</description></item><item><title>Amazon changes TOS to let customers sue, after facing 75K+ arbitration demands</title><link>https://news.panz3r.dev/post/b97c5a47c6ad075019e43d5697758ea32aa01d5c93ff10a361f94bd2cb6fc1a9/</link><pubDate>Tue, 01 Jun 2021 15:58:03 +0000</pubDate><guid>https://news.panz3r.dev/post/b97c5a47c6ad075019e43d5697758ea32aa01d5c93ff10a361f94bd2cb6fc1a9/</guid><description>
 Article URL: https://www.wsj.com/articles/amazon-faced-75-000-arbitration-demands-now-it-says-fine-sue-us-11622547000
 Comments URL: …</description></item><item><title>Amazon US customers given one week to opt out of mass wireless sharing</title><link>https://news.panz3r.dev/post/d5ac3f1b144312f32825a0d36af81dc2a49300051694f86bfa8d6f6316d55a75/</link><pubDate>Tue, 01 Jun 2021 15:20:42 +0000</pubDate><guid>https://news.panz3r.dev/post/d5ac3f1b144312f32825a0d36af81dc2a49300051694f86bfa8d6f6316d55a75/</guid><description>
 Article URL: https://www.theguardian.com/technology/2021/jun/01/amazon-us-customers-given-one-week-to-opt-out-of-mass-wireless-sharing …</description></item><item><title>Virtual deck of cards using just a browser</title><link>https://news.panz3r.dev/post/2a9c3393418216e3de62372ac64d30ce6489900db1abfc0558c619ce5d9363a6/</link><pubDate>Tue, 01 Jun 2021 15:16:24 +0000</pubDate><guid>https://news.panz3r.dev/post/2a9c3393418216e3de62372ac64d30ce6489900db1abfc0558c619ce5d9363a6/</guid><description>
 Article URL: https://playingcards.io/
 Comments URL: https://news.ycombinator.com/item?id=27355690
-Points: 158
-# Comments: 32</description></item><item><title>Cloudera taken private for $5.3b, acquires Datacoral and Cazena</title><link>https://news.panz3r.dev/post/e321cfaeecd3b2485ee09fb168c992e3f20f2e3dbc22e91a07d171c5aa888ee9/</link><pubDate>Tue, 01 Jun 2021 15:12:36 +0000</pubDate><guid>https://news.panz3r.dev/post/e321cfaeecd3b2485ee09fb168c992e3f20f2e3dbc22e91a07d171c5aa888ee9/</guid><description>
+Points: 216
+# Comments: 54</description></item><item><title>Cloudera taken private for $5.3B, acquires Datacoral and Cazena</title><link>https://news.panz3r.dev/post/e321cfaeecd3b2485ee09fb168c992e3f20f2e3dbc22e91a07d171c5aa888ee9/</link><pubDate>Tue, 01 Jun 2021 15:12:36 +0000</pubDate><guid>https://news.panz3r.dev/post/e321cfaeecd3b2485ee09fb168c992e3f20f2e3dbc22e91a07d171c5aa888ee9/</guid><description>
 Article URL: https://blog.cloudera.com/turning-the-page/
 Comments URL: https://news.ycombinator.com/item?id=27355604
-Points: 76
-# Comments: …</description></item><item><title>Ask HN: Who is hiring? (June 2021)</title><link>https://news.panz3r.dev/post/ba4820a53e60bd9b045976553137a3ab5dae195d555017821411f229be93e85f/</link><pubDate>Tue, 01 Jun 2021 15:01:25 +0000</pubDate><guid>https://news.panz3r.dev/post/ba4820a53e60bd9b045976553137a3ab5dae195d555017821411f229be93e85f/</guid><description>
-Please state the location and include REMOTE, INTERNS and/or VISA when that sort of candidate is welcome. When remote work is not an option, …</description></item><item><title>GCC drops its copyright-assignment requirement</title><link>https://news.panz3r.dev/post/c57448adac221f1ad0638ca5a30202b6a7583aef3f02e99e1dcdd4ea40674e5a/</link><pubDate>Tue, 01 Jun 2021 14:51:43 +0000</pubDate><guid>https://news.panz3r.dev/post/c57448adac221f1ad0638ca5a30202b6a7583aef3f02e99e1dcdd4ea40674e5a/</guid><description>
+Points: 128
+# Comments: …</description></item><item><title>Ask HN: Freelancer? Seeking freelancer? (June 2021)</title><link>https://news.panz3r.dev/post/e7e5881d3cbec4b355ad50742b37b2adb1bdb89b116482ecf1f9d0668663f1b9/</link><pubDate>Tue, 01 Jun 2021 15:01:25 +0000</pubDate><guid>https://news.panz3r.dev/post/e7e5881d3cbec4b355ad50742b37b2adb1bdb89b116482ecf1f9d0668663f1b9/</guid><description>
+Please lead with either SEEKING WORK or SEEKING FREELANCER, your location, and whether remote work is a possibility.Bonsai (YC W16) …</description></item><item><title>Ask HN: Who is hiring? (June 2021)</title><link>https://news.panz3r.dev/post/ba4820a53e60bd9b045976553137a3ab5dae195d555017821411f229be93e85f/</link><pubDate>Tue, 01 Jun 2021 15:01:25 +0000</pubDate><guid>https://news.panz3r.dev/post/ba4820a53e60bd9b045976553137a3ab5dae195d555017821411f229be93e85f/</guid><description>
+Please state the location and include REMOTE, INTERNS and/or VISA when that sort of candidate is welcome. When remote work is not an option, …</description></item><item><title>Ask HN: Who wants to be hired? (June 2021)</title><link>https://news.panz3r.dev/post/d428cae7aa92270dc6987dade4c53c6edb30bffdecf5bfed8d4deaf388a3fa5e/</link><pubDate>Tue, 01 Jun 2021 15:01:24 +0000</pubDate><guid>https://news.panz3r.dev/post/d428cae7aa92270dc6987dade4c53c6edb30bffdecf5bfed8d4deaf388a3fa5e/</guid><description>
+Share your information if you are looking for work. Please use this format: Location: Remote: Willing to relocate: Technologies: Résumé/CV: …</description></item><item><title>GCC drops its copyright-assignment requirement</title><link>https://news.panz3r.dev/post/c57448adac221f1ad0638ca5a30202b6a7583aef3f02e99e1dcdd4ea40674e5a/</link><pubDate>Tue, 01 Jun 2021 14:51:43 +0000</pubDate><guid>https://news.panz3r.dev/post/c57448adac221f1ad0638ca5a30202b6a7583aef3f02e99e1dcdd4ea40674e5a/</guid><description>
 Article URL: https://lwn.net/Articles/857791/
 Comments URL: https://news.ycombinator.com/item?id=27355269
-Points: 118
-# Comments: 64</description></item><item><title>Driving with D</title><link>https://news.panz3r.dev/post/801db56a3e60818fa8e643b3f6d336e864aa4e24e67a2b65e18ee53a6d543c0e/</link><pubDate>Tue, 01 Jun 2021 14:10:41 +0000</pubDate><guid>https://news.panz3r.dev/post/801db56a3e60818fa8e643b3f6d336e864aa4e24e67a2b65e18ee53a6d543c0e/</guid><description>
+Points: 187
+# Comments: 128</description></item><item><title>Driving with D</title><link>https://news.panz3r.dev/post/801db56a3e60818fa8e643b3f6d336e864aa4e24e67a2b65e18ee53a6d543c0e/</link><pubDate>Tue, 01 Jun 2021 14:10:41 +0000</pubDate><guid>https://news.panz3r.dev/post/801db56a3e60818fa8e643b3f6d336e864aa4e24e67a2b65e18ee53a6d543c0e/</guid><description>
 Article URL: https://dlang.org/blog/2021/06/01/driving-with-d/
 Comments URL: https://news.ycombinator.com/item?id=27354761
-Points: 242
+Points: 296
 # …</description></item><item><title>YouTube-dl can no longer download age-restricted videos</title><link>https://news.panz3r.dev/post/85f73792106e8e2e24acadca63543ad280350da15d8b2532b2cd24dc5323e60f/</link><pubDate>Tue, 01 Jun 2021 13:15:58 +0000</pubDate><guid>https://news.panz3r.dev/post/85f73792106e8e2e24acadca63543ad280350da15d8b2532b2cd24dc5323e60f/</guid><description>
 Article URL: https://github.com/ytdl-org/youtube-dl/issues/28578
 Comments URL: https://news.ycombinator.com/item?id=27353917
-Points: 408
+Points: 493
 # …</description></item><item><title>Employees are quitting instead of giving up working from home</title><link>https://news.panz3r.dev/post/9519c8d2f791ea180f0ef14a39bebc8b765124d83cf5a46608bfc1a562644015/</link><pubDate>Tue, 01 Jun 2021 12:54:50 +0000</pubDate><guid>https://news.panz3r.dev/post/9519c8d2f791ea180f0ef14a39bebc8b765124d83cf5a46608bfc1a562644015/</guid><description>
 Article URL: https://www.bloomberg.com/news/articles/2021-06-01/return-to-office-employees-are-quitting-instead-of-giving-up-work-from-home …</description></item><item><title>Rotations with quaternions</title><link>https://news.panz3r.dev/post/848f3254cf346ab2343c18e7f0c0fb3d5dfb80e7747d3b25590bdd116f190a80/</link><pubDate>Tue, 01 Jun 2021 12:03:59 +0000</pubDate><guid>https://news.panz3r.dev/post/848f3254cf346ab2343c18e7f0c0fb3d5dfb80e7747d3b25590bdd116f190a80/</guid><description>
 Article URL: https://imadr.github.io/rotations-with-quaternions/
@@ -443,20 +471,4 @@ Points: 398
 Article URL: https://github.com/ClickHouse/ClickHouse
 Comments URL: https://news.ycombinator.com/item?id=27310247
 Points: 121
-# Comments: 27 …</description></item><item><title>Second-guessing the modern web (2020)</title><link>https://news.panz3r.dev/post/33ab3e5654c901782b59d1897ae65f36a782c9075608c00c2d6ea82ea6ec6fdc/</link><pubDate>Thu, 27 May 2021 21:48:11 +0000</pubDate><guid>https://news.panz3r.dev/post/33ab3e5654c901782b59d1897ae65f36a782c9075608c00c2d6ea82ea6ec6fdc/</guid><description>
-Article URL: https://macwright.com/2020/05/10/spa-fatigue.html
-Comments URL: https://news.ycombinator.com/item?id=27308982
-Points: 272
-# …</description></item><item><title>Learn American Sign Language Fingerspelling with Machine Learning</title><link>https://news.panz3r.dev/post/4a90294152bd889d4a1588834ac40ba693525b64b16eae802f83cee9d3cfed33/</link><pubDate>Thu, 27 May 2021 21:40:40 +0000</pubDate><guid>https://news.panz3r.dev/post/4a90294152bd889d4a1588834ac40ba693525b64b16eae802f83cee9d3cfed33/</guid><description>
-Article URL: https://fingerspelling.xyz
-Comments URL: https://news.ycombinator.com/item?id=27308916
-Points: 68
-# Comments: 20</description></item><item><title>How I raised a $5.1M seed as a first-time, female, solo founder for a biotech co</title><link>https://news.panz3r.dev/post/6c8c0fa3bf100aa82d5d92ba2fbed1dc7bed738f782b144c43299c25bc6cf057/</link><pubDate>Thu, 27 May 2021 20:28:28 +0000</pubDate><guid>https://news.panz3r.dev/post/6c8c0fa3bf100aa82d5d92ba2fbed1dc7bed738f782b144c43299c25bc6cf057/</guid><description>
-Article URL: https://www.celinehh.com/seed-raise-how-to
-Comments URL: https://news.ycombinator.com/item?id=27307977
-Points: 192
-# Comments: …</description></item><item><title>An Intuition for Lisp Syntax</title><link>https://news.panz3r.dev/post/063b083b4b0ce6a9c3f5240e1d997aa2f36b9eb8ebcd6d7ee41f0a32ae2bfeb7/</link><pubDate>Thu, 27 May 2021 19:50:33 +0000</pubDate><guid>https://news.panz3r.dev/post/063b083b4b0ce6a9c3f5240e1d997aa2f36b9eb8ebcd6d7ee41f0a32ae2bfeb7/</guid><description>
-Article URL: https://stopa.io/post/265?repost=true
-Comments URL: https://news.ycombinator.com/item?id=27307388
-Points: 106
-# Comments: 67</description></item></channel></rss>
+# Comments: 27 …</description></item></channel></rss>

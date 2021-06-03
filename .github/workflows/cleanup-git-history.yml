@@ -1,0 +1,46 @@
+name: Cleanup git history
+
+on:
+  schedule:
+    # Run once a week times a day
+    - cron: "0 0 * * 0"
+
+  workflow_dispatch:
+    inputs:
+      reason:
+        description: "Run reason"
+        required: false
+
+jobs:
+  cleanup-git:
+    name: Cleanup
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Set up Go 1.x
+        uses: actions/setup-go@v2
+        with:
+          go-version: ^1.13
+        id: go
+
+      - name: Check out code
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+
+      - name: Restore cached Go Modules
+        uses: actions/cache@v2
+        with:
+          path: ~/go/pkg/mod
+          key: ${{ runner.os }}-go-cleanup-${{ hashFiles('**/go.sum') }}
+          restore-keys: |
+            ${{ runner.os }}-go-cleanup-
+
+      - name: Cleanup git history
+        run: go run main.go
+        working-directory: ./git-cleaner
+
+      - name: Push changes
+        uses: actions-x/commit@v2
+        with:
+          force: true

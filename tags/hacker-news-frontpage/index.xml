@@ -1,6 +1,37 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hacker-News-Frontpage on Panz3r News</title><link>https://news.panz3r.dev/tags/hacker-news-frontpage/</link><description>Recent content in Hacker-News-Frontpage on news.panz3r.dev</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Panz3r 2021 | Vitae theme for Hugo</copyright><lastBuildDate>Thu, 03 Jun 2021 21:19:54 +0000</lastBuildDate><atom:link href="https://news.panz3r.dev/tags/hacker-news-frontpage/index.xml" rel="self" type="application/rss+xml"/><item><title>7-11 is opening 500 EV charging stations by the end of 2022</title><link>https://news.panz3r.dev/post/df32dda21ca2a32e3282f680969a0dffbaf1f166334bbb34673c115b348e873a/</link><pubDate>Thu, 03 Jun 2021 21:19:54 +0000</pubDate><guid>https://news.panz3r.dev/post/df32dda21ca2a32e3282f680969a0dffbaf1f166334bbb34673c115b348e873a/</guid><description>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hacker-News-Frontpage on Panz3r News</title><link>https://news.panz3r.dev/tags/hacker-news-frontpage/</link><description>Recent content in Hacker-News-Frontpage on news.panz3r.dev</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Panz3r 2021 | Vitae theme for Hugo</copyright><lastBuildDate>Fri, 04 Jun 2021 06:02:48 +0000</lastBuildDate><atom:link href="https://news.panz3r.dev/tags/hacker-news-frontpage/index.xml" rel="self" type="application/rss+xml"/><item><title>Go: Fuzzing Is Beta Ready</title><link>https://news.panz3r.dev/post/fe3fbc0ec0e75ddee8e4df81cfde1197363be0bc28befd1b07d6da5c938115cc/</link><pubDate>Fri, 04 Jun 2021 06:02:48 +0000</pubDate><guid>https://news.panz3r.dev/post/fe3fbc0ec0e75ddee8e4df81cfde1197363be0bc28befd1b07d6da5c938115cc/</guid><description>
+Article URL: https://blog.golang.org/fuzz-beta
+Comments URL: https://news.ycombinator.com/item?id=27391048
+Points: 63
+# Comments: 3</description></item><item><title>An Unbelievable Demo</title><link>https://news.panz3r.dev/post/5526c257bd68985d345d5bfb892ea663901d4db4a263075efdbcb5061c2dae7c/</link><pubDate>Fri, 04 Jun 2021 04:21:31 +0000</pubDate><guid>https://news.panz3r.dev/post/5526c257bd68985d345d5bfb892ea663901d4db4a263075efdbcb5061c2dae7c/</guid><description>
+Article URL: https://brendangregg.com/blog/2021-06-04/an-unbelievable-demo.html
+Comments URL: https://news.ycombinator.com/item?id=27390512 …</description></item><item><title>Robot Sticks to Ceilings by Vibrating a Flexible Disc</title><link>https://news.panz3r.dev/post/283114792c990bf2545c0e634c7305d1abc1fe24bc4fa8afd7bc8380944c4e26/</link><pubDate>Fri, 04 Jun 2021 00:16:56 +0000</pubDate><guid>https://news.panz3r.dev/post/283114792c990bf2545c0e634c7305d1abc1fe24bc4fa8afd7bc8380944c4e26/</guid><description>
+Article URL: https://spectrum.ieee.org/automaton/robotics/robotics-hardware/robot-sticks-to-ceilings
+Comments URL: …</description></item><item><title>How Facebook deals with PCIe faults to keep its data centers running reliably</title><link>https://news.panz3r.dev/post/90a43dcdb56fbb905c2664fd7f89bacc4d47131c4b449d77f7125e2f0bbc86d9/</link><pubDate>Thu, 03 Jun 2021 23:43:07 +0000</pubDate><guid>https://news.panz3r.dev/post/90a43dcdb56fbb905c2664fd7f89bacc4d47131c4b449d77f7125e2f0bbc86d9/</guid><description>
+Article URL: …</description></item><item><title>HTML and CSS techniques to reduce your JavaScript</title><link>https://news.panz3r.dev/post/0ab28268b6f07f295f251f3a3f515f0458dddf7fb4e479b61f4b3401f635efb6/</link><pubDate>Thu, 03 Jun 2021 23:20:05 +0000</pubDate><guid>https://news.panz3r.dev/post/0ab28268b6f07f295f251f3a3f515f0458dddf7fb4e479b61f4b3401f635efb6/</guid><description>
+Article URL: https://calendar.perfplanet.com/2020/html-and-css-techniques-to-reduce-your-javascript/
+Comments URL: …</description></item><item><title>The lab-leak theory: inside the fight to uncover Covid-19’s origins</title><link>https://news.panz3r.dev/post/b278ff767126e885024f9591c5d7fdba793730eb8067c872e633daaeaeb8f82f/</link><pubDate>Thu, 03 Jun 2021 23:07:39 +0000</pubDate><guid>https://news.panz3r.dev/post/b278ff767126e885024f9591c5d7fdba793730eb8067c872e633daaeaeb8f82f/</guid><description>
+Article URL: https://www.vanityfair.com/news/2021/06/the-lab-leak-theory-inside-the-fight-to-uncover-covid-19s-origins
+Comments URL: …</description></item><item><title>Stanford CS Curriculum 2021</title><link>https://news.panz3r.dev/post/76259dc70730ae1784f10ec59d1734beccd7868c2a1dd970db9e3e70441da14d/</link><pubDate>Thu, 03 Jun 2021 22:42:53 +0000</pubDate><guid>https://news.panz3r.dev/post/76259dc70730ae1784f10ec59d1734beccd7868c2a1dd970db9e3e70441da14d/</guid><description>
+Article URL: https://docs.google.com/spreadsheets/d/1zfw8nPvJeewxcFUBpKUKmAVE8PjnJI7H0CKimdQXxr0/htmlview
+Comments URL: …</description></item><item><title>Elixir at Ramp</title><link>https://news.panz3r.dev/post/04f26ab611f02c07ec6896bccc57281b218e0bfd96f89e1478163362af63e928/</link><pubDate>Thu, 03 Jun 2021 22:15:24 +0000</pubDate><guid>https://news.panz3r.dev/post/04f26ab611f02c07ec6896bccc57281b218e0bfd96f89e1478163362af63e928/</guid><description>
+Article URL: https://engineering.ramp.com/elixir-at-ramp/
+Comments URL: https://news.ycombinator.com/item?id=27388134
+Points: 73
+# Comments: …</description></item><item><title>TinyPilot: Month 11</title><link>https://news.panz3r.dev/post/58d4243e7d5fc5ad8f69d2dca0444abcbc42e1b892d64ed6d5fddbba952fbf13/</link><pubDate>Thu, 03 Jun 2021 22:01:44 +0000</pubDate><guid>https://news.panz3r.dev/post/58d4243e7d5fc5ad8f69d2dca0444abcbc42e1b892d64ed6d5fddbba952fbf13/</guid><description>
+Article URL: https://mtlynch.io/retrospectives/2021/06/
+Comments URL: https://news.ycombinator.com/item?id=27387978
+Points: 96
+# Comments: …</description></item><item><title>7-11 is opening 500 EV charging stations by the end of 2022</title><link>https://news.panz3r.dev/post/df32dda21ca2a32e3282f680969a0dffbaf1f166334bbb34673c115b348e873a/</link><pubDate>Thu, 03 Jun 2021 21:19:54 +0000</pubDate><guid>https://news.panz3r.dev/post/df32dda21ca2a32e3282f680969a0dffbaf1f166334bbb34673c115b348e873a/</guid><description>
 Article URL: https://www.cnet.com/roadshow/news/7-11-charging-station-ev-500-2022/
-Comments URL: …</description></item><item><title>U.S. to give ransomware hacks similar priority as terrorism, official says</title><link>https://news.panz3r.dev/post/95bf1cf68c905a60707e77935e3eac8c09dc2a5840240dce88443d655b4b6148/</link><pubDate>Thu, 03 Jun 2021 20:50:26 +0000</pubDate><guid>https://news.panz3r.dev/post/95bf1cf68c905a60707e77935e3eac8c09dc2a5840240dce88443d655b4b6148/</guid><description>
+Comments URL: …</description></item><item><title>Predictive Coding Can Do Exact Backpropagation on Any Neural Network</title><link>https://news.panz3r.dev/post/4d5b20efb432bcfbcb735b0f9d7b0fbc892b14d4b90309fa2d32ab2a5a48a461/</link><pubDate>Thu, 03 Jun 2021 20:53:31 +0000</pubDate><guid>https://news.panz3r.dev/post/4d5b20efb432bcfbcb735b0f9d7b0fbc892b14d4b90309fa2d32ab2a5a48a461/</guid><description>
+Article URL: https://arxiv.org/abs/2103.04689
+Comments URL: https://news.ycombinator.com/item?id=27387156
+Points: 88
+# Comments: 9</description></item><item><title>Yann LeCun Deep Learning Course 2021</title><link>https://news.panz3r.dev/post/7bad050f7a6aee88ffa707e0efdd36c7ded3a3fe28aa8eb2ee67fd8397cd993a/</link><pubDate>Thu, 03 Jun 2021 20:53:30 +0000</pubDate><guid>https://news.panz3r.dev/post/7bad050f7a6aee88ffa707e0efdd36c7ded3a3fe28aa8eb2ee67fd8397cd993a/</guid><description>
+Article URL: https://atcold.github.io/NYU-DLSP21/
+Comments URL: https://news.ycombinator.com/item?id=27387154
+Points: 143
+# Comments: 10</description></item><item><title>U.S. to give ransomware hacks similar priority as terrorism, official says</title><link>https://news.panz3r.dev/post/95bf1cf68c905a60707e77935e3eac8c09dc2a5840240dce88443d655b4b6148/</link><pubDate>Thu, 03 Jun 2021 20:50:26 +0000</pubDate><guid>https://news.panz3r.dev/post/95bf1cf68c905a60707e77935e3eac8c09dc2a5840240dce88443d655b4b6148/</guid><description>
 Article URL: https://www.reuters.com/article/cyber-usa-ransomware-idUSL2N2NC1SD
 Comments URL: https://news.ycombinator.com/item?id=27387110 …</description></item><item><title>Passport</title><link>https://news.panz3r.dev/post/dded22bb7a09513b7b05949a6efe15749c6e86742280a3fb3857accc8e894ac0/</link><pubDate>Thu, 03 Jun 2021 18:46:52 +0000</pubDate><guid>https://news.panz3r.dev/post/dded22bb7a09513b7b05949a6efe15749c6e86742280a3fb3857accc8e894ac0/</guid><description>
 Article URL: https://stratechery.com/2021/passport/
@@ -18,7 +49,7 @@ Article URL: https://tech.redplanetlabs.com/2021/06/03/tour-of-our-250k-line-clo
 Comments URL: …</description></item><item><title>Patents in Open Source: the important parts of real cases</title><link>https://news.panz3r.dev/post/5bc9ab0749a9b15544a5233346e85325fb566a383a16458a9adcbd5f32ff840a/</link><pubDate>Thu, 03 Jun 2021 18:09:07 +0000</pubDate><guid>https://news.panz3r.dev/post/5bc9ab0749a9b15544a5233346e85325fb566a383a16458a9adcbd5f32ff840a/</guid><description>
 Article URL: https://google.github.io/opencasebook/patents/
 Comments URL: https://news.ycombinator.com/item?id=27385153
-Points: 79
+Points: 105
 # …</description></item><item><title>Show HN: Free 3D virtual office in the browser</title><link>https://news.panz3r.dev/post/96a017c63054b5bdaa0528f88c2033d9bd1fa92533b0216e40d674706cbf78f1/</link><pubDate>Thu, 03 Jun 2021 17:52:34 +0000</pubDate><guid>https://news.panz3r.dev/post/96a017c63054b5bdaa0528f88c2033d9bd1fa92533b0216e40d674706cbf78f1/</guid><description>
 Article URL: https://www.spot.xyz
 Comments URL: https://news.ycombinator.com/item?id=27384949
@@ -47,7 +78,9 @@ Article URL: http://algorithmicbotany.org/
 Comments URL: https://news.ycombinator.com/item?id=27379780
 Points: 126
 # Comments: 15</description></item><item><title>Microsoft Irish subsidiary paid zero corporate tax on £220bn profit last year</title><link>https://news.panz3r.dev/post/97931e6c51fdd5dc84a9e9fdc17a8f3732e1b360a6f2d7f7642c39b64a982878/</link><pubDate>Thu, 03 Jun 2021 11:06:19 +0000</pubDate><guid>https://news.panz3r.dev/post/97931e6c51fdd5dc84a9e9fdc17a8f3732e1b360a6f2d7f7642c39b64a982878/</guid><description>
-Article URL: https://www.theguardian.com/world/2021/jun/03/microsoft-irish-subsidiary-paid-zero-corporate-tax-on-220bn-profit-last-year …</description></item><item><title>A Concrete Introduction to Probability (2018)</title><link>https://news.panz3r.dev/post/1dcac5808db4b5c887b48fef9eb1749a9d641660f69af6fb656fc38ff1928ccf/</link><pubDate>Thu, 03 Jun 2021 10:50:18 +0000</pubDate><guid>https://news.panz3r.dev/post/1dcac5808db4b5c887b48fef9eb1749a9d641660f69af6fb656fc38ff1928ccf/</guid><description>
+Article URL: https://www.theguardian.com/world/2021/jun/03/microsoft-irish-subsidiary-paid-zero-corporate-tax-on-220bn-profit-last-year …</description></item><item><title>The long, strange life of the naked mole rat</title><link>https://news.panz3r.dev/post/78f6e510242ee74fd79c7cf651fbb52346c8be6ec95e9532dabc5675e4ef9c94/</link><pubDate>Thu, 03 Jun 2021 10:54:29 +0000</pubDate><guid>https://news.panz3r.dev/post/78f6e510242ee74fd79c7cf651fbb52346c8be6ec95e9532dabc5675e4ef9c94/</guid><description>
+Article URL: https://www.wired.com/story/long-strange-life-worlds-oldest-naked-mole-rat/
+Comments URL: …</description></item><item><title>A Concrete Introduction to Probability (2018)</title><link>https://news.panz3r.dev/post/1dcac5808db4b5c887b48fef9eb1749a9d641660f69af6fb656fc38ff1928ccf/</link><pubDate>Thu, 03 Jun 2021 10:50:18 +0000</pubDate><guid>https://news.panz3r.dev/post/1dcac5808db4b5c887b48fef9eb1749a9d641660f69af6fb656fc38ff1928ccf/</guid><description>
 Article URL: https://github.com/norvig/pytudes/blob/master/ipynb/Probability.ipynb
 Comments URL: …</description></item><item><title>Show HN: Monte Carlo simulation for predicting project timelines</title><link>https://news.panz3r.dev/post/dc4706ef8ed71211443f8a1cd4f66ed473f379698be87202d45e751c9e7aa6e3/</link><pubDate>Thu, 03 Jun 2021 10:40:00 +0000</pubDate><guid>https://news.panz3r.dev/post/dc4706ef8ed71211443f8a1cd4f66ed473f379698be87202d45e751c9e7aa6e3/</guid><description>
 Article URL: https://quotes.vistimo.com
@@ -473,29 +506,4 @@ Comments URL: https://news.ycombinator.com/item?id=27332506
 Points: …</description></item><item><title>Ask HN: Negotiating Salary</title><link>https://news.panz3r.dev/post/660f6458da4c3f9923c3d6a4dbf0c3635e3a6a70273cbbe343523d24a49a2457/</link><pubDate>Sun, 30 May 2021 11:01:00 +0000</pubDate><guid>https://news.panz3r.dev/post/660f6458da4c3f9923c3d6a4dbf0c3635e3a6a70273cbbe343523d24a49a2457/</guid><description>
 I have recently finished interviews for Frontend dev role with a remote company and expect a decision from them by next week. During my …</description></item><item><title>Please commit more blatant academic fraud</title><link>https://news.panz3r.dev/post/cfc456208cdb6bed6249ea21f7cf5c37627884664eaace9b59791d63334bf412/</link><pubDate>Sun, 30 May 2021 09:15:14 +0000</pubDate><guid>https://news.panz3r.dev/post/cfc456208cdb6bed6249ea21f7cf5c37627884664eaace9b59791d63334bf412/</guid><description>
 Article URL: https://jacobbuckman.com/2021-05-29-please-commit-more-blatant-academic-fraud/
-Comments URL: …</description></item><item><title>Show HN: Paperd.ink – Open-source e-paper development board</title><link>https://news.panz3r.dev/post/c227ed50bc4bdf3e15ef2b18901b86694f79a8ff71cf5f69926b0e9d49c90550/</link><pubDate>Sun, 30 May 2021 07:22:23 +0000</pubDate><guid>https://news.panz3r.dev/post/c227ed50bc4bdf3e15ef2b18901b86694f79a8ff71cf5f69926b0e9d49c90550/</guid><description>
-Article URL: https://paperd.ink
-Comments URL: https://news.ycombinator.com/item?id=27331311
-Points: 168
-# Comments: 52</description></item><item><title>Amazon refused to refund $7k after shipping an empty box instead of a Sony A1</title><link>https://news.panz3r.dev/post/07ef7c625cb1a8d3d3d15464325bf34779f1e372efde650f84c9d56e1cb535e5/</link><pubDate>Sun, 30 May 2021 06:32:03 +0000</pubDate><guid>https://news.panz3r.dev/post/07ef7c625cb1a8d3d3d15464325bf34779f1e372efde650f84c9d56e1cb535e5/</guid><description>
-Article URL: https://fstoppers.com/news/amazon-refused-refund-7000-after-shipping-empty-box-instead-sony-a1-564979
-Comments URL: …</description></item><item><title>“Computer science is not about computers”</title><link>https://news.panz3r.dev/post/8f2bcdf6c33c1f38dc317ac31e850da76e061fdb7727794c5de5773705f61960/</link><pubDate>Sun, 30 May 2021 03:39:35 +0000</pubDate><guid>https://news.panz3r.dev/post/8f2bcdf6c33c1f38dc317ac31e850da76e061fdb7727794c5de5773705f61960/</guid><description>
-Article URL: https://quoteinvestigator.com/2021/04/02/computer-science/
-Comments URL: https://news.ycombinator.com/item?id=27330400
-Points: …</description></item><item><title>PolarDB, yet another open source database system based on PostgreSQL</title><link>https://news.panz3r.dev/post/dc427df302c59f6c7a9bcf4456aeb73b7181c5ffd768859301d22eea097920bf/</link><pubDate>Sun, 30 May 2021 03:25:13 +0000</pubDate><guid>https://news.panz3r.dev/post/dc427df302c59f6c7a9bcf4456aeb73b7181c5ffd768859301d22eea097920bf/</guid><description>
-Article URL: https://github.com/alibaba/PolarDB-for-PostgreSQL
-Comments URL: https://news.ycombinator.com/item?id=27330342
-Points: 84
-# …</description></item><item><title>All the best engineering advice I stole from non-technical people (2019)</title><link>https://news.panz3r.dev/post/cee75707c23ca109149f46fc424cfe375beae1a8ec0cbbd11fc62664ba67a887/</link><pubDate>Sun, 30 May 2021 02:12:14 +0000</pubDate><guid>https://news.panz3r.dev/post/cee75707c23ca109149f46fc424cfe375beae1a8ec0cbbd11fc62664ba67a887/</guid><description>
-Article URL: https://bellmar.medium.com/all-the-best-engineering-advice-i-stole-from-non-technical-people-eb7f90ca2f5f
-Comments URL: …</description></item><item><title>Show HN: DarkHN – Dark Mode Mirror for Hacker News</title><link>https://news.panz3r.dev/post/31e5084e9a90e77793c9125aac8ee73ad496c5d0b1ac71b6eaf510de52a34604/</link><pubDate>Sun, 30 May 2021 01:27:21 +0000</pubDate><guid>https://news.panz3r.dev/post/31e5084e9a90e77793c9125aac8ee73ad496c5d0b1ac71b6eaf510de52a34604/</guid><description>
-Article URL: https://darkhn.herokuapp.com/
-Comments URL: https://news.ycombinator.com/item?id=27329809
-Points: 60
-# Comments: 37</description></item><item><title>GPG-Tui, a Terminal User Interface for GnuPG</title><link>https://news.panz3r.dev/post/9fd736d82f22cfed84fb2cd1d31e46d9244d36aa89e698b784345eb05c1523e4/</link><pubDate>Sun, 30 May 2021 00:43:26 +0000</pubDate><guid>https://news.panz3r.dev/post/9fd736d82f22cfed84fb2cd1d31e46d9244d36aa89e698b784345eb05c1523e4/</guid><description>
-Article URL: https://orhun.dev/blog/introducing-gpg-tui/
-Comments URL: https://news.ycombinator.com/item?id=27329598
-Points: 123
-# Comments: …</description></item><item><title>Our digital pasts weren’t supposed to be weaponized like this</title><link>https://news.panz3r.dev/post/a470e6782304b7398028d380a59a7abda71d753be6620c4b8dfee94cad3590ca/</link><pubDate>Sat, 29 May 2021 23:58:35 +0000</pubDate><guid>https://news.panz3r.dev/post/a470e6782304b7398028d380a59a7abda71d753be6620c4b8dfee94cad3590ca/</guid><description>
-Article URL: https://www.nytimes.com/2021/05/29/technology/emily-wilder-firing-ap.html
 Comments URL: …</description></item></channel></rss>

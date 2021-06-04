@@ -1,10 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hacker-News-Frontpage on Panz3r News</title><link>https://news.panz3r.dev/tags/hacker-news-frontpage/</link><description>Recent content in Hacker-News-Frontpage on news.panz3r.dev</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Panz3r 2021 | Vitae theme for Hugo</copyright><lastBuildDate>Fri, 04 Jun 2021 06:02:48 +0000</lastBuildDate><atom:link href="https://news.panz3r.dev/tags/hacker-news-frontpage/index.xml" rel="self" type="application/rss+xml"/><item><title>Go: Fuzzing Is Beta Ready</title><link>https://news.panz3r.dev/post/fe3fbc0ec0e75ddee8e4df81cfde1197363be0bc28befd1b07d6da5c938115cc/</link><pubDate>Fri, 04 Jun 2021 06:02:48 +0000</pubDate><guid>https://news.panz3r.dev/post/fe3fbc0ec0e75ddee8e4df81cfde1197363be0bc28befd1b07d6da5c938115cc/</guid><description>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hacker-News-Frontpage on Panz3r News</title><link>https://news.panz3r.dev/tags/hacker-news-frontpage/</link><description>Recent content in Hacker-News-Frontpage on news.panz3r.dev</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Panz3r 2021 | Vitae theme for Hugo</copyright><lastBuildDate>Fri, 04 Jun 2021 09:38:02 +0000</lastBuildDate><atom:link href="https://news.panz3r.dev/tags/hacker-news-frontpage/index.xml" rel="self" type="application/rss+xml"/><item><title>You can not advertise on Google if you use Google Analytics Competitors</title><link>https://news.panz3r.dev/post/a3cc1932d231e98fe0f8ffd33306de00394d29501f3f996c8e407b1bc9e90b44/</link><pubDate>Fri, 04 Jun 2021 09:38:02 +0000</pubDate><guid>https://news.panz3r.dev/post/a3cc1932d231e98fe0f8ffd33306de00394d29501f3f996c8e407b1bc9e90b44/</guid><description>
+Article URL: https://twitter.com/Adam_Hosker/status/1400748390355456002
+Comments URL: https://news.ycombinator.com/item?id=27392037
+Points: …</description></item><item><title>Amazon’s newest euphemism for overworked employees is ‘industrial athlete’</title><link>https://news.panz3r.dev/post/7b676259a9201b2577bc941f5286709d795933f62da20f82daacc58d21250530/</link><pubDate>Fri, 04 Jun 2021 07:25:18 +0000</pubDate><guid>https://news.panz3r.dev/post/7b676259a9201b2577bc941f5286709d795933f62da20f82daacc58d21250530/</guid><description>
+Article URL: https://www.theverge.com/2021/6/2/22465357/amazon-industrial-athlete-warehouse-worker-wellness-pamphlet
+Comments URL: …</description></item><item><title>Go: Fuzzing Is Beta Ready</title><link>https://news.panz3r.dev/post/fe3fbc0ec0e75ddee8e4df81cfde1197363be0bc28befd1b07d6da5c938115cc/</link><pubDate>Fri, 04 Jun 2021 06:02:48 +0000</pubDate><guid>https://news.panz3r.dev/post/fe3fbc0ec0e75ddee8e4df81cfde1197363be0bc28befd1b07d6da5c938115cc/</guid><description>
 Article URL: https://blog.golang.org/fuzz-beta
 Comments URL: https://news.ycombinator.com/item?id=27391048
-Points: 63
-# Comments: 3</description></item><item><title>An Unbelievable Demo</title><link>https://news.panz3r.dev/post/5526c257bd68985d345d5bfb892ea663901d4db4a263075efdbcb5061c2dae7c/</link><pubDate>Fri, 04 Jun 2021 04:21:31 +0000</pubDate><guid>https://news.panz3r.dev/post/5526c257bd68985d345d5bfb892ea663901d4db4a263075efdbcb5061c2dae7c/</guid><description>
+Points: 155
+# Comments: 21</description></item><item><title>An Unbelievable Demo</title><link>https://news.panz3r.dev/post/5526c257bd68985d345d5bfb892ea663901d4db4a263075efdbcb5061c2dae7c/</link><pubDate>Fri, 04 Jun 2021 04:21:31 +0000</pubDate><guid>https://news.panz3r.dev/post/5526c257bd68985d345d5bfb892ea663901d4db4a263075efdbcb5061c2dae7c/</guid><description>
 Article URL: https://brendangregg.com/blog/2021-06-04/an-unbelievable-demo.html
-Comments URL: https://news.ycombinator.com/item?id=27390512 …</description></item><item><title>Robot Sticks to Ceilings by Vibrating a Flexible Disc</title><link>https://news.panz3r.dev/post/283114792c990bf2545c0e634c7305d1abc1fe24bc4fa8afd7bc8380944c4e26/</link><pubDate>Fri, 04 Jun 2021 00:16:56 +0000</pubDate><guid>https://news.panz3r.dev/post/283114792c990bf2545c0e634c7305d1abc1fe24bc4fa8afd7bc8380944c4e26/</guid><description>
+Comments URL: https://news.ycombinator.com/item?id=27390512 …</description></item><item><title>PM and EM Rules of Engagement</title><link>https://news.panz3r.dev/post/0fe889537c99263bb35480e9243e8218f7defa5559bfacea5467a37361eed161/</link><pubDate>Fri, 04 Jun 2021 04:11:32 +0000</pubDate><guid>https://news.panz3r.dev/post/0fe889537c99263bb35480e9243e8218f7defa5559bfacea5467a37361eed161/</guid><description>
+Article URL: https://segment.com/blog/product-manager-engineering-manager-rules-of-engagement/
+Comments URL: …</description></item><item><title>NitrOS-9, Unix-like operating system for the 6809</title><link>https://news.panz3r.dev/post/4c4aabc5e88a5160480ca9108dcfbdc9f9dab282ae2360bff46a04e45129382b/</link><pubDate>Fri, 04 Jun 2021 00:29:16 +0000</pubDate><guid>https://news.panz3r.dev/post/4c4aabc5e88a5160480ca9108dcfbdc9f9dab282ae2360bff46a04e45129382b/</guid><description>
+Article URL: https://nitros9.sourceforge.io/wiki/index.php/Main_Page
+Comments URL: https://news.ycombinator.com/item?id=27389103
+Points: 62 …</description></item><item><title>Robot Sticks to Ceilings by Vibrating a Flexible Disc</title><link>https://news.panz3r.dev/post/283114792c990bf2545c0e634c7305d1abc1fe24bc4fa8afd7bc8380944c4e26/</link><pubDate>Fri, 04 Jun 2021 00:16:56 +0000</pubDate><guid>https://news.panz3r.dev/post/283114792c990bf2545c0e634c7305d1abc1fe24bc4fa8afd7bc8380944c4e26/</guid><description>
 Article URL: https://spectrum.ieee.org/automaton/robotics/robotics-hardware/robot-sticks-to-ceilings
 Comments URL: …</description></item><item><title>How Facebook deals with PCIe faults to keep its data centers running reliably</title><link>https://news.panz3r.dev/post/90a43dcdb56fbb905c2664fd7f89bacc4d47131c4b449d77f7125e2f0bbc86d9/</link><pubDate>Thu, 03 Jun 2021 23:43:07 +0000</pubDate><guid>https://news.panz3r.dev/post/90a43dcdb56fbb905c2664fd7f89bacc4d47131c4b449d77f7125e2f0bbc86d9/</guid><description>
 Article URL: …</description></item><item><title>HTML and CSS techniques to reduce your JavaScript</title><link>https://news.panz3r.dev/post/0ab28268b6f07f295f251f3a3f515f0458dddf7fb4e479b61f4b3401f635efb6/</link><pubDate>Thu, 03 Jun 2021 23:20:05 +0000</pubDate><guid>https://news.panz3r.dev/post/0ab28268b6f07f295f251f3a3f515f0458dddf7fb4e479b61f4b3401f635efb6/</guid><description>
@@ -16,22 +26,22 @@ Article URL: https://docs.google.com/spreadsheets/d/1zfw8nPvJeewxcFUBpKUKmAVE8Pj
 Comments URL: …</description></item><item><title>Elixir at Ramp</title><link>https://news.panz3r.dev/post/04f26ab611f02c07ec6896bccc57281b218e0bfd96f89e1478163362af63e928/</link><pubDate>Thu, 03 Jun 2021 22:15:24 +0000</pubDate><guid>https://news.panz3r.dev/post/04f26ab611f02c07ec6896bccc57281b218e0bfd96f89e1478163362af63e928/</guid><description>
 Article URL: https://engineering.ramp.com/elixir-at-ramp/
 Comments URL: https://news.ycombinator.com/item?id=27388134
-Points: 73
-# Comments: …</description></item><item><title>TinyPilot: Month 11</title><link>https://news.panz3r.dev/post/58d4243e7d5fc5ad8f69d2dca0444abcbc42e1b892d64ed6d5fddbba952fbf13/</link><pubDate>Thu, 03 Jun 2021 22:01:44 +0000</pubDate><guid>https://news.panz3r.dev/post/58d4243e7d5fc5ad8f69d2dca0444abcbc42e1b892d64ed6d5fddbba952fbf13/</guid><description>
+Points: 102
+# …</description></item><item><title>TinyPilot: Month 11</title><link>https://news.panz3r.dev/post/58d4243e7d5fc5ad8f69d2dca0444abcbc42e1b892d64ed6d5fddbba952fbf13/</link><pubDate>Thu, 03 Jun 2021 22:01:44 +0000</pubDate><guid>https://news.panz3r.dev/post/58d4243e7d5fc5ad8f69d2dca0444abcbc42e1b892d64ed6d5fddbba952fbf13/</guid><description>
 Article URL: https://mtlynch.io/retrospectives/2021/06/
 Comments URL: https://news.ycombinator.com/item?id=27387978
-Points: 96
+Points: 110
 # Comments: …</description></item><item><title>7-11 is opening 500 EV charging stations by the end of 2022</title><link>https://news.panz3r.dev/post/df32dda21ca2a32e3282f680969a0dffbaf1f166334bbb34673c115b348e873a/</link><pubDate>Thu, 03 Jun 2021 21:19:54 +0000</pubDate><guid>https://news.panz3r.dev/post/df32dda21ca2a32e3282f680969a0dffbaf1f166334bbb34673c115b348e873a/</guid><description>
 Article URL: https://www.cnet.com/roadshow/news/7-11-charging-station-ev-500-2022/
 Comments URL: …</description></item><item><title>Predictive Coding Can Do Exact Backpropagation on Any Neural Network</title><link>https://news.panz3r.dev/post/4d5b20efb432bcfbcb735b0f9d7b0fbc892b14d4b90309fa2d32ab2a5a48a461/</link><pubDate>Thu, 03 Jun 2021 20:53:31 +0000</pubDate><guid>https://news.panz3r.dev/post/4d5b20efb432bcfbcb735b0f9d7b0fbc892b14d4b90309fa2d32ab2a5a48a461/</guid><description>
 Article URL: https://arxiv.org/abs/2103.04689
 Comments URL: https://news.ycombinator.com/item?id=27387156
-Points: 88
+Points: 104
 # Comments: 9</description></item><item><title>Yann LeCun Deep Learning Course 2021</title><link>https://news.panz3r.dev/post/7bad050f7a6aee88ffa707e0efdd36c7ded3a3fe28aa8eb2ee67fd8397cd993a/</link><pubDate>Thu, 03 Jun 2021 20:53:30 +0000</pubDate><guid>https://news.panz3r.dev/post/7bad050f7a6aee88ffa707e0efdd36c7ded3a3fe28aa8eb2ee67fd8397cd993a/</guid><description>
 Article URL: https://atcold.github.io/NYU-DLSP21/
 Comments URL: https://news.ycombinator.com/item?id=27387154
-Points: 143
-# Comments: 10</description></item><item><title>U.S. to give ransomware hacks similar priority as terrorism, official says</title><link>https://news.panz3r.dev/post/95bf1cf68c905a60707e77935e3eac8c09dc2a5840240dce88443d655b4b6148/</link><pubDate>Thu, 03 Jun 2021 20:50:26 +0000</pubDate><guid>https://news.panz3r.dev/post/95bf1cf68c905a60707e77935e3eac8c09dc2a5840240dce88443d655b4b6148/</guid><description>
+Points: 209
+# Comments: 18</description></item><item><title>U.S. to give ransomware hacks similar priority as terrorism, official says</title><link>https://news.panz3r.dev/post/95bf1cf68c905a60707e77935e3eac8c09dc2a5840240dce88443d655b4b6148/</link><pubDate>Thu, 03 Jun 2021 20:50:26 +0000</pubDate><guid>https://news.panz3r.dev/post/95bf1cf68c905a60707e77935e3eac8c09dc2a5840240dce88443d655b4b6148/</guid><description>
 Article URL: https://www.reuters.com/article/cyber-usa-ransomware-idUSL2N2NC1SD
 Comments URL: https://news.ycombinator.com/item?id=27387110 …</description></item><item><title>Passport</title><link>https://news.panz3r.dev/post/dded22bb7a09513b7b05949a6efe15749c6e86742280a3fb3857accc8e894ac0/</link><pubDate>Thu, 03 Jun 2021 18:46:52 +0000</pubDate><guid>https://news.panz3r.dev/post/dded22bb7a09513b7b05949a6efe15749c6e86742280a3fb3857accc8e894ac0/</guid><description>
 Article URL: https://stratechery.com/2021/passport/
@@ -73,7 +83,9 @@ Article URL: https://lwn.net/SubscriberLink/858023/1caabaef50d4946b/
 Comments URL: https://news.ycombinator.com/item?id=27382299
 Points: 71 …</description></item><item><title>United Airlines will buy 15 planes from Boom Supersonic</title><link>https://news.panz3r.dev/post/726fc78c4828377057494f2fd75640b204314061ba0aa360d19767b36faa1190/</link><pubDate>Thu, 03 Jun 2021 13:12:24 +0000</pubDate><guid>https://news.panz3r.dev/post/726fc78c4828377057494f2fd75640b204314061ba0aa360d19767b36faa1190/</guid><description>
 Article URL: https://www.cnbc.com/2021/06/03/united-will-buy-15-ultrafast-airplanes-from-start-up-boom-supersonic.html
-Comments URL: …</description></item><item><title>Algorithmic Botany</title><link>https://news.panz3r.dev/post/dbf532c6d96b33e5d4f6bd3a92f8a1984aa52891b5143536d4c821b9065926ee/</link><pubDate>Thu, 03 Jun 2021 11:42:36 +0000</pubDate><guid>https://news.panz3r.dev/post/dbf532c6d96b33e5d4f6bd3a92f8a1984aa52891b5143536d4c821b9065926ee/</guid><description>
+Comments URL: …</description></item><item><title>From Competitive Programming to APL</title><link>https://news.panz3r.dev/post/1d409e517720bc81ab79be33b035285986ae1f3e5b7772049369cf20310b2461/</link><pubDate>Thu, 03 Jun 2021 12:47:00 +0000</pubDate><guid>https://news.panz3r.dev/post/1d409e517720bc81ab79be33b035285986ae1f3e5b7772049369cf20310b2461/</guid><description>
+Article URL: https://corecursive.com/065-competitive-coding-with-conor-hoekstra/
+Comments URL: https://news.ycombinator.com/item?id=27380431 …</description></item><item><title>Algorithmic Botany</title><link>https://news.panz3r.dev/post/dbf532c6d96b33e5d4f6bd3a92f8a1984aa52891b5143536d4c821b9065926ee/</link><pubDate>Thu, 03 Jun 2021 11:42:36 +0000</pubDate><guid>https://news.panz3r.dev/post/dbf532c6d96b33e5d4f6bd3a92f8a1984aa52891b5143536d4c821b9065926ee/</guid><description>
 Article URL: http://algorithmicbotany.org/
 Comments URL: https://news.ycombinator.com/item?id=27379780
 Points: 126
@@ -86,7 +98,9 @@ Comments URL: …</description></item><item><title>Show HN: Monte Carlo simulati
 Article URL: https://quotes.vistimo.com
 Comments URL: https://news.ycombinator.com/item?id=27379310
 Points: 86
-# Comments: 57</description></item><item><title>Cores that don’t count [pdf]</title><link>https://news.panz3r.dev/post/27fc18cf90fd4dd4f09bfac298036f3551b40b4318735528914b2a31a661edf0/</link><pubDate>Thu, 03 Jun 2021 08:46:23 +0000</pubDate><guid>https://news.panz3r.dev/post/27fc18cf90fd4dd4f09bfac298036f3551b40b4318735528914b2a31a661edf0/</guid><description>
+# Comments: 57</description></item><item><title>The Endless Work of Trying to Win Yourself a New Life</title><link>https://news.panz3r.dev/post/2fff668b70278fcd283e7197db8936334a5c0a99c7ab379c6c66803f99705fb4/</link><pubDate>Thu, 03 Jun 2021 10:08:10 +0000</pubDate><guid>https://news.panz3r.dev/post/2fff668b70278fcd283e7197db8936334a5c0a99c7ab379c6c66803f99705fb4/</guid><description>
+Article URL: https://newrepublic.com/article/162328/endless-work-trying-win-new-life
+Comments URL: …</description></item><item><title>Cores that don’t count [pdf]</title><link>https://news.panz3r.dev/post/27fc18cf90fd4dd4f09bfac298036f3551b40b4318735528914b2a31a661edf0/</link><pubDate>Thu, 03 Jun 2021 08:46:23 +0000</pubDate><guid>https://news.panz3r.dev/post/27fc18cf90fd4dd4f09bfac298036f3551b40b4318735528914b2a31a661edf0/</guid><description>
 Article URL: https://sigops.org/s/conferences/hotos/2021/papers/hotos21-s01-hochschild.pdf
 Comments URL: …</description></item><item><title>Huawei replaces Android with HarmonyOS, which is also Android</title><link>https://news.panz3r.dev/post/0a62aee26528cac43aea01aa2b041b8c59109f3047491e37a0105e47dcc6e062/</link><pubDate>Thu, 03 Jun 2021 05:55:49 +0000</pubDate><guid>https://news.panz3r.dev/post/0a62aee26528cac43aea01aa2b041b8c59109f3047491e37a0105e47dcc6e062/</guid><description>
 Article URL: https://arstechnica.com/gadgets/2021/06/huaweis-harmonyos-will-rollout-to-100-android-models-over-the-next-year/
@@ -120,7 +134,9 @@ Points: 109
 Article URL: https://komonews.com/news/local/king-county-is-first-in-the-country-to-ban-facial-recognition-software
 Comments URL: …</description></item><item><title>The M.T.A. Is Breached by Hackers as Cyberattacks Surge</title><link>https://news.panz3r.dev/post/5155acaa4e262c01d1be59d04af73ac342c053061136a4e95cf11f9b8e0351a5/</link><pubDate>Wed, 02 Jun 2021 20:57:39 +0000</pubDate><guid>https://news.panz3r.dev/post/5155acaa4e262c01d1be59d04af73ac342c053061136a4e95cf11f9b8e0351a5/</guid><description>
 Article URL: https://www.nytimes.com/2021/06/02/nyregion/mta-cyber-attack.html
-Comments URL: https://news.ycombinator.com/item?id=27373931 …</description></item><item><title>Super Mario Bros: The Human Limit</title><link>https://news.panz3r.dev/post/cc3a1959037102a8d0038a0ccf3f32fdcb7531e4bab81957bc2c66c5955b141e/</link><pubDate>Wed, 02 Jun 2021 19:28:09 +0000</pubDate><guid>https://news.panz3r.dev/post/cc3a1959037102a8d0038a0ccf3f32fdcb7531e4bab81957bc2c66c5955b141e/</guid><description>
+Comments URL: https://news.ycombinator.com/item?id=27373931 …</description></item><item><title>History of ZFS Part 2: Exploding in Popularity</title><link>https://news.panz3r.dev/post/07089f4d75171179171c06fa13948df52317f972d64d4b5745186bfd6a666d6e/</link><pubDate>Wed, 02 Jun 2021 20:40:46 +0000</pubDate><guid>https://news.panz3r.dev/post/07089f4d75171179171c06fa13948df52317f972d64d4b5745186bfd6a666d6e/</guid><description>
+Article URL: https://klarasystems.com/articles/history-of-zfs-part-2-exploding-in-popularity/
+Comments URL: …</description></item><item><title>Super Mario Bros: The Human Limit</title><link>https://news.panz3r.dev/post/cc3a1959037102a8d0038a0ccf3f32fdcb7531e4bab81957bc2c66c5955b141e/</link><pubDate>Wed, 02 Jun 2021 19:28:09 +0000</pubDate><guid>https://news.panz3r.dev/post/cc3a1959037102a8d0038a0ccf3f32fdcb7531e4bab81957bc2c66c5955b141e/</guid><description>
 Article URL: https://www.youtube.com/watch?v=7rIJNT7dCmE
 Comments URL: https://news.ycombinator.com/item?id=27372930
 Points: 126
@@ -500,10 +516,4 @@ Comments URL: https://news.ycombinator.com/item?id=27333772
 Points: 136
 # Comments: 46</description></item><item><title>Drunk Post: Things I've Learned as a Sr Engineer</title><link>https://news.panz3r.dev/post/2f547ceb09509506d16275f8d50501483670478eb062a672785716acc5e84a97/</link><pubDate>Sun, 30 May 2021 13:55:24 +0000</pubDate><guid>https://news.panz3r.dev/post/2f547ceb09509506d16275f8d50501483670478eb062a672785716acc5e84a97/</guid><description>
 Article URL: https://old.reddit.com/r/ExperiencedDevs/comments/nmodyl/drunk_post_things_ive_learned_as_a_sr_engineer/
-Comments URL: …</description></item><item><title>After a week at my mom’s house I'm getting ads for her toothpaste brand</title><link>https://news.panz3r.dev/post/457bb7c7fee55afeac66ac73062edf8341793a543a208e69194439799e05506d/</link><pubDate>Sun, 30 May 2021 11:36:23 +0000</pubDate><guid>https://news.panz3r.dev/post/457bb7c7fee55afeac66ac73062edf8341793a543a208e69194439799e05506d/</guid><description>
-Article URL: https://twitter.com/RobertGReeve/status/1397032784703655938
-Comments URL: https://news.ycombinator.com/item?id=27332506
-Points: …</description></item><item><title>Ask HN: Negotiating Salary</title><link>https://news.panz3r.dev/post/660f6458da4c3f9923c3d6a4dbf0c3635e3a6a70273cbbe343523d24a49a2457/</link><pubDate>Sun, 30 May 2021 11:01:00 +0000</pubDate><guid>https://news.panz3r.dev/post/660f6458da4c3f9923c3d6a4dbf0c3635e3a6a70273cbbe343523d24a49a2457/</guid><description>
-I have recently finished interviews for Frontend dev role with a remote company and expect a decision from them by next week. During my …</description></item><item><title>Please commit more blatant academic fraud</title><link>https://news.panz3r.dev/post/cfc456208cdb6bed6249ea21f7cf5c37627884664eaace9b59791d63334bf412/</link><pubDate>Sun, 30 May 2021 09:15:14 +0000</pubDate><guid>https://news.panz3r.dev/post/cfc456208cdb6bed6249ea21f7cf5c37627884664eaace9b59791d63334bf412/</guid><description>
-Article URL: https://jacobbuckman.com/2021-05-29-please-commit-more-blatant-academic-fraud/
 Comments URL: …</description></item></channel></rss>

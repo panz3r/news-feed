@@ -1,19 +1,39 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hacker-News-Frontpage on Panz3r News</title><link>https://news.panz3r.dev/tags/hacker-news-frontpage/</link><description>Recent content in Hacker-News-Frontpage on news.panz3r.dev</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Panz3r 2021 | Vitae theme for Hugo</copyright><lastBuildDate>Mon, 07 Jun 2021 17:46:24 +0000</lastBuildDate><atom:link href="https://news.panz3r.dev/tags/hacker-news-frontpage/index.xml" rel="self" type="application/rss+xml"/><item><title>FaceTime is coming to Android and Windows via the web</title><link>https://news.panz3r.dev/post/f13cb65ed2a2d18e1a6640269f22fa2f6e7ce8b7492592149ae31eff8866d4cd/</link><pubDate>Mon, 07 Jun 2021 17:46:24 +0000</pubDate><guid>https://news.panz3r.dev/post/f13cb65ed2a2d18e1a6640269f22fa2f6e7ce8b7492592149ae31eff8866d4cd/</guid><description>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hacker-News-Frontpage on Panz3r News</title><link>https://news.panz3r.dev/tags/hacker-news-frontpage/</link><description>Recent content in Hacker-News-Frontpage on news.panz3r.dev</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Panz3r 2021 | Vitae theme for Hugo</copyright><lastBuildDate>Mon, 07 Jun 2021 21:46:12 +0000</lastBuildDate><atom:link href="https://news.panz3r.dev/tags/hacker-news-frontpage/index.xml" rel="self" type="application/rss+xml"/><item><title>DOJ Seizes $2.3M in Crypto Paid to the Ransomware Extortionists Darkside</title><link>https://news.panz3r.dev/post/6cec0cae334f59518447dbd6afedc97fac817e8cc80176b0e2cce303bacc0aa1/</link><pubDate>Mon, 07 Jun 2021 21:46:12 +0000</pubDate><guid>https://news.panz3r.dev/post/6cec0cae334f59518447dbd6afedc97fac817e8cc80176b0e2cce303bacc0aa1/</guid><description>
+Article URL: https://www.justice.gov/opa/pr/department-justice-seizes-23-million-cryptocurrency-paid-ransomware-extortionists-darkside …</description></item><item><title>The top-ranking HTML editor on Google is an SEO scam</title><link>https://news.panz3r.dev/post/eea7df890e99d891a767e76bd639a1aa87219fc6a94525bef1b6b113ca994a72/</link><pubDate>Mon, 07 Jun 2021 21:35:19 +0000</pubDate><guid>https://news.panz3r.dev/post/eea7df890e99d891a767e76bd639a1aa87219fc6a94525bef1b6b113ca994a72/</guid><description>
+Article URL: https://casparwre.de/blog/seo-scam/
+Comments URL: https://news.ycombinator.com/item?id=27427330
+Points: 361
+# Comments: 54</description></item><item><title>Two Hidden Instructions Discovered in Intel CPUs Enable Microcode Modification</title><link>https://news.panz3r.dev/post/a7add2a66f2bbbab646fd9dac6573ef525a4e5ffd316cb22b88196dae643c6db/</link><pubDate>Mon, 07 Jun 2021 21:19:42 +0000</pubDate><guid>https://news.panz3r.dev/post/a7add2a66f2bbbab646fd9dac6573ef525a4e5ffd316cb22b88196dae643c6db/</guid><description>
+Article URL: https://www.infoq.com/news/2021/04/intel-hidden-instructions/
+Comments URL: https://news.ycombinator.com/item?id=27427096 …</description></item><item><title>CodePerfect 95 – A fast IDE for Go</title><link>https://news.panz3r.dev/post/b6a95d86a822211948bf86d5135af0b53013a69287666bdbd8e25d5ef3d1dff4/</link><pubDate>Mon, 07 Jun 2021 21:10:40 +0000</pubDate><guid>https://news.panz3r.dev/post/b6a95d86a822211948bf86d5135af0b53013a69287666bdbd8e25d5ef3d1dff4/</guid><description>
+Article URL: https://codeperfect95.com
+Comments URL: https://news.ycombinator.com/item?id=27426981
+Points: 61
+# Comments: 23</description></item><item><title>The price of batteries has declined by 97% in the last three decades</title><link>https://news.panz3r.dev/post/d8ca5fafe2320a279038bf9826bd5a41cf2384d13140dfa202d9672debba23eb/</link><pubDate>Mon, 07 Jun 2021 21:06:31 +0000</pubDate><guid>https://news.panz3r.dev/post/d8ca5fafe2320a279038bf9826bd5a41cf2384d13140dfa202d9672debba23eb/</guid><description>
+Article URL: https://ourworldindata.org/battery-price-decline
+Comments URL: https://news.ycombinator.com/item?id=27426922
+Points: 156
+# …</description></item><item><title>Highlights of new technologies introduced at WWDC 2021</title><link>https://news.panz3r.dev/post/ebaedd0f9e07cc033fff3d6544a55b7781e22f0eed740531dfe5d0ca4e09019d/</link><pubDate>Mon, 07 Jun 2021 20:55:59 +0000</pubDate><guid>https://news.panz3r.dev/post/ebaedd0f9e07cc033fff3d6544a55b7781e22f0eed740531dfe5d0ca4e09019d/</guid><description>
+Article URL: https://developer.apple.com/documentation/New-Technologies-WWDC-2021
+Comments URL: …</description></item><item><title>Server is smoking, trying to figure out why</title><link>https://news.panz3r.dev/post/0c6d6547023b02dfe3389fa0cd9cb2f118e99b9c79c725898b4cc2061abbfcbc/</link><pubDate>Mon, 07 Jun 2021 20:31:30 +0000</pubDate><guid>https://news.panz3r.dev/post/0c6d6547023b02dfe3389fa0cd9cb2f118e99b9c79c725898b4cc2061abbfcbc/</guid><description>
+Article URL: https://twitter.com/HNStatus/status/1401980524428627970
+Comments URL: https://news.ycombinator.com/item?id=27426739
+Points: 122 …</description></item><item><title>FaceTime is coming to Android and Windows via the web</title><link>https://news.panz3r.dev/post/f13cb65ed2a2d18e1a6640269f22fa2f6e7ce8b7492592149ae31eff8866d4cd/</link><pubDate>Mon, 07 Jun 2021 17:46:24 +0000</pubDate><guid>https://news.panz3r.dev/post/f13cb65ed2a2d18e1a6640269f22fa2f6e7ce8b7492592149ae31eff8866d4cd/</guid><description>
 Article URL: https://www.theverge.com/2021/6/7/22522889/apple-facetime-android-windows-web-ios-15-wwdc
 Comments URL: …</description></item><item><title>Found at Goodwill: WebPad 1001 Prototype</title><link>https://news.panz3r.dev/post/234db2cff0cc06fd2e226cb047bba49951bde5a1c572311d2b845d233df05a1a/</link><pubDate>Mon, 07 Jun 2021 16:40:04 +0000</pubDate><guid>https://news.panz3r.dev/post/234db2cff0cc06fd2e226cb047bba49951bde5a1c572311d2b845d233df05a1a/</guid><description>
 Article URL: https://huebnerob.com/2021/06/06/found-at-goodwill-webpad-1001-prototype/
 Comments URL: …</description></item><item><title>FoundationDB: A Distributed, Unbundled, Transactional Key Value Store [pdf]</title><link>https://news.panz3r.dev/post/8c364b5663b0c1bfc090122dbfe3aafc7d704bafb09fb4f26f7580ca006f9d4a/</link><pubDate>Mon, 07 Jun 2021 16:37:36 +0000</pubDate><guid>https://news.panz3r.dev/post/8c364b5663b0c1bfc090122dbfe3aafc7d704bafb09fb4f26f7580ca006f9d4a/</guid><description>
 Article URL: https://www.foundationdb.org/files/fdb-paper.pdf
 Comments URL: https://news.ycombinator.com/item?id=27424605
-Points: 81
+Points: 140
 # …</description></item><item><title>Replit used legal threats to kill my open-source project</title><link>https://news.panz3r.dev/post/a5b21a88040d2c46620e59b70deb9e4325158b8460e74da7aad5f32dfccc8bb9/</link><pubDate>Mon, 07 Jun 2021 16:08:04 +0000</pubDate><guid>https://news.panz3r.dev/post/a5b21a88040d2c46620e59b70deb9e4325158b8460e74da7aad5f32dfccc8bb9/</guid><description>
 Article URL: https://intuitiveexplanations.com/tech/replit/
 Comments URL: https://news.ycombinator.com/item?id=27424195
-Points: 1714
+Points: 2700
 # …</description></item><item><title>Enabling Personal Computational Handweaving with a Low-Cost Jacquard Loom</title><link>https://news.panz3r.dev/post/cfda69eade199ae7d9eb8195ff21ed249dbd70801ccbffb635c3bf5d1e695723/</link><pubDate>Mon, 07 Jun 2021 15:48:56 +0000</pubDate><guid>https://news.panz3r.dev/post/cfda69eade199ae7d9eb8195ff21ed249dbd70801ccbffb635c3bf5d1e695723/</guid><description>
 Article URL: https://dl.acm.org/doi/pdf/10.1145/3411764.3445750
 Comments URL: https://news.ycombinator.com/item?id=27423963
-Points: 68
+Points: 88
 # …</description></item><item><title>Launch HN: Quadrant Eye (YC W21) – Tackling online eye exams and at-home eyecare</title><link>https://news.panz3r.dev/post/9ba3f2082a22512e184e8b149dc4d53e5a88d0b9c87897b0bf3e06630c6d9b0c/</link><pubDate>Mon, 07 Jun 2021 15:30:19 +0000</pubDate><guid>https://news.panz3r.dev/post/9ba3f2082a22512e184e8b149dc4d53e5a88d0b9c87897b0bf3e06630c6d9b0c/</guid><description>
 Hey HN --This is Quinn and Kristine of Quadrant Eye (https://www.quadranteye.com). We’re a cataract surgeon and software engineer duo who …</description></item><item><title>Apple shut down my iCloud account for five days, no warning, no explanation</title><link>https://news.panz3r.dev/post/9412cdf62f1796bcca105e3de73c28cd956687eb34033a0e7c0ed1c01277f3c7/</link><pubDate>Mon, 07 Jun 2021 15:18:58 +0000</pubDate><guid>https://news.panz3r.dev/post/9412cdf62f1796bcca105e3de73c28cd956687eb34033a0e7c0ed1c01277f3c7/</guid><description>
 Article URL: https://www.zdnet.com/article/apple-shut-down-my-icloud-account-for-four-days-no-warning-no-explanation-no-excuse
@@ -36,12 +56,14 @@ Comments URL: https://news.ycombinator.com/item?id=27421731
 Points: …</description></item><item><title>David Dushman, last surviving Auschwitz liberator, dies aged 98</title><link>https://news.panz3r.dev/post/ac0655eb9231d07557bffda9b257f76244175be7c172eb5696e921bc877ab616/</link><pubDate>Mon, 07 Jun 2021 12:01:23 +0000</pubDate><guid>https://news.panz3r.dev/post/ac0655eb9231d07557bffda9b257f76244175be7c172eb5696e921bc877ab616/</guid><description>
 Article URL: https://www.bbc.com/news/world-europe-57379704
 Comments URL: https://news.ycombinator.com/item?id=27421527
-Points: 266
+Points: 309
 # …</description></item><item><title>Show HN: Open-source alternative to Retool, Internal.io, etc.</title><link>https://news.panz3r.dev/post/d5206bb8af6593dbe45cc57f96aa979b0b112645b73e35ed14a261894c6a32b3/</link><pubDate>Mon, 07 Jun 2021 11:44:13 +0000</pubDate><guid>https://news.panz3r.dev/post/d5206bb8af6593dbe45cc57f96aa979b0b112645b73e35ed14a261894c6a32b3/</guid><description>
 Article URL: https://github.com/ToolJet/ToolJet/
 Comments URL: https://news.ycombinator.com/item?id=27421408
-Points: 338
-# Comments: 59</description></item><item><title>Notepad++ v8 release</title><link>https://news.panz3r.dev/post/5bf0a999163a27686b06330aa037bc7c6234bcf323e01134e17e9fe50e31ce11/</link><pubDate>Mon, 07 Jun 2021 09:49:52 +0000</pubDate><guid>https://news.panz3r.dev/post/5bf0a999163a27686b06330aa037bc7c6234bcf323e01134e17e9fe50e31ce11/</guid><description>
+Points: 375
+# Comments: 65</description></item><item><title>The T-34 keyboard layout</title><link>https://news.panz3r.dev/post/b1f44074001e9ae31dd2b905353db73981cbb178d0b85daf9f4733916e188e33/</link><pubDate>Mon, 07 Jun 2021 10:44:03 +0000</pubDate><guid>https://news.panz3r.dev/post/b1f44074001e9ae31dd2b905353db73981cbb178d0b85daf9f4733916e188e33/</guid><description>
+Article URL: https://www.jonashietala.se/blog/2021/06/03/the-t-34-keyboard-layout/
+Comments URL: …</description></item><item><title>Notepad++ v8 release</title><link>https://news.panz3r.dev/post/5bf0a999163a27686b06330aa037bc7c6234bcf323e01134e17e9fe50e31ce11/</link><pubDate>Mon, 07 Jun 2021 09:49:52 +0000</pubDate><guid>https://news.panz3r.dev/post/5bf0a999163a27686b06330aa037bc7c6234bcf323e01134e17e9fe50e31ce11/</guid><description>
 Article URL: https://notepad-plus-plus.org/downloads/v8/
 Comments URL: https://news.ycombinator.com/item?id=27420726
 Points: 51
@@ -52,7 +74,7 @@ Points: 87
 # Comments: 24</description></item><item><title>Sorry everybody, I failed with you</title><link>https://news.panz3r.dev/post/4511e25c51ef06d6023cc053cdcde2109966035042f9cd9aa0bbb62992f267a7/</link><pubDate>Mon, 07 Jun 2021 09:17:27 +0000</pubDate><guid>https://news.panz3r.dev/post/4511e25c51ef06d6023cc053cdcde2109966035042f9cd9aa0bbb62992f267a7/</guid><description>
 Article URL: https://github.com/pedronauck/docz/issues/1634
 Comments URL: https://news.ycombinator.com/item?id=27420554
-Points: 634
+Points: 703
 # …</description></item><item><title>Farmers Deserve the Right to Repair Their Tractors</title><link>https://news.panz3r.dev/post/82c9deccf77857b424522943d3edb892a4cceedfe744e5137c9a9fe9160e3cde/</link><pubDate>Mon, 07 Jun 2021 07:23:20 +0000</pubDate><guid>https://news.panz3r.dev/post/82c9deccf77857b424522943d3edb892a4cceedfe744e5137c9a9fe9160e3cde/</guid><description>
 Article URL: https://www.farms.com/news/farmers-deserve-the-right-to-repair-their-tractors-168298.aspx
 Comments URL: …</description></item><item><title>Abstract Syntax Tree for Patching Code and Assessing Code Quality</title><link>https://news.panz3r.dev/post/be6434af03d289c4772c71e6eac808af02507bba8e97c260e258368e5ad8268d/</link><pubDate>Mon, 07 Jun 2021 05:19:08 +0000</pubDate><guid>https://news.panz3r.dev/post/be6434af03d289c4772c71e6eac808af02507bba8e97c260e258368e5ad8268d/</guid><description>
@@ -502,38 +524,4 @@ Comments URL: …</description></item><item><title>Amazon's Controversial 'Hire 
 Article URL: https://www.inc.com/jason-aten/amazons-controversial-hire-to-fire-practice-reveals-a-brutal-truth-about-management.html …</description></item><item><title>Complete protection by single dose skin patch delivered SARS-CoV-2 spike vaccine</title><link>https://news.panz3r.dev/post/ad93e8301157edb5ac46ad18728714775c0e29e057091c92c79cd58400625127/</link><pubDate>Thu, 03 Jun 2021 00:48:44 +0000</pubDate><guid>https://news.panz3r.dev/post/ad93e8301157edb5ac46ad18728714775c0e29e057091c92c79cd58400625127/</guid><description>
 Article URL: https://www.biorxiv.org/content/10.1101/2021.05.30.446357v1
 Comments URL: https://news.ycombinator.com/item?id=27375856
-Points: …</description></item><item><title>When six boys were shipwrecked for 15 months (2020)</title><link>https://news.panz3r.dev/post/6087f28ced4eb1f0cd0a6d59c3e377f80a53b71acc70aa8acb28d8ed735b72b3/</link><pubDate>Wed, 02 Jun 2021 23:00:41 +0000</pubDate><guid>https://news.panz3r.dev/post/6087f28ced4eb1f0cd0a6d59c3e377f80a53b71acc70aa8acb28d8ed735b72b3/</guid><description>
-Article URL: …</description></item><item><title>Apple asks staff to return to office 3 days a week starting in early September</title><link>https://news.panz3r.dev/post/ba605d09d387280071b2bb5a33b3b427fc6a10dc827d1cf0ee5ff921d254f7f6/</link><pubDate>Wed, 02 Jun 2021 22:59:37 +0000</pubDate><guid>https://news.panz3r.dev/post/ba605d09d387280071b2bb5a33b3b427fc6a10dc827d1cf0ee5ff921d254f7f6/</guid><description>
-Article URL: https://www.theverge.com/2021/6/2/22465846/apple-employees-return-office-three-days-week-september
-Comments URL: …</description></item><item><title>Malloc broke Serenity's JPGLoader, or: how to win the lottery</title><link>https://news.panz3r.dev/post/368444fd8f4439855d75a8b035aa4f964ff471f94abd4ab0e87f6c8baa275c60/</link><pubDate>Wed, 02 Jun 2021 22:43:25 +0000</pubDate><guid>https://news.panz3r.dev/post/368444fd8f4439855d75a8b035aa4f964ff471f94abd4ab0e87f6c8baa275c60/</guid><description>
-Article URL: https://sin-ack.github.io/posts/jpg-loader-bork/
-Comments URL: https://news.ycombinator.com/item?id=27374942
-Points: 279
-# …</description></item><item><title>Italian Car Design History</title><link>https://news.panz3r.dev/post/99700525d0f1a7f74b3afd470a99bb919bfdd9ee7b270b0bc157c2493369e1de/</link><pubDate>Wed, 02 Jun 2021 22:35:09 +0000</pubDate><guid>https://news.panz3r.dev/post/99700525d0f1a7f74b3afd470a99bb919bfdd9ee7b270b0bc157c2493369e1de/</guid><description>
-Article URL: https://www.cardesignhistory.com/
-Comments URL: https://news.ycombinator.com/item?id=27374893
-Points: 61
-# Comments: 11</description></item><item><title>Wyoming site of new nuclear power plant from Bill Gates' TerraPower</title><link>https://news.panz3r.dev/post/94eb796f915666a4f4fc900c060ddfe7866363b0cf4dbca6d6e78ce7f69d1910/</link><pubDate>Wed, 02 Jun 2021 22:29:40 +0000</pubDate><guid>https://news.panz3r.dev/post/94eb796f915666a4f4fc900c060ddfe7866363b0cf4dbca6d6e78ce7f69d1910/</guid><description>
-Article URL: …</description></item><item><title>World's Oldest joke traced back to 1900 BC (2008)</title><link>https://news.panz3r.dev/post/c897aa4f2a472a6e6a1be7e2365970d89b684dbb81d930e76b05a061d2c21324/</link><pubDate>Wed, 02 Jun 2021 22:11:30 +0000</pubDate><guid>https://news.panz3r.dev/post/c897aa4f2a472a6e6a1be7e2365970d89b684dbb81d930e76b05a061d2c21324/</guid><description>
-Article URL: https://www.reuters.com/article/domesticNews/idUKL129052420080731
-Comments URL: https://news.ycombinator.com/item?id=27374675 …</description></item><item><title>Show HN: Transform a CSV into a JSON and vice versa</title><link>https://news.panz3r.dev/post/442710f34159d113151c1b28a6dc15e2ebe2cd647b56b6e369c8bd51b31ead8f/</link><pubDate>Wed, 02 Jun 2021 22:07:54 +0000</pubDate><guid>https://news.panz3r.dev/post/442710f34159d113151c1b28a6dc15e2ebe2cd647b56b6e369c8bd51b31ead8f/</guid><description>
-Article URL: https://jsonmatic.com/
-Comments URL: https://news.ycombinator.com/item?id=27374632
-Points: 109
-# Comments: 82</description></item><item><title>King County, WA is first in the country to ban facial recognition software</title><link>https://news.panz3r.dev/post/3b8583307686ea41bd679a1e6f5c9fffa9bbc95e37530686f1ecd13f6394a813/</link><pubDate>Wed, 02 Jun 2021 21:21:08 +0000</pubDate><guid>https://news.panz3r.dev/post/3b8583307686ea41bd679a1e6f5c9fffa9bbc95e37530686f1ecd13f6394a813/</guid><description>
-Article URL: https://komonews.com/news/local/king-county-is-first-in-the-country-to-ban-facial-recognition-software
-Comments URL: …</description></item><item><title>The M.T.A. Is Breached by Hackers as Cyberattacks Surge</title><link>https://news.panz3r.dev/post/5155acaa4e262c01d1be59d04af73ac342c053061136a4e95cf11f9b8e0351a5/</link><pubDate>Wed, 02 Jun 2021 20:57:39 +0000</pubDate><guid>https://news.panz3r.dev/post/5155acaa4e262c01d1be59d04af73ac342c053061136a4e95cf11f9b8e0351a5/</guid><description>
-Article URL: https://www.nytimes.com/2021/06/02/nyregion/mta-cyber-attack.html
-Comments URL: https://news.ycombinator.com/item?id=27373931 …</description></item><item><title>Want a killer product? Become more opinionated</title><link>https://news.panz3r.dev/post/3bdf859b29dce840dc64b97a55f1e4d028c67723a2c849ff8d6e5f1c5f1f9d81/</link><pubDate>Wed, 02 Jun 2021 20:47:40 +0000</pubDate><guid>https://news.panz3r.dev/post/3bdf859b29dce840dc64b97a55f1e4d028c67723a2c849ff8d6e5f1c5f1f9d81/</guid><description>
-Article URL: https://adilaijaz.medium.com/want-a-killer-product-become-more-opinionated-dce7b12bba3e
-Comments URL: …</description></item><item><title>History of ZFS Part 2: Exploding in Popularity</title><link>https://news.panz3r.dev/post/07089f4d75171179171c06fa13948df52317f972d64d4b5745186bfd6a666d6e/</link><pubDate>Wed, 02 Jun 2021 20:40:46 +0000</pubDate><guid>https://news.panz3r.dev/post/07089f4d75171179171c06fa13948df52317f972d64d4b5745186bfd6a666d6e/</guid><description>
-Article URL: https://klarasystems.com/articles/history-of-zfs-part-2-exploding-in-popularity/
-Comments URL: …</description></item><item><title>Bunnyhopping from the Programmer's Perspective (2015)</title><link>https://news.panz3r.dev/post/5d1ccf80bed170867544862fd3a3127f630410fd716f4846ad57979a46da87a2/</link><pubDate>Wed, 02 Jun 2021 20:05:59 +0000</pubDate><guid>https://news.panz3r.dev/post/5d1ccf80bed170867544862fd3a3127f630410fd716f4846ad57979a46da87a2/</guid><description>
-Article URL: https://adrianb.io/2015/02/14/bunnyhop.html
-Comments URL: https://news.ycombinator.com/item?id=27373413
-Points: 73
-# Comments: …</description></item><item><title>Super Mario Bros: The Human Limit</title><link>https://news.panz3r.dev/post/cc3a1959037102a8d0038a0ccf3f32fdcb7531e4bab81957bc2c66c5955b141e/</link><pubDate>Wed, 02 Jun 2021 19:28:09 +0000</pubDate><guid>https://news.panz3r.dev/post/cc3a1959037102a8d0038a0ccf3f32fdcb7531e4bab81957bc2c66c5955b141e/</guid><description>
-Article URL: https://www.youtube.com/watch?v=7rIJNT7dCmE
-Comments URL: https://news.ycombinator.com/item?id=27372930
-Points: 126
-# Comments: …</description></item></channel></rss>
+Points: …</description></item></channel></rss>

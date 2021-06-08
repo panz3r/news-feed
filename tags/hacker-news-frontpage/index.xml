@@ -1,11 +1,27 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hacker-News-Frontpage on Panz3r News</title><link>https://news.panz3r.dev/tags/hacker-news-frontpage/</link><description>Recent content in Hacker-News-Frontpage on news.panz3r.dev</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Panz3r 2021 | Vitae theme for Hugo</copyright><lastBuildDate>Tue, 08 Jun 2021 03:56:56 +0000</lastBuildDate><atom:link href="https://news.panz3r.dev/tags/hacker-news-frontpage/index.xml" rel="self" type="application/rss+xml"/><item><title>Australian police arrest over 200 after cracking underworld messaging app</title><link>https://news.panz3r.dev/post/d02462ec3f96b5907070f964f6d85d78d45b3b7af4a0255b805904206ed6d58c/</link><pubDate>Tue, 08 Jun 2021 03:56:56 +0000</pubDate><guid>https://news.panz3r.dev/post/d02462ec3f96b5907070f964f6d85d78d45b3b7af4a0255b805904206ed6d58c/</guid><description>
-Article URL: …</description></item><item><title>PGP Marks 30th Anniversary</title><link>https://news.panz3r.dev/post/3704cc57a04dc157b2cbb357eb0d1838718847f93b5584ad222735bc81545bc7/</link><pubDate>Tue, 08 Jun 2021 02:36:05 +0000</pubDate><guid>https://news.panz3r.dev/post/3704cc57a04dc157b2cbb357eb0d1838718847f93b5584ad222735bc81545bc7/</guid><description>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hacker-News-Frontpage on Panz3r News</title><link>https://news.panz3r.dev/tags/hacker-news-frontpage/</link><description>Recent content in Hacker-News-Frontpage on news.panz3r.dev</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Panz3r 2021 | Vitae theme for Hugo</copyright><lastBuildDate>Tue, 08 Jun 2021 09:58:49 +0000</lastBuildDate><atom:link href="https://news.panz3r.dev/tags/hacker-news-frontpage/index.xml" rel="self" type="application/rss+xml"/><item><title>Fastly CDN is down (affecting Reddit, GitHub, SO, ...)</title><link>https://news.panz3r.dev/post/c2e566fc72a89abc7dc9a5a1f574ba8a4c0d6fbc355114b62abe820338a0571e/</link><pubDate>Tue, 08 Jun 2021 09:58:49 +0000</pubDate><guid>https://news.panz3r.dev/post/c2e566fc72a89abc7dc9a5a1f574ba8a4c0d6fbc355114b62abe820338a0571e/</guid><description>
+Article URL: http://www.fastly.com
+Comments URL: https://news.ycombinator.com/item?id=27432423
+Points: 165
+# Comments: 38</description></item><item><title>Fastly Outage</title><link>https://news.panz3r.dev/post/2336f0fd7e91bcc68c4ff60f83a18e2ea08d95168dc9cb250d1c388ce08736b4/</link><pubDate>Tue, 08 Jun 2021 09:57:37 +0000</pubDate><guid>https://news.panz3r.dev/post/2336f0fd7e91bcc68c4ff60f83a18e2ea08d95168dc9cb250d1c388ce08736b4/</guid><description>
+Article URL: https://fastly.com/
+Comments URL: https://news.ycombinator.com/item?id=27432408
+Points: 892
+# Comments: 489</description></item><item><title>Trove of Never-Before-Seen Records Reveal How the Wealthiest Avoid Income Tax</title><link>https://news.panz3r.dev/post/e7dc229952a7d41533c6c9e125dcb52bcf992e3cab6d253c8438f22f205e3b7b/</link><pubDate>Tue, 08 Jun 2021 09:49:08 +0000</pubDate><guid>https://news.panz3r.dev/post/e7dc229952a7d41533c6c9e125dcb52bcf992e3cab6d253c8438f22f205e3b7b/</guid><description>
+Article URL: …</description></item><item><title>Althttpd: Simple webserver in a single C-code file by the author of SQLite</title><link>https://news.panz3r.dev/post/0d57af6e35b55bfc31e7c74a846baeb312574fb9054448e6970b1be4edd205a2/</link><pubDate>Tue, 08 Jun 2021 08:30:51 +0000</pubDate><guid>https://news.panz3r.dev/post/0d57af6e35b55bfc31e7c74a846baeb312574fb9054448e6970b1be4edd205a2/</guid><description>
+Article URL: https://sqlite.org/althttpd/doc/trunk/althttpd.md
+Comments URL: https://news.ycombinator.com/item?id=27431910
+Points: 198
+# …</description></item><item><title>Australian Federal Police and FBI nab underworld figures using encrypted app</title><link>https://news.panz3r.dev/post/d02462ec3f96b5907070f964f6d85d78d45b3b7af4a0255b805904206ed6d58c/</link><pubDate>Tue, 08 Jun 2021 03:56:56 +0000</pubDate><guid>https://news.panz3r.dev/post/d02462ec3f96b5907070f964f6d85d78d45b3b7af4a0255b805904206ed6d58c/</guid><description>
+Article URL: https://www.abc.net.au/news/2021-06-08/fbi-afp-underworld-crime-bust-an0m-cash-drugs-murder/100197246
+Comments URL: …</description></item><item><title>PGP Marks 30th Anniversary</title><link>https://news.panz3r.dev/post/3704cc57a04dc157b2cbb357eb0d1838718847f93b5584ad222735bc81545bc7/</link><pubDate>Tue, 08 Jun 2021 02:36:05 +0000</pubDate><guid>https://news.panz3r.dev/post/3704cc57a04dc157b2cbb357eb0d1838718847f93b5584ad222735bc81545bc7/</guid><description>
 Article URL: https://philzimmermann.com/EN/essays/PGP_30th/
 Comments URL: https://news.ycombinator.com/item?id=27430050
-Points: 75
+Points: 134
 # …</description></item><item><title>Astronomers Find Secret Planet-Making Ingredient: Magnetic Fields</title><link>https://news.panz3r.dev/post/0d03283eee4f287ac72c4bab98f8778573a3c9edd45d42a16819a711bba8e2ab/</link><pubDate>Tue, 08 Jun 2021 00:59:06 +0000</pubDate><guid>https://news.panz3r.dev/post/0d03283eee4f287ac72c4bab98f8778573a3c9edd45d42a16819a711bba8e2ab/</guid><description>
 Article URL: https://www.quantamagazine.org/simulation-reveals-how-magnetism-helps-form-planets-20210607/
-Comments URL: …</description></item><item><title>An interactive look at how a video signal is made</title><link>https://news.panz3r.dev/post/d6a8d2623a1a117574bf165434853fb41d4bd8a41f7b88b761139057bbb06a2e/</link><pubDate>Mon, 07 Jun 2021 22:57:21 +0000</pubDate><guid>https://news.panz3r.dev/post/d6a8d2623a1a117574bf165434853fb41d4bd8a41f7b88b761139057bbb06a2e/</guid><description>
+Comments URL: …</description></item><item><title>FaceTime on the web requires Chrome or Edge, no mention of Firefox</title><link>https://news.panz3r.dev/post/417cf40d05f3a9f0073d4c8ff7d880141edae49f234973b6eed2443024965f2e/</link><pubDate>Tue, 08 Jun 2021 00:08:45 +0000</pubDate><guid>https://news.panz3r.dev/post/417cf40d05f3a9f0073d4c8ff7d880141edae49f234973b6eed2443024965f2e/</guid><description>
+Article URL: https://www.apple.com/macos/monterey-preview/features/#footnote-3
+Comments URL: https://news.ycombinator.com/item?id=27429008 …</description></item><item><title>An interactive look at how a video signal is made</title><link>https://news.panz3r.dev/post/d6a8d2623a1a117574bf165434853fb41d4bd8a41f7b88b761139057bbb06a2e/</link><pubDate>Mon, 07 Jun 2021 22:57:21 +0000</pubDate><guid>https://news.panz3r.dev/post/d6a8d2623a1a117574bf165434853fb41d4bd8a41f7b88b761139057bbb06a2e/</guid><description>
 Article URL: https://blog.pizzabox.computer/random/videolines/
 Comments URL: https://news.ycombinator.com/item?id=27428380
 Points: 53
@@ -13,23 +29,23 @@ Points: 53
 Article URL: https://www.justice.gov/opa/pr/department-justice-seizes-23-million-cryptocurrency-paid-ransomware-extortionists-darkside …</description></item><item><title>The top-ranking HTML editor on Google is an SEO scam</title><link>https://news.panz3r.dev/post/eea7df890e99d891a767e76bd639a1aa87219fc6a94525bef1b6b113ca994a72/</link><pubDate>Mon, 07 Jun 2021 21:35:19 +0000</pubDate><guid>https://news.panz3r.dev/post/eea7df890e99d891a767e76bd639a1aa87219fc6a94525bef1b6b113ca994a72/</guid><description>
 Article URL: https://casparwre.de/blog/seo-scam/
 Comments URL: https://news.ycombinator.com/item?id=27427330
-Points: 1005
-# Comments: 245</description></item><item><title>Two Hidden Instructions Discovered in Intel CPUs Enable Microcode Modification</title><link>https://news.panz3r.dev/post/a7add2a66f2bbbab646fd9dac6573ef525a4e5ffd316cb22b88196dae643c6db/</link><pubDate>Mon, 07 Jun 2021 21:19:42 +0000</pubDate><guid>https://news.panz3r.dev/post/a7add2a66f2bbbab646fd9dac6573ef525a4e5ffd316cb22b88196dae643c6db/</guid><description>
+Points: 1411
+# Comments: 345</description></item><item><title>Two Hidden Instructions Discovered in Intel CPUs Enable Microcode Modification</title><link>https://news.panz3r.dev/post/a7add2a66f2bbbab646fd9dac6573ef525a4e5ffd316cb22b88196dae643c6db/</link><pubDate>Mon, 07 Jun 2021 21:19:42 +0000</pubDate><guid>https://news.panz3r.dev/post/a7add2a66f2bbbab646fd9dac6573ef525a4e5ffd316cb22b88196dae643c6db/</guid><description>
 Article URL: https://www.infoq.com/news/2021/04/intel-hidden-instructions/
 Comments URL: https://news.ycombinator.com/item?id=27427096 …</description></item><item><title>CodePerfect 95 – A fast IDE for Go</title><link>https://news.panz3r.dev/post/b6a95d86a822211948bf86d5135af0b53013a69287666bdbd8e25d5ef3d1dff4/</link><pubDate>Mon, 07 Jun 2021 21:10:40 +0000</pubDate><guid>https://news.panz3r.dev/post/b6a95d86a822211948bf86d5135af0b53013a69287666bdbd8e25d5ef3d1dff4/</guid><description>
 Article URL: https://codeperfect95.com
 Comments URL: https://news.ycombinator.com/item?id=27426981
 Points: 152
-# Comments: 97</description></item><item><title>The price of batteries has declined by 97% in the last three decades</title><link>https://news.panz3r.dev/post/d8ca5fafe2320a279038bf9826bd5a41cf2384d13140dfa202d9672debba23eb/</link><pubDate>Mon, 07 Jun 2021 21:06:31 +0000</pubDate><guid>https://news.panz3r.dev/post/d8ca5fafe2320a279038bf9826bd5a41cf2384d13140dfa202d9672debba23eb/</guid><description>
+# Comments: 97</description></item><item><title>The price of lithium-ion batteries has declined by 97% in the last three decades</title><link>https://news.panz3r.dev/post/d8ca5fafe2320a279038bf9826bd5a41cf2384d13140dfa202d9672debba23eb/</link><pubDate>Mon, 07 Jun 2021 21:06:31 +0000</pubDate><guid>https://news.panz3r.dev/post/d8ca5fafe2320a279038bf9826bd5a41cf2384d13140dfa202d9672debba23eb/</guid><description>
 Article URL: https://ourworldindata.org/battery-price-decline
 Comments URL: https://news.ycombinator.com/item?id=27426922
-Points: 331
+Points: 419
 # …</description></item><item><title>Highlights of new technologies introduced at WWDC 2021</title><link>https://news.panz3r.dev/post/ebaedd0f9e07cc033fff3d6544a55b7781e22f0eed740531dfe5d0ca4e09019d/</link><pubDate>Mon, 07 Jun 2021 20:55:59 +0000</pubDate><guid>https://news.panz3r.dev/post/ebaedd0f9e07cc033fff3d6544a55b7781e22f0eed740531dfe5d0ca4e09019d/</guid><description>
 Article URL: https://developer.apple.com/documentation/New-Technologies-WWDC-2021
 Comments URL: …</description></item><item><title>“It is 2018 and this error message is a mistake from 1974”</title><link>https://news.panz3r.dev/post/c4b15c0b79b0cf147d9a3133eff95bafaf29086bd168a32c40bb87b22bf6fe96/</link><pubDate>Mon, 07 Jun 2021 20:44:46 +0000</pubDate><guid>https://news.panz3r.dev/post/c4b15c0b79b0cf147d9a3133eff95bafaf29086bd168a32c40bb87b22bf6fe96/</guid><description>
 Article URL: https://twitter.com/Foone/status/1058676834940776450
 Comments URL: https://news.ycombinator.com/item?id=27426775
-Points: 250
+Points: 348
 # …</description></item><item><title>Server is smoking, trying to figure out why</title><link>https://news.panz3r.dev/post/0c6d6547023b02dfe3389fa0cd9cb2f118e99b9c79c725898b4cc2061abbfcbc/</link><pubDate>Mon, 07 Jun 2021 20:31:30 +0000</pubDate><guid>https://news.panz3r.dev/post/0c6d6547023b02dfe3389fa0cd9cb2f118e99b9c79c725898b4cc2061abbfcbc/</guid><description>
 Article URL: https://twitter.com/HNStatus/status/1401980524428627970
 Comments URL: https://news.ycombinator.com/item?id=27426739
@@ -40,7 +56,7 @@ Article URL: https://huebnerob.com/2021/06/06/found-at-goodwill-webpad-1001-prot
 Comments URL: …</description></item><item><title>FoundationDB: A distributed, unbundled, transactional key value store [pdf]</title><link>https://news.panz3r.dev/post/8c364b5663b0c1bfc090122dbfe3aafc7d704bafb09fb4f26f7580ca006f9d4a/</link><pubDate>Mon, 07 Jun 2021 16:37:36 +0000</pubDate><guid>https://news.panz3r.dev/post/8c364b5663b0c1bfc090122dbfe3aafc7d704bafb09fb4f26f7580ca006f9d4a/</guid><description>
 Article URL: https://www.foundationdb.org/files/fdb-paper.pdf
 Comments URL: https://news.ycombinator.com/item?id=27424605
-Points: 196
+Points: 230
 # …</description></item><item><title>Replit used legal threats to kill my open-source project</title><link>https://news.panz3r.dev/post/a5b21a88040d2c46620e59b70deb9e4325158b8460e74da7aad5f32dfccc8bb9/</link><pubDate>Mon, 07 Jun 2021 16:08:04 +0000</pubDate><guid>https://news.panz3r.dev/post/a5b21a88040d2c46620e59b70deb9e4325158b8460e74da7aad5f32dfccc8bb9/</guid><description>
 Article URL: https://intuitiveexplanations.com/tech/replit/
 Comments URL: https://news.ycombinator.com/item?id=27424195
@@ -76,9 +92,19 @@ Points: 309
 Article URL: https://github.com/ToolJet/ToolJet/
 Comments URL: https://news.ycombinator.com/item?id=27421408
 Points: 375
-# Comments: 65</description></item><item><title>The T-34 keyboard layout</title><link>https://news.panz3r.dev/post/b1f44074001e9ae31dd2b905353db73981cbb178d0b85daf9f4733916e188e33/</link><pubDate>Mon, 07 Jun 2021 10:44:03 +0000</pubDate><guid>https://news.panz3r.dev/post/b1f44074001e9ae31dd2b905353db73981cbb178d0b85daf9f4733916e188e33/</guid><description>
+# Comments: 65</description></item><item><title>Fizzygum</title><link>https://news.panz3r.dev/post/1ff341359a18b79bdea389619f9dbc8393f4fabb7b285ac07fd827486acbb37e/</link><pubDate>Mon, 07 Jun 2021 11:43:36 +0000</pubDate><guid>https://news.panz3r.dev/post/1ff341359a18b79bdea389619f9dbc8393f4fabb7b285ac07fd827486acbb37e/</guid><description>
+Article URL: http://fizzygum.org/
+Comments URL: https://news.ycombinator.com/item?id=27421401
+Points: 83
+# Comments: 20</description></item><item><title>TLS certificates have at least two internal representations of time</title><link>https://news.panz3r.dev/post/9e1a4878bfece656b2c92fc0da22d4ad5a6b6e61b6ee52a636847e1e91babb9d/</link><pubDate>Mon, 07 Jun 2021 10:58:31 +0000</pubDate><guid>https://news.panz3r.dev/post/9e1a4878bfece656b2c92fc0da22d4ad5a6b6e61b6ee52a636847e1e91babb9d/</guid><description>
+Article URL: https://utcc.utoronto.ca/~cks/space/blog/tech/TLSTimeRepresentations
+Comments URL: …</description></item><item><title>The T-34 keyboard layout</title><link>https://news.panz3r.dev/post/b1f44074001e9ae31dd2b905353db73981cbb178d0b85daf9f4733916e188e33/</link><pubDate>Mon, 07 Jun 2021 10:44:03 +0000</pubDate><guid>https://news.panz3r.dev/post/b1f44074001e9ae31dd2b905353db73981cbb178d0b85daf9f4733916e188e33/</guid><description>
 Article URL: https://www.jonashietala.se/blog/2021/06/03/the-t-34-keyboard-layout/
-Comments URL: …</description></item><item><title>Kwan’s Hierarchy of Product Needs: The Four Levels of Product Managers</title><link>https://news.panz3r.dev/post/4f7326be57b701b20682744bb3ac28888d0aac621e303309592b9f706f171772/</link><pubDate>Mon, 07 Jun 2021 10:13:18 +0000</pubDate><guid>https://news.panz3r.dev/post/4f7326be57b701b20682744bb3ac28888d0aac621e303309592b9f706f171772/</guid><description>
+Comments URL: …</description></item><item><title>Language Learning with Netflix</title><link>https://news.panz3r.dev/post/e70af9fcb0b7a01d8e4918db69d749f710b2402304a4e57287d0145e950e98bf/</link><pubDate>Mon, 07 Jun 2021 10:30:36 +0000</pubDate><guid>https://news.panz3r.dev/post/e70af9fcb0b7a01d8e4918db69d749f710b2402304a4e57287d0145e950e98bf/</guid><description>
+Article URL: https://languagelearningwithnetflix.com/
+Comments URL: https://news.ycombinator.com/item?id=27420959
+Points: 63
+# Comments: 33</description></item><item><title>Kwan’s Hierarchy of Product Needs: The Four Levels of Product Managers</title><link>https://news.panz3r.dev/post/4f7326be57b701b20682744bb3ac28888d0aac621e303309592b9f706f171772/</link><pubDate>Mon, 07 Jun 2021 10:13:18 +0000</pubDate><guid>https://news.panz3r.dev/post/4f7326be57b701b20682744bb3ac28888d0aac621e303309592b9f706f171772/</guid><description>
 Article URL: https://www.heavybit.com/library/blog/kwans-hierarchy-of-product-needs-the-four-levels-of-product-managers/
 Comments URL: …</description></item><item><title>Notepad++ v8 release</title><link>https://news.panz3r.dev/post/5bf0a999163a27686b06330aa037bc7c6234bcf323e01134e17e9fe50e31ce11/</link><pubDate>Mon, 07 Jun 2021 09:49:52 +0000</pubDate><guid>https://news.panz3r.dev/post/5bf0a999163a27686b06330aa037bc7c6234bcf323e01134e17e9fe50e31ce11/</guid><description>
 Article URL: https://notepad-plus-plus.org/downloads/v8/
@@ -522,17 +548,4 @@ Comments URL: https://news.ycombinator.com/item?id=27380431 …</description></i
 Article URL: http://algorithmicbotany.org/
 Comments URL: https://news.ycombinator.com/item?id=27379780
 Points: 126
-# Comments: 15</description></item><item><title>Microsoft Irish subsidiary paid zero corporate tax on £220bn profit last year</title><link>https://news.panz3r.dev/post/97931e6c51fdd5dc84a9e9fdc17a8f3732e1b360a6f2d7f7642c39b64a982878/</link><pubDate>Thu, 03 Jun 2021 11:06:19 +0000</pubDate><guid>https://news.panz3r.dev/post/97931e6c51fdd5dc84a9e9fdc17a8f3732e1b360a6f2d7f7642c39b64a982878/</guid><description>
-Article URL: https://www.theguardian.com/world/2021/jun/03/microsoft-irish-subsidiary-paid-zero-corporate-tax-on-220bn-profit-last-year …</description></item><item><title>The long, strange life of the naked mole rat</title><link>https://news.panz3r.dev/post/78f6e510242ee74fd79c7cf651fbb52346c8be6ec95e9532dabc5675e4ef9c94/</link><pubDate>Thu, 03 Jun 2021 10:54:29 +0000</pubDate><guid>https://news.panz3r.dev/post/78f6e510242ee74fd79c7cf651fbb52346c8be6ec95e9532dabc5675e4ef9c94/</guid><description>
-Article URL: https://www.wired.com/story/long-strange-life-worlds-oldest-naked-mole-rat/
-Comments URL: …</description></item><item><title>A Concrete Introduction to Probability (2018)</title><link>https://news.panz3r.dev/post/1dcac5808db4b5c887b48fef9eb1749a9d641660f69af6fb656fc38ff1928ccf/</link><pubDate>Thu, 03 Jun 2021 10:50:18 +0000</pubDate><guid>https://news.panz3r.dev/post/1dcac5808db4b5c887b48fef9eb1749a9d641660f69af6fb656fc38ff1928ccf/</guid><description>
-Article URL: https://github.com/norvig/pytudes/blob/master/ipynb/Probability.ipynb
-Comments URL: …</description></item><item><title>Show HN: Monte Carlo simulation for predicting project timelines</title><link>https://news.panz3r.dev/post/dc4706ef8ed71211443f8a1cd4f66ed473f379698be87202d45e751c9e7aa6e3/</link><pubDate>Thu, 03 Jun 2021 10:40:00 +0000</pubDate><guid>https://news.panz3r.dev/post/dc4706ef8ed71211443f8a1cd4f66ed473f379698be87202d45e751c9e7aa6e3/</guid><description>
-Article URL: https://quotes.vistimo.com
-Comments URL: https://news.ycombinator.com/item?id=27379310
-Points: 86
-# Comments: 57</description></item><item><title>The Endless Work of Trying to Win Yourself a New Life</title><link>https://news.panz3r.dev/post/2fff668b70278fcd283e7197db8936334a5c0a99c7ab379c6c66803f99705fb4/</link><pubDate>Thu, 03 Jun 2021 10:08:10 +0000</pubDate><guid>https://news.panz3r.dev/post/2fff668b70278fcd283e7197db8936334a5c0a99c7ab379c6c66803f99705fb4/</guid><description>
-Article URL: https://newrepublic.com/article/162328/endless-work-trying-win-new-life
-Comments URL: …</description></item><item><title>Cores that don’t count [pdf]</title><link>https://news.panz3r.dev/post/27fc18cf90fd4dd4f09bfac298036f3551b40b4318735528914b2a31a661edf0/</link><pubDate>Thu, 03 Jun 2021 08:46:23 +0000</pubDate><guid>https://news.panz3r.dev/post/27fc18cf90fd4dd4f09bfac298036f3551b40b4318735528914b2a31a661edf0/</guid><description>
-Article URL: https://sigops.org/s/conferences/hotos/2021/papers/hotos21-s01-hochschild.pdf
-Comments URL: …</description></item></channel></rss>
+# Comments: 15</description></item></channel></rss>

@@ -1,39 +1,54 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hacker-News-Frontpage on Panz3r News</title><link>https://news.panz3r.dev/tags/hacker-news-frontpage/</link><description>Recent content in Hacker-News-Frontpage on news.panz3r.dev</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Panz3r 2021 | Vitae theme for Hugo</copyright><lastBuildDate>Mon, 07 Jun 2021 21:46:12 +0000</lastBuildDate><atom:link href="https://news.panz3r.dev/tags/hacker-news-frontpage/index.xml" rel="self" type="application/rss+xml"/><item><title>DOJ Seizes $2.3M in Crypto Paid to the Ransomware Extortionists Darkside</title><link>https://news.panz3r.dev/post/6cec0cae334f59518447dbd6afedc97fac817e8cc80176b0e2cce303bacc0aa1/</link><pubDate>Mon, 07 Jun 2021 21:46:12 +0000</pubDate><guid>https://news.panz3r.dev/post/6cec0cae334f59518447dbd6afedc97fac817e8cc80176b0e2cce303bacc0aa1/</guid><description>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hacker-News-Frontpage on Panz3r News</title><link>https://news.panz3r.dev/tags/hacker-news-frontpage/</link><description>Recent content in Hacker-News-Frontpage on news.panz3r.dev</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Panz3r 2021 | Vitae theme for Hugo</copyright><lastBuildDate>Tue, 08 Jun 2021 03:56:56 +0000</lastBuildDate><atom:link href="https://news.panz3r.dev/tags/hacker-news-frontpage/index.xml" rel="self" type="application/rss+xml"/><item><title>Australian police arrest over 200 after cracking underworld messaging app</title><link>https://news.panz3r.dev/post/d02462ec3f96b5907070f964f6d85d78d45b3b7af4a0255b805904206ed6d58c/</link><pubDate>Tue, 08 Jun 2021 03:56:56 +0000</pubDate><guid>https://news.panz3r.dev/post/d02462ec3f96b5907070f964f6d85d78d45b3b7af4a0255b805904206ed6d58c/</guid><description>
+Article URL: …</description></item><item><title>PGP Marks 30th Anniversary</title><link>https://news.panz3r.dev/post/3704cc57a04dc157b2cbb357eb0d1838718847f93b5584ad222735bc81545bc7/</link><pubDate>Tue, 08 Jun 2021 02:36:05 +0000</pubDate><guid>https://news.panz3r.dev/post/3704cc57a04dc157b2cbb357eb0d1838718847f93b5584ad222735bc81545bc7/</guid><description>
+Article URL: https://philzimmermann.com/EN/essays/PGP_30th/
+Comments URL: https://news.ycombinator.com/item?id=27430050
+Points: 75
+# …</description></item><item><title>Astronomers Find Secret Planet-Making Ingredient: Magnetic Fields</title><link>https://news.panz3r.dev/post/0d03283eee4f287ac72c4bab98f8778573a3c9edd45d42a16819a711bba8e2ab/</link><pubDate>Tue, 08 Jun 2021 00:59:06 +0000</pubDate><guid>https://news.panz3r.dev/post/0d03283eee4f287ac72c4bab98f8778573a3c9edd45d42a16819a711bba8e2ab/</guid><description>
+Article URL: https://www.quantamagazine.org/simulation-reveals-how-magnetism-helps-form-planets-20210607/
+Comments URL: …</description></item><item><title>An interactive look at how a video signal is made</title><link>https://news.panz3r.dev/post/d6a8d2623a1a117574bf165434853fb41d4bd8a41f7b88b761139057bbb06a2e/</link><pubDate>Mon, 07 Jun 2021 22:57:21 +0000</pubDate><guid>https://news.panz3r.dev/post/d6a8d2623a1a117574bf165434853fb41d4bd8a41f7b88b761139057bbb06a2e/</guid><description>
+Article URL: https://blog.pizzabox.computer/random/videolines/
+Comments URL: https://news.ycombinator.com/item?id=27428380
+Points: 53
+# …</description></item><item><title>DOJ seizes $2.3M in cryptocurrency paid to the ransomware extortionists Darkside</title><link>https://news.panz3r.dev/post/6cec0cae334f59518447dbd6afedc97fac817e8cc80176b0e2cce303bacc0aa1/</link><pubDate>Mon, 07 Jun 2021 21:46:12 +0000</pubDate><guid>https://news.panz3r.dev/post/6cec0cae334f59518447dbd6afedc97fac817e8cc80176b0e2cce303bacc0aa1/</guid><description>
 Article URL: https://www.justice.gov/opa/pr/department-justice-seizes-23-million-cryptocurrency-paid-ransomware-extortionists-darkside …</description></item><item><title>The top-ranking HTML editor on Google is an SEO scam</title><link>https://news.panz3r.dev/post/eea7df890e99d891a767e76bd639a1aa87219fc6a94525bef1b6b113ca994a72/</link><pubDate>Mon, 07 Jun 2021 21:35:19 +0000</pubDate><guid>https://news.panz3r.dev/post/eea7df890e99d891a767e76bd639a1aa87219fc6a94525bef1b6b113ca994a72/</guid><description>
 Article URL: https://casparwre.de/blog/seo-scam/
 Comments URL: https://news.ycombinator.com/item?id=27427330
-Points: 361
-# Comments: 54</description></item><item><title>Two Hidden Instructions Discovered in Intel CPUs Enable Microcode Modification</title><link>https://news.panz3r.dev/post/a7add2a66f2bbbab646fd9dac6573ef525a4e5ffd316cb22b88196dae643c6db/</link><pubDate>Mon, 07 Jun 2021 21:19:42 +0000</pubDate><guid>https://news.panz3r.dev/post/a7add2a66f2bbbab646fd9dac6573ef525a4e5ffd316cb22b88196dae643c6db/</guid><description>
+Points: 1005
+# Comments: 245</description></item><item><title>Two Hidden Instructions Discovered in Intel CPUs Enable Microcode Modification</title><link>https://news.panz3r.dev/post/a7add2a66f2bbbab646fd9dac6573ef525a4e5ffd316cb22b88196dae643c6db/</link><pubDate>Mon, 07 Jun 2021 21:19:42 +0000</pubDate><guid>https://news.panz3r.dev/post/a7add2a66f2bbbab646fd9dac6573ef525a4e5ffd316cb22b88196dae643c6db/</guid><description>
 Article URL: https://www.infoq.com/news/2021/04/intel-hidden-instructions/
 Comments URL: https://news.ycombinator.com/item?id=27427096 …</description></item><item><title>CodePerfect 95 – A fast IDE for Go</title><link>https://news.panz3r.dev/post/b6a95d86a822211948bf86d5135af0b53013a69287666bdbd8e25d5ef3d1dff4/</link><pubDate>Mon, 07 Jun 2021 21:10:40 +0000</pubDate><guid>https://news.panz3r.dev/post/b6a95d86a822211948bf86d5135af0b53013a69287666bdbd8e25d5ef3d1dff4/</guid><description>
 Article URL: https://codeperfect95.com
 Comments URL: https://news.ycombinator.com/item?id=27426981
-Points: 61
-# Comments: 23</description></item><item><title>The price of batteries has declined by 97% in the last three decades</title><link>https://news.panz3r.dev/post/d8ca5fafe2320a279038bf9826bd5a41cf2384d13140dfa202d9672debba23eb/</link><pubDate>Mon, 07 Jun 2021 21:06:31 +0000</pubDate><guid>https://news.panz3r.dev/post/d8ca5fafe2320a279038bf9826bd5a41cf2384d13140dfa202d9672debba23eb/</guid><description>
+Points: 152
+# Comments: 97</description></item><item><title>The price of batteries has declined by 97% in the last three decades</title><link>https://news.panz3r.dev/post/d8ca5fafe2320a279038bf9826bd5a41cf2384d13140dfa202d9672debba23eb/</link><pubDate>Mon, 07 Jun 2021 21:06:31 +0000</pubDate><guid>https://news.panz3r.dev/post/d8ca5fafe2320a279038bf9826bd5a41cf2384d13140dfa202d9672debba23eb/</guid><description>
 Article URL: https://ourworldindata.org/battery-price-decline
 Comments URL: https://news.ycombinator.com/item?id=27426922
-Points: 156
+Points: 331
 # …</description></item><item><title>Highlights of new technologies introduced at WWDC 2021</title><link>https://news.panz3r.dev/post/ebaedd0f9e07cc033fff3d6544a55b7781e22f0eed740531dfe5d0ca4e09019d/</link><pubDate>Mon, 07 Jun 2021 20:55:59 +0000</pubDate><guid>https://news.panz3r.dev/post/ebaedd0f9e07cc033fff3d6544a55b7781e22f0eed740531dfe5d0ca4e09019d/</guid><description>
 Article URL: https://developer.apple.com/documentation/New-Technologies-WWDC-2021
-Comments URL: …</description></item><item><title>Server is smoking, trying to figure out why</title><link>https://news.panz3r.dev/post/0c6d6547023b02dfe3389fa0cd9cb2f118e99b9c79c725898b4cc2061abbfcbc/</link><pubDate>Mon, 07 Jun 2021 20:31:30 +0000</pubDate><guid>https://news.panz3r.dev/post/0c6d6547023b02dfe3389fa0cd9cb2f118e99b9c79c725898b4cc2061abbfcbc/</guid><description>
+Comments URL: …</description></item><item><title>“It is 2018 and this error message is a mistake from 1974”</title><link>https://news.panz3r.dev/post/c4b15c0b79b0cf147d9a3133eff95bafaf29086bd168a32c40bb87b22bf6fe96/</link><pubDate>Mon, 07 Jun 2021 20:44:46 +0000</pubDate><guid>https://news.panz3r.dev/post/c4b15c0b79b0cf147d9a3133eff95bafaf29086bd168a32c40bb87b22bf6fe96/</guid><description>
+Article URL: https://twitter.com/Foone/status/1058676834940776450
+Comments URL: https://news.ycombinator.com/item?id=27426775
+Points: 250
+# …</description></item><item><title>Server is smoking, trying to figure out why</title><link>https://news.panz3r.dev/post/0c6d6547023b02dfe3389fa0cd9cb2f118e99b9c79c725898b4cc2061abbfcbc/</link><pubDate>Mon, 07 Jun 2021 20:31:30 +0000</pubDate><guid>https://news.panz3r.dev/post/0c6d6547023b02dfe3389fa0cd9cb2f118e99b9c79c725898b4cc2061abbfcbc/</guid><description>
 Article URL: https://twitter.com/HNStatus/status/1401980524428627970
 Comments URL: https://news.ycombinator.com/item?id=27426739
 Points: 122 …</description></item><item><title>FaceTime is coming to Android and Windows via the web</title><link>https://news.panz3r.dev/post/f13cb65ed2a2d18e1a6640269f22fa2f6e7ce8b7492592149ae31eff8866d4cd/</link><pubDate>Mon, 07 Jun 2021 17:46:24 +0000</pubDate><guid>https://news.panz3r.dev/post/f13cb65ed2a2d18e1a6640269f22fa2f6e7ce8b7492592149ae31eff8866d4cd/</guid><description>
 Article URL: https://www.theverge.com/2021/6/7/22522889/apple-facetime-android-windows-web-ios-15-wwdc
 Comments URL: …</description></item><item><title>Found at Goodwill: WebPad 1001 Prototype</title><link>https://news.panz3r.dev/post/234db2cff0cc06fd2e226cb047bba49951bde5a1c572311d2b845d233df05a1a/</link><pubDate>Mon, 07 Jun 2021 16:40:04 +0000</pubDate><guid>https://news.panz3r.dev/post/234db2cff0cc06fd2e226cb047bba49951bde5a1c572311d2b845d233df05a1a/</guid><description>
 Article URL: https://huebnerob.com/2021/06/06/found-at-goodwill-webpad-1001-prototype/
-Comments URL: …</description></item><item><title>FoundationDB: A Distributed, Unbundled, Transactional Key Value Store [pdf]</title><link>https://news.panz3r.dev/post/8c364b5663b0c1bfc090122dbfe3aafc7d704bafb09fb4f26f7580ca006f9d4a/</link><pubDate>Mon, 07 Jun 2021 16:37:36 +0000</pubDate><guid>https://news.panz3r.dev/post/8c364b5663b0c1bfc090122dbfe3aafc7d704bafb09fb4f26f7580ca006f9d4a/</guid><description>
+Comments URL: …</description></item><item><title>FoundationDB: A distributed, unbundled, transactional key value store [pdf]</title><link>https://news.panz3r.dev/post/8c364b5663b0c1bfc090122dbfe3aafc7d704bafb09fb4f26f7580ca006f9d4a/</link><pubDate>Mon, 07 Jun 2021 16:37:36 +0000</pubDate><guid>https://news.panz3r.dev/post/8c364b5663b0c1bfc090122dbfe3aafc7d704bafb09fb4f26f7580ca006f9d4a/</guid><description>
 Article URL: https://www.foundationdb.org/files/fdb-paper.pdf
 Comments URL: https://news.ycombinator.com/item?id=27424605
-Points: 140
+Points: 196
 # …</description></item><item><title>Replit used legal threats to kill my open-source project</title><link>https://news.panz3r.dev/post/a5b21a88040d2c46620e59b70deb9e4325158b8460e74da7aad5f32dfccc8bb9/</link><pubDate>Mon, 07 Jun 2021 16:08:04 +0000</pubDate><guid>https://news.panz3r.dev/post/a5b21a88040d2c46620e59b70deb9e4325158b8460e74da7aad5f32dfccc8bb9/</guid><description>
 Article URL: https://intuitiveexplanations.com/tech/replit/
 Comments URL: https://news.ycombinator.com/item?id=27424195
-Points: 2700
+Points: 3561
 # …</description></item><item><title>Enabling Personal Computational Handweaving with a Low-Cost Jacquard Loom</title><link>https://news.panz3r.dev/post/cfda69eade199ae7d9eb8195ff21ed249dbd70801ccbffb635c3bf5d1e695723/</link><pubDate>Mon, 07 Jun 2021 15:48:56 +0000</pubDate><guid>https://news.panz3r.dev/post/cfda69eade199ae7d9eb8195ff21ed249dbd70801ccbffb635c3bf5d1e695723/</guid><description>
 Article URL: https://dl.acm.org/doi/pdf/10.1145/3411764.3445750
 Comments URL: https://news.ycombinator.com/item?id=27423963
-Points: 88
+Points: 112
 # …</description></item><item><title>Launch HN: Quadrant Eye (YC W21) – Tackling online eye exams and at-home eyecare</title><link>https://news.panz3r.dev/post/9ba3f2082a22512e184e8b149dc4d53e5a88d0b9c87897b0bf3e06630c6d9b0c/</link><pubDate>Mon, 07 Jun 2021 15:30:19 +0000</pubDate><guid>https://news.panz3r.dev/post/9ba3f2082a22512e184e8b149dc4d53e5a88d0b9c87897b0bf3e06630c6d9b0c/</guid><description>
 Hey HN --This is Quinn and Kristine of Quadrant Eye (https://www.quadranteye.com). We’re a cataract surgeon and software engineer duo who …</description></item><item><title>Apple shut down my iCloud account for five days, no warning, no explanation</title><link>https://news.panz3r.dev/post/9412cdf62f1796bcca105e3de73c28cd956687eb34033a0e7c0ed1c01277f3c7/</link><pubDate>Mon, 07 Jun 2021 15:18:58 +0000</pubDate><guid>https://news.panz3r.dev/post/9412cdf62f1796bcca105e3de73c28cd956687eb34033a0e7c0ed1c01277f3c7/</guid><description>
 Article URL: https://www.zdnet.com/article/apple-shut-down-my-icloud-account-for-four-days-no-warning-no-explanation-no-excuse
@@ -63,11 +78,17 @@ Comments URL: https://news.ycombinator.com/item?id=27421408
 Points: 375
 # Comments: 65</description></item><item><title>The T-34 keyboard layout</title><link>https://news.panz3r.dev/post/b1f44074001e9ae31dd2b905353db73981cbb178d0b85daf9f4733916e188e33/</link><pubDate>Mon, 07 Jun 2021 10:44:03 +0000</pubDate><guid>https://news.panz3r.dev/post/b1f44074001e9ae31dd2b905353db73981cbb178d0b85daf9f4733916e188e33/</guid><description>
 Article URL: https://www.jonashietala.se/blog/2021/06/03/the-t-34-keyboard-layout/
+Comments URL: …</description></item><item><title>Kwan’s Hierarchy of Product Needs: The Four Levels of Product Managers</title><link>https://news.panz3r.dev/post/4f7326be57b701b20682744bb3ac28888d0aac621e303309592b9f706f171772/</link><pubDate>Mon, 07 Jun 2021 10:13:18 +0000</pubDate><guid>https://news.panz3r.dev/post/4f7326be57b701b20682744bb3ac28888d0aac621e303309592b9f706f171772/</guid><description>
+Article URL: https://www.heavybit.com/library/blog/kwans-hierarchy-of-product-needs-the-four-levels-of-product-managers/
 Comments URL: …</description></item><item><title>Notepad++ v8 release</title><link>https://news.panz3r.dev/post/5bf0a999163a27686b06330aa037bc7c6234bcf323e01134e17e9fe50e31ce11/</link><pubDate>Mon, 07 Jun 2021 09:49:52 +0000</pubDate><guid>https://news.panz3r.dev/post/5bf0a999163a27686b06330aa037bc7c6234bcf323e01134e17e9fe50e31ce11/</guid><description>
 Article URL: https://notepad-plus-plus.org/downloads/v8/
 Comments URL: https://news.ycombinator.com/item?id=27420726
 Points: 51
-# Comments: …</description></item><item><title>HTTP Status Dogs</title><link>https://news.panz3r.dev/post/293e3a70de27b74ab33effc4d2a601e6e8a3ba59330b5608827db541769dc0aa/</link><pubDate>Mon, 07 Jun 2021 09:36:31 +0000</pubDate><guid>https://news.panz3r.dev/post/293e3a70de27b74ab33effc4d2a601e6e8a3ba59330b5608827db541769dc0aa/</guid><description>
+# Comments: …</description></item><item><title>Jailbroken iOS can't run macOS apps. I spent a week to find out why</title><link>https://news.panz3r.dev/post/e136bc5c60a35ef8686ee9cb32d53fb6c35315319c6f12145c079aa725c8478e/</link><pubDate>Mon, 07 Jun 2021 09:38:09 +0000</pubDate><guid>https://news.panz3r.dev/post/e136bc5c60a35ef8686ee9cb32d53fb6c35315319c6f12145c079aa725c8478e/</guid><description>
+Article URL: https://worthdoingbadly.com/macappsios/
+Comments URL: https://news.ycombinator.com/item?id=27420673
+Points: 96
+# Comments: 26</description></item><item><title>HTTP Status Dogs</title><link>https://news.panz3r.dev/post/293e3a70de27b74ab33effc4d2a601e6e8a3ba59330b5608827db541769dc0aa/</link><pubDate>Mon, 07 Jun 2021 09:36:31 +0000</pubDate><guid>https://news.panz3r.dev/post/293e3a70de27b74ab33effc4d2a601e6e8a3ba59330b5608827db541769dc0aa/</guid><description>
 Article URL: https://httpstatusdogs.com/
 Comments URL: https://news.ycombinator.com/item?id=27420667
 Points: 87
@@ -514,14 +535,4 @@ Points: 86
 Article URL: https://newrepublic.com/article/162328/endless-work-trying-win-new-life
 Comments URL: …</description></item><item><title>Cores that don’t count [pdf]</title><link>https://news.panz3r.dev/post/27fc18cf90fd4dd4f09bfac298036f3551b40b4318735528914b2a31a661edf0/</link><pubDate>Thu, 03 Jun 2021 08:46:23 +0000</pubDate><guid>https://news.panz3r.dev/post/27fc18cf90fd4dd4f09bfac298036f3551b40b4318735528914b2a31a661edf0/</guid><description>
 Article URL: https://sigops.org/s/conferences/hotos/2021/papers/hotos21-s01-hochschild.pdf
-Comments URL: …</description></item><item><title>Huawei replaces Android with HarmonyOS, which is also Android</title><link>https://news.panz3r.dev/post/0a62aee26528cac43aea01aa2b041b8c59109f3047491e37a0105e47dcc6e062/</link><pubDate>Thu, 03 Jun 2021 05:55:49 +0000</pubDate><guid>https://news.panz3r.dev/post/0a62aee26528cac43aea01aa2b041b8c59109f3047491e37a0105e47dcc6e062/</guid><description>
-Article URL: https://arstechnica.com/gadgets/2021/06/huaweis-harmonyos-will-rollout-to-100-android-models-over-the-next-year/
-Comments URL: …</description></item><item><title>Anthropologists and the business of sense-making at work</title><link>https://news.panz3r.dev/post/9c223b32ceccb176cc3c4b5c55a816b68bad5bbb3d09b824318f5cb3bfb29547/</link><pubDate>Thu, 03 Jun 2021 05:44:09 +0000</pubDate><guid>https://news.panz3r.dev/post/9c223b32ceccb176cc3c4b5c55a816b68bad5bbb3d09b824318f5cb3bfb29547/</guid><description>
-Article URL: https://www.theguardian.com/science/2021/jun/03/the-empty-office-what-we-lose-when-we-work-from-home
-Comments URL: …</description></item><item><title>Xbox co-pilot mode changed disabled sister’s life</title><link>https://news.panz3r.dev/post/8584664d0f91ad6420b2248478097615188f8d73c671cdc51635ce45b6c6c5f0/</link><pubDate>Thu, 03 Jun 2021 02:43:11 +0000</pubDate><guid>https://news.panz3r.dev/post/8584664d0f91ad6420b2248478097615188f8d73c671cdc51635ce45b6c6c5f0/</guid><description>
-Article URL: https://www.reddit.com/r/XboxSeriesX/comments/nqk3nb/copilot_mode_changed_my_disabled_sisters_life/
-Comments URL: …</description></item><item><title>Amazon's Controversial 'Hire to Fire' Practice Reveals a Truth About Management</title><link>https://news.panz3r.dev/post/6786befe1db3d17ba30370efad80ae8c2abaa9e3f30e41217bb2f67dd660a8dc/</link><pubDate>Thu, 03 Jun 2021 02:01:34 +0000</pubDate><guid>https://news.panz3r.dev/post/6786befe1db3d17ba30370efad80ae8c2abaa9e3f30e41217bb2f67dd660a8dc/</guid><description>
-Article URL: https://www.inc.com/jason-aten/amazons-controversial-hire-to-fire-practice-reveals-a-brutal-truth-about-management.html …</description></item><item><title>Complete protection by single dose skin patch delivered SARS-CoV-2 spike vaccine</title><link>https://news.panz3r.dev/post/ad93e8301157edb5ac46ad18728714775c0e29e057091c92c79cd58400625127/</link><pubDate>Thu, 03 Jun 2021 00:48:44 +0000</pubDate><guid>https://news.panz3r.dev/post/ad93e8301157edb5ac46ad18728714775c0e29e057091c92c79cd58400625127/</guid><description>
-Article URL: https://www.biorxiv.org/content/10.1101/2021.05.30.446357v1
-Comments URL: https://news.ycombinator.com/item?id=27375856
-Points: …</description></item></channel></rss>
+Comments URL: …</description></item></channel></rss>

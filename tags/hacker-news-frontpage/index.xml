@@ -1,19 +1,36 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hacker-News-Frontpage on Panz3r News</title><link>https://news.panz3r.dev/tags/hacker-news-frontpage/</link><description>Recent content in Hacker-News-Frontpage on news.panz3r.dev</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Panz3r 2021 | Vitae theme for Hugo</copyright><lastBuildDate>Sat, 12 Jun 2021 01:50:53 +0000</lastBuildDate><atom:link href="https://news.panz3r.dev/tags/hacker-news-frontpage/index.xml" rel="self" type="application/rss+xml"/><item><title>BuzzFeed News Has Won Its First Pulitzer Prize</title><link>https://news.panz3r.dev/post/e693ab02efb6917c3dae804f146aa595c6601ae1e78b09290c4171d00a30225b/</link><pubDate>Sat, 12 Jun 2021 01:50:53 +0000</pubDate><guid>https://news.panz3r.dev/post/e693ab02efb6917c3dae804f146aa595c6601ae1e78b09290c4171d00a30225b/</guid><description>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hacker-News-Frontpage on Panz3r News</title><link>https://news.panz3r.dev/tags/hacker-news-frontpage/</link><description>Recent content in Hacker-News-Frontpage on news.panz3r.dev</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Panz3r 2021 | Vitae theme for Hugo</copyright><lastBuildDate>Sat, 12 Jun 2021 08:23:11 +0000</lastBuildDate><atom:link href="https://news.panz3r.dev/tags/hacker-news-frontpage/index.xml" rel="self" type="application/rss+xml"/><item><title>NymphCast – open-source Chromecast Alternative</title><link>https://news.panz3r.dev/post/9511043a8ab156e40c47a08513c21795bc0b4752c2b1a3fe2b8157696c3aed06/</link><pubDate>Sat, 12 Jun 2021 08:23:11 +0000</pubDate><guid>https://news.panz3r.dev/post/9511043a8ab156e40c47a08513c21795bc0b4752c2b1a3fe2b8157696c3aed06/</guid><description>
+Article URL: https://github.com/MayaPosch/NymphCast/
+Comments URL: https://news.ycombinator.com/item?id=27482699
+Points: 66
+# Comments: 8</description></item><item><title>Do You Really Need Redis? How to Get Away with Just PostgreSQL</title><link>https://news.panz3r.dev/post/f6c6c71b7fece01dfff757f5abb50930ca04317667a52e970f9f098697030da2/</link><pubDate>Sat, 12 Jun 2021 06:57:14 +0000</pubDate><guid>https://news.panz3r.dev/post/f6c6c71b7fece01dfff757f5abb50930ca04317667a52e970f9f098697030da2/</guid><description>
+Article URL: https://spin.atomicobject.com/2021/02/04/redis-postgresql/
+Comments URL: https://news.ycombinator.com/item?id=27482243
+Points: …</description></item><item><title>The PsychDOS Desktop Environment</title><link>https://news.panz3r.dev/post/936329c212c75e667caa2b19fc8643fe4739a2af506c11136c469babd145d317/</link><pubDate>Sat, 12 Jun 2021 05:07:37 +0000</pubDate><guid>https://news.panz3r.dev/post/936329c212c75e667caa2b19fc8643fe4739a2af506c11136c469babd145d317/</guid><description>
+Article URL: https://psychoslinux.gitlab.io/DOS/INDEX.HTM
+Comments URL: https://news.ycombinator.com/item?id=27481705
+Points: 61
+# Comments: …</description></item><item><title>Show HN: LANDrop – A cross-platform AirDrop-like file transfer tool</title><link>https://news.panz3r.dev/post/e9a476968cc414129b4f7b068ef25cba36f978a5e00045992837dbb33b3b79e1/</link><pubDate>Sat, 12 Jun 2021 04:11:12 +0000</pubDate><guid>https://news.panz3r.dev/post/e9a476968cc414129b4f7b068ef25cba36f978a5e00045992837dbb33b3b79e1/</guid><description>
+Article URL: https://landrop.app/
+Comments URL: https://news.ycombinator.com/item?id=27481465
+Points: 103
+# Comments: 49</description></item><item><title>Reverse Engineering Bumble’s API (2020)</title><link>https://news.panz3r.dev/post/4b42254dfb2c6f8a3f21c093106bdf12347ea9b5b063ca415fd37b5e5e8a28b6/</link><pubDate>Sat, 12 Jun 2021 03:34:27 +0000</pubDate><guid>https://news.panz3r.dev/post/4b42254dfb2c6f8a3f21c093106bdf12347ea9b5b063ca415fd37b5e5e8a28b6/</guid><description>
+Article URL: https://blog.securityevaluators.com/reverse-engineering-bumbles-api-a2a0d39b3a87
+Comments URL: …</description></item><item><title>BuzzFeed News Has Won Its First Pulitzer Prize</title><link>https://news.panz3r.dev/post/e693ab02efb6917c3dae804f146aa595c6601ae1e78b09290c4171d00a30225b/</link><pubDate>Sat, 12 Jun 2021 01:50:53 +0000</pubDate><guid>https://news.panz3r.dev/post/e693ab02efb6917c3dae804f146aa595c6601ae1e78b09290c4171d00a30225b/</guid><description>
 Article URL: https://www.buzzfeednews.com/article/davidmack/pulitzer-prize-buzzfeed-news-won-china-detention-camps
-Comments URL: …</description></item><item><title>Containers Are Tents</title><link>https://news.panz3r.dev/post/8efa7226ef02bf97e466124c28741d1c99a2bc231d364ac325999f0c238a64d7/</link><pubDate>Sat, 12 Jun 2021 01:23:29 +0000</pubDate><guid>https://news.panz3r.dev/post/8efa7226ef02bf97e466124c28741d1c99a2bc231d364ac325999f0c238a64d7/</guid><description>
+Comments URL: …</description></item><item><title>Containers are tents</title><link>https://news.panz3r.dev/post/8efa7226ef02bf97e466124c28741d1c99a2bc231d364ac325999f0c238a64d7/</link><pubDate>Sat, 12 Jun 2021 01:23:29 +0000</pubDate><guid>https://news.panz3r.dev/post/8efa7226ef02bf97e466124c28741d1c99a2bc231d364ac325999f0c238a64d7/</guid><description>
 Article URL: https://increment.com/containers/containers-vs-vms/
 Comments URL: https://news.ycombinator.com/item?id=27480496
-Points: 66
+Points: 119
 # …</description></item><item><title>Finding a CPU Design Bug in the Xbox 360 (2018)</title><link>https://news.panz3r.dev/post/fad1650d721dc69e9b78c35b7d83bb2c034e45ffe293566a4c1202f982602e9a/</link><pubDate>Sat, 12 Jun 2021 01:16:24 +0000</pubDate><guid>https://news.panz3r.dev/post/fad1650d721dc69e9b78c35b7d83bb2c034e45ffe293566a4c1202f982602e9a/</guid><description>
 Article URL: https://randomascii.wordpress.com/2018/01/07/finding-a-cpu-design-bug-in-the-xbox-360/
 Comments URL: …</description></item><item><title>Britain’s destruction and concealment of colonial records (2017)</title><link>https://news.panz3r.dev/post/8a742619ab5728baacbd793973d0618e7f614936474a8631efd222e842a2e7e1/</link><pubDate>Fri, 11 Jun 2021 23:35:21 +0000</pubDate><guid>https://news.panz3r.dev/post/8a742619ab5728baacbd793973d0618e7f614936474a8631efd222e842a2e7e1/</guid><description>
 Article URL: https://www.tandfonline.com/doi/full/10.1080/03086534.2017.1294256
-Comments URL: https://news.ycombinator.com/item?id=27479809 …</description></item><item><title>Death by Pokémon Go: the economic and human cost of using apps while driving</title><link>https://news.panz3r.dev/post/75caf155d13b831803d92df2a92e073e61532f993d9b28479b15e09b07023107/</link><pubDate>Fri, 11 Jun 2021 23:25:12 +0000</pubDate><guid>https://news.panz3r.dev/post/75caf155d13b831803d92df2a92e073e61532f993d9b28479b15e09b07023107/</guid><description>
+Comments URL: https://news.ycombinator.com/item?id=27479809 …</description></item><item><title>Death by Pokémon Go: The costs of using apps while driving (2017)</title><link>https://news.panz3r.dev/post/75caf155d13b831803d92df2a92e073e61532f993d9b28479b15e09b07023107/</link><pubDate>Fri, 11 Jun 2021 23:25:12 +0000</pubDate><guid>https://news.panz3r.dev/post/75caf155d13b831803d92df2a92e073e61532f993d9b28479b15e09b07023107/</guid><description>
 Article URL: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3073723
 Comments URL: https://news.ycombinator.com/item?id=27479731
 Points: …</description></item><item><title>'I was completely inside': Lobster diver swallowed by humpback whale</title><link>https://news.panz3r.dev/post/ae1141a996d15c665ab47413510bd0dfad8f5ea979b98619d9f92ce86ef54a17/</link><pubDate>Fri, 11 Jun 2021 23:22:33 +0000</pubDate><guid>https://news.panz3r.dev/post/ae1141a996d15c665ab47413510bd0dfad8f5ea979b98619d9f92ce86ef54a17/</guid><description>
 Article URL: …</description></item><item><title>Europe is now a corporate also-ran. Can it recover its footing?</title><link>https://news.panz3r.dev/post/71a04b0b8b3f80bb6901ff73b251d7b4cd879c14882a645cb7f0e9e062ab6353/</link><pubDate>Fri, 11 Jun 2021 22:45:40 +0000</pubDate><guid>https://news.panz3r.dev/post/71a04b0b8b3f80bb6901ff73b251d7b4cd879c14882a645cb7f0e9e062ab6353/</guid><description>
-Article URL: https://www.economist.com/briefing/2021/06/05/once-a-corporate-heavyweight-europe-is-now-an-also-ran-can-it-recover-its-footing …</description></item><item><title>Desertification in Romania</title><link>https://news.panz3r.dev/post/5c1688f4d4c58246b42ee06a1e1691ac1d514977f10007a15797db4c37086d7a/</link><pubDate>Fri, 11 Jun 2021 21:21:14 +0000</pubDate><guid>https://news.panz3r.dev/post/5c1688f4d4c58246b42ee06a1e1691ac1d514977f10007a15797db4c37086d7a/</guid><description>
+Article URL: https://www.economist.com/briefing/2021/06/05/once-a-corporate-heavyweight-europe-is-now-an-also-ran-can-it-recover-its-footing …</description></item><item><title>Desertification in Romania (2020)</title><link>https://news.panz3r.dev/post/5c1688f4d4c58246b42ee06a1e1691ac1d514977f10007a15797db4c37086d7a/</link><pubDate>Fri, 11 Jun 2021 21:21:14 +0000</pubDate><guid>https://news.panz3r.dev/post/5c1688f4d4c58246b42ee06a1e1691ac1d514977f10007a15797db4c37086d7a/</guid><description>
 Article URL: https://www.geographyrealm.com/desertification-in-romania/
 Comments URL: https://news.ycombinator.com/item?id=27478660
 Points: …</description></item><item><title>It’s time to break up the Ivy League cartel</title><link>https://news.panz3r.dev/post/0dc0076bf43cc0d9f071576dd74bf2715fb3dd139217817eb2c1a1cf1edc16e3/</link><pubDate>Fri, 11 Jun 2021 21:20:04 +0000</pubDate><guid>https://news.panz3r.dev/post/0dc0076bf43cc0d9f071576dd74bf2715fb3dd139217817eb2c1a1cf1edc16e3/</guid><description>
@@ -22,14 +39,14 @@ Comments URL: …</description></item><item><title>J. Kenji López-Alt is Seattl
 Article URL: …</description></item><item><title>Few people know that Google voluntarily removes some search results</title><link>https://news.panz3r.dev/post/7cf69662c34dd53f7449475958115b990b0f8ee152e90d5d70c37ce404acd98b/</link><pubDate>Fri, 11 Jun 2021 20:05:20 +0000</pubDate><guid>https://news.panz3r.dev/post/7cf69662c34dd53f7449475958115b990b0f8ee152e90d5d70c37ce404acd98b/</guid><description>
 Article URL: https://twitter.com/kashhill/status/1402986015107653647
 Comments URL: https://news.ycombinator.com/item?id=27477797
-Points: 536 …</description></item><item><title>Fitting a Forth in 512 Bytes</title><link>https://news.panz3r.dev/post/9d7c48647a522e8efc0e9d04b63b97a76464296f63c2a31eee8132577f8c5fc8/</link><pubDate>Fri, 11 Jun 2021 19:44:01 +0000</pubDate><guid>https://news.panz3r.dev/post/9d7c48647a522e8efc0e9d04b63b97a76464296f63c2a31eee8132577f8c5fc8/</guid><description>
+Points: 632 …</description></item><item><title>Fitting a Forth in 512 Bytes</title><link>https://news.panz3r.dev/post/9d7c48647a522e8efc0e9d04b63b97a76464296f63c2a31eee8132577f8c5fc8/</link><pubDate>Fri, 11 Jun 2021 19:44:01 +0000</pubDate><guid>https://news.panz3r.dev/post/9d7c48647a522e8efc0e9d04b63b97a76464296f63c2a31eee8132577f8c5fc8/</guid><description>
 Article URL: https://niedzejkob.p4.team/bootstrap/miniforth/
 Comments URL: https://news.ycombinator.com/item?id=27477599
 Points: 99
 # …</description></item><item><title>Guix: Unifying provisioning, deployment, and management in the age of containers</title><link>https://news.panz3r.dev/post/5de6db49bea595015929afc4fd39e0c50f4937e076d2ef2731e99a10cbf52535/</link><pubDate>Fri, 11 Jun 2021 19:02:23 +0000</pubDate><guid>https://news.panz3r.dev/post/5de6db49bea595015929afc4fd39e0c50f4937e076d2ef2731e99a10cbf52535/</guid><description>
 Article URL: https://archive.fosdem.org/2020/schedule/event/guix/
 Comments URL: https://news.ycombinator.com/item?id=27477230
-Points: 107
+Points: 140
 # …</description></item><item><title>Ethereum community has solved a major problem of the Internet: Single Sign-On</title><link>https://news.panz3r.dev/post/566a5a0735347a82ee3001f293ea08075df90efa386bf2feac70e88ca7259551/</link><pubDate>Fri, 11 Jun 2021 18:43:31 +0000</pubDate><guid>https://news.panz3r.dev/post/566a5a0735347a82ee3001f293ea08075df90efa386bf2feac70e88ca7259551/</guid><description>
 Article URL: https://twitter.com/BrantlyMillegan/status/1402388133086367751
 Comments URL: https://news.ycombinator.com/item?id=27477022 …</description></item><item><title>Surprising Shared Word Etymologies</title><link>https://news.panz3r.dev/post/356ec68dc3a1b6e65e48dbdb0ae89e4bdfc2d484bcbcd6addd59c9c2813e3159/</link><pubDate>Fri, 11 Jun 2021 16:15:02 +0000</pubDate><guid>https://news.panz3r.dev/post/356ec68dc3a1b6e65e48dbdb0ae89e4bdfc2d484bcbcd6addd59c9c2813e3159/</guid><description>
@@ -106,7 +123,7 @@ Points: 164
 # …</description></item><item><title>Fitting a FORTH in 512 bytes</title><link>https://news.panz3r.dev/post/4b4fdea05f16c3d6971b8b1b1293b7bb6ab08035b08b909164a640205db64a32/</link><pubDate>Fri, 11 Jun 2021 02:31:21 +0000</pubDate><guid>https://news.panz3r.dev/post/4b4fdea05f16c3d6971b8b1b1293b7bb6ab08035b08b909164a640205db64a32/</guid><description>
 Article URL: https://niedzejkob.p4.team/bootstrap/miniforth/
 Comments URL: https://news.ycombinator.com/item?id=27468698
-Points: 128
+Points: 164
 # …</description></item><item><title>Soggi's BIOS and Firmware Page (2020)</title><link>https://news.panz3r.dev/post/996ffc16972c12e35c8b457c3ebcee709dfbebf9a10ea564431feeee6d93d089/</link><pubDate>Fri, 11 Jun 2021 02:14:22 +0000</pubDate><guid>https://news.panz3r.dev/post/996ffc16972c12e35c8b457c3ebcee709dfbebf9a10ea564431feeee6d93d089/</guid><description>
 Article URL: https://soggi.org/
 Comments URL: https://news.ycombinator.com/item?id=27468594
@@ -583,32 +600,4 @@ Points: 375
 Article URL: http://fizzygum.org/
 Comments URL: https://news.ycombinator.com/item?id=27421401
 Points: 83
-# Comments: 20</description></item><item><title>TLS certificates have at least two internal representations of time</title><link>https://news.panz3r.dev/post/9e1a4878bfece656b2c92fc0da22d4ad5a6b6e61b6ee52a636847e1e91babb9d/</link><pubDate>Mon, 07 Jun 2021 10:58:31 +0000</pubDate><guid>https://news.panz3r.dev/post/9e1a4878bfece656b2c92fc0da22d4ad5a6b6e61b6ee52a636847e1e91babb9d/</guid><description>
-Article URL: https://utcc.utoronto.ca/~cks/space/blog/tech/TLSTimeRepresentations
-Comments URL: …</description></item><item><title>The T-34 keyboard layout</title><link>https://news.panz3r.dev/post/b1f44074001e9ae31dd2b905353db73981cbb178d0b85daf9f4733916e188e33/</link><pubDate>Mon, 07 Jun 2021 10:44:03 +0000</pubDate><guid>https://news.panz3r.dev/post/b1f44074001e9ae31dd2b905353db73981cbb178d0b85daf9f4733916e188e33/</guid><description>
-Article URL: https://www.jonashietala.se/blog/2021/06/03/the-t-34-keyboard-layout/
-Comments URL: …</description></item><item><title>Language Learning with Netflix</title><link>https://news.panz3r.dev/post/e70af9fcb0b7a01d8e4918db69d749f710b2402304a4e57287d0145e950e98bf/</link><pubDate>Mon, 07 Jun 2021 10:30:36 +0000</pubDate><guid>https://news.panz3r.dev/post/e70af9fcb0b7a01d8e4918db69d749f710b2402304a4e57287d0145e950e98bf/</guid><description>
-Article URL: https://languagelearningwithnetflix.com/
-Comments URL: https://news.ycombinator.com/item?id=27420959
-Points: 209
-# Comments: …</description></item><item><title>Kwan’s Hierarchy of Product Needs: The Four Levels of Product Managers</title><link>https://news.panz3r.dev/post/4f7326be57b701b20682744bb3ac28888d0aac621e303309592b9f706f171772/</link><pubDate>Mon, 07 Jun 2021 10:13:18 +0000</pubDate><guid>https://news.panz3r.dev/post/4f7326be57b701b20682744bb3ac28888d0aac621e303309592b9f706f171772/</guid><description>
-Article URL: https://www.heavybit.com/library/blog/kwans-hierarchy-of-product-needs-the-four-levels-of-product-managers/
-Comments URL: …</description></item><item><title>Notepad++ v8 release</title><link>https://news.panz3r.dev/post/5bf0a999163a27686b06330aa037bc7c6234bcf323e01134e17e9fe50e31ce11/</link><pubDate>Mon, 07 Jun 2021 09:49:52 +0000</pubDate><guid>https://news.panz3r.dev/post/5bf0a999163a27686b06330aa037bc7c6234bcf323e01134e17e9fe50e31ce11/</guid><description>
-Article URL: https://notepad-plus-plus.org/downloads/v8/
-Comments URL: https://news.ycombinator.com/item?id=27420726
-Points: 51
-# Comments: …</description></item><item><title>Jailbroken iOS can't run macOS apps. I spent a week to find out why</title><link>https://news.panz3r.dev/post/e136bc5c60a35ef8686ee9cb32d53fb6c35315319c6f12145c079aa725c8478e/</link><pubDate>Mon, 07 Jun 2021 09:38:09 +0000</pubDate><guid>https://news.panz3r.dev/post/e136bc5c60a35ef8686ee9cb32d53fb6c35315319c6f12145c079aa725c8478e/</guid><description>
-Article URL: https://worthdoingbadly.com/macappsios/
-Comments URL: https://news.ycombinator.com/item?id=27420673
-Points: 96
-# Comments: 26</description></item><item><title>HTTP Status Dogs</title><link>https://news.panz3r.dev/post/293e3a70de27b74ab33effc4d2a601e6e8a3ba59330b5608827db541769dc0aa/</link><pubDate>Mon, 07 Jun 2021 09:36:31 +0000</pubDate><guid>https://news.panz3r.dev/post/293e3a70de27b74ab33effc4d2a601e6e8a3ba59330b5608827db541769dc0aa/</guid><description>
-Article URL: https://httpstatusdogs.com/
-Comments URL: https://news.ycombinator.com/item?id=27420667
-Points: 87
-# Comments: 24</description></item><item><title>Sorry everybody, I failed with you</title><link>https://news.panz3r.dev/post/4511e25c51ef06d6023cc053cdcde2109966035042f9cd9aa0bbb62992f267a7/</link><pubDate>Mon, 07 Jun 2021 09:17:27 +0000</pubDate><guid>https://news.panz3r.dev/post/4511e25c51ef06d6023cc053cdcde2109966035042f9cd9aa0bbb62992f267a7/</guid><description>
-Article URL: https://github.com/pedronauck/docz/issues/1634
-Comments URL: https://news.ycombinator.com/item?id=27420554
-Points: 703
-# …</description></item><item><title>Farmers Deserve the Right to Repair Their Tractors</title><link>https://news.panz3r.dev/post/82c9deccf77857b424522943d3edb892a4cceedfe744e5137c9a9fe9160e3cde/</link><pubDate>Mon, 07 Jun 2021 07:23:20 +0000</pubDate><guid>https://news.panz3r.dev/post/82c9deccf77857b424522943d3edb892a4cceedfe744e5137c9a9fe9160e3cde/</guid><description>
-Article URL: https://www.farms.com/news/farmers-deserve-the-right-to-repair-their-tractors-168298.aspx
-Comments URL: …</description></item></channel></rss>
+# Comments: 20</description></item></channel></rss>

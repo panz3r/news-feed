@@ -1,19 +1,62 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hacker-News-Frontpage on Panz3r News</title><link>https://news.panz3r.dev/tags/hacker-news-frontpage/</link><description>Recent content in Hacker-News-Frontpage on news.panz3r.dev</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Panz3r 2021 | Vitae theme for Hugo</copyright><lastBuildDate>Thu, 17 Jun 2021 09:42:53 +0000</lastBuildDate><atom:link href="https://news.panz3r.dev/tags/hacker-news-frontpage/index.xml" rel="self" type="application/rss+xml"/><item><title>Cool URIs don't change (1998)</title><link>https://news.panz3r.dev/post/518715620b55fbe018f6a0f889f2ea34ebb56f031b13592e8c538de63f9a4ece/</link><pubDate>Thu, 17 Jun 2021 09:42:53 +0000</pubDate><guid>https://news.panz3r.dev/post/518715620b55fbe018f6a0f889f2ea34ebb56f031b13592e8c538de63f9a4ece/</guid><description>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hacker-News-Frontpage on Panz3r News</title><link>https://news.panz3r.dev/tags/hacker-news-frontpage/</link><description>Recent content in Hacker-News-Frontpage on news.panz3r.dev</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Panz3r 2021 | Vitae theme for Hugo</copyright><lastBuildDate>Thu, 17 Jun 2021 16:44:14 +0000</lastBuildDate><atom:link href="https://news.panz3r.dev/tags/hacker-news-frontpage/index.xml" rel="self" type="application/rss+xml"/><item><title>Amazon will reduce dev. revenue cut from 30% to 20% and give 10% in AWS Credit</title><link>https://news.panz3r.dev/post/75cb93e081242f7676588325762064fcaaa1f41459bc3a10f367213071549813/</link><pubDate>Thu, 17 Jun 2021 16:44:14 +0000</pubDate><guid>https://news.panz3r.dev/post/75cb93e081242f7676588325762064fcaaa1f41459bc3a10f367213071549813/</guid><description>
+Article URL: https://www.aftvnews.com/amazon-appstore-will-reduce-developer-revenue-cut-from-30-to-20-and-give-10-in-free-aws-credit/ …</description></item><item><title>Web Audio API Is a W3C Recommendation</title><link>https://news.panz3r.dev/post/88f7a4326cd608a71c23a45a5cd55f015e63fe37f4bb48b1f2e57b4d8161846a/</link><pubDate>Thu, 17 Jun 2021 16:10:38 +0000</pubDate><guid>https://news.panz3r.dev/post/88f7a4326cd608a71c23a45a5cd55f015e63fe37f4bb48b1f2e57b4d8161846a/</guid><description>
+Article URL: https://www.w3.org/blog/news/archives/9093
+Comments URL: https://news.ycombinator.com/item?id=27541213
+Points: 50
+# Comments: …</description></item><item><title>Io_uring is not an event system</title><link>https://news.panz3r.dev/post/c2937d35603e76e4678adf9e12bb85926decbf96df0f8ac29ca2d7d0672da2e1/</link><pubDate>Thu, 17 Jun 2021 14:56:43 +0000</pubDate><guid>https://news.panz3r.dev/post/c2937d35603e76e4678adf9e12bb85926decbf96df0f8ac29ca2d7d0672da2e1/</guid><description>
+Article URL: https://despairlabs.com/posts/2021-06-16-io-uring-is-not-an-event-system/
+Comments URL: …</description></item><item><title>Rust 1.53</title><link>https://news.panz3r.dev/post/3279d06bb37b50f1570b0e76bdc6e4a159f50d7f5067c85970f1a4e7913139d7/</link><pubDate>Thu, 17 Jun 2021 14:44:23 +0000</pubDate><guid>https://news.panz3r.dev/post/3279d06bb37b50f1570b0e76bdc6e4a159f50d7f5067c85970f1a4e7913139d7/</guid><description>
+Article URL: https://blog.rust-lang.org/2021/06/17/Rust-1.53.0.html
+Comments URL: https://news.ycombinator.com/item?id=27540117
+Points: 133 …</description></item><item><title>Nuclear energy: Fusion plant backed by Jeff Bezos to be built in UK</title><link>https://news.panz3r.dev/post/1e589508d873edc5fa9f88d78de1bc82b80c14f3cd4f8590b5ae142c9acb5d09/</link><pubDate>Thu, 17 Jun 2021 14:33:21 +0000</pubDate><guid>https://news.panz3r.dev/post/1e589508d873edc5fa9f88d78de1bc82b80c14f3cd4f8590b5ae142c9acb5d09/</guid><description>
+Article URL: https://www.bbc.co.uk/news/science-environment-57512229
+Comments URL: https://news.ycombinator.com/item?id=27539987
+Points: 81 …</description></item><item><title>Cariboulabs/cariboulite – turn any 40-pin Raspberry-Pi into a Tx/Rx 6GHz SDR</title><link>https://news.panz3r.dev/post/ec73cac40ae624fb513c83e4070391cadfc18761dc05539521a4b2126be01f54/</link><pubDate>Thu, 17 Jun 2021 14:19:00 +0000</pubDate><guid>https://news.panz3r.dev/post/ec73cac40ae624fb513c83e4070391cadfc18761dc05539521a4b2126be01f54/</guid><description>
+Article URL: https://github.com/cariboulabs/cariboulite
+Comments URL: https://news.ycombinator.com/item?id=27539834
+Points: 94
+# Comments: …</description></item><item><title>The collapse of the IRON stable coin</title><link>https://news.panz3r.dev/post/9e5380a7e981b6e7ba3e09268335645d5d2df1144bab5ae027b3661d4b1ed817/</link><pubDate>Thu, 17 Jun 2021 13:31:40 +0000</pubDate><guid>https://news.panz3r.dev/post/9e5380a7e981b6e7ba3e09268335645d5d2df1144bab5ae027b3661d4b1ed817/</guid><description>
+Article URL: https://irony-97882.medium.com/the-melting-of-iron-89469b01e083
+Comments URL: https://news.ycombinator.com/item?id=27539368 …</description></item><item><title>How to Become a Bad Developer</title><link>https://news.panz3r.dev/post/568c2ea06a2d1c86bddda15955cce3557798d1e495ac18109b79050c72190793/</link><pubDate>Thu, 17 Jun 2021 13:29:26 +0000</pubDate><guid>https://news.panz3r.dev/post/568c2ea06a2d1c86bddda15955cce3557798d1e495ac18109b79050c72190793/</guid><description>
+Article URL: https://rafaelquintanilha.com/how-to-become-a-bad-developer/
+Comments URL: https://news.ycombinator.com/item?id=27539342 …</description></item><item><title>In Argentina, cheap government-issued netbooks sparked a musical Renaissance</title><link>https://news.panz3r.dev/post/0a420a901ae8c1c996694cd3ffa6418eee6244df7ad722869205134328483dfb/</link><pubDate>Thu, 17 Jun 2021 13:14:24 +0000</pubDate><guid>https://news.panz3r.dev/post/0a420a901ae8c1c996694cd3ffa6418eee6244df7ad722869205134328483dfb/</guid><description>
+Article URL: https://restofworld.org/2021/argentina-netbooks-music/
+Comments URL: https://news.ycombinator.com/item?id=27539219
+Points: 115 …</description></item><item><title>Start Your Own ISP</title><link>https://news.panz3r.dev/post/227f0af08514b53be77a84c5f66f72d33faff0c833bd43eca15087ae5a1a4c3b/</link><pubDate>Thu, 17 Jun 2021 13:07:46 +0000</pubDate><guid>https://news.panz3r.dev/post/227f0af08514b53be77a84c5f66f72d33faff0c833bd43eca15087ae5a1a4c3b/</guid><description>
+Article URL: https://startyourownisp.com/
+Comments URL: https://news.ycombinator.com/item?id=27539165
+Points: 197
+# Comments: 66</description></item><item><title>V0.16 – Gleam Compiles to JavaScript</title><link>https://news.panz3r.dev/post/40f97508022dcc3fc5b3b17ca5f71b85676b2ac8f519000ab654b53689e0aa6d/</link><pubDate>Thu, 17 Jun 2021 12:38:59 +0000</pubDate><guid>https://news.panz3r.dev/post/40f97508022dcc3fc5b3b17ca5f71b85676b2ac8f519000ab654b53689e0aa6d/</guid><description>
+Article URL: https://gleam.run/news/v0.16-gleam-compiles-to-javascript/
+Comments URL: https://news.ycombinator.com/item?id=27538919
+Points: …</description></item><item><title>Ohio Republicans close to imposing near-total ban on municipal broadband</title><link>https://news.panz3r.dev/post/c910c86bcde0aea3a09eb65b9178e3cd6611a9479df0bb4aed208c1d7eb5ed4c/</link><pubDate>Thu, 17 Jun 2021 12:21:14 +0000</pubDate><guid>https://news.panz3r.dev/post/c910c86bcde0aea3a09eb65b9178e3cd6611a9479df0bb4aed208c1d7eb5ed4c/</guid><description>
+Article URL: https://arstechnica.com/tech-policy/2021/06/ohio-republicans-close-to-imposing-near-total-ban-on-municipal-broadband/
+Comments …</description></item><item><title>The evolution of Smalltalk: from Smalltalk-72 through Squeak (2020)</title><link>https://news.panz3r.dev/post/e13ab0386efe2ca19df72e1362d81f9b1b6256e7efe0df6198c5106a56c3b204/</link><pubDate>Thu, 17 Jun 2021 09:54:01 +0000</pubDate><guid>https://news.panz3r.dev/post/e13ab0386efe2ca19df72e1362d81f9b1b6256e7efe0df6198c5106a56c3b204/</guid><description>
+Article URL: https://dl.acm.org/doi/10.1145/3386335
+Comments URL: https://news.ycombinator.com/item?id=27537913
+Points: 108
+# Comments: 35</description></item><item><title>Cool URIs don't change (1998)</title><link>https://news.panz3r.dev/post/518715620b55fbe018f6a0f889f2ea34ebb56f031b13592e8c538de63f9a4ece/</link><pubDate>Thu, 17 Jun 2021 09:42:53 +0000</pubDate><guid>https://news.panz3r.dev/post/518715620b55fbe018f6a0f889f2ea34ebb56f031b13592e8c538de63f9a4ece/</guid><description>
 Article URL: https://www.w3.org/Provider/Style/URI.html
 Comments URL: https://news.ycombinator.com/item?id=27537840
-Points: 55
-# Comments: …</description></item><item><title>Python compiler written in Python to make standalone executables</title><link>https://news.panz3r.dev/post/8bc84782ddabf73e5ff3bd5d352f1c84fc7f132e5310f1b25533f0de7a1de0ff/</link><pubDate>Thu, 17 Jun 2021 09:37:42 +0000</pubDate><guid>https://news.panz3r.dev/post/8bc84782ddabf73e5ff3bd5d352f1c84fc7f132e5310f1b25533f0de7a1de0ff/</guid><description>
+Points: 236
+# Comments: …</description></item><item><title>Nuitka: a Python compiler written in Python</title><link>https://news.panz3r.dev/post/8bc84782ddabf73e5ff3bd5d352f1c84fc7f132e5310f1b25533f0de7a1de0ff/</link><pubDate>Thu, 17 Jun 2021 09:37:42 +0000</pubDate><guid>https://news.panz3r.dev/post/8bc84782ddabf73e5ff3bd5d352f1c84fc7f132e5310f1b25533f0de7a1de0ff/</guid><description>
 Article URL: https://github.com/Nuitka/Nuitka
 Comments URL: https://news.ycombinator.com/item?id=27537819
-Points: 83
-# Comments: 11</description></item><item><title>Microsoft Ubuntu repositories are broken because of space issues</title><link>https://news.panz3r.dev/post/e4c2e5ea164f37ca7c1f6ecd15065edabef532359e832aad30a68b730be2a901/</link><pubDate>Thu, 17 Jun 2021 07:46:19 +0000</pubDate><guid>https://news.panz3r.dev/post/e4c2e5ea164f37ca7c1f6ecd15065edabef532359e832aad30a68b730be2a901/</guid><description>
+Points: 379
+# Comments: 136</description></item><item><title>How to Write a Programming Book</title><link>https://news.panz3r.dev/post/239d677586d7ed262ea7440e52aea28d0e33b597b4e478cd8f29c299ae5c67b0/</link><pubDate>Thu, 17 Jun 2021 09:13:35 +0000</pubDate><guid>https://news.panz3r.dev/post/239d677586d7ed262ea7440e52aea28d0e33b597b4e478cd8f29c299ae5c67b0/</guid><description>
+Article URL: https://cscalfani.medium.com/how-to-write-a-programming-book-76ab4f8a7071
+Comments URL: …</description></item><item><title>Wasmer 2.0</title><link>https://news.panz3r.dev/post/45f90e08ea8030d9a5017ae0779020d22f3da21ddc69c08365ad55056115889c/</link><pubDate>Thu, 17 Jun 2021 09:02:17 +0000</pubDate><guid>https://news.panz3r.dev/post/45f90e08ea8030d9a5017ae0779020d22f3da21ddc69c08365ad55056115889c/</guid><description>
+Article URL: https://wasmer.io/posts/wasmer-2.0
+Comments URL: https://news.ycombinator.com/item?id=27537541
+Points: 154
+# Comments: 26</description></item><item><title>Microsoft Ubuntu repositories are broken because of space issues</title><link>https://news.panz3r.dev/post/e4c2e5ea164f37ca7c1f6ecd15065edabef532359e832aad30a68b730be2a901/</link><pubDate>Thu, 17 Jun 2021 07:46:19 +0000</pubDate><guid>https://news.panz3r.dev/post/e4c2e5ea164f37ca7c1f6ecd15065edabef532359e832aad30a68b730be2a901/</guid><description>
 Article URL: https://github.com/dotnet/core/issues/6381
 Comments URL: https://news.ycombinator.com/item?id=27537112
 Points: 79
 # Comments: …</description></item><item><title>PHP has been removed in macOS Monterey</title><link>https://news.panz3r.dev/post/ac366d9a2852065885dce1887797dce0e5342cfab4fe3cc9ea88d48826800e8e/</link><pubDate>Thu, 17 Jun 2021 07:33:04 +0000</pubDate><guid>https://news.panz3r.dev/post/ac366d9a2852065885dce1887797dce0e5342cfab4fe3cc9ea88d48826800e8e/</guid><description>
 Article URL: https://developer.apple.com/forums/thread/681907
 Comments URL: https://news.ycombinator.com/item?id=27537040
-Points: 109
+Points: 289
 # …</description></item><item><title>1931: Kurt Gödel shows limits of math, logic, computing, AI</title><link>https://news.panz3r.dev/post/9f5205a7b999325b90a83e87dd79bc8b806a17a6d9a324a40fd58810ede4ba1c/</link><pubDate>Thu, 17 Jun 2021 07:20:34 +0000</pubDate><guid>https://news.panz3r.dev/post/9f5205a7b999325b90a83e87dd79bc8b806a17a6d9a324a40fd58810ede4ba1c/</guid><description>
 Article URL: https://people.idsia.ch/~juergen/goedel-1931-founder-theoretical-computer-science-AI.html
 Comments URL: …</description></item><item><title>Show HN: GraphCDN, the GraphQL CDN with edge caching and analytics</title><link>https://news.panz3r.dev/post/c8829dc1bbe6b720fc8d034f3f1c2b844899fac1030f557d0d881252939e3eb8/</link><pubDate>Thu, 17 Jun 2021 07:01:02 +0000</pubDate><guid>https://news.panz3r.dev/post/c8829dc1bbe6b720fc8d034f3f1c2b844899fac1030f557d0d881252939e3eb8/</guid><description>
@@ -483,22 +526,4 @@ Article URL: https://rebeccaskinner.net/posts/2021-06-09-getting-to-the-fixed-po
 Comments URL: …</description></item><item><title>Procedural Butterfly</title><link>https://news.panz3r.dev/post/18e3a77cfdd83c54c421cd53c101565df0d7cc8cabb9864f932bdc9ded1d3e85/</link><pubDate>Sat, 12 Jun 2021 19:04:49 +0000</pubDate><guid>https://news.panz3r.dev/post/18e3a77cfdd83c54c421cd53c101565df0d7cc8cabb9864f932bdc9ded1d3e85/</guid><description>
 Article URL: https://andersource.dev/2020/10/10/procedural-butterfly.html#1621896297080
 Comments URL: …</description></item><item><title>VW says data breach at vendor impacted 3.3M people in North America</title><link>https://news.panz3r.dev/post/05b26a98745788842d82f0b92bc5211e69c95acb9f1a2065f7eba6599af4c094/</link><pubDate>Sat, 12 Jun 2021 18:15:10 +0000</pubDate><guid>https://news.panz3r.dev/post/05b26a98745788842d82f0b92bc5211e69c95acb9f1a2065f7eba6599af4c094/</guid><description>
-Article URL: …</description></item><item><title>Subatomic particle seen changing to antiparticle and back for the first time</title><link>https://news.panz3r.dev/post/d49dcf78178404c0c5cff8706cff6ebd7a2e5d1ce1f5e4668b65bc4946ae4fc9/</link><pubDate>Sat, 12 Jun 2021 17:15:27 +0000</pubDate><guid>https://news.panz3r.dev/post/d49dcf78178404c0c5cff8706cff6ebd7a2e5d1ce1f5e4668b65bc4946ae4fc9/</guid><description>
-Article URL: https://www.ox.ac.uk/news/2021-06-08-subatomic-particle-seen-changing-antiparticle-and-back-first-time
-Comments URL: …</description></item><item><title>The Modern Mathematics of Deep Learning</title><link>https://news.panz3r.dev/post/132cb0432df5703d2aacb25c071a9207d1f58df2534eb96ecad20952546e04d9/</link><pubDate>Sat, 12 Jun 2021 16:37:55 +0000</pubDate><guid>https://news.panz3r.dev/post/132cb0432df5703d2aacb25c071a9207d1f58df2534eb96ecad20952546e04d9/</guid><description>
-Article URL: https://arxiv.org/abs/2105.04026
-Comments URL: https://news.ycombinator.com/item?id=27485574
-Points: 227
-# Comments: 52</description></item><item><title>Scientists find second ‘short sleep’ gene (2019)</title><link>https://news.panz3r.dev/post/94c9df17ce4225fc445151647559d6806a2a5e2008890a058da64e9b7dc1751f/</link><pubDate>Sat, 12 Jun 2021 15:54:54 +0000</pubDate><guid>https://news.panz3r.dev/post/94c9df17ce4225fc445151647559d6806a2a5e2008890a058da64e9b7dc1751f/</guid><description>
-Article URL: https://www.ucsf.edu/news/2019/08/415261/after-10-year-search-scientists-find-second-short-sleep-gene
-Comments URL: …</description></item><item><title>Burnout from an Organizational Perspective</title><link>https://news.panz3r.dev/post/0e2252b587048678d16348e06d5fa67b9b03bd8b22994a5ca4955d445e59d8f5/</link><pubDate>Sat, 12 Jun 2021 15:52:38 +0000</pubDate><guid>https://news.panz3r.dev/post/0e2252b587048678d16348e06d5fa67b9b03bd8b22994a5ca4955d445e59d8f5/</guid><description>
-Article URL: https://ssir.org/articles/entry/burnout_from_an_organizational_perspective
-Comments URL: …</description></item><item><title>D3 v7 Released</title><link>https://news.panz3r.dev/post/c57cd6d8d40781dc1c6d864d79c7d0828f4dc0f6dc51f3371d9c77c2d1e8a5c6/</link><pubDate>Sat, 12 Jun 2021 15:27:21 +0000</pubDate><guid>https://news.panz3r.dev/post/c57cd6d8d40781dc1c6d864d79c7d0828f4dc0f6dc51f3371d9c77c2d1e8a5c6/</guid><description>
-Article URL: https://github.com/d3/d3/releases/tag/v7.0.0
-Comments URL: https://news.ycombinator.com/item?id=27485123
-Points: 60
-# Comments: …</description></item><item><title>Win at Risk by using systems thinking</title><link>https://news.panz3r.dev/post/e5e4b089c45649a9b98ce83013143044980941da7533f881517a12c55e19f9b8/</link><pubDate>Sat, 12 Jun 2021 13:17:02 +0000</pubDate><guid>https://news.panz3r.dev/post/e5e4b089c45649a9b98ce83013143044980941da7533f881517a12c55e19f9b8/</guid><description>
-Article URL: https://thesystemisdown.substack.com/p/how-to-win-at-risk-every-time-by
-Comments URL: …</description></item><item><title>Particle seen switching between matter and antimatter at CERN</title><link>https://news.panz3r.dev/post/38cf68064f50a134f00e71f66aa04f39a6b2837ab195697354bba06eddc2b913/</link><pubDate>Sat, 12 Jun 2021 12:20:58 +0000</pubDate><guid>https://news.panz3r.dev/post/38cf68064f50a134f00e71f66aa04f39a6b2837ab195697354bba06eddc2b913/</guid><description>
-Article URL: https://newatlas.com/physics/charm-meson-particle-matter-antimatter/
-Comments URL: …</description></item></channel></rss>
+Article URL: …</description></item></channel></rss>

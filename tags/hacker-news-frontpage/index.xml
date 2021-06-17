@@ -1,20 +1,43 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hacker-News-Frontpage on Panz3r News</title><link>https://news.panz3r.dev/tags/hacker-news-frontpage/</link><description>Recent content in Hacker-News-Frontpage on news.panz3r.dev</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Panz3r 2021 | Vitae theme for Hugo</copyright><lastBuildDate>Thu, 17 Jun 2021 16:44:14 +0000</lastBuildDate><atom:link href="https://news.panz3r.dev/tags/hacker-news-frontpage/index.xml" rel="self" type="application/rss+xml"/><item><title>Amazon will reduce dev. revenue cut from 30% to 20% and give 10% in AWS Credit</title><link>https://news.panz3r.dev/post/75cb93e081242f7676588325762064fcaaa1f41459bc3a10f367213071549813/</link><pubDate>Thu, 17 Jun 2021 16:44:14 +0000</pubDate><guid>https://news.panz3r.dev/post/75cb93e081242f7676588325762064fcaaa1f41459bc3a10f367213071549813/</guid><description>
-Article URL: https://www.aftvnews.com/amazon-appstore-will-reduce-developer-revenue-cut-from-30-to-20-and-give-10-in-free-aws-credit/ …</description></item><item><title>Web Audio API Is a W3C Recommendation</title><link>https://news.panz3r.dev/post/88f7a4326cd608a71c23a45a5cd55f015e63fe37f4bb48b1f2e57b4d8161846a/</link><pubDate>Thu, 17 Jun 2021 16:10:38 +0000</pubDate><guid>https://news.panz3r.dev/post/88f7a4326cd608a71c23a45a5cd55f015e63fe37f4bb48b1f2e57b4d8161846a/</guid><description>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hacker-News-Frontpage on Panz3r News</title><link>https://news.panz3r.dev/tags/hacker-news-frontpage/</link><description>Recent content in Hacker-News-Frontpage on news.panz3r.dev</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Panz3r 2021 | Vitae theme for Hugo</copyright><lastBuildDate>Thu, 17 Jun 2021 19:27:16 +0000</lastBuildDate><atom:link href="https://news.panz3r.dev/tags/hacker-news-frontpage/index.xml" rel="self" type="application/rss+xml"/><item><title>On Depression and Founders</title><link>https://news.panz3r.dev/post/75f9e9c14dae34265b593630dc86256ad8e926696beecb505fcc0fe4fbda3635/</link><pubDate>Thu, 17 Jun 2021 19:27:16 +0000</pubDate><guid>https://news.panz3r.dev/post/75f9e9c14dae34265b593630dc86256ad8e926696beecb505fcc0fe4fbda3635/</guid><description>
+Article URL: https://startupstrats.substack.com/p/dont-kill-yourself
+Comments URL: https://news.ycombinator.com/item?id=27543543
+Points: 54 …</description></item><item><title>Organicmaps: Android and iOS offline maps app for travelers, tourists, hikers</title><link>https://news.panz3r.dev/post/558ef6a699547bbf95283326836a0c9394271d4bf6a519e7a79e0941942332cb/</link><pubDate>Thu, 17 Jun 2021 18:44:55 +0000</pubDate><guid>https://news.panz3r.dev/post/558ef6a699547bbf95283326836a0c9394271d4bf6a519e7a79e0941942332cb/</guid><description>
+Article URL: https://github.com/organicmaps/organicmaps
+Comments URL: https://news.ycombinator.com/item?id=27543012
+Points: 116
+# Comments: …</description></item><item><title>Six ways to make async Rust easier</title><link>https://news.panz3r.dev/post/c95988f97271934f2308698269a2b6c543714bcf3148bd05494c202a6404a3b9/</link><pubDate>Thu, 17 Jun 2021 18:03:19 +0000</pubDate><guid>https://news.panz3r.dev/post/c95988f97271934f2308698269a2b6c543714bcf3148bd05494c202a6404a3b9/</guid><description>
+Article URL: https://carllerche.com/2021/06/17/six-ways-to-make-async-rust-easier/
+Comments URL: …</description></item><item><title>The Hair Dryer Incident (2014)</title><link>https://news.panz3r.dev/post/fe5ea76a2236c8c1b64307f2a18f754d7f51cebef74dc81954ee4d5164af6d08/</link><pubDate>Thu, 17 Jun 2021 17:37:54 +0000</pubDate><guid>https://news.panz3r.dev/post/fe5ea76a2236c8c1b64307f2a18f754d7f51cebef74dc81954ee4d5164af6d08/</guid><description>
+Article URL: http://quotulatiousness.ca/blog/2016/02/02/qotd-the-hair-dryer-incident/
+Comments URL: …</description></item><item><title>Rethinking Triplebyte</title><link>https://news.panz3r.dev/post/87f7978d7c86b5b4e96a8cf66f8c249d790141f028a0cca879053b99911e7e94/</link><pubDate>Thu, 17 Jun 2021 16:49:54 +0000</pubDate><guid>https://news.panz3r.dev/post/87f7978d7c86b5b4e96a8cf66f8c249d790141f028a0cca879053b99911e7e94/</guid><description>
+Article URL: https://triplebyte.com/blog/rethinking-triplebyte
+Comments URL: https://news.ycombinator.com/item?id=27541676
+Points: 231
+# …</description></item><item><title>Amazon Appstore will reduce its developer revenue cut</title><link>https://news.panz3r.dev/post/75cb93e081242f7676588325762064fcaaa1f41459bc3a10f367213071549813/</link><pubDate>Thu, 17 Jun 2021 16:44:14 +0000</pubDate><guid>https://news.panz3r.dev/post/75cb93e081242f7676588325762064fcaaa1f41459bc3a10f367213071549813/</guid><description>
+Article URL: https://www.aftvnews.com/amazon-appstore-will-reduce-developer-revenue-cut-from-30-to-20-and-give-10-in-free-aws-credit/ …</description></item><item><title>I wrote a children's book / illustrated guide to Apache Kafka</title><link>https://news.panz3r.dev/post/73504d2e0847fd2dc9e8fb75638282bf1bd80c4d96eb9fe6acee3b4968703801/</link><pubDate>Thu, 17 Jun 2021 16:19:01 +0000</pubDate><guid>https://news.panz3r.dev/post/73504d2e0847fd2dc9e8fb75638282bf1bd80c4d96eb9fe6acee3b4968703801/</guid><description>
+Article URL: https://gentlydownthe.stream/
+Comments URL: https://news.ycombinator.com/item?id=27541339
+Points: 688
+# Comments: 120</description></item><item><title>Web Audio API Is a W3C Recommendation</title><link>https://news.panz3r.dev/post/88f7a4326cd608a71c23a45a5cd55f015e63fe37f4bb48b1f2e57b4d8161846a/</link><pubDate>Thu, 17 Jun 2021 16:10:38 +0000</pubDate><guid>https://news.panz3r.dev/post/88f7a4326cd608a71c23a45a5cd55f015e63fe37f4bb48b1f2e57b4d8161846a/</guid><description>
 Article URL: https://www.w3.org/blog/news/archives/9093
 Comments URL: https://news.ycombinator.com/item?id=27541213
 Points: 50
-# Comments: …</description></item><item><title>Io_uring is not an event system</title><link>https://news.panz3r.dev/post/c2937d35603e76e4678adf9e12bb85926decbf96df0f8ac29ca2d7d0672da2e1/</link><pubDate>Thu, 17 Jun 2021 14:56:43 +0000</pubDate><guid>https://news.panz3r.dev/post/c2937d35603e76e4678adf9e12bb85926decbf96df0f8ac29ca2d7d0672da2e1/</guid><description>
+# Comments: …</description></item><item><title>Exploring performance differences between Amazon Aurora and vanilla MySQL</title><link>https://news.panz3r.dev/post/3a83aca265799d712a8a2bb146a25bb35b9a2d8995bbd2530cca06c1658876fe/</link><pubDate>Thu, 17 Jun 2021 15:20:17 +0000</pubDate><guid>https://news.panz3r.dev/post/3a83aca265799d712a8a2bb146a25bb35b9a2d8995bbd2530cca06c1658876fe/</guid><description>
+Article URL: https://plaid.com/blog/exploring-performance-differences-between-amazon-aurora-and-vanilla-mysql
+Comments URL: …</description></item><item><title>How Notion pulled itself back from the brink of failure (2019)</title><link>https://news.panz3r.dev/post/5871bc44a014c07d9daf024c475fc9acde346411671cdeb0a2bb6f48dc8a7540/</link><pubDate>Thu, 17 Jun 2021 15:14:42 +0000</pubDate><guid>https://news.panz3r.dev/post/5871bc44a014c07d9daf024c475fc9acde346411671cdeb0a2bb6f48dc8a7540/</guid><description>
+Article URL: https://www.figma.com/blog/design-on-a-deadline-how-notion-pulled-itself-back-from-the-brink-of-failure/
+Comments URL: …</description></item><item><title>Io_uring is not an event system</title><link>https://news.panz3r.dev/post/c2937d35603e76e4678adf9e12bb85926decbf96df0f8ac29ca2d7d0672da2e1/</link><pubDate>Thu, 17 Jun 2021 14:56:43 +0000</pubDate><guid>https://news.panz3r.dev/post/c2937d35603e76e4678adf9e12bb85926decbf96df0f8ac29ca2d7d0672da2e1/</guid><description>
 Article URL: https://despairlabs.com/posts/2021-06-16-io-uring-is-not-an-event-system/
 Comments URL: …</description></item><item><title>Rust 1.53</title><link>https://news.panz3r.dev/post/3279d06bb37b50f1570b0e76bdc6e4a159f50d7f5067c85970f1a4e7913139d7/</link><pubDate>Thu, 17 Jun 2021 14:44:23 +0000</pubDate><guid>https://news.panz3r.dev/post/3279d06bb37b50f1570b0e76bdc6e4a159f50d7f5067c85970f1a4e7913139d7/</guid><description>
 Article URL: https://blog.rust-lang.org/2021/06/17/Rust-1.53.0.html
 Comments URL: https://news.ycombinator.com/item?id=27540117
-Points: 133 …</description></item><item><title>Nuclear energy: Fusion plant backed by Jeff Bezos to be built in UK</title><link>https://news.panz3r.dev/post/1e589508d873edc5fa9f88d78de1bc82b80c14f3cd4f8590b5ae142c9acb5d09/</link><pubDate>Thu, 17 Jun 2021 14:33:21 +0000</pubDate><guid>https://news.panz3r.dev/post/1e589508d873edc5fa9f88d78de1bc82b80c14f3cd4f8590b5ae142c9acb5d09/</guid><description>
+Points: 133 …</description></item><item><title>General Fusion to build demonstration plant in UK</title><link>https://news.panz3r.dev/post/1e589508d873edc5fa9f88d78de1bc82b80c14f3cd4f8590b5ae142c9acb5d09/</link><pubDate>Thu, 17 Jun 2021 14:33:21 +0000</pubDate><guid>https://news.panz3r.dev/post/1e589508d873edc5fa9f88d78de1bc82b80c14f3cd4f8590b5ae142c9acb5d09/</guid><description>
 Article URL: https://www.bbc.co.uk/news/science-environment-57512229
 Comments URL: https://news.ycombinator.com/item?id=27539987
-Points: 81 …</description></item><item><title>Cariboulabs/cariboulite – turn any 40-pin Raspberry-Pi into a Tx/Rx 6GHz SDR</title><link>https://news.panz3r.dev/post/ec73cac40ae624fb513c83e4070391cadfc18761dc05539521a4b2126be01f54/</link><pubDate>Thu, 17 Jun 2021 14:19:00 +0000</pubDate><guid>https://news.panz3r.dev/post/ec73cac40ae624fb513c83e4070391cadfc18761dc05539521a4b2126be01f54/</guid><description>
+Points: 107 …</description></item><item><title>CaribouLite: Turn any 40-pin Raspberry-Pi into a Tx/Rx 6GHz SDR</title><link>https://news.panz3r.dev/post/ec73cac40ae624fb513c83e4070391cadfc18761dc05539521a4b2126be01f54/</link><pubDate>Thu, 17 Jun 2021 14:19:00 +0000</pubDate><guid>https://news.panz3r.dev/post/ec73cac40ae624fb513c83e4070391cadfc18761dc05539521a4b2126be01f54/</guid><description>
 Article URL: https://github.com/cariboulabs/cariboulite
 Comments URL: https://news.ycombinator.com/item?id=27539834
-Points: 94
+Points: 169
 # Comments: …</description></item><item><title>The collapse of the IRON stable coin</title><link>https://news.panz3r.dev/post/9e5380a7e981b6e7ba3e09268335645d5d2df1144bab5ae027b3661d4b1ed817/</link><pubDate>Thu, 17 Jun 2021 13:31:40 +0000</pubDate><guid>https://news.panz3r.dev/post/9e5380a7e981b6e7ba3e09268335645d5d2df1144bab5ae027b3661d4b1ed817/</guid><description>
 Article URL: https://irony-97882.medium.com/the-melting-of-iron-89469b01e083
 Comments URL: https://news.ycombinator.com/item?id=27539368 …</description></item><item><title>How to Become a Bad Developer</title><link>https://news.panz3r.dev/post/568c2ea06a2d1c86bddda15955cce3557798d1e495ac18109b79050c72190793/</link><pubDate>Thu, 17 Jun 2021 13:29:26 +0000</pubDate><guid>https://news.panz3r.dev/post/568c2ea06a2d1c86bddda15955cce3557798d1e495ac18109b79050c72190793/</guid><description>
@@ -22,28 +45,30 @@ Article URL: https://rafaelquintanilha.com/how-to-become-a-bad-developer/
 Comments URL: https://news.ycombinator.com/item?id=27539342 …</description></item><item><title>In Argentina, cheap government-issued netbooks sparked a musical Renaissance</title><link>https://news.panz3r.dev/post/0a420a901ae8c1c996694cd3ffa6418eee6244df7ad722869205134328483dfb/</link><pubDate>Thu, 17 Jun 2021 13:14:24 +0000</pubDate><guid>https://news.panz3r.dev/post/0a420a901ae8c1c996694cd3ffa6418eee6244df7ad722869205134328483dfb/</guid><description>
 Article URL: https://restofworld.org/2021/argentina-netbooks-music/
 Comments URL: https://news.ycombinator.com/item?id=27539219
-Points: 115 …</description></item><item><title>Start Your Own ISP</title><link>https://news.panz3r.dev/post/227f0af08514b53be77a84c5f66f72d33faff0c833bd43eca15087ae5a1a4c3b/</link><pubDate>Thu, 17 Jun 2021 13:07:46 +0000</pubDate><guid>https://news.panz3r.dev/post/227f0af08514b53be77a84c5f66f72d33faff0c833bd43eca15087ae5a1a4c3b/</guid><description>
+Points: 201 …</description></item><item><title>Start Your Own ISP</title><link>https://news.panz3r.dev/post/227f0af08514b53be77a84c5f66f72d33faff0c833bd43eca15087ae5a1a4c3b/</link><pubDate>Thu, 17 Jun 2021 13:07:46 +0000</pubDate><guid>https://news.panz3r.dev/post/227f0af08514b53be77a84c5f66f72d33faff0c833bd43eca15087ae5a1a4c3b/</guid><description>
 Article URL: https://startyourownisp.com/
 Comments URL: https://news.ycombinator.com/item?id=27539165
-Points: 197
-# Comments: 66</description></item><item><title>V0.16 – Gleam Compiles to JavaScript</title><link>https://news.panz3r.dev/post/40f97508022dcc3fc5b3b17ca5f71b85676b2ac8f519000ab654b53689e0aa6d/</link><pubDate>Thu, 17 Jun 2021 12:38:59 +0000</pubDate><guid>https://news.panz3r.dev/post/40f97508022dcc3fc5b3b17ca5f71b85676b2ac8f519000ab654b53689e0aa6d/</guid><description>
+Points: 381
+# Comments: 106</description></item><item><title>V0.16 – Gleam Compiles to JavaScript</title><link>https://news.panz3r.dev/post/40f97508022dcc3fc5b3b17ca5f71b85676b2ac8f519000ab654b53689e0aa6d/</link><pubDate>Thu, 17 Jun 2021 12:38:59 +0000</pubDate><guid>https://news.panz3r.dev/post/40f97508022dcc3fc5b3b17ca5f71b85676b2ac8f519000ab654b53689e0aa6d/</guid><description>
 Article URL: https://gleam.run/news/v0.16-gleam-compiles-to-javascript/
 Comments URL: https://news.ycombinator.com/item?id=27538919
 Points: …</description></item><item><title>Ohio Republicans close to imposing near-total ban on municipal broadband</title><link>https://news.panz3r.dev/post/c910c86bcde0aea3a09eb65b9178e3cd6611a9479df0bb4aed208c1d7eb5ed4c/</link><pubDate>Thu, 17 Jun 2021 12:21:14 +0000</pubDate><guid>https://news.panz3r.dev/post/c910c86bcde0aea3a09eb65b9178e3cd6611a9479df0bb4aed208c1d7eb5ed4c/</guid><description>
 Article URL: https://arstechnica.com/tech-policy/2021/06/ohio-republicans-close-to-imposing-near-total-ban-on-municipal-broadband/
-Comments …</description></item><item><title>The evolution of Smalltalk: from Smalltalk-72 through Squeak (2020)</title><link>https://news.panz3r.dev/post/e13ab0386efe2ca19df72e1362d81f9b1b6256e7efe0df6198c5106a56c3b204/</link><pubDate>Thu, 17 Jun 2021 09:54:01 +0000</pubDate><guid>https://news.panz3r.dev/post/e13ab0386efe2ca19df72e1362d81f9b1b6256e7efe0df6198c5106a56c3b204/</guid><description>
+Comments …</description></item><item><title>Syria’s exam-related Internet shutdowns</title><link>https://news.panz3r.dev/post/039d9a712ac1475f151484f9385c1e076de5d62d9797a833cc8e69c75d4b9928/</link><pubDate>Thu, 17 Jun 2021 11:27:39 +0000</pubDate><guid>https://news.panz3r.dev/post/039d9a712ac1475f151484f9385c1e076de5d62d9797a833cc8e69c75d4b9928/</guid><description>
+Article URL: https://blog.cloudflare.com/syria-exam-related-internet-shutdowns/
+Comments URL: https://news.ycombinator.com/item?id=27538443 …</description></item><item><title>The evolution of Smalltalk: from Smalltalk-72 through Squeak (2020)</title><link>https://news.panz3r.dev/post/e13ab0386efe2ca19df72e1362d81f9b1b6256e7efe0df6198c5106a56c3b204/</link><pubDate>Thu, 17 Jun 2021 09:54:01 +0000</pubDate><guid>https://news.panz3r.dev/post/e13ab0386efe2ca19df72e1362d81f9b1b6256e7efe0df6198c5106a56c3b204/</guid><description>
 Article URL: https://dl.acm.org/doi/10.1145/3386335
 Comments URL: https://news.ycombinator.com/item?id=27537913
 Points: 108
 # Comments: 35</description></item><item><title>Cool URIs don't change (1998)</title><link>https://news.panz3r.dev/post/518715620b55fbe018f6a0f889f2ea34ebb56f031b13592e8c538de63f9a4ece/</link><pubDate>Thu, 17 Jun 2021 09:42:53 +0000</pubDate><guid>https://news.panz3r.dev/post/518715620b55fbe018f6a0f889f2ea34ebb56f031b13592e8c538de63f9a4ece/</guid><description>
 Article URL: https://www.w3.org/Provider/Style/URI.html
 Comments URL: https://news.ycombinator.com/item?id=27537840
-Points: 236
+Points: 278
 # Comments: …</description></item><item><title>Nuitka: a Python compiler written in Python</title><link>https://news.panz3r.dev/post/8bc84782ddabf73e5ff3bd5d352f1c84fc7f132e5310f1b25533f0de7a1de0ff/</link><pubDate>Thu, 17 Jun 2021 09:37:42 +0000</pubDate><guid>https://news.panz3r.dev/post/8bc84782ddabf73e5ff3bd5d352f1c84fc7f132e5310f1b25533f0de7a1de0ff/</guid><description>
 Article URL: https://github.com/Nuitka/Nuitka
 Comments URL: https://news.ycombinator.com/item?id=27537819
-Points: 379
-# Comments: 136</description></item><item><title>How to Write a Programming Book</title><link>https://news.panz3r.dev/post/239d677586d7ed262ea7440e52aea28d0e33b597b4e478cd8f29c299ae5c67b0/</link><pubDate>Thu, 17 Jun 2021 09:13:35 +0000</pubDate><guid>https://news.panz3r.dev/post/239d677586d7ed262ea7440e52aea28d0e33b597b4e478cd8f29c299ae5c67b0/</guid><description>
+Points: 439
+# Comments: 161</description></item><item><title>How to Write a Programming Book</title><link>https://news.panz3r.dev/post/239d677586d7ed262ea7440e52aea28d0e33b597b4e478cd8f29c299ae5c67b0/</link><pubDate>Thu, 17 Jun 2021 09:13:35 +0000</pubDate><guid>https://news.panz3r.dev/post/239d677586d7ed262ea7440e52aea28d0e33b597b4e478cd8f29c299ae5c67b0/</guid><description>
 Article URL: https://cscalfani.medium.com/how-to-write-a-programming-book-76ab4f8a7071
 Comments URL: …</description></item><item><title>Wasmer 2.0</title><link>https://news.panz3r.dev/post/45f90e08ea8030d9a5017ae0779020d22f3da21ddc69c08365ad55056115889c/</link><pubDate>Thu, 17 Jun 2021 09:02:17 +0000</pubDate><guid>https://news.panz3r.dev/post/45f90e08ea8030d9a5017ae0779020d22f3da21ddc69c08365ad55056115889c/</guid><description>
 Article URL: https://wasmer.io/posts/wasmer-2.0
@@ -87,7 +112,9 @@ Comments URL: …</description></item><item><title>4-day workweek boosted worker
 Article URL: https://www.npr.org/2019/11/04/776163853/microsoft-japan-says-4-day-workweek-boosted-workers-productivity-by-40
 Comments URL: …</description></item><item><title>The most copied StackOverflow snippet of all time is flawed (2019)</title><link>https://news.panz3r.dev/post/176737a083ee67e81825c4704acdf971f076fae1463a8bd872c5455299c3f925/</link><pubDate>Wed, 16 Jun 2021 21:27:44 +0000</pubDate><guid>https://news.panz3r.dev/post/176737a083ee67e81825c4704acdf971f076fae1463a8bd872c5455299c3f925/</guid><description>
 Article URL: https://programming.guide/worlds-most-copied-so-snippet.html
-Comments URL: https://news.ycombinator.com/item?id=27533684 …</description></item><item><title>Today we’re eating the winners of the 1948 Chicken of Tomorrow contest</title><link>https://news.panz3r.dev/post/e56031aece12961552094b804c89c0e132485dc854766cfd855c69005ef128a7/</link><pubDate>Wed, 16 Jun 2021 20:35:37 +0000</pubDate><guid>https://news.panz3r.dev/post/e56031aece12961552094b804c89c0e132485dc854766cfd855c69005ef128a7/</guid><description>
+Comments URL: https://news.ycombinator.com/item?id=27533684 …</description></item><item><title>Remembering the time it rained 6k pounds of marijuana on Yosemite (2019)</title><link>https://news.panz3r.dev/post/b80daf6e0c01f9ff54f97bf8effee6b3f2abfb1e2b860c3d156b60ecb45c865d/</link><pubDate>Wed, 16 Jun 2021 21:08:12 +0000</pubDate><guid>https://news.panz3r.dev/post/b80daf6e0c01f9ff54f97bf8effee6b3f2abfb1e2b860c3d156b60ecb45c865d/</guid><description>
+Article URL: https://activenorcal.com/remembering-the-time-it-rained-6000-pounds-of-marijuana-on-yosemite/
+Comments URL: …</description></item><item><title>Today we’re eating the winners of the 1948 Chicken of Tomorrow contest</title><link>https://news.panz3r.dev/post/e56031aece12961552094b804c89c0e132485dc854766cfd855c69005ef128a7/</link><pubDate>Wed, 16 Jun 2021 20:35:37 +0000</pubDate><guid>https://news.panz3r.dev/post/e56031aece12961552094b804c89c0e132485dc854766cfd855c69005ef128a7/</guid><description>
 Article URL: https://modernfarmer.com/2014/05/today-eating-winners-1948-chicken-tomorrow-contest/
 Comments URL: …</description></item><item><title>Facebook will start putting ads in Oculus Quest apps</title><link>https://news.panz3r.dev/post/ccd5612f5fa6bfaa67b055a8fae1c34eb19b7908b2965f8fda491e25c785ca2b/</link><pubDate>Wed, 16 Jun 2021 19:08:42 +0000</pubDate><guid>https://news.panz3r.dev/post/ccd5612f5fa6bfaa67b055a8fae1c34eb19b7908b2965f8fda491e25c785ca2b/</guid><description>
 Article URL: https://www.theverge.com/2021/6/16/22535511/facebook-ads-oculus-quest-vr-apps
@@ -505,25 +532,4 @@ Article URL: https://www.economist.com/international/2021/06/12/social-media-are
 Article URL: https://github.com/dtinth/comic-mono-font
 Comments URL: https://news.ycombinator.com/item?id=27488524
 Points: 95
-# Comments: 40 …</description></item><item><title>Programmer's Resignation from 1985</title><link>https://news.panz3r.dev/post/254e69c3cb918365a28fca2fa0a78aca18658d93044f0b014c70153312903072/</link><pubDate>Sat, 12 Jun 2021 23:12:17 +0000</pubDate><guid>https://news.panz3r.dev/post/254e69c3cb918365a28fca2fa0a78aca18658d93044f0b014c70153312903072/</guid><description>
-Article URL: https://pastes.glitchwrks.com/L88HFhJs
-Comments URL: https://news.ycombinator.com/item?id=27488224
-Points: 187
-# Comments: 57</description></item><item><title>The code on the laptop in the stock photo at developer.bbc.com is user-editable</title><link>https://news.panz3r.dev/post/a868de45bb28415f765c94966f81e66bc3783e38e24a32a5fe030868c7043464/</link><pubDate>Sat, 12 Jun 2021 22:33:26 +0000</pubDate><guid>https://news.panz3r.dev/post/a868de45bb28415f765c94966f81e66bc3783e38e24a32a5fe030868c7043464/</guid><description>
-Article URL: https://twitter.com/Andrew_Taylor/status/1403709080737390592
-Comments URL: https://news.ycombinator.com/item?id=27487958 …</description></item><item><title>A few thoughts on Fuchsia security</title><link>https://news.panz3r.dev/post/21490acf66b7332f05193487dc0daf1ae8594398f644d96eec02062570afd73a/</link><pubDate>Sat, 12 Jun 2021 21:11:49 +0000</pubDate><guid>https://news.panz3r.dev/post/21490acf66b7332f05193487dc0daf1ae8594398f644d96eec02062570afd73a/</guid><description>
-Article URL: https://blog.cr0.org/2021/06/a-few-thoughts-on-fuchsia-security.html
-Comments URL: …</description></item><item><title>Elevator Saga – An elevator programming game</title><link>https://news.panz3r.dev/post/91a3252bbeade9a5d091e49fa8604e7db2b9a2746c2f24764605f8d01055f9a0/</link><pubDate>Sat, 12 Jun 2021 20:08:05 +0000</pubDate><guid>https://news.panz3r.dev/post/91a3252bbeade9a5d091e49fa8604e7db2b9a2746c2f24764605f8d01055f9a0/</guid><description>
-Article URL: https://play.elevatorsaga.com/
-Comments URL: https://news.ycombinator.com/item?id=27487111
-Points: 248
-# Comments: 87</description></item><item><title>Python is 1.3x faster by just adjusting some compiling options for libpython</title><link>https://news.panz3r.dev/post/7d84d7577979c14838944998921d127bc89b1b6a48869ccee9dbaa934afab9cd/</link><pubDate>Sat, 12 Jun 2021 19:52:10 +0000</pubDate><guid>https://news.panz3r.dev/post/7d84d7577979c14838944998921d127bc89b1b6a48869ccee9dbaa934afab9cd/</guid><description>
-Article URL: https://www.facebook.com/dan.colascione/posts/10107358290728348
-Comments URL: https://news.ycombinator.com/item?id=27487028 …</description></item><item><title>Supernumerary Robotic Limbs</title><link>https://news.panz3r.dev/post/49e090a8569e70172ca01cc9ddd8f2b53d2f93c3ac73dee7ee96f673a7b3b90c/</link><pubDate>Sat, 12 Jun 2021 19:23:52 +0000</pubDate><guid>https://news.panz3r.dev/post/49e090a8569e70172ca01cc9ddd8f2b53d2f93c3ac73dee7ee96f673a7b3b90c/</guid><description>
-Article URL: http://darbelofflab.mit.edu/robotics-research/supernumerary-robotic-limbs-srl/
-Comments URL: …</description></item><item><title>The Fixed Point: Laziness, Recursion and Fixed Points in Haskell</title><link>https://news.panz3r.dev/post/419a0dc00786687a8a3a9365f2f1b59264560235d8bdfe81ebfaced744e144bd/</link><pubDate>Sat, 12 Jun 2021 19:19:45 +0000</pubDate><guid>https://news.panz3r.dev/post/419a0dc00786687a8a3a9365f2f1b59264560235d8bdfe81ebfaced744e144bd/</guid><description>
-Article URL: https://rebeccaskinner.net/posts/2021-06-09-getting-to-the-fixed-point.html
-Comments URL: …</description></item><item><title>Procedural Butterfly</title><link>https://news.panz3r.dev/post/18e3a77cfdd83c54c421cd53c101565df0d7cc8cabb9864f932bdc9ded1d3e85/</link><pubDate>Sat, 12 Jun 2021 19:04:49 +0000</pubDate><guid>https://news.panz3r.dev/post/18e3a77cfdd83c54c421cd53c101565df0d7cc8cabb9864f932bdc9ded1d3e85/</guid><description>
-Article URL: https://andersource.dev/2020/10/10/procedural-butterfly.html#1621896297080
-Comments URL: …</description></item><item><title>VW says data breach at vendor impacted 3.3M people in North America</title><link>https://news.panz3r.dev/post/05b26a98745788842d82f0b92bc5211e69c95acb9f1a2065f7eba6599af4c094/</link><pubDate>Sat, 12 Jun 2021 18:15:10 +0000</pubDate><guid>https://news.panz3r.dev/post/05b26a98745788842d82f0b92bc5211e69c95acb9f1a2065f7eba6599af4c094/</guid><description>
-Article URL: …</description></item></channel></rss>
+# Comments: 40 …</description></item></channel></rss>

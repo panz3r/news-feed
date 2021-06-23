@@ -1,22 +1,53 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hacker-News-Frontpage on Panz3r News</title><link>https://news.panz3r.dev/tags/hacker-news-frontpage/</link><description>Recent content in Hacker-News-Frontpage on news.panz3r.dev</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Panz3r 2021 | Vitae theme for Hugo</copyright><lastBuildDate>Wed, 23 Jun 2021 16:04:42 +0000</lastBuildDate><atom:link href="https://news.panz3r.dev/tags/hacker-news-frontpage/index.xml" rel="self" type="application/rss+xml"/><item><title>Show HN: iPod.js – An online iPod that connects to Spotify and Apple Music</title><link>https://news.panz3r.dev/post/13d8d08e9efbb8f885ee3de6422e6342dbbd4db1e5817108880eb27b9834443c/</link><pubDate>Wed, 23 Jun 2021 16:04:42 +0000</pubDate><guid>https://news.panz3r.dev/post/13d8d08e9efbb8f885ee3de6422e6342dbbd4db1e5817108880eb27b9834443c/</guid><description>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hacker-News-Frontpage on Panz3r News</title><link>https://news.panz3r.dev/tags/hacker-news-frontpage/</link><description>Recent content in Hacker-News-Frontpage on news.panz3r.dev</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Panz3r 2021 | Vitae theme for Hugo</copyright><lastBuildDate>Wed, 23 Jun 2021 21:09:40 +0000</lastBuildDate><atom:link href="https://news.panz3r.dev/tags/hacker-news-frontpage/index.xml" rel="self" type="application/rss+xml"/><item><title>YouTube: “Older Unlisted videos will be made Private unless you opt out”</title><link>https://news.panz3r.dev/post/a2d857045a46f096941be0554fb511e8bb1596c3da42e1dc1710af9c482250fe/</link><pubDate>Wed, 23 Jun 2021 21:09:40 +0000</pubDate><guid>https://news.panz3r.dev/post/a2d857045a46f096941be0554fb511e8bb1596c3da42e1dc1710af9c482250fe/</guid><description>
+Article URL: https://support.google.com/youtube/answer/9230970
+Comments URL: https://news.ycombinator.com/item?id=27610409
+Points: 116
+# …</description></item><item><title>Scientist finds early virus sequences that had been mysteriously deleted</title><link>https://news.panz3r.dev/post/182ae5f3bb0e7395a4e621fa5ba0fee52467d56c0371a6ed1800d238fded6c23/</link><pubDate>Wed, 23 Jun 2021 20:32:00 +0000</pubDate><guid>https://news.panz3r.dev/post/182ae5f3bb0e7395a4e621fa5ba0fee52467d56c0371a6ed1800d238fded6c23/</guid><description>
+Article URL: https://www.nytimes.com/2021/06/23/science/coronavirus-sequences.html
+Comments URL: …</description></item><item><title>John McAfee found dead in Spanish jail after court approves extradition to US</title><link>https://news.panz3r.dev/post/3cea0c355216eecdb36215a59448351e3ef979b6be498d41a0adb231731aa61d/</link><pubDate>Wed, 23 Jun 2021 19:36:59 +0000</pubDate><guid>https://news.panz3r.dev/post/3cea0c355216eecdb36215a59448351e3ef979b6be498d41a0adb231731aa61d/</guid><description>
+Article URL: https://www.bbc.com/news/world-europe-57589822
+Comments URL: https://news.ycombinator.com/item?id=27609027
+Points: 1177
+# …</description></item><item><title>NEORV32: A customizable RISC-V SoC</title><link>https://news.panz3r.dev/post/58d84a6b337cdcd9824543d29299b2a129db3ca6f01c0ba731253c61b3e60ee6/</link><pubDate>Wed, 23 Jun 2021 17:21:56 +0000</pubDate><guid>https://news.panz3r.dev/post/58d84a6b337cdcd9824543d29299b2a129db3ca6f01c0ba731253c61b3e60ee6/</guid><description>
+Article URL: https://blog.adafruit.com/2021/06/23/neorv32-a-customizable-risc-v-soc-riscv-fpga/
+Comments URL: …</description></item><item><title>New GitHub Issues Beta</title><link>https://news.panz3r.dev/post/9ae56465e4686e4fddf1b89b54f7d19d759e7005366105756c24cff946293b17/</link><pubDate>Wed, 23 Jun 2021 16:50:27 +0000</pubDate><guid>https://news.panz3r.dev/post/9ae56465e4686e4fddf1b89b54f7d19d759e7005366105756c24cff946293b17/</guid><description>
+Article URL: https://github.com/features/issues
+Comments URL: https://news.ycombinator.com/item?id=27606657
+Points: 365
+# Comments: 161</description></item><item><title>Show HN: Fuzzynote – terminal-based, CRDT-backed, collaborative note-taking</title><link>https://news.panz3r.dev/post/4bc65864dce8c08f1493e29c981401b92e4d6294042614deba498988ee52ce15/</link><pubDate>Wed, 23 Jun 2021 16:46:30 +0000</pubDate><guid>https://news.panz3r.dev/post/4bc65864dce8c08f1493e29c981401b92e4d6294042614deba498988ee52ce15/</guid><description>
+Article URL: https://github.com/Sambigeara/fuzzynote
+Comments URL: https://news.ycombinator.com/item?id=27606604
+Points: 74
+# Comments: 18</description></item><item><title>Alias-Free GAN</title><link>https://news.panz3r.dev/post/3e13037b59917e69ec8199377b418ea73afb8294cf0f330c64704fc0dfbc8e1a/</link><pubDate>Wed, 23 Jun 2021 16:26:36 +0000</pubDate><guid>https://news.panz3r.dev/post/3e13037b59917e69ec8199377b418ea73afb8294cf0f330c64704fc0dfbc8e1a/</guid><description>
+Article URL: https://nvlabs.github.io/alias-free-gan/
+Comments URL: https://news.ycombinator.com/item?id=27606347
+Points: 253
+# Comments: 40 …</description></item><item><title>Show HN: iPod.js – An online iPod that connects to Spotify and Apple Music</title><link>https://news.panz3r.dev/post/13d8d08e9efbb8f885ee3de6422e6342dbbd4db1e5817108880eb27b9834443c/</link><pubDate>Wed, 23 Jun 2021 16:04:42 +0000</pubDate><guid>https://news.panz3r.dev/post/13d8d08e9efbb8f885ee3de6422e6342dbbd4db1e5817108880eb27b9834443c/</guid><description>
 Article URL: https://tannerv.com/ipod
 Comments URL: https://news.ycombinator.com/item?id=27606099
-Points: 149
-# Comments: 19</description></item><item><title>Librem 5 Evergreen vs. PinePhone (Part 2)</title><link>https://news.panz3r.dev/post/2dbd3429440227bd48c4ec9680405b56016f50ce4119104fd52b40364f6ba4ce/</link><pubDate>Wed, 23 Jun 2021 15:35:13 +0000</pubDate><guid>https://news.panz3r.dev/post/2dbd3429440227bd48c4ec9680405b56016f50ce4119104fd52b40364f6ba4ce/</guid><description>
+Points: 565
+# Comments: 106</description></item><item><title>The Prosperous Software Consultant (2018)</title><link>https://news.panz3r.dev/post/228312c6db27b7a43215029989aa221f5316506276cbfe165f2e3608b275a2cc/</link><pubDate>Wed, 23 Jun 2021 15:44:22 +0000</pubDate><guid>https://news.panz3r.dev/post/228312c6db27b7a43215029989aa221f5316506276cbfe165f2e3608b275a2cc/</guid><description>
+Article URL: https://dabit3.medium.com/the-prosperous-software-consultant-5dc8d705c5dd
+Comments URL: …</description></item><item><title>Librem 5 Evergreen vs. PinePhone (Part 2)</title><link>https://news.panz3r.dev/post/2dbd3429440227bd48c4ec9680405b56016f50ce4119104fd52b40364f6ba4ce/</link><pubDate>Wed, 23 Jun 2021 15:35:13 +0000</pubDate><guid>https://news.panz3r.dev/post/2dbd3429440227bd48c4ec9680405b56016f50ce4119104fd52b40364f6ba4ce/</guid><description>
 Article URL: https://thatgeoguy.ca/blog/2021/06/22/Librem-5-Evergreen-vs-Pinephone/
-Comments URL: …</description></item><item><title>Maplibre.org Open Maps SDKs for web and mobile: community driven Mapbox GL fork</title><link>https://news.panz3r.dev/post/54813e329f9b95777ffebcf8670d6234a725f496636b2f36683b8cda208a8245/</link><pubDate>Wed, 23 Jun 2021 15:30:09 +0000</pubDate><guid>https://news.panz3r.dev/post/54813e329f9b95777ffebcf8670d6234a725f496636b2f36683b8cda208a8245/</guid><description>
+Comments URL: …</description></item><item><title>Maplibre: community-driven Mapbox GL fork</title><link>https://news.panz3r.dev/post/54813e329f9b95777ffebcf8670d6234a725f496636b2f36683b8cda208a8245/</link><pubDate>Wed, 23 Jun 2021 15:30:09 +0000</pubDate><guid>https://news.panz3r.dev/post/54813e329f9b95777ffebcf8670d6234a725f496636b2f36683b8cda208a8245/</guid><description>
 Article URL: https://maplibre.org/
 Comments URL: https://news.ycombinator.com/item?id=27605656
-Points: 96
-# Comments: 15</description></item><item><title>New Elixir 1.12 – The developer’s point of view</title><link>https://news.panz3r.dev/post/6b09557f22ff06d387f86ae579b1f1909ce1651c6d62e9008297576895c9fa7d/</link><pubDate>Wed, 23 Jun 2021 14:52:53 +0000</pubDate><guid>https://news.panz3r.dev/post/6b09557f22ff06d387f86ae579b1f1909ce1651c6d62e9008297576895c9fa7d/</guid><description>
+Points: 243
+# Comments: 60</description></item><item><title>New Elixir 1.12 – The developer’s point of view</title><link>https://news.panz3r.dev/post/6b09557f22ff06d387f86ae579b1f1909ce1651c6d62e9008297576895c9fa7d/</link><pubDate>Wed, 23 Jun 2021 14:52:53 +0000</pubDate><guid>https://news.panz3r.dev/post/6b09557f22ff06d387f86ae579b1f1909ce1651c6d62e9008297576895c9fa7d/</guid><description>
 Article URL: https://bartoszgorka.com/elixir-1-12-released
 Comments URL: https://news.ycombinator.com/item?id=27605215
 Points: 116
-# …</description></item><item><title>Costa Rica Has Run on 100% Renewable Electricity for 299 Days</title><link>https://news.panz3r.dev/post/d7fa49c903b4d85c7648c4c4e9d3a653e91cc47536e5357e844a951cfeac0cba/</link><pubDate>Wed, 23 Jun 2021 14:16:54 +0000</pubDate><guid>https://news.panz3r.dev/post/d7fa49c903b4d85c7648c4c4e9d3a653e91cc47536e5357e844a951cfeac0cba/</guid><description>
+# …</description></item><item><title>Django for Startup Founders: A better software architecture for SaaS startups</title><link>https://news.panz3r.dev/post/2dade282a9a424aa62cd2b6014aa68153aa3fae1a13e26aa452944c18d9191e7/</link><pubDate>Wed, 23 Jun 2021 14:38:23 +0000</pubDate><guid>https://news.panz3r.dev/post/2dade282a9a424aa62cd2b6014aa68153aa3fae1a13e26aa452944c18d9191e7/</guid><description>
+Article URL: …</description></item><item><title>Costa Rica Has Run on 100% Renewable Electricity for 299 Days</title><link>https://news.panz3r.dev/post/d7fa49c903b4d85c7648c4c4e9d3a653e91cc47536e5357e844a951cfeac0cba/</link><pubDate>Wed, 23 Jun 2021 14:16:54 +0000</pubDate><guid>https://news.panz3r.dev/post/d7fa49c903b4d85c7648c4c4e9d3a653e91cc47536e5357e844a951cfeac0cba/</guid><description>
 Article URL: https://www.under30experiences.com/blog/costa-rica-has-run-on-100-renewable-energy-for-299-days
+Comments URL: …</description></item><item><title>Arm Introduces Its Confidential Compute Architecture</title><link>https://news.panz3r.dev/post/5430efa0ca8a770f7674f09a248e52dafa546015ff31bbe9161d9cbc61419af3/</link><pubDate>Wed, 23 Jun 2021 14:10:21 +0000</pubDate><guid>https://news.panz3r.dev/post/5430efa0ca8a770f7674f09a248e52dafa546015ff31bbe9161d9cbc61419af3/</guid><description>
+Article URL: https://fuse.wikichip.org/news/5699/arm-introduces-its-confidential-compute-architecture/
 Comments URL: …</description></item><item><title>The ongoing witch-hunt for sex workers in Sweden</title><link>https://news.panz3r.dev/post/58357f2b0d94c9d5f8dd4b46fd7ae928999523f6cf9ed7f5916c03596a5bf8b1/</link><pubDate>Wed, 23 Jun 2021 13:48:44 +0000</pubDate><guid>https://news.panz3r.dev/post/58357f2b0d94c9d5f8dd4b46fd7ae928999523f6cf9ed7f5916c03596a5bf8b1/</guid><description>
 Article URL: https://www.reddit.com/r/SexWorkers/comments/n11oqk/the_ongoing_witchhunt_for_fssw_in_sweden_the/
-Comments URL: …</description></item><item><title>Is Education No Longer the ‘Great Equalizer’?</title><link>https://news.panz3r.dev/post/0bf50382278f9cac1c015680e13347b9ebbd05c351ef125df0d28156b6fe5d32/</link><pubDate>Wed, 23 Jun 2021 10:58:54 +0000</pubDate><guid>https://news.panz3r.dev/post/0bf50382278f9cac1c015680e13347b9ebbd05c351ef125df0d28156b6fe5d32/</guid><description>
+Comments URL: …</description></item><item><title>A backlash against gender ideology is starting in universities</title><link>https://news.panz3r.dev/post/93937097105c371ef1014a3b36aac4f88990b7edcf6a02a645c96e2ac26d04a1/</link><pubDate>Wed, 23 Jun 2021 12:51:56 +0000</pubDate><guid>https://news.panz3r.dev/post/93937097105c371ef1014a3b36aac4f88990b7edcf6a02a645c96e2ac26d04a1/</guid><description>
+Article URL: https://www.economist.com/international/2021/06/05/a-backlash-against-gender-ideology-is-starting-in-universities
+Comments URL: …</description></item><item><title>Is education no longer the ‘great equalizer’?</title><link>https://news.panz3r.dev/post/0bf50382278f9cac1c015680e13347b9ebbd05c351ef125df0d28156b6fe5d32/</link><pubDate>Wed, 23 Jun 2021 10:58:54 +0000</pubDate><guid>https://news.panz3r.dev/post/0bf50382278f9cac1c015680e13347b9ebbd05c351ef125df0d28156b6fe5d32/</guid><description>
 Article URL: https://www.nytimes.com/2021/06/23/opinion/education-poverty-intervention.html
 Comments URL: …</description></item><item><title>PipeWire Under the Hood</title><link>https://news.panz3r.dev/post/332fb28512f93b200cba2334edc0abcd05b2d9a2dd1a19313cc246cd94155608/</link><pubDate>Wed, 23 Jun 2021 09:54:26 +0000</pubDate><guid>https://news.panz3r.dev/post/332fb28512f93b200cba2334edc0abcd05b2d9a2dd1a19313cc246cd94155608/</guid><description>
 Article URL: https://venam.nixers.net/blog/unix/2021/06/23/pipewire-under-the-hood.html
@@ -24,15 +55,15 @@ Comments URL: …</description></item><item><title>Wikidata</title><link>https:/
 Article URL: https://www.wikidata.org/wiki/Wikidata:Introduction
 Comments URL: https://news.ycombinator.com/item?id=27602520
 Points: 57
-# …</description></item><item><title>Details of Yesterday's Bunny CDN Outage</title><link>https://news.panz3r.dev/post/b4279234ed4af4adf7624312de1d4b07e1a4e7dbcd64a36173c6c17c1daf22d3/</link><pubDate>Wed, 23 Jun 2021 09:05:59 +0000</pubDate><guid>https://news.panz3r.dev/post/b4279234ed4af4adf7624312de1d4b07e1a4e7dbcd64a36173c6c17c1daf22d3/</guid><description>
+# …</description></item><item><title>Details of yesterday's Bunny CDN outage</title><link>https://news.panz3r.dev/post/b4279234ed4af4adf7624312de1d4b07e1a4e7dbcd64a36173c6c17c1daf22d3/</link><pubDate>Wed, 23 Jun 2021 09:05:59 +0000</pubDate><guid>https://news.panz3r.dev/post/b4279234ed4af4adf7624312de1d4b07e1a4e7dbcd64a36173c6c17c1daf22d3/</guid><description>
 Article URL: https://bunny.net/blog/the-stack-overflow-of-death-dns-collapse/
-Comments URL: https://news.ycombinator.com/item?id=27602395 …</description></item><item><title>I made 56874 calls to explore the telephone network. Here’s what I found</title><link>https://news.panz3r.dev/post/64e4e237d84479667577fe56e8d105bcef48b33e4f5083f514b3bb62ed67d0fb/</link><pubDate>Wed, 23 Jun 2021 09:04:21 +0000</pubDate><guid>https://news.panz3r.dev/post/64e4e237d84479667577fe56e8d105bcef48b33e4f5083f514b3bb62ed67d0fb/</guid><description>
+Comments URL: https://news.ycombinator.com/item?id=27602395 …</description></item><item><title>I made 50k calls to explore the telephone network</title><link>https://news.panz3r.dev/post/64e4e237d84479667577fe56e8d105bcef48b33e4f5083f514b3bb62ed67d0fb/</link><pubDate>Wed, 23 Jun 2021 09:04:21 +0000</pubDate><guid>https://news.panz3r.dev/post/64e4e237d84479667577fe56e8d105bcef48b33e4f5083f514b3bb62ed67d0fb/</guid><description>
 Article URL: https://shufflingbytes.com/posts/wardialing-finnish-freephones/
 Comments URL: https://news.ycombinator.com/item?id=27602383 …</description></item><item><title>Plover is a free, open-source stenography engine</title><link>https://news.panz3r.dev/post/3df14e0018cf91752411e9410203198d7573c3b1196fc8ae755ce52f7c880e20/</link><pubDate>Wed, 23 Jun 2021 08:12:56 +0000</pubDate><guid>https://news.panz3r.dev/post/3df14e0018cf91752411e9410203198d7573c3b1196fc8ae755ce52f7c880e20/</guid><description>
 Article URL: https://www.openstenoproject.org/plover/
 Comments URL: https://news.ycombinator.com/item?id=27602077
-Points: 124
-# Comments: 95 …</description></item><item><title>The Rise of the $10M Disc Golf Celebrity</title><link>https://news.panz3r.dev/post/888d472ca576f9b3d98a74eaa7880619201ca7f5f40912721ff928a54455a8fa/</link><pubDate>Wed, 23 Jun 2021 01:35:23 +0000</pubDate><guid>https://news.panz3r.dev/post/888d472ca576f9b3d98a74eaa7880619201ca7f5f40912721ff928a54455a8fa/</guid><description>
+Points: 161
+# Comments: …</description></item><item><title>The Rise of the $10M Disc Golf Celebrity</title><link>https://news.panz3r.dev/post/888d472ca576f9b3d98a74eaa7880619201ca7f5f40912721ff928a54455a8fa/</link><pubDate>Wed, 23 Jun 2021 01:35:23 +0000</pubDate><guid>https://news.panz3r.dev/post/888d472ca576f9b3d98a74eaa7880619201ca7f5f40912721ff928a54455a8fa/</guid><description>
 Article URL: https://www.theringer.com/features/2021/6/21/22542839/disc-golf-niche-sports-million-dollar-endorsement-deals
 Comments URL: …</description></item><item><title>What Is Voter Satisfaction Efficiency?</title><link>https://news.panz3r.dev/post/0a3d2cdbdaa13a422adabc6e8577395d4cc8ee355777fed83749eb4733643128/</link><pubDate>Wed, 23 Jun 2021 01:29:48 +0000</pubDate><guid>https://news.panz3r.dev/post/0a3d2cdbdaa13a422adabc6e8577395d4cc8ee355777fed83749eb4733643128/</guid><description>
 Article URL: http://electionscience.github.io/vse-sim/VSE/
@@ -43,8 +74,8 @@ Article URL: https://www.nytimes.com/2021/06/22/us/politics/khashoggi-saudi-kill
 Comments URL: …</description></item><item><title>Show HN: Multiverse.plus – what if blogging was more collage-like and colorful?</title><link>https://news.panz3r.dev/post/e2b74af0e8c5decd26bb063463afed142527b8f6b5ea1ad3a8af93f3e429fde1/</link><pubDate>Wed, 23 Jun 2021 01:05:00 +0000</pubDate><guid>https://news.panz3r.dev/post/e2b74af0e8c5decd26bb063463afed142527b8f6b5ea1ad3a8af93f3e429fde1/</guid><description>
 Article URL: https://multiverse.plus/
 Comments URL: https://news.ycombinator.com/item?id=27599470
-Points: 120
-# Comments: 38</description></item><item><title>The Teamsters announce coordinated nationwide project to unionize Amazon</title><link>https://news.panz3r.dev/post/e8bdb27b46c1f9e56175d5cdd5cb29f98a3d309bf8546b9cf4a25bea6cbe056f/</link><pubDate>Wed, 23 Jun 2021 00:33:56 +0000</pubDate><guid>https://news.panz3r.dev/post/e8bdb27b46c1f9e56175d5cdd5cb29f98a3d309bf8546b9cf4a25bea6cbe056f/</guid><description>
+Points: 185
+# Comments: 54</description></item><item><title>The Teamsters announce coordinated nationwide project to unionize Amazon</title><link>https://news.panz3r.dev/post/e8bdb27b46c1f9e56175d5cdd5cb29f98a3d309bf8546b9cf4a25bea6cbe056f/</link><pubDate>Wed, 23 Jun 2021 00:33:56 +0000</pubDate><guid>https://news.panz3r.dev/post/e8bdb27b46c1f9e56175d5cdd5cb29f98a3d309bf8546b9cf4a25bea6cbe056f/</guid><description>
 Article URL: https://www.vice.com/en/article/akg7pp/the-teamsters-announce-coordinated-nationwide-project-to-unionize-amazon
 Comments URL: …</description></item><item><title>Learn C and build your own Lisp (2014)</title><link>https://news.panz3r.dev/post/b071182b2ed759eaf805964a11e080cd3efdf1ac5799503954385e37a20fb3f7/</link><pubDate>Tue, 22 Jun 2021 23:01:23 +0000</pubDate><guid>https://news.panz3r.dev/post/b071182b2ed759eaf805964a11e080cd3efdf1ac5799503954385e37a20fb3f7/</guid><description>
 Article URL: http://buildyourownlisp.com/
@@ -123,7 +154,9 @@ Points: 111
 Article URL: https://github.com/ruslashev/elfcat
 Comments URL: https://news.ycombinator.com/item?id=27590508
 Points: 169
-# Comments: 27</description></item><item><title>Attack Surface Analyzer helps you analyze your OS's security configuration</title><link>https://news.panz3r.dev/post/6e0d37522e2d72142535a23dc11f12958adf42575288733d06d05c62f72b1656/</link><pubDate>Tue, 22 Jun 2021 10:25:48 +0000</pubDate><guid>https://news.panz3r.dev/post/6e0d37522e2d72142535a23dc11f12958adf42575288733d06d05c62f72b1656/</guid><description>
+# Comments: 27</description></item><item><title>Secret Workings of Smell Receptors Revealed for First Time</title><link>https://news.panz3r.dev/post/0ef00db7d2d5675b648d41566a3c1fb70c8d1b0471e6cd69889a5fc7aea9fe46/</link><pubDate>Tue, 22 Jun 2021 10:30:43 +0000</pubDate><guid>https://news.panz3r.dev/post/0ef00db7d2d5675b648d41566a3c1fb70c8d1b0471e6cd69889a5fc7aea9fe46/</guid><description>
+Article URL: https://www.quantamagazine.org/secret-workings-of-smell-receptors-revealed-for-first-time-20210621/
+Comments URL: …</description></item><item><title>Attack Surface Analyzer helps you analyze your OS's security configuration</title><link>https://news.panz3r.dev/post/6e0d37522e2d72142535a23dc11f12958adf42575288733d06d05c62f72b1656/</link><pubDate>Tue, 22 Jun 2021 10:25:48 +0000</pubDate><guid>https://news.panz3r.dev/post/6e0d37522e2d72142535a23dc11f12958adf42575288733d06d05c62f72b1656/</guid><description>
 Article URL: https://github.com/Microsoft/AttackSurfaceAnalyzer
 Comments URL: https://news.ycombinator.com/item?id=27589916
 Points: 98
@@ -512,30 +545,4 @@ Comments URL: …</description></item><item><title>Show HN: Hacker News-ish stoc
 Article URL: https://steez.news
 Comments URL: https://news.ycombinator.com/item?id=27556061
 Points: 139
-# Comments: 54</description></item><item><title>BBC Programme Index: 9M listings and 221k playable programmes</title><link>https://news.panz3r.dev/post/8aaab96388430ec7467b824b4f7827e273b04745d12398b29f98d913bb828dc7/</link><pubDate>Fri, 18 Jun 2021 22:57:33 +0000</pubDate><guid>https://news.panz3r.dev/post/8aaab96388430ec7467b824b4f7827e273b04745d12398b29f98d913bb828dc7/</guid><description>
-Article URL: https://genome.ch.bbc.co.uk/
-Comments URL: https://news.ycombinator.com/item?id=27555918
-Points: 86
-# Comments: 54</description></item><item><title>SNES – Super Mario World Widescreen</title><link>https://news.panz3r.dev/post/d075270a3aabfc6e2718abb8bee3ba1d96d9bbc5710a87450457305ff11c516a/</link><pubDate>Fri, 18 Jun 2021 20:38:40 +0000</pubDate><guid>https://news.panz3r.dev/post/d075270a3aabfc6e2718abb8bee3ba1d96d9bbc5710a87450457305ff11c516a/</guid><description>
-Article URL: https://github.com/VitorVilela7/wide-snes
-Comments URL: https://news.ycombinator.com/item?id=27554765
-Points: 383
-# Comments: …</description></item><item><title>I know the secret to the quiet mind but wish I’d never learned it</title><link>https://news.panz3r.dev/post/6247ea096bd71e029adb2d6feb6a170342145b4fd6898f1cb0e68523f2964bff/</link><pubDate>Fri, 18 Jun 2021 20:31:59 +0000</pubDate><guid>https://news.panz3r.dev/post/6247ea096bd71e029adb2d6feb6a170342145b4fd6898f1cb0e68523f2964bff/</guid><description>
-Article URL: https://www.theatlantic.com/health/archive/2021/06/car-accident-brain-injury/619227/
-Comments URL: …</description></item><item><title>Verkle Trees</title><link>https://news.panz3r.dev/post/311790ddadd3022468be15aba7ea3034827d13fb70908bcce9637cc30f151d91/</link><pubDate>Fri, 18 Jun 2021 20:08:20 +0000</pubDate><guid>https://news.panz3r.dev/post/311790ddadd3022468be15aba7ea3034827d13fb70908bcce9637cc30f151d91/</guid><description>
-Article URL: https://vitalik.ca/general/2021/06/18/verkle.html
-Comments URL: https://news.ycombinator.com/item?id=27554404
-Points: 208
-# …</description></item><item><title>Can programming be liberated from the von Neumann style? (1978)</title><link>https://news.panz3r.dev/post/260e4bef5210f65ffd0691c0e11a1fdd70d350ebd7dd81e3fb8e9ae5a501cb14/</link><pubDate>Fri, 18 Jun 2021 20:03:41 +0000</pubDate><guid>https://news.panz3r.dev/post/260e4bef5210f65ffd0691c0e11a1fdd70d350ebd7dd81e3fb8e9ae5a501cb14/</guid><description>
-Article URL: https://dl.acm.org/doi/10.1145/359576.359579
-Comments URL: https://news.ycombinator.com/item?id=27554355
-Points: 151
-# …</description></item><item><title>It appears that Reddit is forcing me to use their app to see deep linked content</title><link>https://news.panz3r.dev/post/c8b4298df9a74a25cf21fa76abdf294e53e54d21ffaf7b1cceb1efec07e624e8/</link><pubDate>Fri, 18 Jun 2021 19:29:39 +0000</pubDate><guid>https://news.panz3r.dev/post/c8b4298df9a74a25cf21fa76abdf294e53e54d21ffaf7b1cceb1efec07e624e8/</guid><description>
-Article URL: https://twitter.com/stevenhubertron/status/1405956220976910339
-Comments URL: https://news.ycombinator.com/item?id=27553971 …</description></item><item><title>Mars helicopter employs advanced control techniques to survive in-flight anomaly</title><link>https://news.panz3r.dev/post/d9a0e90d59af1c295565f7c5d86f28e1954663531bd309b9cc0ce28f25e3aa41/</link><pubDate>Fri, 18 Jun 2021 19:03:35 +0000</pubDate><guid>https://news.panz3r.dev/post/d9a0e90d59af1c295565f7c5d86f28e1954663531bd309b9cc0ce28f25e3aa41/</guid><description>
-Article URL: https://control.com/news/mars-helicopter-employs-advanced-control-techniques-to-survive-an-in-flight-anomaly/
-Comments URL: …</description></item><item><title>AMD vs. Intel CPU Market Share</title><link>https://news.panz3r.dev/post/6c0d48c05d42cbefbaea8ddf496ac028db8e8a54b94bc3697c0253f11dbae737/</link><pubDate>Fri, 18 Jun 2021 18:39:16 +0000</pubDate><guid>https://news.panz3r.dev/post/6c0d48c05d42cbefbaea8ddf496ac028db8e8a54b94bc3697c0253f11dbae737/</guid><description>
-Article URL: https://www.cpubenchmark.net/market_share.html
-Comments URL: https://news.ycombinator.com/item?id=27553451
-Points: 138
-# …</description></item></channel></rss>
+# Comments: 54</description></item></channel></rss>

@@ -1,18 +1,38 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hacker-News-Frontpage on Panz3r News</title><link>https://news.panz3r.dev/tags/hacker-news-frontpage/</link><description>Recent content in Hacker-News-Frontpage on news.panz3r.dev</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Panz3r 2021 | Vitae theme for Hugo</copyright><lastBuildDate>Fri, 25 Jun 2021 02:40:53 +0000</lastBuildDate><atom:link href="https://news.panz3r.dev/tags/hacker-news-frontpage/index.xml" rel="self" type="application/rss+xml"/><item><title>Nvidia Canvas</title><link>https://news.panz3r.dev/post/c1600d3d2a40667d0e4ff21f61845096b893e328105d6335cfb2fd3f0dc3ac3b/</link><pubDate>Fri, 25 Jun 2021 02:40:53 +0000</pubDate><guid>https://news.panz3r.dev/post/c1600d3d2a40667d0e4ff21f61845096b893e328105d6335cfb2fd3f0dc3ac3b/</guid><description>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hacker-News-Frontpage on Panz3r News</title><link>https://news.panz3r.dev/tags/hacker-news-frontpage/</link><description>Recent content in Hacker-News-Frontpage on news.panz3r.dev</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Panz3r 2021 | Vitae theme for Hugo</copyright><lastBuildDate>Fri, 25 Jun 2021 09:35:52 +0000</lastBuildDate><atom:link href="https://news.panz3r.dev/tags/hacker-news-frontpage/index.xml" rel="self" type="application/rss+xml"/><item><title>Blood test that finds 50 types of cancer is accurate enough to be rolled out</title><link>https://news.panz3r.dev/post/8b46b92a7ab5f201cdefbd88180889bade9992574cf486b01e62fb2faa72124f/</link><pubDate>Fri, 25 Jun 2021 09:35:52 +0000</pubDate><guid>https://news.panz3r.dev/post/8b46b92a7ab5f201cdefbd88180889bade9992574cf486b01e62fb2faa72124f/</guid><description>
+Article URL: https://www.theguardian.com/society/2021/jun/25/blood-test-that-finds-50-types-of-cancer-is-accurate-enough-to-be-rolled-out …</description></item><item><title>Ask HN: Technical Summer Reading List</title><link>https://news.panz3r.dev/post/3a0591e56dbf5763c23a562314baa2f956db53f62cb8e8f38a7f1ef7fd3f3ba6/</link><pubDate>Fri, 25 Jun 2021 08:13:58 +0000</pubDate><guid>https://news.panz3r.dev/post/3a0591e56dbf5763c23a562314baa2f956db53f62cb8e8f38a7f1ef7fd3f3ba6/</guid><description>
+I usually enjoy reading something thick and technical during my summer vacation, to learn something new and not necessarily work-related. …</description></item><item><title>Open Source Farming Robot</title><link>https://news.panz3r.dev/post/278599da849a160bd7d2bcf0b56163b5119fbbfe1904b94c368988c1ef84885a/</link><pubDate>Fri, 25 Jun 2021 07:34:05 +0000</pubDate><guid>https://news.panz3r.dev/post/278599da849a160bd7d2bcf0b56163b5119fbbfe1904b94c368988c1ef84885a/</guid><description>
+Article URL: https://farm.bot/
+Comments URL: https://news.ycombinator.com/item?id=27628101
+Points: 65
+# Comments: 22</description></item><item><title>Lewis Carroll’s Illustrations for “Alice’s Adventures Under Ground” (1864)</title><link>https://news.panz3r.dev/post/a6d0ecea8513a7eb9e598185f5bbbc0086b98a79521e406edb6063810247c95a/</link><pubDate>Fri, 25 Jun 2021 05:54:28 +0000</pubDate><guid>https://news.panz3r.dev/post/a6d0ecea8513a7eb9e598185f5bbbc0086b98a79521e406edb6063810247c95a/</guid><description>
+Article URL: https://publicdomainreview.org/collection/carroll-illustrations-for-alice-undergound
+Comments URL: …</description></item><item><title>New type of ancient human discovered in Israel</title><link>https://news.panz3r.dev/post/5d1bf55427f82c8f597f3db5365d06447c7f34285dacc2138ad56ba8f43aa953/</link><pubDate>Fri, 25 Jun 2021 04:08:52 +0000</pubDate><guid>https://news.panz3r.dev/post/5d1bf55427f82c8f597f3db5365d06447c7f34285dacc2138ad56ba8f43aa953/</guid><description>
+Article URL: https://www.bbc.com/news/science-environment-57586315
+Comments URL: https://news.ycombinator.com/item?id=27627052
+Points: 52
+# …</description></item><item><title>Nvidia Canvas</title><link>https://news.panz3r.dev/post/c1600d3d2a40667d0e4ff21f61845096b893e328105d6335cfb2fd3f0dc3ac3b/</link><pubDate>Fri, 25 Jun 2021 02:40:53 +0000</pubDate><guid>https://news.panz3r.dev/post/c1600d3d2a40667d0e4ff21f61845096b893e328105d6335cfb2fd3f0dc3ac3b/</guid><description>
 Article URL: https://www.nvidia.com/en-gb/studio/canvas/
 Comments URL: https://news.ycombinator.com/item?id=27626610
-Points: 133
-# Comments: …</description></item><item><title>EvalAI: An Open-Source Alternative to Kaggle</title><link>https://news.panz3r.dev/post/077337519090d061ac34dbf5f95f5e62b28ab8dd010bbeb680e772c3609e9951/</link><pubDate>Fri, 25 Jun 2021 00:03:57 +0000</pubDate><guid>https://news.panz3r.dev/post/077337519090d061ac34dbf5f95f5e62b28ab8dd010bbeb680e772c3609e9951/</guid><description>
+Points: 315
+# Comments: …</description></item><item><title>OpenTrees: A data visualisation of publicly maintained trees around the world</title><link>https://news.panz3r.dev/post/a27c6773130d7930d0cdc391287bc7bd5ee3bc5d697d5ad05d6953b822b4a5eb/</link><pubDate>Fri, 25 Jun 2021 02:16:24 +0000</pubDate><guid>https://news.panz3r.dev/post/a27c6773130d7930d0cdc391287bc7bd5ee3bc5d697d5ad05d6953b822b4a5eb/</guid><description>
+Article URL: https://github.com/stevage/opentrees
+Comments URL: https://news.ycombinator.com/item?id=27626467
+Points: 88
+# Comments: 7</description></item><item><title>QUIC at Snapchat</title><link>https://news.panz3r.dev/post/713fa1fd4785273fa6ff7c5c044f5369a28a7a8656b992ce3a5db7ee7b240e4f/</link><pubDate>Fri, 25 Jun 2021 02:04:24 +0000</pubDate><guid>https://news.panz3r.dev/post/713fa1fd4785273fa6ff7c5c044f5369a28a7a8656b992ce3a5db7ee7b240e4f/</guid><description>
+Article URL: https://eng.snap.com/quic-at-snap
+Comments URL: https://news.ycombinator.com/item?id=27626394
+Points: 101
+# Comments: 30</description></item><item><title>EvalAI: An Open-Source Alternative to Kaggle</title><link>https://news.panz3r.dev/post/077337519090d061ac34dbf5f95f5e62b28ab8dd010bbeb680e772c3609e9951/</link><pubDate>Fri, 25 Jun 2021 00:03:57 +0000</pubDate><guid>https://news.panz3r.dev/post/077337519090d061ac34dbf5f95f5e62b28ab8dd010bbeb680e772c3609e9951/</guid><description>
 Article URL: https://eval.ai/
 Comments URL: https://news.ycombinator.com/item?id=27625511
-Points: 68
-# Comments: 11</description></item><item><title>WD My Book users wake up to find their data deleted</title><link>https://news.panz3r.dev/post/da2a74c4c1c08aed479deb689da8cabfc76cd4ccc28df1a41ba90859e87096ed/</link><pubDate>Thu, 24 Jun 2021 22:30:52 +0000</pubDate><guid>https://news.panz3r.dev/post/da2a74c4c1c08aed479deb689da8cabfc76cd4ccc28df1a41ba90859e87096ed/</guid><description>
+Points: 96
+# Comments: 14</description></item><item><title>WD My Book users wake up to find their data deleted</title><link>https://news.panz3r.dev/post/da2a74c4c1c08aed479deb689da8cabfc76cd4ccc28df1a41ba90859e87096ed/</link><pubDate>Thu, 24 Jun 2021 22:30:52 +0000</pubDate><guid>https://news.panz3r.dev/post/da2a74c4c1c08aed479deb689da8cabfc76cd4ccc28df1a41ba90859e87096ed/</guid><description>
 Article URL: https://arstechnica.com/gadgets/2021/06/mass-data-wipe-in-my-book-devices-prompts-warning-from-western-digital/
 Comments URL: …</description></item><item><title>Tiny Acquisitions</title><link>https://news.panz3r.dev/post/f4472208fad8f0c3879248b8c1f4a3ae3fdc07bacda16f60f97e3913a821adcd/</link><pubDate>Thu, 24 Jun 2021 22:01:48 +0000</pubDate><guid>https://news.panz3r.dev/post/f4472208fad8f0c3879248b8c1f4a3ae3fdc07bacda16f60f97e3913a821adcd/</guid><description>
 Article URL: https://tinyacquisitions.com
 Comments URL: https://news.ycombinator.com/item?id=27624411
-Points: 271
-# Comments: 121</description></item><item><title>Twilio, Asana to List on Long Term Stock Exchange</title><link>https://news.panz3r.dev/post/8289f3238def9b41b6a4dd4c04ac81cfb72b00afe7389908a0c073263f30e8ba/</link><pubDate>Thu, 24 Jun 2021 20:53:09 +0000</pubDate><guid>https://news.panz3r.dev/post/8289f3238def9b41b6a4dd4c04ac81cfb72b00afe7389908a0c073263f30e8ba/</guid><description>
+Points: 323
+# Comments: 134</description></item><item><title>Twilio, Asana to List on Long Term Stock Exchange</title><link>https://news.panz3r.dev/post/8289f3238def9b41b6a4dd4c04ac81cfb72b00afe7389908a0c073263f30e8ba/</link><pubDate>Thu, 24 Jun 2021 20:53:09 +0000</pubDate><guid>https://news.panz3r.dev/post/8289f3238def9b41b6a4dd4c04ac81cfb72b00afe7389908a0c073263f30e8ba/</guid><description>
 Article URL: https://www.wsj.com/articles/twilio-asana-to-list-on-long-term-stock-exchange-as-esg-push-continues-11624565701
 Comments URL: …</description></item><item><title>Stop using your work laptop or phone for personal stuff, because I know you are</title><link>https://news.panz3r.dev/post/a1f96bd6ed653f001e1cccda8014100c2ac1f679b76db4b4f65bd807cbabd479/</link><pubDate>Thu, 24 Jun 2021 19:54:57 +0000</pubDate><guid>https://news.panz3r.dev/post/a1f96bd6ed653f001e1cccda8014100c2ac1f679b76db4b4f65bd807cbabd479/</guid><description>
 Article URL: https://www.zdnet.com/article/stop-using-your-work-laptop-or-phone-for-personal-stuff-because-i-know-you-are/
@@ -85,8 +105,8 @@ Points: 125
 # Comments: 15</description></item><item><title>Show HN: 3dasd – open-source DIY room-scale 3D scanner</title><link>https://news.panz3r.dev/post/79dca9d2aa63799a4cd422bb113da589c66c624f9437f12d4693c7649e2e0f61/</link><pubDate>Thu, 24 Jun 2021 07:34:43 +0000</pubDate><guid>https://news.panz3r.dev/post/79dca9d2aa63799a4cd422bb113da589c66c624f9437f12d4693c7649e2e0f61/</guid><description>
 Article URL: https://3dasd.com/
 Comments URL: https://news.ycombinator.com/item?id=27614874
-Points: 197
-# Comments: 44</description></item><item><title>Tink Is Joining Visa</title><link>https://news.panz3r.dev/post/85611be9406f4fc14cd48867cc2c4699a16cc77ac188ae3264c95dce1425076e/</link><pubDate>Thu, 24 Jun 2021 07:22:50 +0000</pubDate><guid>https://news.panz3r.dev/post/85611be9406f4fc14cd48867cc2c4699a16cc77ac188ae3264c95dce1425076e/</guid><description>
+Points: 214
+# Comments: 49</description></item><item><title>Tink Is Joining Visa</title><link>https://news.panz3r.dev/post/85611be9406f4fc14cd48867cc2c4699a16cc77ac188ae3264c95dce1425076e/</link><pubDate>Thu, 24 Jun 2021 07:22:50 +0000</pubDate><guid>https://news.panz3r.dev/post/85611be9406f4fc14cd48867cc2c4699a16cc77ac188ae3264c95dce1425076e/</guid><description>
 Article URL: https://tink.com/blog/news/visa-acquires-tink/
 Comments URL: https://news.ycombinator.com/item?id=27614806
 Points: 51
@@ -165,7 +185,10 @@ Comments URL: …</description></item><item><title>A backlash against gender ide
 Article URL: https://www.economist.com/international/2021/06/05/a-backlash-against-gender-ideology-is-starting-in-universities
 Comments URL: …</description></item><item><title>The rich, weird, and frustrating world of Depression-era travel guides</title><link>https://news.panz3r.dev/post/d23bbaee6329873bb81ac19c80f2a32e68ab81d135e79d57a0ad9f9704e7c9fa/</link><pubDate>Wed, 23 Jun 2021 11:29:42 +0000</pubDate><guid>https://news.panz3r.dev/post/d23bbaee6329873bb81ac19c80f2a32e68ab81d135e79d57a0ad9f9704e7c9fa/</guid><description>
 Article URL: https://www.theatlantic.com/culture/archive/2021/06/new-deal-american-guides-federal-writers-project/619255/
-Comments URL: …</description></item><item><title>Is education no longer the ‘great equalizer’?</title><link>https://news.panz3r.dev/post/0bf50382278f9cac1c015680e13347b9ebbd05c351ef125df0d28156b6fe5d32/</link><pubDate>Wed, 23 Jun 2021 10:58:54 +0000</pubDate><guid>https://news.panz3r.dev/post/0bf50382278f9cac1c015680e13347b9ebbd05c351ef125df0d28156b6fe5d32/</guid><description>
+Comments URL: …</description></item><item><title>The Base45 Data Encoding</title><link>https://news.panz3r.dev/post/048059bd149628b1a705f03877d4dd2482a1a53d1ac41af5761e51f2b0c81f24/</link><pubDate>Wed, 23 Jun 2021 11:22:03 +0000</pubDate><guid>https://news.panz3r.dev/post/048059bd149628b1a705f03877d4dd2482a1a53d1ac41af5761e51f2b0c81f24/</guid><description>
+Article URL: https://datatracker.ietf.org/doc/draft-faltstrom-base45/
+Comments URL: https://news.ycombinator.com/item?id=27603173
+Points: 57 …</description></item><item><title>Is education no longer the ‘great equalizer’?</title><link>https://news.panz3r.dev/post/0bf50382278f9cac1c015680e13347b9ebbd05c351ef125df0d28156b6fe5d32/</link><pubDate>Wed, 23 Jun 2021 10:58:54 +0000</pubDate><guid>https://news.panz3r.dev/post/0bf50382278f9cac1c015680e13347b9ebbd05c351ef125df0d28156b6fe5d32/</guid><description>
 Article URL: https://www.nytimes.com/2021/06/23/opinion/education-poverty-intervention.html
 Comments URL: …</description></item><item><title>PipeWire Under the Hood</title><link>https://news.panz3r.dev/post/332fb28512f93b200cba2334edc0abcd05b2d9a2dd1a19313cc246cd94155608/</link><pubDate>Wed, 23 Jun 2021 09:54:26 +0000</pubDate><guid>https://news.panz3r.dev/post/332fb28512f93b200cba2334edc0abcd05b2d9a2dd1a19313cc246cd94155608/</guid><description>
 Article URL: https://venam.nixers.net/blog/unix/2021/06/23/pipewire-under-the-hood.html
@@ -302,7 +325,13 @@ Points: 55
 Article URL: https://github.com/sylefeb/Silice
 Comments URL: https://news.ycombinator.com/item?id=27589298
 Points: 67
-# Comments: 16</description></item><item><title>Pocketlang</title><link>https://news.panz3r.dev/post/f5929359c97e8ce14c9374968d742fe81134829823ca18b93ee3bd5223573a2c/</link><pubDate>Tue, 22 Jun 2021 07:10:41 +0000</pubDate><guid>https://news.panz3r.dev/post/f5929359c97e8ce14c9374968d742fe81134829823ca18b93ee3bd5223573a2c/</guid><description>
+# Comments: 16</description></item><item><title>Cupcake - A Rust library for lattice-based additive homomorphic encryption</title><link>https://news.panz3r.dev/post/0c939b94df0557c2a7daf697c306eda0884158dfed44b983ce1fd134fa9a06ff/</link><pubDate>Tue, 22 Jun 2021 07:40:53 +0000</pubDate><guid>https://news.panz3r.dev/post/0c939b94df0557c2a7daf697c306eda0884158dfed44b983ce1fd134fa9a06ff/</guid><description>
+Article URL: https://github.com/facebookresearch/Cupcake
+Comments URL: https://news.ycombinator.com/item?id=27589010
+Points: 73
+# Comments: …</description></item><item><title>Smoothstep Integral</title><link>https://news.panz3r.dev/post/2aea1d29c7279753d178a2a993542264ad7aa2d94a74b1d8a57e7a13afd59a7e/</link><pubDate>Tue, 22 Jun 2021 07:35:11 +0000</pubDate><guid>https://news.panz3r.dev/post/2aea1d29c7279753d178a2a993542264ad7aa2d94a74b1d8a57e7a13afd59a7e/</guid><description>
+Article URL: https://iquilezles.org/www/articles/smoothstepintegral/smoothstepintegral.htm
+Comments URL: …</description></item><item><title>Pocketlang</title><link>https://news.panz3r.dev/post/f5929359c97e8ce14c9374968d742fe81134829823ca18b93ee3bd5223573a2c/</link><pubDate>Tue, 22 Jun 2021 07:10:41 +0000</pubDate><guid>https://news.panz3r.dev/post/f5929359c97e8ce14c9374968d742fe81134829823ca18b93ee3bd5223573a2c/</guid><description>
 Article URL: https://github.com/ThakeeNathees/pocketlang
 Comments URL: https://news.ycombinator.com/item?id=27588842
 Points: 248
@@ -539,25 +568,4 @@ Comments URL: https://news.ycombinator.com/item?id=27569521 …</description></i
 Article URL: http://zsync.moria.org.uk/
 Comments URL: https://news.ycombinator.com/item?id=27569146
 Points: 130
-# Comments: 27</description></item><item><title>Stonks Are What You Can Get Away With: NFTs and Financial Nihilism</title><link>https://news.panz3r.dev/post/5711b2156902fd738ce34f1508baeea7b2aa0ce71951d329b5df68d43586ec85/</link><pubDate>Sun, 20 Jun 2021 10:42:14 +0000</pubDate><guid>https://news.panz3r.dev/post/5711b2156902fd738ce34f1508baeea7b2aa0ce71951d329b5df68d43586ec85/</guid><description>
-Article URL: https://blog.evjang.com/2021/06/nft.html
-Comments URL: https://news.ycombinator.com/item?id=27568811
-Points: 128
-# Comments: …</description></item><item><title>My experiments with sprouting legumes</title><link>https://news.panz3r.dev/post/3c177f78ca7cb63ed22ece46a832d90463d0aaab4adda6c07e3df888ce4e65ec/</link><pubDate>Sun, 20 Jun 2021 10:40:43 +0000</pubDate><guid>https://news.panz3r.dev/post/3c177f78ca7cb63ed22ece46a832d90463d0aaab4adda6c07e3df888ce4e65ec/</guid><description>
-Article URL: https://www.upgrademyfood.com/sprouting-legumes/
-Comments URL: https://news.ycombinator.com/item?id=27568804
-Points: 88
-# …</description></item><item><title>Show HN: Find Your Hacker News Doppelgänger</title><link>https://news.panz3r.dev/post/49954735b4e86ac2707d4b8df181cbce4bbe70d7030e7638217d3554c8c7cfb4/</link><pubDate>Sun, 20 Jun 2021 10:19:59 +0000</pubDate><guid>https://news.panz3r.dev/post/49954735b4e86ac2707d4b8df181cbce4bbe70d7030e7638217d3554c8c7cfb4/</guid><description>
-Article URL: https://share.streamlit.io/pinecone-io/playground/hacker_news/src/server.py
-Comments URL: …</description></item><item><title>AltStore – An alternative app store for non-jailbroken iOS devices</title><link>https://news.panz3r.dev/post/b4be290d057c28fd84859160f4f1fe161abd09496e9686c3ff9bc0cf67f65c31/</link><pubDate>Sun, 20 Jun 2021 09:11:22 +0000</pubDate><guid>https://news.panz3r.dev/post/b4be290d057c28fd84859160f4f1fe161abd09496e9686c3ff9bc0cf67f65c31/</guid><description>
-Article URL: https://altstore.io/
-Comments URL: https://news.ycombinator.com/item?id=27568379
-Points: 265
-# Comments: 169</description></item><item><title>Internet in a Box</title><link>https://news.panz3r.dev/post/d22a212b63e990a1684b14542570b50c417be3cf666b5169f1b0e9942f5d694c/</link><pubDate>Sun, 20 Jun 2021 08:59:47 +0000</pubDate><guid>https://news.panz3r.dev/post/d22a212b63e990a1684b14542570b50c417be3cf666b5169f1b0e9942f5d694c/</guid><description>
-Article URL: http://internet-in-a-box.org/
-Comments URL: https://news.ycombinator.com/item?id=27568332
-Points: 509
-# Comments: 123</description></item><item><title>Rocky Linux 8.4 RC1 Available Now</title><link>https://news.panz3r.dev/post/3f4144ed9e9698c1726fb34351681f06dfbcbe60652262f26cce63d209b261b8/</link><pubDate>Sun, 20 Jun 2021 08:05:21 +0000</pubDate><guid>https://news.panz3r.dev/post/3f4144ed9e9698c1726fb34351681f06dfbcbe60652262f26cce63d209b261b8/</guid><description>
-Article URL: https://rockylinux.org/news/rocky-linux-8-4-rc1-release/
-Comments URL: https://news.ycombinator.com/item?id=27568087
-Points: 78 …</description></item></channel></rss>
+# Comments: 27</description></item></channel></rss>

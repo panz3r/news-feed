@@ -1,17 +1,49 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hacker-News-Frontpage on Panz3r News</title><link>https://news.panz3r.dev/tags/hacker-news-frontpage/</link><description>Recent content in Hacker-News-Frontpage on news.panz3r.dev</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Panz3r 2021 | Vitae theme for Hugo</copyright><lastBuildDate>Wed, 30 Jun 2021 07:52:52 +0000</lastBuildDate><atom:link href="https://news.panz3r.dev/tags/hacker-news-frontpage/index.xml" rel="self" type="application/rss+xml"/><item><title>Apple's DocC is excellent, but unusable for open source projects</title><link>https://news.panz3r.dev/post/a39cf2b882171368da604dcd2d627463fba6dbceb3698753caa2248c0a904e68/</link><pubDate>Wed, 30 Jun 2021 07:52:52 +0000</pubDate><guid>https://news.panz3r.dev/post/a39cf2b882171368da604dcd2d627463fba6dbceb3698753caa2248c0a904e68/</guid><description>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hacker-News-Frontpage on Panz3r News</title><link>https://news.panz3r.dev/tags/hacker-news-frontpage/</link><description>Recent content in Hacker-News-Frontpage on news.panz3r.dev</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Panz3r 2021 | Vitae theme for Hugo</copyright><lastBuildDate>Wed, 30 Jun 2021 14:28:37 +0000</lastBuildDate><atom:link href="https://news.panz3r.dev/tags/hacker-news-frontpage/index.xml" rel="self" type="application/rss+xml"/><item><title>Yale Drama Goes Tuition-Free with $150M Gift from David Geffen</title><link>https://news.panz3r.dev/post/52756d8c119ad85b16f4b2b87e895a658bbd7cf3ea6eb3f2696010ccbf8dca7e/</link><pubDate>Wed, 30 Jun 2021 14:28:37 +0000</pubDate><guid>https://news.panz3r.dev/post/52756d8c119ad85b16f4b2b87e895a658bbd7cf3ea6eb3f2696010ccbf8dca7e/</guid><description>
+Article URL: https://www.nytimes.com/2021/06/30/theater/yale-drama-david-geffen-tuition.html
+Comments URL: …</description></item><item><title>Software Engineering principles to make teams better</title><link>https://news.panz3r.dev/post/f7e555f66e4a4af848940c274a1e391c67f831a12419b4d4797691d809c1b531/</link><pubDate>Wed, 30 Jun 2021 13:59:47 +0000</pubDate><guid>https://news.panz3r.dev/post/f7e555f66e4a4af848940c274a1e391c67f831a12419b4d4797691d809c1b531/</guid><description>
+Article URL: https://principles.dev/
+Comments URL: https://news.ycombinator.com/item?id=27688612
+Points: 116
+# Comments: 22</description></item><item><title>The Internet Is Rotting</title><link>https://news.panz3r.dev/post/b5fec52823dd14ab3f3a396a4d6d9b7875d711a3b5b3e164fd06ecbf6347c4a0/</link><pubDate>Wed, 30 Jun 2021 13:15:35 +0000</pubDate><guid>https://news.panz3r.dev/post/b5fec52823dd14ab3f3a396a4d6d9b7875d711a3b5b3e164fd06ecbf6347c4a0/</guid><description>
+Article URL: https://www.theatlantic.com/technology/archive/2021/06/the-internet-is-a-collective-hallucination/619320/
+Comments URL: …</description></item><item><title>Lessons from Building a Static Site Generator (2020)</title><link>https://news.panz3r.dev/post/a469e8ad4e91efd4f8eedaf2727a10a79d29d6e0fe014d1cf6ffa3813a3ca0c7/</link><pubDate>Wed, 30 Jun 2021 12:56:43 +0000</pubDate><guid>https://news.panz3r.dev/post/a469e8ad4e91efd4f8eedaf2727a10a79d29d6e0fe014d1cf6ffa3813a3ca0c7/</guid><description>
+Article URL: https://nicholasreese.com/lessons-from-building-a-static-site-generator/
+Comments URL: …</description></item><item><title>Black Hat Exploits of the Stupid-Easy 80s</title><link>https://news.panz3r.dev/post/ca7c3c869a3df8022b12ab1e52d97a1538d93ece536a4a6e799ecdb54f9eb1fe/</link><pubDate>Wed, 30 Jun 2021 12:44:24 +0000</pubDate><guid>https://news.panz3r.dev/post/ca7c3c869a3df8022b12ab1e52d97a1538d93ece536a4a6e799ecdb54f9eb1fe/</guid><description>
+Article URL: https://madned.substack.com/p/black-hat-exploits-of-the-stupid
+Comments URL: https://news.ycombinator.com/item?id=27687775 …</description></item><item><title>‘Great Resignation’ gains steam as return-to-work plans take effect</title><link>https://news.panz3r.dev/post/7406c2f979a5685e4b743afa541249b4b8a2e56adfe180c88fcd7233d4028f29/</link><pubDate>Wed, 30 Jun 2021 12:25:40 +0000</pubDate><guid>https://news.panz3r.dev/post/7406c2f979a5685e4b743afa541249b4b8a2e56adfe180c88fcd7233d4028f29/</guid><description>
+Article URL: https://www.cnbc.com/2021/06/29/more-people-plan-to-quit-as-return-to-work-plans-go-into-effect-.html
+Comments URL: …</description></item><item><title>GitHub co-pilot as open source code laundering?</title><link>https://news.panz3r.dev/post/2b67023e7e6f1fa75261f02b92eb4b007de3eafc4d1906acf3e503216295edbe/</link><pubDate>Wed, 30 Jun 2021 12:00:41 +0000</pubDate><guid>https://news.panz3r.dev/post/2b67023e7e6f1fa75261f02b92eb4b007de3eafc4d1906acf3e503216295edbe/</guid><description>
+Article URL: https://twitter.com/eevee/status/1410037309848752128
+Comments URL: https://news.ycombinator.com/item?id=27687450
+Points: 564
+# …</description></item><item><title>How Amazon, Google and Other Companies Exploit NDAs</title><link>https://news.panz3r.dev/post/bc533ad40744945845567b9a709846f6115b73d30144a32663cc3918a21e58f8/</link><pubDate>Wed, 30 Jun 2021 11:37:17 +0000</pubDate><guid>https://news.panz3r.dev/post/bc533ad40744945845567b9a709846f6115b73d30144a32663cc3918a21e58f8/</guid><description>
+Article URL: https://www.nytimes.com/2021/06/29/opinion/nda-amazon-google-facebook.html
+Comments URL: …</description></item><item><title>Software estimation is hard – do it anyway</title><link>https://news.panz3r.dev/post/d03674a358b95e728b776ede56ac5a5c46f3609f75d503874dbde4c48af044a0/</link><pubDate>Wed, 30 Jun 2021 11:29:57 +0000</pubDate><guid>https://news.panz3r.dev/post/d03674a358b95e728b776ede56ac5a5c46f3609f75d503874dbde4c48af044a0/</guid><description>
+Article URL: https://jacobian.org/2021/may/20/estimation/
+Comments URL: https://news.ycombinator.com/item?id=27687265
+Points: 184
+# …</description></item><item><title>“Note that I wouldn’t pass the listed minimum requirements”</title><link>https://news.panz3r.dev/post/7d6f594d75f8d71ffb89dd50a33685492f4598648f8c2693377ce9913652b3b2/</link><pubDate>Wed, 30 Jun 2021 10:47:59 +0000</pubDate><guid>https://news.panz3r.dev/post/7d6f594d75f8d71ffb89dd50a33685492f4598648f8c2693377ce9913652b3b2/</guid><description>
+Article URL: https://twitter.com/ID_AA_Carmack/status/1409576956828405760
+Comments URL: https://news.ycombinator.com/item?id=27687034 …</description></item><item><title>A Philosophy of Software Design (2020)</title><link>https://news.panz3r.dev/post/a8de384bab6f15c6adfcc3ead33db4f93f76aa3b588f484376e7879f0cc77ce2/</link><pubDate>Wed, 30 Jun 2021 10:14:33 +0000</pubDate><guid>https://news.panz3r.dev/post/a8de384bab6f15c6adfcc3ead33db4f93f76aa3b588f484376e7879f0cc77ce2/</guid><description>
+Article URL: https://johz.bearblog.dev/book-review-philosophy-software-design/
+Comments URL: https://news.ycombinator.com/item?id=27686818 …</description></item><item><title>Launch HN: Turing College (YC W21) – Online data science school</title><link>https://news.panz3r.dev/post/0716955b9ad13bb49cf91604715c4616a9cf710a78c0b69ab01adab2fb545d1b/</link><pubDate>Wed, 30 Jun 2021 08:50:22 +0000</pubDate><guid>https://news.panz3r.dev/post/0716955b9ad13bb49cf91604715c4616a9cf710a78c0b69ab01adab2fb545d1b/</guid><description>
+Article URL: https://www.turingcollege.com/
+Comments URL: https://news.ycombinator.com/item?id=27686395
+Points: 51
+# Comments: 34</description></item><item><title>Apple's DocC is excellent, but unusable for open source projects</title><link>https://news.panz3r.dev/post/a39cf2b882171368da604dcd2d627463fba6dbceb3698753caa2248c0a904e68/</link><pubDate>Wed, 30 Jun 2021 07:52:52 +0000</pubDate><guid>https://news.panz3r.dev/post/a39cf2b882171368da604dcd2d627463fba6dbceb3698753caa2248c0a904e68/</guid><description>
 Article URL: https://www.jessesquires.com/blog/2021/06/29/apple-docc-great-but-useless-for-oss/
 Comments URL: …</description></item><item><title>OpenStreetMap looks to relocate to EU due to Brexit limitations</title><link>https://news.panz3r.dev/post/cf7f3d0e3700175868ab9afcdd6f1974ee4096911f0fe905b71f80967cc7dece/</link><pubDate>Wed, 30 Jun 2021 06:39:07 +0000</pubDate><guid>https://news.panz3r.dev/post/cf7f3d0e3700175868ab9afcdd6f1974ee4096911f0fe905b71f80967cc7dece/</guid><description>
 Article URL: https://www.theguardian.com/politics/2021/jun/30/openstreetmap-looks-to-relocate-to-eu-due-to-brexit-limitations
 Comments URL: …</description></item><item><title>A foreign seller has hijacked Cliff Stoll's Amazon Klein bottle listing</title><link>https://news.panz3r.dev/post/d37996eb09b03718bb1c8ad866f3c2051f86d782aeb581498dd51d40996a4911/</link><pubDate>Wed, 30 Jun 2021 04:18:34 +0000</pubDate><guid>https://news.panz3r.dev/post/d37996eb09b03718bb1c8ad866f3c2051f86d782aeb581498dd51d40996a4911/</guid><description>
 Article URL: https://kleinbottle.com/#AMAZON%20BRAND%20HIJACKING
 Comments URL: https://news.ycombinator.com/item?id=27684807
-Points: 900
+Points: 1767
 # …</description></item><item><title>Io_uring is not (only) a generic asynchronous syscall facility</title><link>https://news.panz3r.dev/post/da4b6b02297c466a83a10f16d0df96daa39d692e5f5c8a6c3b2c44d86c48a706/</link><pubDate>Wed, 30 Jun 2021 03:42:07 +0000</pubDate><guid>https://news.panz3r.dev/post/da4b6b02297c466a83a10f16d0df96daa39d692e5f5c8a6c3b2c44d86c48a706/</guid><description>
 Article URL: https://fancl20.github.io/contents/00-posts/2021-06-30-io_uring-is-not-only-a-generic-asynchronous-syscall-facility.html …</description></item><item><title>Modular Homes for Under $50k</title><link>https://news.panz3r.dev/post/2d429ff1d535f79885b773d5945c456451a06d835a39c3c7fff7cdf32bdc3932/</link><pubDate>Wed, 30 Jun 2021 02:21:12 +0000</pubDate><guid>https://news.panz3r.dev/post/2d429ff1d535f79885b773d5945c456451a06d835a39c3c7fff7cdf32bdc3932/</guid><description>
 Article URL: https://www.boxabl.com/
 Comments URL: https://news.ycombinator.com/item?id=27684191
-Points: 177
-# Comments: 136</description></item><item><title>A curated list of books on Software Architecture</title><link>https://news.panz3r.dev/post/6b3186a592ae71597c63265f833627e2c143c770928eb6ac76e1c4d995458a5d/</link><pubDate>Wed, 30 Jun 2021 01:43:12 +0000</pubDate><guid>https://news.panz3r.dev/post/6b3186a592ae71597c63265f833627e2c143c770928eb6ac76e1c4d995458a5d/</guid><description>
+Points: 316
+# Comments: 266</description></item><item><title>A curated list of books on Software Architecture</title><link>https://news.panz3r.dev/post/6b3186a592ae71597c63265f833627e2c143c770928eb6ac76e1c4d995458a5d/</link><pubDate>Wed, 30 Jun 2021 01:43:12 +0000</pubDate><guid>https://news.panz3r.dev/post/6b3186a592ae71597c63265f833627e2c143c770928eb6ac76e1c4d995458a5d/</guid><description>
 Article URL: https://github.com/mhadidg/software-architecture-books
 Comments URL: https://news.ycombinator.com/item?id=27683966
 Points: 191 …</description></item><item><title>Pop_OS 21.04</title><link>https://news.panz3r.dev/post/b9dc74ea196b4735172398ed9426628c06889c1487e9724a75a781bd18bd469a/</link><pubDate>Wed, 30 Jun 2021 01:01:16 +0000</pubDate><guid>https://news.panz3r.dev/post/b9dc74ea196b4735172398ed9426628c06889c1487e9724a75a781bd18bd469a/</guid><description>
@@ -22,7 +54,11 @@ Comments URL: …</description></item><item><title>Conspiracy: In Theory and Pra
 Article URL: https://edwardsnowden.substack.com/p/conspiracy-pt1
 Comments URL: https://news.ycombinator.com/item?id=27682763
 Points: 261
-# …</description></item><item><title>NATO Classified Cloud Platform Compromised</title><link>https://news.panz3r.dev/post/8ad715b71545459f3049136b84525e6fd1b644dac847ee8d58fb7086e915b7f0/</link><pubDate>Tue, 29 Jun 2021 22:37:19 +0000</pubDate><guid>https://news.panz3r.dev/post/8ad715b71545459f3049136b84525e6fd1b644dac847ee8d58fb7086e915b7f0/</guid><description>
+# …</description></item><item><title>Bob's Game</title><link>https://news.panz3r.dev/post/21141a6d534c7ee98d4556a2c199d1b5822a691ea648642b136a33da3ff8a064/</link><pubDate>Tue, 29 Jun 2021 22:45:25 +0000</pubDate><guid>https://news.panz3r.dev/post/21141a6d534c7ee98d4556a2c199d1b5822a691ea648642b136a33da3ff8a064/</guid><description>
+Article URL: https://en.wikipedia.org/wiki/Bob%27s_Game#
+Comments URL: https://news.ycombinator.com/item?id=27682733
+Points: 105
+# Comments: …</description></item><item><title>NATO Classified Cloud Platform Compromised</title><link>https://news.panz3r.dev/post/8ad715b71545459f3049136b84525e6fd1b644dac847ee8d58fb7086e915b7f0/</link><pubDate>Tue, 29 Jun 2021 22:37:19 +0000</pubDate><guid>https://news.panz3r.dev/post/8ad715b71545459f3049136b84525e6fd1b644dac847ee8d58fb7086e915b7f0/</guid><description>
 Article URL: https://ddosecrets.substack.com/p/exclusive-nato-classified-cloud-platform
 Comments URL: …</description></item><item><title>Command Line Interface for Signal</title><link>https://news.panz3r.dev/post/a279d54db8d3689e843a82c7920ffb423611dbcf0c4a08d109c7d33b923ac9d6/</link><pubDate>Tue, 29 Jun 2021 22:18:29 +0000</pubDate><guid>https://news.panz3r.dev/post/a279d54db8d3689e843a82c7920ffb423611dbcf0c4a08d109c7d33b923ac9d6/</guid><description>
 Article URL: https://github.com/AsamK/signal-cli
@@ -48,14 +84,14 @@ Article URL: https://withblue.ink/2019/04/12/i-loved-jquery-and-still-do.html
 Comments URL: https://news.ycombinator.com/item?id=27676550 …</description></item><item><title>GitHub Copilot: your AI pair programmer</title><link>https://news.panz3r.dev/post/ee1c5f298fb467ce8bc5a44916d09f4c5e8819608572903ce86dac4588644ae6/</link><pubDate>Tue, 29 Jun 2021 14:29:39 +0000</pubDate><guid>https://news.panz3r.dev/post/ee1c5f298fb467ce8bc5a44916d09f4c5e8819608572903ce86dac4588644ae6/</guid><description>
 Article URL: https://copilot.github.com/
 Comments URL: https://news.ycombinator.com/item?id=27676266
-Points: 2624
-# Comments: 1137</description></item><item><title>Physicists confirm two cases of “elusive” black hole/neutron star mergers</title><link>https://news.panz3r.dev/post/0cd6ee52ab80e533e8587eacc0fadada84293bb8d83a274fd6b21ee2dc507f65/</link><pubDate>Tue, 29 Jun 2021 14:16:56 +0000</pubDate><guid>https://news.panz3r.dev/post/0cd6ee52ab80e533e8587eacc0fadada84293bb8d83a274fd6b21ee2dc507f65/</guid><description>
+Points: 2773
+# Comments: 1204</description></item><item><title>Physicists confirm two cases of “elusive” black hole/neutron star mergers</title><link>https://news.panz3r.dev/post/0cd6ee52ab80e533e8587eacc0fadada84293bb8d83a274fd6b21ee2dc507f65/</link><pubDate>Tue, 29 Jun 2021 14:16:56 +0000</pubDate><guid>https://news.panz3r.dev/post/0cd6ee52ab80e533e8587eacc0fadada84293bb8d83a274fd6b21ee2dc507f65/</guid><description>
 Article URL: https://arstechnica.com/science/2021/06/physicists-confirm-two-cases-of-elusive-black-hole-neutron-star-mergers/
 Comments URL: …</description></item><item><title>Learn by reading code: Python standard library design decisions explained</title><link>https://news.panz3r.dev/post/515c119db2bd1778eacf4367992cfca90ef13bc3565f098975e026f99618ba4b/</link><pubDate>Tue, 29 Jun 2021 13:51:09 +0000</pubDate><guid>https://news.panz3r.dev/post/515c119db2bd1778eacf4367992cfca90ef13bc3565f098975e026f99618ba4b/</guid><description>
 Article URL: https://death.andgravity.com/stdlib
 Comments URL: https://news.ycombinator.com/item?id=27675756
-Points: 78
-# Comments: 7</description></item><item><title>How to Work Hard</title><link>https://news.panz3r.dev/post/bc0babe50d0f2ec8cfc9f1c06d38f26cc876001df35ec15d6760a1c6177db5af/</link><pubDate>Tue, 29 Jun 2021 13:39:09 +0000</pubDate><guid>https://news.panz3r.dev/post/bc0babe50d0f2ec8cfc9f1c06d38f26cc876001df35ec15d6760a1c6177db5af/</guid><description>
+Points: 214
+# Comments: 26</description></item><item><title>How to Work Hard</title><link>https://news.panz3r.dev/post/bc0babe50d0f2ec8cfc9f1c06d38f26cc876001df35ec15d6760a1c6177db5af/</link><pubDate>Tue, 29 Jun 2021 13:39:09 +0000</pubDate><guid>https://news.panz3r.dev/post/bc0babe50d0f2ec8cfc9f1c06d38f26cc876001df35ec15d6760a1c6177db5af/</guid><description>
 Article URL: http://paulgraham.com/hwh.html
 Comments URL: https://news.ycombinator.com/item?id=27675603
 Points: 1048
@@ -156,7 +192,8 @@ Article URL: https://get21stnight.com/
 Comments URL: https://news.ycombinator.com/item?id=27662266
 Points: 98
 # Comments: 109</description></item><item><title>Show HN: Optery – See the private info data brokers are posting about you online</title><link>https://news.panz3r.dev/post/2c9a4c41583ca4560ff85bebd6c093893a0be6394515c7e301af718ec9b4b09d/</link><pubDate>Mon, 28 Jun 2021 14:04:08 +0000</pubDate><guid>https://news.panz3r.dev/post/2c9a4c41583ca4560ff85bebd6c093893a0be6394515c7e301af718ec9b4b09d/</guid><description>
-Article URL: …</description></item><item><title>Temporal: Getting started with JavaScript's new date time API</title><link>https://news.panz3r.dev/post/52c4a6f4cbe254ab519eb1a8db822c2b371978cf99e17f695eef966707fc8e53/</link><pubDate>Mon, 28 Jun 2021 13:26:59 +0000</pubDate><guid>https://news.panz3r.dev/post/52c4a6f4cbe254ab519eb1a8db822c2b371978cf99e17f695eef966707fc8e53/</guid><description>
+Article URL: …</description></item><item><title>Ask HN: How to grow after 10 years in the industry?</title><link>https://news.panz3r.dev/post/cec2c52bedbbbb32ef81958163a0de89e59daffe3ca717b1b4f00ccef45b600e/</link><pubDate>Mon, 28 Jun 2021 13:30:50 +0000</pubDate><guid>https://news.panz3r.dev/post/cec2c52bedbbbb32ef81958163a0de89e59daffe3ca717b1b4f00ccef45b600e/</guid><description>
+Hey!- I've been working for around 10 years- half of that was as a software engineer and the other half as a VP of Engineering- I am good …</description></item><item><title>Temporal: Getting started with JavaScript's new date time API</title><link>https://news.panz3r.dev/post/52c4a6f4cbe254ab519eb1a8db822c2b371978cf99e17f695eef966707fc8e53/</link><pubDate>Mon, 28 Jun 2021 13:26:59 +0000</pubDate><guid>https://news.panz3r.dev/post/52c4a6f4cbe254ab519eb1a8db822c2b371978cf99e17f695eef966707fc8e53/</guid><description>
 Article URL: https://2ality.com/2021/06/temporal-api.html
 Comments URL: https://news.ycombinator.com/item?id=27661667
 Points: 342
@@ -164,7 +201,11 @@ Points: 342
 Article URL: https://www.freethink.com/shows/just-might-work/how-to-make-insulin
 Comments URL: https://news.ycombinator.com/item?id=27661637 …</description></item><item><title>A Plea for Lean Software (1995) [pdf]</title><link>https://news.panz3r.dev/post/38c0eec6bb5691b857787df0a98cd0b5f283af1c1c5fd14be9337a5faa0e9799/</link><pubDate>Mon, 28 Jun 2021 13:18:52 +0000</pubDate><guid>https://news.panz3r.dev/post/38c0eec6bb5691b857787df0a98cd0b5f283af1c1c5fd14be9337a5faa0e9799/</guid><description>
 Article URL: https://blog.frantovo.cz/s/1576/Niklaus%20Wirth%20-%20A%20Plea%20for%20Lean%20Software%20-%20OCR.pdf
-Comments URL: …</description></item><item><title>World’s first lab-grown meat facility pumps out 5k burgers per day</title><link>https://news.panz3r.dev/post/2c83922c157f950508072be3e04f8bf1d0f6087b5fe09c76ce231bf61b02b56e/</link><pubDate>Mon, 28 Jun 2021 11:42:52 +0000</pubDate><guid>https://news.panz3r.dev/post/2c83922c157f950508072be3e04f8bf1d0f6087b5fe09c76ce231bf61b02b56e/</guid><description>
+Comments URL: …</description></item><item><title>The Method of Loci: Build Your Memory Palace</title><link>https://news.panz3r.dev/post/5e45b708acce7a359fc6927eda164c97802b84112f5258c128b5a541beebddd7/</link><pubDate>Mon, 28 Jun 2021 13:16:39 +0000</pubDate><guid>https://news.panz3r.dev/post/5e45b708acce7a359fc6927eda164c97802b84112f5258c128b5a541beebddd7/</guid><description>
+Article URL: https://fs.blog/2021/06/memory-palace/
+Comments URL: https://news.ycombinator.com/item?id=27661532
+Points: 52
+# Comments: 21</description></item><item><title>World’s first lab-grown meat facility pumps out 5k burgers per day</title><link>https://news.panz3r.dev/post/2c83922c157f950508072be3e04f8bf1d0f6087b5fe09c76ce231bf61b02b56e/</link><pubDate>Mon, 28 Jun 2021 11:42:52 +0000</pubDate><guid>https://news.panz3r.dev/post/2c83922c157f950508072be3e04f8bf1d0f6087b5fe09c76ce231bf61b02b56e/</guid><description>
 Article URL: https://www.slashgear.com/worlds-first-lab-grown-meat-facility-pumps-out-5000-burgers-per-day-25680053/
 Comments URL: …</description></item><item><title>Subdomains for IPFS</title><link>https://news.panz3r.dev/post/decb585746b031e41fac8f0aa9db53820a73d753a7f06df73c46ea18ae21e2ef/</link><pubDate>Mon, 28 Jun 2021 10:59:31 +0000</pubDate><guid>https://news.panz3r.dev/post/decb585746b031e41fac8f0aa9db53820a73d753a7f06df73c46ea18ae21e2ef/</guid><description>
 Article URL: https://ipds.io/
@@ -516,45 +557,4 @@ Comments URL: https://news.ycombinator.com/item?id=27634456
 Points: 288
 # Comments: …</description></item><item><title>A man whose software ate the world</title><link>https://news.panz3r.dev/post/1082ce0fee99cd09f1c9e37e7a33e4d525019095fc82e951efaa25011e697a12/</link><pubDate>Fri, 25 Jun 2021 18:08:27 +0000</pubDate><guid>https://news.panz3r.dev/post/1082ce0fee99cd09f1c9e37e7a33e4d525019095fc82e951efaa25011e697a12/</guid><description>
 Article URL: https://www.thepullrequest.com/p/the-man-whose-software-ate-the-world
-Comments URL: …</description></item><item><title>Notes on streaming large API responses</title><link>https://news.panz3r.dev/post/ed6ea34d4e991c51943e39a4cf633d4c4a203b8742df1f24262a23c399c725c7/</link><pubDate>Fri, 25 Jun 2021 16:30:08 +0000</pubDate><guid>https://news.panz3r.dev/post/ed6ea34d4e991c51943e39a4cf633d4c4a203b8742df1f24262a23c399c725c7/</guid><description>
-Article URL: https://simonwillison.net/2021/Jun/25/streaming-large-api-responses/
-Comments URL: …</description></item><item><title>Why do recipe writers lie about how long it takes to caramelize onions? (2012)</title><link>https://news.panz3r.dev/post/a4baf927456245367ca3684795cbc33bf298fc677352ba19daa10fb2d6d22d0a/</link><pubDate>Fri, 25 Jun 2021 16:24:11 +0000</pubDate><guid>https://news.panz3r.dev/post/a4baf927456245367ca3684795cbc33bf298fc677352ba19daa10fb2d6d22d0a/</guid><description>
-Article URL: …</description></item><item><title>Microsoft's Introduction to Rust Video Course</title><link>https://news.panz3r.dev/post/50ee5b2e66b37fa00d4a096aa959ff7ed9c8a9a5f28314fbfa706ff32b2e32ea/</link><pubDate>Fri, 25 Jun 2021 15:36:14 +0000</pubDate><guid>https://news.panz3r.dev/post/50ee5b2e66b37fa00d4a096aa959ff7ed9c8a9a5f28314fbfa706ff32b2e32ea/</guid><description>
-Article URL: https://www.youtube.com/playlist?list=PLlrxD0HtieHjbTjrchBwOVks_sr8EVW1x#
-Comments URL: …</description></item><item><title>Slamming political rivals may be the most effective way to go viral</title><link>https://news.panz3r.dev/post/6db1148f8a9c95188750aff4375f1bfc658ea160d1c26ace41173175201799bc/</link><pubDate>Fri, 25 Jun 2021 15:25:32 +0000</pubDate><guid>https://news.panz3r.dev/post/6db1148f8a9c95188750aff4375f1bfc658ea160d1c26ace41173175201799bc/</guid><description>
-Article URL: https://www.cam.ac.uk/stories/viralpolitics
-Comments URL: https://news.ycombinator.com/item?id=27631961
-Points: 66
-# Comments: …</description></item><item><title>Where did my 256 GB go? Mobile storage Analysis [pdf]</title><link>https://news.panz3r.dev/post/30b3f954a1fc9f7dbcae9f579f1a609d47e21c17e146497ac1c2d1e1336206ad/</link><pubDate>Fri, 25 Jun 2021 15:24:56 +0000</pubDate><guid>https://news.panz3r.dev/post/30b3f954a1fc9f7dbcae9f579f1a609d47e21c17e146497ac1c2d1e1336206ad/</guid><description>
-Article URL: https://dl.acm.org/doi/pdf/10.1145/3460095
-Comments URL: https://news.ycombinator.com/item?id=27631950
-Points: 118
-# Comments: …</description></item><item><title>Hierarchical Structures in PostgreSQL (2020)</title><link>https://news.panz3r.dev/post/5039eec152e9df20aed9f07174253241548ab52c1fcc71a11baebc24f905137b/</link><pubDate>Fri, 25 Jun 2021 15:10:58 +0000</pubDate><guid>https://news.panz3r.dev/post/5039eec152e9df20aed9f07174253241548ab52c1fcc71a11baebc24f905137b/</guid><description>
-Article URL: https://hoverbear.org/blog/postgresql-hierarchical-structures/
-Comments URL: https://news.ycombinator.com/item?id=27631765 …</description></item><item><title>AWS acquires Wickr</title><link>https://news.panz3r.dev/post/39fe08567b62938a0d6b074b86ee54726679f383184b92f1eb50def9fd15f8a6/</link><pubDate>Fri, 25 Jun 2021 14:38:34 +0000</pubDate><guid>https://news.panz3r.dev/post/39fe08567b62938a0d6b074b86ee54726679f383184b92f1eb50def9fd15f8a6/</guid><description>
-Article URL: https://aws.amazon.com/blogs/security/aws-welcomes-wickr-to-the-team/
-Comments URL: …</description></item><item><title>Moving from Hey to Fastmail</title><link>https://news.panz3r.dev/post/c4d2cf032bee6814890bb02c5afd6d005fa798b1023f98222ab2c988559e37f9/</link><pubDate>Fri, 25 Jun 2021 14:31:55 +0000</pubDate><guid>https://news.panz3r.dev/post/c4d2cf032bee6814890bb02c5afd6d005fa798b1023f98222ab2c988559e37f9/</guid><description>
-Article URL: https://blog.francocorrea.com/posts/moving-from-hey-to-fastmail
-Comments URL: https://news.ycombinator.com/item?id=27631243 …</description></item><item><title>AWS BugBust</title><link>https://news.panz3r.dev/post/d142251576733ee0f7149d74f46846af282fb1d139f7a562ea3a9ae9f626228d/</link><pubDate>Fri, 25 Jun 2021 14:22:55 +0000</pubDate><guid>https://news.panz3r.dev/post/d142251576733ee0f7149d74f46846af282fb1d139f7a562ea3a9ae9f626228d/</guid><description>
-Article URL: https://aws.amazon.com/about-aws/whats-new/2021/06/aws-announces-aws-bugbust/
-Comments URL: …</description></item><item><title>Hacker reveals smart meters are spilling secrets about the Texas snowstorm</title><link>https://news.panz3r.dev/post/3c1d32006e0d03eccc5a205f980cd534c837fc6e04eb5418c17bc5a088e073a7/</link><pubDate>Fri, 25 Jun 2021 13:42:38 +0000</pubDate><guid>https://news.panz3r.dev/post/3c1d32006e0d03eccc5a205f980cd534c837fc6e04eb5418c17bc5a088e073a7/</guid><description>
-Article URL: https://www.dailydot.com/debug/hacker-smart-meter-texas-snowstorm/
-Comments URL: https://news.ycombinator.com/item?id=27630651 …</description></item><item><title>Go 1.17 is deprecating the traditional use of 'go get'</title><link>https://news.panz3r.dev/post/0de963a7528f4a0f9bf71cd267879e4dd52cbf8df275d669e40f7f2cd5980579/</link><pubDate>Fri, 25 Jun 2021 13:40:51 +0000</pubDate><guid>https://news.panz3r.dev/post/0de963a7528f4a0f9bf71cd267879e4dd52cbf8df275d669e40f7f2cd5980579/</guid><description>
-Article URL: https://utcc.utoronto.ca/~cks/space/blog/programming/GoAndDeprecatingGoGet
-Comments URL: …</description></item><item><title>Private Gmail and Docs alternatives: Proton, Skiff, and more</title><link>https://news.panz3r.dev/post/7a2ca455c93f0ccb4af3b0bc4a6e4a31406aadd42f6a68f733a5c0b616a6aa7e/</link><pubDate>Fri, 25 Jun 2021 13:18:20 +0000</pubDate><guid>https://news.panz3r.dev/post/7a2ca455c93f0ccb4af3b0bc4a6e4a31406aadd42f6a68f733a5c0b616a6aa7e/</guid><description>
-Article URL: https://www.fastcompany.com/90649563/google-gmail-docs-drive-privacy-alternatives
-Comments URL: …</description></item><item><title>Starting with Kafka</title><link>https://news.panz3r.dev/post/68b6730b7b8547ec06fb2bc47097b97f5484e7f22227fb4e74a150ed11967ce5/</link><pubDate>Fri, 25 Jun 2021 11:49:19 +0000</pubDate><guid>https://news.panz3r.dev/post/68b6730b7b8547ec06fb2bc47097b97f5484e7f22227fb4e74a150ed11967ce5/</guid><description>
-Article URL: https://blog.tinybird.co/2021/06/25/starting-with-kafka/
-Comments URL: https://news.ycombinator.com/item?id=27629553
-Points: 50 …</description></item><item><title>I was let go for refusing to deploy a dark pattern</title><link>https://news.panz3r.dev/post/e20bb53ef993c94ced3a336fa31bdacbc1c504ba949aa0adc1a6d459656e11a5/</link><pubDate>Fri, 25 Jun 2021 11:47:33 +0000</pubDate><guid>https://news.panz3r.dev/post/e20bb53ef993c94ced3a336fa31bdacbc1c504ba949aa0adc1a6d459656e11a5/</guid><description>
-Article URL: https://www.peachesnstink.com/p/6pJoCuczOj8cxCUQDMlfQv
-Comments URL: https://news.ycombinator.com/item?id=27629543
-Points: 509 …</description></item><item><title>Linux Kernel maintainer to Huawei: Don't waste maintainers time</title><link>https://news.panz3r.dev/post/0b05088eec4a98e4337d136ba190e3577756a4719ffb43c2237d2880fb4a4677/</link><pubDate>Fri, 25 Jun 2021 11:24:56 +0000</pubDate><guid>https://news.panz3r.dev/post/0b05088eec4a98e4337d136ba190e3577756a4719ffb43c2237d2880fb4a4677/</guid><description>
-Article URL: https://lkml.org/lkml/2021/6/18/153
-Comments URL: https://news.ycombinator.com/item?id=27629366
-Points: 368
-# Comments: 152</description></item><item><title>Installing Windows 11 on Legacy BIOS Without Secure Boot</title><link>https://news.panz3r.dev/post/822926b95e06e5892bdee52ebea06e7810e5b72028404737049d4a1e7f35dffd/</link><pubDate>Fri, 25 Jun 2021 11:22:47 +0000</pubDate><guid>https://news.panz3r.dev/post/822926b95e06e5892bdee52ebea06e7810e5b72028404737049d4a1e7f35dffd/</guid><description>
-Article URL: https://allthings.how/how-to-install-windows-11-on-legacy-bios-without-secure-boot-or-tpm-2-0/
-Comments URL: …</description></item><item><title>The Future of Games is an Instant Flash to the past</title><link>https://news.panz3r.dev/post/339523d0757a759fc48c7862e048578a10bdabd5fed31ec05e05656d3cf2db95/</link><pubDate>Fri, 25 Jun 2021 11:21:11 +0000</pubDate><guid>https://news.panz3r.dev/post/339523d0757a759fc48c7862e048578a10bdabd5fed31ec05e05656d3cf2db95/</guid><description>
-Article URL: https://www.fortressofdoors.com/the-future-of-games-is-an-instant-flash-to-the-past/
 Comments URL: …</description></item></channel></rss>

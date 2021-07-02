@@ -1,11 +1,32 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hacker-News-Frontpage on Panz3r News</title><link>https://news.panz3r.dev/tags/hacker-news-frontpage/</link><description>Recent content in Hacker-News-Frontpage on news.panz3r.dev</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Panz3r 2021 | Vitae theme for Hugo</copyright><lastBuildDate>Thu, 01 Jul 2021 20:46:42 +0000</lastBuildDate><atom:link href="https://news.panz3r.dev/tags/hacker-news-frontpage/index.xml" rel="self" type="application/rss+xml"/><item><title>FCC reaffirms $3M fine for marketing unauthorized drone transmitters</title><link>https://news.panz3r.dev/post/ff420e5df753dcd5616281a666bdd2790873172169c3f19eb7e468a6073783d7/</link><pubDate>Thu, 01 Jul 2021 20:46:42 +0000</pubDate><guid>https://news.panz3r.dev/post/ff420e5df753dcd5616281a666bdd2790873172169c3f19eb7e468a6073783d7/</guid><description>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hacker-News-Frontpage on Panz3r News</title><link>https://news.panz3r.dev/tags/hacker-news-frontpage/</link><description>Recent content in Hacker-News-Frontpage on news.panz3r.dev</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Panz3r 2021 | Vitae theme for Hugo</copyright><lastBuildDate>Fri, 02 Jul 2021 04:40:06 +0000</lastBuildDate><atom:link href="https://news.panz3r.dev/tags/hacker-news-frontpage/index.xml" rel="self" type="application/rss+xml"/><item><title>Purelymail – cheap, no-nonsense email</title><link>https://news.panz3r.dev/post/4fa143664214fa3e2f191393ca35faf81fd7c1b5620e9d59efe10a0746b20f93/</link><pubDate>Fri, 02 Jul 2021 04:40:06 +0000</pubDate><guid>https://news.panz3r.dev/post/4fa143664214fa3e2f191393ca35faf81fd7c1b5620e9d59efe10a0746b20f93/</guid><description>
+Article URL: https://purelymail.com
+Comments URL: https://news.ycombinator.com/item?id=27707857
+Points: 98
+# Comments: 37</description></item><item><title>Alzheimer’s enigma: Why is incidence falling 16% a decade in richest countries?</title><link>https://news.panz3r.dev/post/ee1185f28c8144f32ef19ce8ace42d1589448eae7fff598b33f9dd7a5618139d/</link><pubDate>Fri, 02 Jul 2021 02:52:29 +0000</pubDate><guid>https://news.panz3r.dev/post/ee1185f28c8144f32ef19ce8ace42d1589448eae7fff598b33f9dd7a5618139d/</guid><description>
+Article URL: …</description></item><item><title>A Group Is Its Own Worst Enemy (2003)</title><link>https://news.panz3r.dev/post/48bf751108a007c4b7a963c320985b436e954bcc93faf666d60a6a82c9df80bc/</link><pubDate>Fri, 02 Jul 2021 00:00:50 +0000</pubDate><guid>https://news.panz3r.dev/post/48bf751108a007c4b7a963c320985b436e954bcc93faf666d60a6a82c9df80bc/</guid><description>
+Article URL: https://web.archive.org/web/20131130191257/http://www.shirky.com/writings/group_enemy.html
+Comments URL: …</description></item><item><title>Check If Email Exists</title><link>https://news.panz3r.dev/post/0c3342206748ea160265ad8937d4761e544fe358c279e4884eba4f2109a10892/</link><pubDate>Thu, 01 Jul 2021 22:37:35 +0000</pubDate><guid>https://news.panz3r.dev/post/0c3342206748ea160265ad8937d4761e544fe358c279e4884eba4f2109a10892/</guid><description>
+Article URL: https://github.com/reacherhq/check-if-email-exists
+Comments URL: https://news.ycombinator.com/item?id=27705742
+Points: 254
+# …</description></item><item><title>Folk wisdom on visual programming</title><link>https://news.panz3r.dev/post/c68b463eeef1d6e03aa03e7a26dc4b876f5234552989d384ac2517cb5975d52a/</link><pubDate>Thu, 01 Jul 2021 22:24:19 +0000</pubDate><guid>https://news.panz3r.dev/post/c68b463eeef1d6e03aa03e7a26dc4b876f5234552989d384ac2517cb5975d52a/</guid><description>
+Article URL: https://drossbucket.com/2021/06/30/hacker-news-folk-wisdom-on-visual-programming/
+Comments URL: …</description></item><item><title>Installing Linux into a 286 laptop from the year 1989</title><link>https://news.panz3r.dev/post/827cc340012289f6e3b4582654ab0ada7e9846be3b398b73398be0deb714e4b6/</link><pubDate>Thu, 01 Jul 2021 21:51:33 +0000</pubDate><guid>https://news.panz3r.dev/post/827cc340012289f6e3b4582654ab0ada7e9846be3b398b73398be0deb714e4b6/</guid><description>
+Article URL: https://befinitiv.wordpress.com/2021/06/30/installing-linux-into-a-286-laptop-from-the-year-1989/
+Comments URL: …</description></item><item><title>Flipper Zero: How it’s made and tested</title><link>https://news.panz3r.dev/post/8f1a6a6308c05521a9922d8717fdc4c5099121c23601c333222309e0ae4fd909/</link><pubDate>Thu, 01 Jul 2021 21:07:09 +0000</pubDate><guid>https://news.panz3r.dev/post/8f1a6a6308c05521a9922d8717fdc4c5099121c23601c333222309e0ae4fd909/</guid><description>
+Article URL: https://blog.flipperzero.one/electronics-testing/
+Comments URL: https://news.ycombinator.com/item?id=27704883
+Points: 78
+# …</description></item><item><title>FCC reaffirms $3M fine for marketing unauthorized drone transmitters</title><link>https://news.panz3r.dev/post/ff420e5df753dcd5616281a666bdd2790873172169c3f19eb7e468a6073783d7/</link><pubDate>Thu, 01 Jul 2021 20:46:42 +0000</pubDate><guid>https://news.panz3r.dev/post/ff420e5df753dcd5616281a666bdd2790873172169c3f19eb7e468a6073783d7/</guid><description>
 Article URL: http://www.arrl.org/news/view/fcc-reaffirms-nearly-3-million-fine-for-marketing-unauthorized-drone-transmitters
+Comments URL: …</description></item><item><title>Why does my installer get flagged by Windows?</title><link>https://news.panz3r.dev/post/f502c48ab6ed61b6e979c2f1cf16188216c7e60ec4ed8320353a1c2d0153a5c3/</link><pubDate>Thu, 01 Jul 2021 20:30:47 +0000</pubDate><guid>https://news.panz3r.dev/post/f502c48ab6ed61b6e979c2f1cf16188216c7e60ec4ed8320353a1c2d0153a5c3/</guid><description>
+Article URL: https://blog.pakkly.com/why-does-my-installer-get-flagged-by-windows/
 Comments URL: …</description></item><item><title>Intuit to share payroll data from 1.4M small businesses with Equifax</title><link>https://news.panz3r.dev/post/7793253288e451cee54b87e1c6a6a9a709244edc44bfc08af081be809af94fb8/</link><pubDate>Thu, 01 Jul 2021 19:02:45 +0000</pubDate><guid>https://news.panz3r.dev/post/7793253288e451cee54b87e1c6a6a9a709244edc44bfc08af081be809af94fb8/</guid><description>
 Article URL: https://krebsonsecurity.com/2021/07/intuit-to-share-payroll-data-from-1-4m-small-businesses-with-equifax/
 Comments URL: …</description></item><item><title>Fortran adds conditional expressions</title><link>https://news.panz3r.dev/post/5dacc9d0de091cc4fb3783138ea86ffc4c92a41b8df525b50f6aa80a97be333b/</link><pubDate>Thu, 01 Jul 2021 17:55:45 +0000</pubDate><guid>https://news.panz3r.dev/post/5dacc9d0de091cc4fb3783138ea86ffc4c92a41b8df525b50f6aa80a97be333b/</guid><description>
 Article URL: https://j3-fortran.org/doc/year/21/21-157r2.txt
 Comments URL: https://news.ycombinator.com/item?id=27702168
-Points: 97
+Points: 141
 # …</description></item><item><title>Monitoring Elixir Apps on Fly.io with Prometheus and PromEx</title><link>https://news.panz3r.dev/post/f170e74568de0525e9fee28f10f2730e7390853faabd8773ab886085d1fc0fa9/</link><pubDate>Thu, 01 Jul 2021 17:25:41 +0000</pubDate><guid>https://news.panz3r.dev/post/f170e74568de0525e9fee28f10f2730e7390853faabd8773ab886085d1fc0fa9/</guid><description>
 Article URL: https://fly.io/blog/monitoring-your-fly-io-apps-with-prometheus/
 Comments URL: https://news.ycombinator.com/item?id=27701727 …</description></item><item><title>Robinhood S-1 IPO</title><link>https://news.panz3r.dev/post/b77148e36a332e0c23ac40bd9c42e7cec340b56c63cb82f5606e174d26e2840a/</link><pubDate>Thu, 01 Jul 2021 17:18:17 +0000</pubDate><guid>https://news.panz3r.dev/post/b77148e36a332e0c23ac40bd9c42e7cec340b56c63cb82f5606e174d26e2840a/</guid><description>
@@ -22,8 +43,12 @@ Points: 220
 # …</description></item><item><title>Stripe Atlas: the first five years and 20k startups</title><link>https://news.panz3r.dev/post/b67b7be51a1caab23c151757704df5ff54bce2e8b10c8a6bfc4b5df20340a684/</link><pubDate>Thu, 01 Jul 2021 16:20:45 +0000</pubDate><guid>https://news.panz3r.dev/post/b67b7be51a1caab23c151757704df5ff54bce2e8b10c8a6bfc4b5df20340a684/</guid><description>
 Article URL: https://stripe.com/blog/atlas-first-five-years
 Comments URL: https://news.ycombinator.com/item?id=27700804
-Points: 168
-# …</description></item><item><title>Twitter 'troll' to pay six-figure sum in damages</title><link>https://news.panz3r.dev/post/cea3c434f44fd2bee556824bf5b2243a4f63dd4dbc492744b2c71f4dc8957101/</link><pubDate>Thu, 01 Jul 2021 15:45:47 +0000</pubDate><guid>https://news.panz3r.dev/post/cea3c434f44fd2bee556824bf5b2243a4f63dd4dbc492744b2c71f4dc8957101/</guid><description>
+Points: 193
+# …</description></item><item><title>Show HN: VentScape – Minimalistic site to vent, chat and see others do the same</title><link>https://news.panz3r.dev/post/1039e5ae042186d5a0ff2e63649925093d3542c420e3e11ed3eb66e5e040020f/</link><pubDate>Thu, 01 Jul 2021 16:12:57 +0000</pubDate><guid>https://news.panz3r.dev/post/1039e5ae042186d5a0ff2e63649925093d3542c420e3e11ed3eb66e5e040020f/</guid><description>
+Article URL: https://www.ventscape.life/chat
+Comments URL: https://news.ycombinator.com/item?id=27700695
+Points: 75
+# Comments: 34</description></item><item><title>Twitter 'troll' to pay six-figure sum in damages</title><link>https://news.panz3r.dev/post/cea3c434f44fd2bee556824bf5b2243a4f63dd4dbc492744b2c71f4dc8957101/</link><pubDate>Thu, 01 Jul 2021 15:45:47 +0000</pubDate><guid>https://news.panz3r.dev/post/cea3c434f44fd2bee556824bf5b2243a4f63dd4dbc492744b2c71f4dc8957101/</guid><description>
 Article URL: https://www.bbc.co.uk/news/uk-northern-ireland-57684497
 Comments URL: https://news.ycombinator.com/item?id=27700339
 Points: 103 …</description></item><item><title>Change.org workers form a union</title><link>https://news.panz3r.dev/post/7acb33458110f1c28b5a254de3f90e5a749debbd27b15bdf4f3eb69a54b1b7c6/</link><pubDate>Thu, 01 Jul 2021 15:36:40 +0000</pubDate><guid>https://news.panz3r.dev/post/7acb33458110f1c28b5a254de3f90e5a749debbd27b15bdf4f3eb69a54b1b7c6/</guid><description>
@@ -52,11 +77,17 @@ Points: 119
 # Comments: 82</description></item><item><title>Show HN: VisaWhen – Data on US visa issuance backlogs</title><link>https://news.panz3r.dev/post/c5792cd22c294a8202a43563f36bac4af00c4f7439cdef6bf1747a2f60d0a98d/</link><pubDate>Thu, 01 Jul 2021 12:13:34 +0000</pubDate><guid>https://news.panz3r.dev/post/c5792cd22c294a8202a43563f36bac4af00c4f7439cdef6bf1747a2f60d0a98d/</guid><description>
 Heya! Not the usual sort of thing to be posted here, but I wanted to show off what I made yesterday. Here's a sample page about H1-B visas …</description></item><item><title>An efficient way to make hash maps with insertion ordering</title><link>https://news.panz3r.dev/post/619273d40f220f2c167da44bf32c487a5fb6a3d76f74dc2b7dc9925e37caae41/</link><pubDate>Thu, 01 Jul 2021 11:21:44 +0000</pubDate><guid>https://news.panz3r.dev/post/619273d40f220f2c167da44bf32c487a5fb6a3d76f74dc2b7dc9925e37caae41/</guid><description>
 Article URL: https://blog.toit.io/hash-maps-that-dont-hate-you-1a96150b492a
-Comments URL: https://news.ycombinator.com/item?id=27698059 …</description></item><item><title>The YouTube revolution in knowledge transfer (2019)</title><link>https://news.panz3r.dev/post/94ec51e9ba40ce84fcdb338b776d7246329349a8b2ae039a658d4cba0c813771/</link><pubDate>Thu, 01 Jul 2021 11:03:53 +0000</pubDate><guid>https://news.panz3r.dev/post/94ec51e9ba40ce84fcdb338b776d7246329349a8b2ae039a658d4cba0c813771/</guid><description>
+Comments URL: https://news.ycombinator.com/item?id=27698059 …</description></item><item><title>Micron to Sell 3D XPoint Fab to Texas Instruments for $900M</title><link>https://news.panz3r.dev/post/c089e731d6044c83753b9f12c3c7687d835dbe8bb6a390733a276a64df0d451b/</link><pubDate>Thu, 01 Jul 2021 11:21:39 +0000</pubDate><guid>https://news.panz3r.dev/post/c089e731d6044c83753b9f12c3c7687d835dbe8bb6a390733a276a64df0d451b/</guid><description>
+Article URL: https://www.tomshardware.com/news/micron-to-sell-3d-xpoint-fab-to-texas-instruments-for-dollar900-million
+Comments URL: …</description></item><item><title>The YouTube revolution in knowledge transfer (2019)</title><link>https://news.panz3r.dev/post/94ec51e9ba40ce84fcdb338b776d7246329349a8b2ae039a658d4cba0c813771/</link><pubDate>Thu, 01 Jul 2021 11:03:53 +0000</pubDate><guid>https://news.panz3r.dev/post/94ec51e9ba40ce84fcdb338b776d7246329349a8b2ae039a658d4cba0c813771/</guid><description>
 Article URL: https://samoburja.com/the-youtube-revolution-in-knowledge-transfer/
 Comments URL: https://news.ycombinator.com/item?id=27697973 …</description></item><item><title>Don't encode POST bodies like GitHub Copilot, use URLSearchParams</title><link>https://news.panz3r.dev/post/3964dc8aae6465aadc03c625781fc79ed85c1dc28a14722001db8f9e1616e715/</link><pubDate>Thu, 01 Jul 2021 10:42:34 +0000</pubDate><guid>https://news.panz3r.dev/post/3964dc8aae6465aadc03c625781fc79ed85c1dc28a14722001db8f9e1616e715/</guid><description>
 Article URL: https://jakearchibald.com/2021/encoding-data-for-post-requests/
-Comments URL: https://news.ycombinator.com/item?id=27697884 …</description></item><item><title>Show HN: Less Addictive YouTube – a cross-browser plugin</title><link>https://news.panz3r.dev/post/56b2500baebc05b0cabb324c34e42ed1ea8403eefcf1eba8359c04730b062534/</link><pubDate>Thu, 01 Jul 2021 08:22:35 +0000</pubDate><guid>https://news.panz3r.dev/post/56b2500baebc05b0cabb324c34e42ed1ea8403eefcf1eba8359c04730b062534/</guid><description>
+Comments URL: https://news.ycombinator.com/item?id=27697884 …</description></item><item><title>Uno – the “unit” for dimensionless quantities</title><link>https://news.panz3r.dev/post/55e787f8fc799a057c848ff8bca1d83ffbd26f46465c8aba20751858d18c866f/</link><pubDate>Thu, 01 Jul 2021 10:34:28 +0000</pubDate><guid>https://news.panz3r.dev/post/55e787f8fc799a057c848ff8bca1d83ffbd26f46465c8aba20751858d18c866f/</guid><description>
+Article URL: https://en.wikipedia.org/wiki/Parts-per_notation#Uno
+Comments URL: https://news.ycombinator.com/item?id=27697855
+Points: 96
+# …</description></item><item><title>Show HN: Less Addictive YouTube – a cross-browser plugin</title><link>https://news.panz3r.dev/post/56b2500baebc05b0cabb324c34e42ed1ea8403eefcf1eba8359c04730b062534/</link><pubDate>Thu, 01 Jul 2021 08:22:35 +0000</pubDate><guid>https://news.panz3r.dev/post/56b2500baebc05b0cabb324c34e42ed1ea8403eefcf1eba8359c04730b062534/</guid><description>
 Article URL: https://github.com/JesseDrain/Less-Addictive-YouTube
 Comments URL: https://news.ycombinator.com/item?id=27697286
 Points: 102
@@ -88,7 +119,9 @@ Comments URL: …</description></item><item><title>Is Facebook's “Prophet” t
 Article URL: https://www.microprediction.com/blog/prophet
 Comments URL: https://news.ycombinator.com/item?id=27695574
 Points: 139
-# …</description></item><item><title>Otter Browser</title><link>https://news.panz3r.dev/post/0d7dbc928233bac3ac4e0352c90d3c153a2cc837eaa0a09c2db4938544afcf82/</link><pubDate>Thu, 01 Jul 2021 01:35:18 +0000</pubDate><guid>https://news.panz3r.dev/post/0d7dbc928233bac3ac4e0352c90d3c153a2cc837eaa0a09c2db4938544afcf82/</guid><description>
+# …</description></item><item><title>Mudras in Indian Dance</title><link>https://news.panz3r.dev/post/408938dfc85d10330ac3c9ce0cc72e91f6b870d1fe7da693b970c35a77d623f4/</link><pubDate>Thu, 01 Jul 2021 01:38:50 +0000</pubDate><guid>https://news.panz3r.dev/post/408938dfc85d10330ac3c9ce0cc72e91f6b870d1fe7da693b970c35a77d623f4/</guid><description>
+Article URL: https://www.webindia123.com/dances/abhinaya/angika%20bhinaya/asamyukta.htm
+Comments URL: …</description></item><item><title>Otter Browser</title><link>https://news.panz3r.dev/post/0d7dbc928233bac3ac4e0352c90d3c153a2cc837eaa0a09c2db4938544afcf82/</link><pubDate>Thu, 01 Jul 2021 01:35:18 +0000</pubDate><guid>https://news.panz3r.dev/post/0d7dbc928233bac3ac4e0352c90d3c153a2cc837eaa0a09c2db4938544afcf82/</guid><description>
 Article URL: https://otter-browser.org
 Comments URL: https://news.ycombinator.com/item?id=27695463
 Points: 122
@@ -528,35 +561,4 @@ Article URL: https://briarproject.org/
 Comments URL: https://news.ycombinator.com/item?id=27649123
 Points: 106
 # Comments: 46</description></item><item><title>Michelin Puts Puffy Sails on Cargo Ships</title><link>https://news.panz3r.dev/post/cbce283b57e109cec66ddfb69352686966fc99582492f747b4d3f2c75b72fc23/</link><pubDate>Sun, 27 Jun 2021 06:22:38 +0000</pubDate><guid>https://news.panz3r.dev/post/cbce283b57e109cec66ddfb69352686966fc99582492f747b4d3f2c75b72fc23/</guid><description>
-Article URL: https://spectrum.ieee.org/energywise/green-tech/wind/michelin-puffy-sails-cargo-ships-improve-fuel-economy#.YNezQMYEw4I.twitter …</description></item><item><title>Mumble: Open-Source, Low Latency, High Quality Voice Chat</title><link>https://news.panz3r.dev/post/6da36d25d7176e7dca261b508db22f295ade36ee1c46c974208ce08090608206/</link><pubDate>Sun, 27 Jun 2021 05:41:52 +0000</pubDate><guid>https://news.panz3r.dev/post/6da36d25d7176e7dca261b508db22f295ade36ee1c46c974208ce08090608206/</guid><description>
-Article URL: https://www.mumble.info/
-Comments URL: https://news.ycombinator.com/item?id=27648915
-Points: 504
-# Comments: 229</description></item><item><title>Lambda Calculus Examples (2009) [pdf]</title><link>https://news.panz3r.dev/post/054640bc4b5b9aabce69114238eea47819f6d4ecb6c423c4054d3c2081b47748/</link><pubDate>Sun, 27 Jun 2021 05:32:24 +0000</pubDate><guid>https://news.panz3r.dev/post/054640bc4b5b9aabce69114238eea47819f6d4ecb6c423c4054d3c2081b47748/</guid><description>
-Article URL: https://www.ics.uci.edu/~lopes/teaching/inf212W12/readings/lambda-calculus-handout.pdf
-Comments URL: …</description></item><item><title>World’s smallest, best acoustic amplifier emerges from 50-year-old hypothesis</title><link>https://news.panz3r.dev/post/64aa86b744349e166c31b283c0b023f0b0669779ff78e0cddcf2d5cb34c13a01/</link><pubDate>Sun, 27 Jun 2021 05:17:33 +0000</pubDate><guid>https://news.panz3r.dev/post/64aa86b744349e166c31b283c0b023f0b0669779ff78e0cddcf2d5cb34c13a01/</guid><description>
-Article URL: https://www.sandia.gov/news/publications/labnews/articles/2021/06-18/acoustic.html
-Comments URL: …</description></item><item><title>CompCert – Formally-verified C compiler</title><link>https://news.panz3r.dev/post/668605e32fb45604b5812f6880e4179ecfe9e5f193b21d213f4a3c1f6db60a7c/</link><pubDate>Sun, 27 Jun 2021 04:58:54 +0000</pubDate><guid>https://news.panz3r.dev/post/668605e32fb45604b5812f6880e4179ecfe9e5f193b21d213f4a3c1f6db60a7c/</guid><description>
-Article URL: https://github.com/AbsInt/CompCert
-Comments URL: https://news.ycombinator.com/item?id=27648735
-Points: 197
-# Comments: 94</description></item><item><title>Why mimicking a device is becoming almost impossible</title><link>https://news.panz3r.dev/post/7f2df6ab70f109b98dfca630b7f54818cebb52b8d7650193025c98a342aab261/</link><pubDate>Sun, 27 Jun 2021 04:54:21 +0000</pubDate><guid>https://news.panz3r.dev/post/7f2df6ab70f109b98dfca630b7f54818cebb52b8d7650193025c98a342aab261/</guid><description>
-Article URL: https://multilogin.com/why-mimicking-a-device-is-almost-impossible/
-Comments URL: https://news.ycombinator.com/item?id=27648719 …</description></item><item><title>OpenSmalltalk – cross-platform virtual machine for Squeak, Pharo, Cuis, Newspeak</title><link>https://news.panz3r.dev/post/90b3aaa26f26898e35277ef217074de2cae6abc025548148d28d3f5523e257d9/</link><pubDate>Sun, 27 Jun 2021 04:23:20 +0000</pubDate><guid>https://news.panz3r.dev/post/90b3aaa26f26898e35277ef217074de2cae6abc025548148d28d3f5523e257d9/</guid><description>
-Article URL: https://opensmalltalk.org/
-Comments URL: https://news.ycombinator.com/item?id=27648568
-Points: 58
-# Comments: 0</description></item><item><title>Crazy Conclusions in Early Childhood</title><link>https://news.panz3r.dev/post/a3e08f50411a6ad29529ab7914fa9876e853086c95af03f5386ff948bc235d45/</link><pubDate>Sun, 27 Jun 2021 04:02:03 +0000</pubDate><guid>https://news.panz3r.dev/post/a3e08f50411a6ad29529ab7914fa9876e853086c95af03f5386ff948bc235d45/</guid><description>
-Article URL: https://raisingfutureadults.blogspot.com/2021/06/crazeh-conclusions-in-early-childhood.html
-Comments URL: …</description></item><item><title>Austin cyclists split on sharing bike lanes with pizza delivery robots</title><link>https://news.panz3r.dev/post/c91c7622af9c8d5fd6facf1bff46ec2092ecb64a67ce4dd75aae6e20df399c62/</link><pubDate>Sun, 27 Jun 2021 02:14:19 +0000</pubDate><guid>https://news.panz3r.dev/post/c91c7622af9c8d5fd6facf1bff46ec2092ecb64a67ce4dd75aae6e20df399c62/</guid><description>
-Article URL: …</description></item><item><title>How Math Might Reveal Quantum Gravity</title><link>https://news.panz3r.dev/post/1db48f6eb31ff18a4c60e4d864073eeb4b4aae1b08df99d7c4f7da04dfb4ea55/</link><pubDate>Sun, 27 Jun 2021 01:22:57 +0000</pubDate><guid>https://news.panz3r.dev/post/1db48f6eb31ff18a4c60e4d864073eeb4b4aae1b08df99d7c4f7da04dfb4ea55/</guid><description>
-Article URL: https://www.quantamagazine.org/nathan-seiberg-on-how-math-might-reveal-quantum-gravity-20210624/
-Comments URL: …</description></item><item><title>The Unlikely Survival of the 1,081 Year-Old Redwood El Palo Alto</title><link>https://news.panz3r.dev/post/05f2f3c5875f8ff203ce30103b04257df4c79431eba364bc741c005b60a7e34e/</link><pubDate>Sun, 27 Jun 2021 01:02:51 +0000</pubDate><guid>https://news.panz3r.dev/post/05f2f3c5875f8ff203ce30103b04257df4c79431eba364bc741c005b60a7e34e/</guid><description>
-Article URL: https://www.nytimes.com/2021/06/26/us/palo-alto-redwood.html
-Comments URL: https://news.ycombinator.com/item?id=27647551 …</description></item><item><title>Early Van Gogh sketches discovered in a book</title><link>https://news.panz3r.dev/post/3c030118c590ecb88f7a14e9a7ffc59580584a85675f4df5e76c9b2e0f1e71ce/</link><pubDate>Sun, 27 Jun 2021 00:47:24 +0000</pubDate><guid>https://news.panz3r.dev/post/3c030118c590ecb88f7a14e9a7ffc59580584a85675f4df5e76c9b2e0f1e71ce/</guid><description>
-Article URL: https://www.theartnewspaper.com/blog/van-gogh-found-tucked-into-a-novel
-Comments URL: …</description></item><item><title>I spent 5 years writing my own operating system</title><link>https://news.panz3r.dev/post/5da5a86a5f5035e9f5b1f6b000142c2ccb68c997d24fa0b1107186825b301d60/</link><pubDate>Sat, 26 Jun 2021 23:43:39 +0000</pubDate><guid>https://news.panz3r.dev/post/5da5a86a5f5035e9f5b1f6b000142c2ccb68c997d24fa0b1107186825b301d60/</guid><description>
-Article URL: https://github.com/halfer53/winix
-Comments URL: https://news.ycombinator.com/item?id=27647079
-Points: 715
-# Comments: 93</description></item></channel></rss>
+Article URL: https://spectrum.ieee.org/energywise/green-tech/wind/michelin-puffy-sails-cargo-ships-improve-fuel-economy#.YNezQMYEw4I.twitter …</description></item></channel></rss>

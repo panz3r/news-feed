@@ -1,25 +1,64 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hacker-News-Frontpage on Panz3r News</title><link>https://news.panz3r.dev/tags/hacker-news-frontpage/</link><description>Recent content in Hacker-News-Frontpage on news.panz3r.dev</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Panz3r 2021 | Vitae theme for Hugo</copyright><lastBuildDate>Mon, 05 Jul 2021 15:38:32 +0000</lastBuildDate><atom:link href="https://news.panz3r.dev/tags/hacker-news-frontpage/index.xml" rel="self" type="application/rss+xml"/><item><title>Barclays stops UK clients from sending funds to Binance</title><link>https://news.panz3r.dev/post/ad1f9b2b1c9db9913208e0086bee4ff9d96fd6f569421546dd8938a589c654ed/</link><pubDate>Mon, 05 Jul 2021 15:38:32 +0000</pubDate><guid>https://news.panz3r.dev/post/ad1f9b2b1c9db9913208e0086bee4ff9d96fd6f569421546dd8938a589c654ed/</guid><description>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hacker-News-Frontpage on Panz3r News</title><link>https://news.panz3r.dev/tags/hacker-news-frontpage/</link><description>Recent content in Hacker-News-Frontpage on news.panz3r.dev</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Panz3r 2021 | Vitae theme for Hugo</copyright><lastBuildDate>Mon, 05 Jul 2021 21:18:38 +0000</lastBuildDate><atom:link href="https://news.panz3r.dev/tags/hacker-news-frontpage/index.xml" rel="self" type="application/rss+xml"/><item><title>Audacity fork without any sentry telemetry or crash reporting</title><link>https://news.panz3r.dev/post/b17d6244d4f4e979022458408ac987033a1f025aac392b2225ecd65c92b5544e/</link><pubDate>Mon, 05 Jul 2021 21:18:38 +0000</pubDate><guid>https://news.panz3r.dev/post/b17d6244d4f4e979022458408ac987033a1f025aac392b2225ecd65c92b5544e/</guid><description>
+Article URL: https://github.com/cookiengineer/audacity
+Comments URL: https://news.ycombinator.com/item?id=27741910
+Points: 118
+# Comments: …</description></item><item><title>How iOS 15 makes apps launch faster</title><link>https://news.panz3r.dev/post/02d8aead791096c3d1bad04502ba96d5b7c6f8b78b92ef76e695c6ce87d9c3c0/</link><pubDate>Mon, 05 Jul 2021 19:42:24 +0000</pubDate><guid>https://news.panz3r.dev/post/02d8aead791096c3d1bad04502ba96d5b7c6f8b78b92ef76e695c6ce87d9c3c0/</guid><description>
+Article URL: https://medium.com/geekculture/how-ios-15-makes-your-app-launch-faster-51cf0aa6c520
+Comments URL: …</description></item><item><title>Writing a Firmware-Only Keylogger</title><link>https://news.panz3r.dev/post/5c34bd864501a411d3d80ed027ecd3c690b5ff1aed7ce00c92d254816ee63799/</link><pubDate>Mon, 05 Jul 2021 17:54:46 +0000</pubDate><guid>https://news.panz3r.dev/post/5c34bd864501a411d3d80ed027ecd3c690b5ff1aed7ce00c92d254816ee63799/</guid><description>
+Article URL: https://8051enthusiast.github.io/2021/07/05/002-wifi_fun.html
+Comments URL: https://news.ycombinator.com/item?id=27740295 …</description></item><item><title>Transfer.sh – Easy file sharing from the command line</title><link>https://news.panz3r.dev/post/ea5696b598a02944401f164abba65d0c5801a82d348e7afac52535385e6c573e/</link><pubDate>Mon, 05 Jul 2021 17:22:16 +0000</pubDate><guid>https://news.panz3r.dev/post/ea5696b598a02944401f164abba65d0c5801a82d348e7afac52535385e6c573e/</guid><description>
+Article URL: https://transfer.sh
+Comments URL: https://news.ycombinator.com/item?id=27739991
+Points: 103
+# Comments: 44</description></item><item><title>Ever Given: Egypt agrees deal to release ship that blocked Suez Canal</title><link>https://news.panz3r.dev/post/22cc17c307baf04c976c228199c96a354ba346e68ff051c055f0a57d99d2d47f/</link><pubDate>Mon, 05 Jul 2021 17:02:34 +0000</pubDate><guid>https://news.panz3r.dev/post/22cc17c307baf04c976c228199c96a354ba346e68ff051c055f0a57d99d2d47f/</guid><description>
+Article URL: https://www.bbc.com/news/world-middle-east-57719551
+Comments URL: https://news.ycombinator.com/item?id=27739860
+Points: 90
+# …</description></item><item><title>AI Explorables: big ideas in machine learning, simply explained</title><link>https://news.panz3r.dev/post/dd35341e3f9f85a0f8a2b225606f70a171699690b51767132dc588e71d9e12df/</link><pubDate>Mon, 05 Jul 2021 16:41:33 +0000</pubDate><guid>https://news.panz3r.dev/post/dd35341e3f9f85a0f8a2b225606f70a171699690b51767132dc588e71d9e12df/</guid><description>
+Article URL: https://pair.withgoogle.com/explorables/
+Comments URL: https://news.ycombinator.com/item?id=27739694
+Points: 93
+# Comments: 18</description></item><item><title>Show HN: RSS feeds for arbitrary websites using CSS selectors</title><link>https://news.panz3r.dev/post/97d7eabc74d323432080607012ee356e54fc97faa15c4690e59f11de15acd835/</link><pubDate>Mon, 05 Jul 2021 16:28:02 +0000</pubDate><guid>https://news.panz3r.dev/post/97d7eabc74d323432080607012ee356e54fc97faa15c4690e59f11de15acd835/</guid><description>
+Article URL: https://feed-me-up-scotty.vincenttunru.com/
+Comments URL: https://news.ycombinator.com/item?id=27739568
+Points: 317
+# Comments: …</description></item><item><title>European plan for gigantic new gravitational wave detector passes milestone</title><link>https://news.panz3r.dev/post/29729447f71ac2d368435e9fc66f32de1c9fb22cc9e58da783370bb9b24d9818/</link><pubDate>Mon, 05 Jul 2021 16:21:47 +0000</pubDate><guid>https://news.panz3r.dev/post/29729447f71ac2d368435e9fc66f32de1c9fb22cc9e58da783370bb9b24d9818/</guid><description>
+Article URL: https://www.sciencemag.org/news/2021/07/european-plan-gigantic-new-gravitational-wave-detector-passes-milestone
+Comments URL: …</description></item><item><title>Tony Hoare answers questions [video]</title><link>https://news.panz3r.dev/post/8b365e6185f3144aecc0b5da227c666b8723fbe5a0a02349627a22df4561cfc7/</link><pubDate>Mon, 05 Jul 2021 16:20:58 +0000</pubDate><guid>https://news.panz3r.dev/post/8b365e6185f3144aecc0b5da227c666b8723fbe5a0a02349627a22df4561cfc7/</guid><description>
+Article URL: https://www.newton.ac.uk/seminar/20210607180018301/
+Comments URL: https://news.ycombinator.com/item?id=27739494
+Points: 65
+# …</description></item><item><title>Barclays stops UK clients from sending funds to Binance</title><link>https://news.panz3r.dev/post/ad1f9b2b1c9db9913208e0086bee4ff9d96fd6f569421546dd8938a589c654ed/</link><pubDate>Mon, 05 Jul 2021 15:38:32 +0000</pubDate><guid>https://news.panz3r.dev/post/ad1f9b2b1c9db9913208e0086bee4ff9d96fd6f569421546dd8938a589c654ed/</guid><description>
 Article URL: https://www.ft.com/content/abc04cc0-ea53-4ecb-8c1e-49c85014fa3f
-Comments URL: https://news.ycombinator.com/item?id=27739034 …</description></item><item><title>Computing Performance on the Horizon</title><link>https://news.panz3r.dev/post/3ded4ceda71f61ef9f0cf632fe9b39fe820d51e9a65f534aced3a99c3e1853ae/</link><pubDate>Mon, 05 Jul 2021 14:24:45 +0000</pubDate><guid>https://news.panz3r.dev/post/3ded4ceda71f61ef9f0cf632fe9b39fe820d51e9a65f534aced3a99c3e1853ae/</guid><description>
+Comments URL: https://news.ycombinator.com/item?id=27739034 …</description></item><item><title>Measuring memory usage in Python: it’s tricky</title><link>https://news.panz3r.dev/post/7f5d8f30c300c5271dd3894c14bda8766e40d6079af2083078ec1ca215b364c1/</link><pubDate>Mon, 05 Jul 2021 14:52:59 +0000</pubDate><guid>https://news.panz3r.dev/post/7f5d8f30c300c5271dd3894c14bda8766e40d6079af2083078ec1ca215b364c1/</guid><description>
+Article URL: https://pythonspeed.com/articles/measuring-memory-python/
+Comments URL: https://news.ycombinator.com/item?id=27738566
+Points: …</description></item><item><title>Computing Performance on the Horizon</title><link>https://news.panz3r.dev/post/3ded4ceda71f61ef9f0cf632fe9b39fe820d51e9a65f534aced3a99c3e1853ae/</link><pubDate>Mon, 05 Jul 2021 14:24:45 +0000</pubDate><guid>https://news.panz3r.dev/post/3ded4ceda71f61ef9f0cf632fe9b39fe820d51e9a65f534aced3a99c3e1853ae/</guid><description>
 Article URL: https://brendangregg.com/blog/2021-07-05/computing-performance-on-the-horizon.html
 Comments URL: …</description></item><item><title>Show HN: Lego Brick Scanner – open-source Boilerplate</title><link>https://news.panz3r.dev/post/50926a18d4a3134f1dae45b9e7f5ddced44d073a9750626bbd62dda21c9e7c59/</link><pubDate>Mon, 05 Jul 2021 14:15:41 +0000</pubDate><guid>https://news.panz3r.dev/post/50926a18d4a3134f1dae45b9e7f5ddced44d073a9750626bbd62dda21c9e7c59/</guid><description>
 Article URL: https://github.com/GistNoesis/BrickRegistration
 Comments URL: https://news.ycombinator.com/item?id=27738232
-Points: 62
-# …</description></item><item><title>Music for Programming</title><link>https://news.panz3r.dev/post/d08e9bd9c7b9ca1a952fd530329981bc82329874ee28732ef045cef3d72a6d52/</link><pubDate>Mon, 05 Jul 2021 13:42:09 +0000</pubDate><guid>https://news.panz3r.dev/post/d08e9bd9c7b9ca1a952fd530329981bc82329874ee28732ef045cef3d72a6d52/</guid><description>
+Points: 120
+# …</description></item><item><title>The Future of Deep Learning Is Photonic</title><link>https://news.panz3r.dev/post/96db4acd6459c752e37a6ae3e1046b8aa93ada68d99c191b417249884c793b1f/</link><pubDate>Mon, 05 Jul 2021 13:56:32 +0000</pubDate><guid>https://news.panz3r.dev/post/96db4acd6459c752e37a6ae3e1046b8aa93ada68d99c191b417249884c793b1f/</guid><description>
+Article URL: https://spectrum.ieee.org/computing/hardware/the-future-of-deep-learning-is-photonic
+Comments URL: …</description></item><item><title>Music for Programming</title><link>https://news.panz3r.dev/post/d08e9bd9c7b9ca1a952fd530329981bc82329874ee28732ef045cef3d72a6d52/</link><pubDate>Mon, 05 Jul 2021 13:42:09 +0000</pubDate><guid>https://news.panz3r.dev/post/d08e9bd9c7b9ca1a952fd530329981bc82329874ee28732ef045cef3d72a6d52/</guid><description>
 Article URL: https://www.musicforprogramming.net/
 Comments URL: https://news.ycombinator.com/item?id=27737887
-Points: 127
-# Comments: 70</description></item><item><title>XiangShan open-source 64-bit RISC-V processor to rival Arm Cortex-A76</title><link>https://news.panz3r.dev/post/c1d35d6581f521d02671466b559abaa7e4887fc767701ae03d6c76bb9a03a8a2/</link><pubDate>Mon, 05 Jul 2021 13:24:11 +0000</pubDate><guid>https://news.panz3r.dev/post/c1d35d6581f521d02671466b559abaa7e4887fc767701ae03d6c76bb9a03a8a2/</guid><description>
+Points: 235
+# Comments: 115</description></item><item><title>XiangShan open-source 64-bit RISC-V processor to rival Arm Cortex-A76</title><link>https://news.panz3r.dev/post/c1d35d6581f521d02671466b559abaa7e4887fc767701ae03d6c76bb9a03a8a2/</link><pubDate>Mon, 05 Jul 2021 13:24:11 +0000</pubDate><guid>https://news.panz3r.dev/post/c1d35d6581f521d02671466b559abaa7e4887fc767701ae03d6c76bb9a03a8a2/</guid><description>
 Article URL: https://www.cnx-software.com/2021/07/05/xiangshan-open-source-64-bit-risc-v-processor-rival-arm-cortex-a76/
-Comments URL: …</description></item><item><title>Everything useful I know about kubectl</title><link>https://news.panz3r.dev/post/6bbf8d3df46a4d2a2ac00304fec34961e5d31f3010c62507eb00e9938c479f93/</link><pubDate>Mon, 05 Jul 2021 12:04:02 +0000</pubDate><guid>https://news.panz3r.dev/post/6bbf8d3df46a4d2a2ac00304fec34961e5d31f3010c62507eb00e9938c479f93/</guid><description>
+Comments URL: …</description></item><item><title>A Closer Look at Fractals</title><link>https://news.panz3r.dev/post/0cf9d6941be8254d62b6e4974ba9c81bbce01cf69050e0f8121ae675b2ab4dc2/</link><pubDate>Mon, 05 Jul 2021 13:22:50 +0000</pubDate><guid>https://news.panz3r.dev/post/0cf9d6941be8254d62b6e4974ba9c81bbce01cf69050e0f8121ae675b2ab4dc2/</guid><description>
+Article URL: https://blog.fract.al/post/62180302979/a-closer-look-at-fractals
+Comments URL: https://news.ycombinator.com/item?id=27737705 …</description></item><item><title>Everything useful I know about kubectl</title><link>https://news.panz3r.dev/post/6bbf8d3df46a4d2a2ac00304fec34961e5d31f3010c62507eb00e9938c479f93/</link><pubDate>Mon, 05 Jul 2021 12:04:02 +0000</pubDate><guid>https://news.panz3r.dev/post/6bbf8d3df46a4d2a2ac00304fec34961e5d31f3010c62507eb00e9938c479f93/</guid><description>
 Article URL: https://www.atomiccommits.io/everything-useful-i-know-about-kubectl/
 Comments URL: …</description></item><item><title>New mystery AWS product ‘Infinidash’ goes viral despite being entirely fictional</title><link>https://news.panz3r.dev/post/46b4afc1a1f9f75e68f59879a305e1a5236c2539ac3aa750e38201f834fbcdd4/</link><pubDate>Mon, 05 Jul 2021 11:27:40 +0000</pubDate><guid>https://news.panz3r.dev/post/46b4afc1a1f9f75e68f59879a305e1a5236c2539ac3aa750e38201f834fbcdd4/</guid><description>
 Article URL: https://www.theregister.com/2021/07/05/infinidash/
 Comments URL: https://news.ycombinator.com/item?id=27736788
 Points: 167
 # …</description></item><item><title>Highview Developing 50MW/500MWh Liquid Air Energy Storage Facility in Chile</title><link>https://news.panz3r.dev/post/03903bbd54059a4deb2995b67080fd5e2230540456feecf7799c85a51b3f09de/</link><pubDate>Mon, 05 Jul 2021 11:20:45 +0000</pubDate><guid>https://news.panz3r.dev/post/03903bbd54059a4deb2995b67080fd5e2230540456feecf7799c85a51b3f09de/</guid><description>
-Article URL: …</description></item><item><title>GitHub Copilot is not infringing copyright</title><link>https://news.panz3r.dev/post/055956cea3120bc6b755f2736bc76baac4bf7193fe2367e19dd4da3434ac272c/</link><pubDate>Mon, 05 Jul 2021 11:10:49 +0000</pubDate><guid>https://news.panz3r.dev/post/055956cea3120bc6b755f2736bc76baac4bf7193fe2367e19dd4da3434ac272c/</guid><description>
+Article URL: …</description></item><item><title>The Rise and Fall of the OLAP Cube (2020)</title><link>https://news.panz3r.dev/post/42e864e04887f39ff5957f728fa3870e5f0e8bf4ba60da4240bfb845a5939d09/</link><pubDate>Mon, 05 Jul 2021 11:18:33 +0000</pubDate><guid>https://news.panz3r.dev/post/42e864e04887f39ff5957f728fa3870e5f0e8bf4ba60da4240bfb845a5939d09/</guid><description>
+Article URL: https://www.holistics.io/blog/the-rise-and-fall-of-the-olap-cube/
+Comments URL: https://news.ycombinator.com/item?id=27736713 …</description></item><item><title>GitHub Copilot is not infringing copyright</title><link>https://news.panz3r.dev/post/055956cea3120bc6b755f2736bc76baac4bf7193fe2367e19dd4da3434ac272c/</link><pubDate>Mon, 05 Jul 2021 11:10:49 +0000</pubDate><guid>https://news.panz3r.dev/post/055956cea3120bc6b755f2736bc76baac4bf7193fe2367e19dd4da3434ac272c/</guid><description>
 Article URL: https://juliareda.eu/2021/07/github-copilot-is-not-infringing-your-copyright/
 Comments URL: …</description></item><item><title>Probably Approximately Correct – A Formal Theory of Learning (2014)</title><link>https://news.panz3r.dev/post/0d07c28604f85a78ccd0816aca3e3e658e8fbf2c3146fc04ec6932761a25f976/</link><pubDate>Mon, 05 Jul 2021 10:19:18 +0000</pubDate><guid>https://news.panz3r.dev/post/0d07c28604f85a78ccd0816aca3e3e658e8fbf2c3146fc04ec6932761a25f976/</guid><description>
 Article URL: https://jeremykun.com/2014/01/02/probably-approximately-correct-a-formal-theory-of-learning/
@@ -522,30 +561,4 @@ Comments URL: …</description></item><item><title>Gap to go completely online, 
 Article URL: https://www.bbc.co.uk/news/business-57670737
 Comments URL: https://news.ycombinator.com/item?id=27695056
 Points: 77
-# Comments: …</description></item><item><title>SparkFun Hooks a Patent Troll</title><link>https://news.panz3r.dev/post/e27f48a703697f0212a2eabddca9c55db89983ce1542e41a38e20289da24c759/</link><pubDate>Wed, 30 Jun 2021 23:00:58 +0000</pubDate><guid>https://news.panz3r.dev/post/e27f48a703697f0212a2eabddca9c55db89983ce1542e41a38e20289da24c759/</guid><description>
-Article URL: https://www.sparkfun.com/news/3917
-Comments URL: https://news.ycombinator.com/item?id=27694537
-Points: 741
-# Comments: 158</description></item><item><title>Microsoft exec: Targeting of Americans’ records ‘routine’</title><link>https://news.panz3r.dev/post/377b73f505d208a390ff313ab42655e8c199f2443f7592119eb14ba4b2e49ee0/</link><pubDate>Wed, 30 Jun 2021 22:02:47 +0000</pubDate><guid>https://news.panz3r.dev/post/377b73f505d208a390ff313ab42655e8c199f2443f7592119eb14ba4b2e49ee0/</guid><description>
-Article URL: https://www.seattletimes.com/business/federal-targeting-of-americans-records-is-routine-microsoft-exec-testifies/
-Comments URL: …</description></item><item><title>Asking developers to do QA is broken – why anyone should own QA</title><link>https://news.panz3r.dev/post/e36b8bc661ee3bbb310d20c9f516af3b400dabb609212a76e58701bc23fa6a50/</link><pubDate>Wed, 30 Jun 2021 21:45:33 +0000</pubDate><guid>https://news.panz3r.dev/post/e36b8bc661ee3bbb310d20c9f516af3b400dabb609212a76e58701bc23fa6a50/</guid><description>
-Article URL: https://www.rainforestqa.com/blog/accessible-quality
-Comments URL: https://news.ycombinator.com/item?id=27693744
-Points: 168
-# …</description></item><item><title>Brickit – scans your Lego bricks and helps you build new creations</title><link>https://news.panz3r.dev/post/4aa3f445fc59557cb0fd41f6cd629ce58a4be3756d04a821980f1bc79d905590/</link><pubDate>Wed, 30 Jun 2021 21:23:43 +0000</pubDate><guid>https://news.panz3r.dev/post/4aa3f445fc59557cb0fd41f6cd629ce58a4be3756d04a821980f1bc79d905590/</guid><description>
-Article URL: https://twitter.com/AlexanderNL/status/1410253599502962692
-Comments URL: https://news.ycombinator.com/item?id=27693560
-Points: …</description></item><item><title>Heat dome causing record breaking heat wave</title><link>https://news.panz3r.dev/post/df7d504109b41eba32dcd801551b19808e36f5590541fa2bf8b0206aba85ee8d/</link><pubDate>Wed, 30 Jun 2021 21:01:56 +0000</pubDate><guid>https://news.panz3r.dev/post/df7d504109b41eba32dcd801551b19808e36f5590541fa2bf8b0206aba85ee8d/</guid><description>
-Article URL: https://www.severe-weather.eu/global-weather/heat-dome-record-breaking-heatwave-pacific-northwest-canada-united-states-mk/ …</description></item><item><title>Breakthrough in 3D scanning means results are 4500% more accurate</title><link>https://news.panz3r.dev/post/0ef734c8f361e1e8adad90c2e065eb44a97e877a5251cad4ecf537716c2bde5e/</link><pubDate>Wed, 30 Jun 2021 20:34:05 +0000</pubDate><guid>https://news.panz3r.dev/post/0ef734c8f361e1e8adad90c2e065eb44a97e877a5251cad4ecf537716c2bde5e/</guid><description>
-Article URL: https://www.lboro.ac.uk/media-centre/press-releases/2021/june/3d-scanning-results-are-4500-percent-more-precise/
-Comments URL: …</description></item><item><title>Apple Makes Mac OS X Lion and Mountain Lion Free to Download</title><link>https://news.panz3r.dev/post/97a7c8c11b39583aa2e22b9ab28bf4cdc1803a7550622edb8d5f1bba03e3429d/</link><pubDate>Wed, 30 Jun 2021 20:26:46 +0000</pubDate><guid>https://news.panz3r.dev/post/97a7c8c11b39583aa2e22b9ab28bf4cdc1803a7550622edb8d5f1bba03e3429d/</guid><description>
-Article URL: https://www.macrumors.com/2021/06/30/os-x-lion-mountain-lion-free-to-download/
-Comments URL: …</description></item><item><title>A 1982 chess computer plays itself by mechanically moving the pieces [video]</title><link>https://news.panz3r.dev/post/fec34670209fbd22688c0d4815d93fd3defc4af7b8732667d4fa6cb5d114fc60/</link><pubDate>Wed, 30 Jun 2021 18:53:42 +0000</pubDate><guid>https://news.panz3r.dev/post/fec34670209fbd22688c0d4815d93fd3defc4af7b8732667d4fa6cb5d114fc60/</guid><description>
-Article URL: https://www.youtube.com/watch?v=UxLd_wiGMA4
-Comments URL: https://news.ycombinator.com/item?id=27692179
-Points: 54
-# Comments: …</description></item><item><title>Move fast, but understand the problem first</title><link>https://news.panz3r.dev/post/0c93b95a2dd9dbaf97a3509846f2b6a911f31f0773ad9edecc23aed156ff47a6/</link><pubDate>Wed, 30 Jun 2021 17:59:09 +0000</pubDate><guid>https://news.panz3r.dev/post/0c93b95a2dd9dbaf97a3509846f2b6a911f31f0773ad9edecc23aed156ff47a6/</guid><description>
-Article URL: https://jacobobryant.com/blog/understand/
-Comments URL: https://news.ycombinator.com/item?id=27691586
-Points: 262
 # Comments: …</description></item></channel></rss>

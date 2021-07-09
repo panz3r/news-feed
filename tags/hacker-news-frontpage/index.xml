@@ -1,47 +1,59 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hacker-News-Frontpage on Panz3r News</title><link>https://news.panz3r.dev/tags/hacker-news-frontpage/</link><description>Recent content in Hacker-News-Frontpage on news.panz3r.dev</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Panz3r 2021 | Vitae theme for Hugo</copyright><lastBuildDate>Thu, 08 Jul 2021 22:13:42 +0000</lastBuildDate><atom:link href="https://news.panz3r.dev/tags/hacker-news-frontpage/index.xml" rel="self" type="application/rss+xml"/><item><title>Birds are dying in the United States and no one knows why</title><link>https://news.panz3r.dev/post/8a1e4d685f9c9179c94682b686657dd9641e014f0c0d9f85bbd4700394c8976b/</link><pubDate>Thu, 08 Jul 2021 22:13:42 +0000</pubDate><guid>https://news.panz3r.dev/post/8a1e4d685f9c9179c94682b686657dd9641e014f0c0d9f85bbd4700394c8976b/</guid><description>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hacker-News-Frontpage on Panz3r News</title><link>https://news.panz3r.dev/tags/hacker-news-frontpage/</link><description>Recent content in Hacker-News-Frontpage on news.panz3r.dev</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Panz3r 2021 | Vitae theme for Hugo</copyright><lastBuildDate>Fri, 09 Jul 2021 00:57:06 +0000</lastBuildDate><atom:link href="https://news.panz3r.dev/tags/hacker-news-frontpage/index.xml" rel="self" type="application/rss+xml"/><item><title>Home Assistant iOS app adds local push notification support</title><link>https://news.panz3r.dev/post/728bbcf3a3c69608fc317f6fc688e4a7115ead81d62f80b1adb3a65db40e57f7/</link><pubDate>Fri, 09 Jul 2021 00:57:06 +0000</pubDate><guid>https://news.panz3r.dev/post/728bbcf3a3c69608fc317f6fc688e4a7115ead81d62f80b1adb3a65db40e57f7/</guid><description>
+Article URL: https://github.com/home-assistant/iOS/releases/tag/release%2F2021.7%2F2021.202
+Comments URL: …</description></item><item><title>Google Internal Comics</title><link>https://news.panz3r.dev/post/b900202db6cc9427df15957e5803d24080d8b4cc8b2f8bb9d39a2c06ece1140d/</link><pubDate>Thu, 08 Jul 2021 23:16:34 +0000</pubDate><guid>https://news.panz3r.dev/post/b900202db6cc9427df15957e5803d24080d8b4cc8b2f8bb9d39a2c06ece1140d/</guid><description>
+Article URL: https://goomics.net/
+Comments URL: https://news.ycombinator.com/item?id=27778774
+Points: 303
+# Comments: 116</description></item><item><title>Birds are dying in the United States and no one knows why</title><link>https://news.panz3r.dev/post/8a1e4d685f9c9179c94682b686657dd9641e014f0c0d9f85bbd4700394c8976b/</link><pubDate>Thu, 08 Jul 2021 22:13:42 +0000</pubDate><guid>https://news.panz3r.dev/post/8a1e4d685f9c9179c94682b686657dd9641e014f0c0d9f85bbd4700394c8976b/</guid><description>
 Article URL: https://www.dw.com/en/birds-are-dying-in-the-united-states-and-no-one-knows-why/a-58163063
+Comments URL: …</description></item><item><title>A better business model for video folks</title><link>https://news.panz3r.dev/post/24d7748db02ebc4af92f0985c71781597611ccc35b5f88f9534acc806e4e439a/</link><pubDate>Thu, 08 Jul 2021 21:36:13 +0000</pubDate><guid>https://news.panz3r.dev/post/24d7748db02ebc4af92f0985c71781597611ccc35b5f88f9534acc806e4e439a/</guid><description>
+Article URL: https://streambus.com/
+Comments URL: https://news.ycombinator.com/item?id=27777894
+Points: 190
+# Comments: 70</description></item><item><title>California exodus is a myth, UC research project finds</title><link>https://news.panz3r.dev/post/ed1407998da8c916762d0d239b06a7b72ca7db90084b6cea5a1dc4fe3ecca2a3/</link><pubDate>Thu, 08 Jul 2021 21:36:04 +0000</pubDate><guid>https://news.panz3r.dev/post/ed1407998da8c916762d0d239b06a7b72ca7db90084b6cea5a1dc4fe3ecca2a3/</guid><description>
+Article URL: https://www.sfgate.com/local/article/California-exodus-is-just-a-myth-massive-UC-16301134.php
 Comments URL: …</description></item><item><title>Senior Google exec opposes remote work, moves to New Zealand to work remotely</title><link>https://news.panz3r.dev/post/e2f21a81b30b2d7203fd86d5e2033c9ad5ff4cd8303b7eced4fff7cecde23ab0/</link><pubDate>Thu, 08 Jul 2021 21:16:42 +0000</pubDate><guid>https://news.panz3r.dev/post/e2f21a81b30b2d7203fd86d5e2033c9ad5ff4cd8303b7eced4fff7cecde23ab0/</guid><description>
 Article URL: https://www.businessinsider.com/google-exec-reportedly-working-remote-after-opposing-it-for-staff-2021-7
 Comments URL: …</description></item><item><title>Building a data team at a mid-stage startup</title><link>https://news.panz3r.dev/post/9533f7e491acc408f73f960cfb11a98a6903f2d6aef49b1cb58f346ea52183a4/</link><pubDate>Thu, 08 Jul 2021 21:04:06 +0000</pubDate><guid>https://news.panz3r.dev/post/9533f7e491acc408f73f960cfb11a98a6903f2d6aef49b1cb58f346ea52183a4/</guid><description>
 Article URL: https://erikbern.com/2021/07/07/the-data-team-a-short-story.html
-Comments URL: https://news.ycombinator.com/item?id=27777594 …</description></item><item><title>City of Bloomington's Raspberry Pi Based Employee Timeclocks</title><link>https://news.panz3r.dev/post/a833e479f8688cc90825759892dc26f8e6ad8ca0b8979f175a530076d260defb/</link><pubDate>Thu, 08 Jul 2021 20:16:45 +0000</pubDate><guid>https://news.panz3r.dev/post/a833e479f8688cc90825759892dc26f8e6ad8ca0b8979f175a530076d260defb/</guid><description>
+Comments URL: https://news.ycombinator.com/item?id=27777594 …</description></item><item><title>TimeTrack Raspberry Pi</title><link>https://news.panz3r.dev/post/a833e479f8688cc90825759892dc26f8e6ad8ca0b8979f175a530076d260defb/</link><pubDate>Thu, 08 Jul 2021 20:16:45 +0000</pubDate><guid>https://news.panz3r.dev/post/a833e479f8688cc90825759892dc26f8e6ad8ca0b8979f175a530076d260defb/</guid><description>
 Article URL: https://city-of-bloomington.github.io/timetrack/
 Comments URL: https://news.ycombinator.com/item?id=27777077
-Points: 59
+Points: 118
 # …</description></item><item><title>List of Special Elevator Modes</title><link>https://news.panz3r.dev/post/6ed964b9dc4253739db07a98aaaa4ab2925c79b4c3200bcc5a472ed234979cce/</link><pubDate>Thu, 08 Jul 2021 19:52:09 +0000</pubDate><guid>https://news.panz3r.dev/post/6ed964b9dc4253739db07a98aaaa4ab2925c79b4c3200bcc5a472ed234979cce/</guid><description>
 Article URL: https://elevation.fandom.com/wiki/List_of_elevator_special_modes
-Comments URL: https://news.ycombinator.com/item?id=27776830 …</description></item><item><title>How I Made a Giant Mistake with Terraform (and How Azure Made It Worse)</title><link>https://news.panz3r.dev/post/c78034e4f70597247ca11259342078f03c640daaf3504679f7d2071da0f0dff0/</link><pubDate>Thu, 08 Jul 2021 19:51:53 +0000</pubDate><guid>https://news.panz3r.dev/post/c78034e4f70597247ca11259342078f03c640daaf3504679f7d2071da0f0dff0/</guid><description>
+Comments URL: https://news.ycombinator.com/item?id=27776830 …</description></item><item><title>I made a mistake with Terraform and Azure made it worse</title><link>https://news.panz3r.dev/post/c78034e4f70597247ca11259342078f03c640daaf3504679f7d2071da0f0dff0/</link><pubDate>Thu, 08 Jul 2021 19:51:53 +0000</pubDate><guid>https://news.panz3r.dev/post/c78034e4f70597247ca11259342078f03c640daaf3504679f7d2071da0f0dff0/</guid><description>
 Article URL: https://www.craigstuntz.com/posts/2021-07-08-how-i-made-a-giant-mistake-with-terraform.html
 Comments URL: …</description></item><item><title>EleutherAI One Year Retrospective</title><link>https://news.panz3r.dev/post/7902220831b86f09076dd1d9e58ef47b50309bde1057b4209e39b2f4123721ad/</link><pubDate>Thu, 08 Jul 2021 18:59:49 +0000</pubDate><guid>https://news.panz3r.dev/post/7902220831b86f09076dd1d9e58ef47b50309bde1057b4209e39b2f4123721ad/</guid><description>
 Article URL: https://blog.eleuther.ai/year-one/
 Comments URL: https://news.ycombinator.com/item?id=27776314
-Points: 72
-# Comments: 16</description></item><item><title>Death rates are declining for many common cancers in the U.S., report finds</title><link>https://news.panz3r.dev/post/907d7982112cad32bbb41c48aa7ffa4346e5b2f9410a47eb29382f2072f3948c/</link><pubDate>Thu, 08 Jul 2021 18:46:12 +0000</pubDate><guid>https://news.panz3r.dev/post/907d7982112cad32bbb41c48aa7ffa4346e5b2f9410a47eb29382f2072f3948c/</guid><description>
+Points: 113
+# Comments: 33</description></item><item><title>Death rates are declining for many common cancers in the U.S., report finds</title><link>https://news.panz3r.dev/post/907d7982112cad32bbb41c48aa7ffa4346e5b2f9410a47eb29382f2072f3948c/</link><pubDate>Thu, 08 Jul 2021 18:46:12 +0000</pubDate><guid>https://news.panz3r.dev/post/907d7982112cad32bbb41c48aa7ffa4346e5b2f9410a47eb29382f2072f3948c/</guid><description>
 Article URL: https://www.statnews.com/2021/07/08/cancer-death-rates-2021/
 Comments URL: https://news.ycombinator.com/item?id=27776184 …</description></item><item><title>Why geothermal isn't ubiquitous and how it might get that way</title><link>https://news.panz3r.dev/post/d88aa8356d2e29d4908898d8a0022d5306de1665517b2ef7ac9f09bf0885879e/</link><pubDate>Thu, 08 Jul 2021 18:24:12 +0000</pubDate><guid>https://news.panz3r.dev/post/d88aa8356d2e29d4908898d8a0022d5306de1665517b2ef7ac9f09bf0885879e/</guid><description>
 Article URL: https://austinvernon.eth.link/blog/geothermal.html
 Comments URL: https://news.ycombinator.com/item?id=27775927
-Points: 86
+Points: 142
 # …</description></item><item><title>Inside a 20-Watt Traveling Wave Tube Amplifier from Apollo</title><link>https://news.panz3r.dev/post/b69618fe7756b91d91148fff090a8d59ebb1ace74d76e0b7c4eb4986dc79aff6/</link><pubDate>Thu, 08 Jul 2021 17:20:39 +0000</pubDate><guid>https://news.panz3r.dev/post/b69618fe7756b91d91148fff090a8d59ebb1ace74d76e0b7c4eb4986dc79aff6/</guid><description>
 Article URL: http://www.righto.com/2021/07/inside-20-watt-traveling-wave-tube.html
 Comments URL: …</description></item><item><title>The Greatest Regex Trick Ever (2014)</title><link>https://news.panz3r.dev/post/439f1aa200064fbf4d9f423c60d209849ef53ab0a5edaae834aca3e17c90d1b7/</link><pubDate>Thu, 08 Jul 2021 16:49:07 +0000</pubDate><guid>https://news.panz3r.dev/post/439f1aa200064fbf4d9f423c60d209849ef53ab0a5edaae834aca3e17c90d1b7/</guid><description>
 Article URL: http://rexegg.com/regex-best-trick.html
 Comments URL: https://news.ycombinator.com/item?id=27774584
-Points: 257
-# Comments: 85</description></item><item><title>A Roadmap to Interstellar Flight (2016)</title><link>https://news.panz3r.dev/post/1117f2d2b13b7922b9dbd281f8d6c4a42de52fa3536b6afc69a56b1b6f59a40f/</link><pubDate>Thu, 08 Jul 2021 16:25:40 +0000</pubDate><guid>https://news.panz3r.dev/post/1117f2d2b13b7922b9dbd281f8d6c4a42de52fa3536b6afc69a56b1b6f59a40f/</guid><description>
+Points: 392
+# Comments: 139 …</description></item><item><title>A Roadmap to Interstellar Flight (2016)</title><link>https://news.panz3r.dev/post/1117f2d2b13b7922b9dbd281f8d6c4a42de52fa3536b6afc69a56b1b6f59a40f/</link><pubDate>Thu, 08 Jul 2021 16:25:40 +0000</pubDate><guid>https://news.panz3r.dev/post/1117f2d2b13b7922b9dbd281f8d6c4a42de52fa3536b6afc69a56b1b6f59a40f/</guid><description>
 Article URL: https://arxiv.org/abs/1604.01356
 Comments URL: https://news.ycombinator.com/item?id=27774218
-Points: 139
-# Comments: 106</description></item><item><title>A community-maintained fork of Phabricator</title><link>https://news.panz3r.dev/post/d102b05544d2c5ff38c89592a00ec93a544c8f17d78dd0c276d95300ea9914aa/</link><pubDate>Thu, 08 Jul 2021 15:59:04 +0000</pubDate><guid>https://news.panz3r.dev/post/d102b05544d2c5ff38c89592a00ec93a544c8f17d78dd0c276d95300ea9914aa/</guid><description>
+Points: 159
+# Comments: 135</description></item><item><title>A community-maintained fork of Phabricator</title><link>https://news.panz3r.dev/post/d102b05544d2c5ff38c89592a00ec93a544c8f17d78dd0c276d95300ea9914aa/</link><pubDate>Thu, 08 Jul 2021 15:59:04 +0000</pubDate><guid>https://news.panz3r.dev/post/d102b05544d2c5ff38c89592a00ec93a544c8f17d78dd0c276d95300ea9914aa/</guid><description>
 Article URL: https://we.phorge.it/source/phorge/
 Comments URL: https://news.ycombinator.com/item?id=27773747
 Points: 91
-# Comments: 21</description></item><item><title>We Got the Phone the FBI Secretly Sold to Criminals</title><link>https://news.panz3r.dev/post/9851a41dbbf14dde14d4076466b491e33c759c8dacea67a6ea1b1d75859f9020/</link><pubDate>Thu, 08 Jul 2021 15:58:12 +0000</pubDate><guid>https://news.panz3r.dev/post/9851a41dbbf14dde14d4076466b491e33c759c8dacea67a6ea1b1d75859f9020/</guid><description>
+# Comments: 21</description></item><item><title>A phone the FBI sold to criminals</title><link>https://news.panz3r.dev/post/9851a41dbbf14dde14d4076466b491e33c759c8dacea67a6ea1b1d75859f9020/</link><pubDate>Thu, 08 Jul 2021 15:58:12 +0000</pubDate><guid>https://news.panz3r.dev/post/9851a41dbbf14dde14d4076466b491e33c759c8dacea67a6ea1b1d75859f9020/</guid><description>
 Article URL: https://www.vice.com/en/article/n7b4gg/anom-phone-arcaneos-fbi-backdoor
 Comments URL: …</description></item><item><title>Hoard-of-bitfonts: bitmap fonts from disused operating systems</title><link>https://news.panz3r.dev/post/644e037b3126645432dc72f9ceb13493b365f6f4d98517b76ac292bd99fd5a77/</link><pubDate>Thu, 08 Jul 2021 15:51:09 +0000</pubDate><guid>https://news.panz3r.dev/post/644e037b3126645432dc72f9ceb13493b365f6f4d98517b76ac292bd99fd5a77/</guid><description>
 Article URL: https://github.com/robhagemans/hoard-of-bitfonts
 Comments URL: https://news.ycombinator.com/item?id=27773601
-Points: 125
+Points: 171
 # …</description></item><item><title>We replaced rental brokers with software and filled 200 vacant apartments</title><link>https://news.panz3r.dev/post/5e162c2d4c0bd0fbfb5c617857695fbf382ab53ce0342f6f5c01b596303a79b6/</link><pubDate>Thu, 08 Jul 2021 15:07:50 +0000</pubDate><guid>https://news.panz3r.dev/post/5e162c2d4c0bd0fbfb5c617857695fbf382ab53ce0342f6f5c01b596303a79b6/</guid><description>
 Article URL: https://caretaker.com/blog/we-replaced-rental-brokers-with-software-and-filled-200-vacant-apartments
 Comments URL: …</description></item><item><title>Mozilla rolls out DoH to Canadian users of Firefox</title><link>https://news.panz3r.dev/post/e190b617f6d93e5443c19aa629b17ac72b500ef70a16c65b9b87199db7f34dea/</link><pubDate>Thu, 08 Jul 2021 14:33:10 +0000</pubDate><guid>https://news.panz3r.dev/post/e190b617f6d93e5443c19aa629b17ac72b500ef70a16c65b9b87199db7f34dea/</guid><description>
@@ -527,26 +539,4 @@ Points: 63
 Article URL: http://mentallandscape.com/C_CatalogVenus.htm
 Comments URL: https://news.ycombinator.com/item?id=27727717
 Points: 258
-# …</description></item><item><title>Commit Often, Perfect Later, Publish Once: Git Best Practices</title><link>https://news.panz3r.dev/post/e68d0d0e11816089f5ae279be34badc6126efbca8666667d28e435eb92438923/</link><pubDate>Sun, 04 Jul 2021 05:45:40 +0000</pubDate><guid>https://news.panz3r.dev/post/e68d0d0e11816089f5ae279be34badc6126efbca8666667d28e435eb92438923/</guid><description>
-Article URL: https://sethrobertson.github.io/GitBestPractices/
-Comments URL: https://news.ycombinator.com/item?id=27727501
-Points: 184
-# …</description></item><item><title>Audacity may collect “Data necessary for law enforcement, litigation” and more</title><link>https://news.panz3r.dev/post/4e49252e17c012c6e3609300e5c7535e4b370add4b839f52d12b933ff369bae7/</link><pubDate>Sun, 04 Jul 2021 04:05:17 +0000</pubDate><guid>https://news.panz3r.dev/post/4e49252e17c012c6e3609300e5c7535e4b370add4b839f52d12b933ff369bae7/</guid><description>
-Article URL: https://old.reddit.com/r/linux/comments/od3h8b/audacity_may_collect_data_necessary_for_law/
-Comments URL: …</description></item><item><title>The Growth Ponzi Scheme</title><link>https://news.panz3r.dev/post/55b18f764808b3bf4457a7dfcc667ffcdd901112db67dddcc07198cb834e7cf6/</link><pubDate>Sun, 04 Jul 2021 03:59:24 +0000</pubDate><guid>https://news.panz3r.dev/post/55b18f764808b3bf4457a7dfcc667ffcdd901112db67dddcc07198cb834e7cf6/</guid><description>
-Article URL: https://www.strongtowns.org/the-growth-ponzi-scheme
-Comments URL: https://news.ycombinator.com/item?id=27727133
-Points: 213
-# …</description></item><item><title>PowerTOP – diagnose issues with power consumption and power management on Linux</title><link>https://news.panz3r.dev/post/d3bb77e44f3f52f0c65bbd482201dc169d5e0eec879f3cb48b2f90e5249c3dd0/</link><pubDate>Sun, 04 Jul 2021 03:55:45 +0000</pubDate><guid>https://news.panz3r.dev/post/d3bb77e44f3f52f0c65bbd482201dc169d5e0eec879f3cb48b2f90e5249c3dd0/</guid><description>
-Article URL: https://01.org/powertop/
-Comments URL: https://news.ycombinator.com/item?id=27727120
-Points: 60
-# Comments: 22</description></item><item><title>GPT-J “the open source cousin of GPT-3 everyone can use”</title><link>https://news.panz3r.dev/post/3509eeb48d2a959a1f4c251ff1a019a8c01afa99f95ca4d169c1e5b7a8a3e688/</link><pubDate>Sun, 04 Jul 2021 03:28:12 +0000</pubDate><guid>https://news.panz3r.dev/post/3509eeb48d2a959a1f4c251ff1a019a8c01afa99f95ca4d169c1e5b7a8a3e688/</guid><description>
-Article URL: https://github.com/kingoflolz/mesh-transformer-jax
-Comments URL: https://news.ycombinator.com/item?id=27727009
-Points: 525
-# …</description></item><item><title>Product validation frameworks are mostly useless without taste</title><link>https://news.panz3r.dev/post/08e8169abb1d71c585b06693b152aef91ff2ac027661917b64bc7a2f7d1533f8/</link><pubDate>Sat, 03 Jul 2021 23:24:03 +0000</pubDate><guid>https://news.panz3r.dev/post/08e8169abb1d71c585b06693b152aef91ff2ac027661917b64bc7a2f7d1533f8/</guid><description>
-Article URL: https://commoncog.com/blog/product-validation-taste/
-Comments URL: https://news.ycombinator.com/item?id=27725851
-Points: 52
 # …</description></item></channel></rss>

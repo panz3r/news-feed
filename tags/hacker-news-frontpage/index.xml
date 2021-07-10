@@ -1,4 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hacker-News-Frontpage on Panz3r News</title><link>https://news.panz3r.dev/tags/hacker-news-frontpage/</link><description>Recent content in Hacker-News-Frontpage on news.panz3r.dev</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Panz3r 2021 | Vitae theme for Hugo</copyright><lastBuildDate>Fri, 09 Jul 2021 20:39:49 +0000</lastBuildDate><atom:link href="https://news.panz3r.dev/tags/hacker-news-frontpage/index.xml" rel="self" type="application/rss+xml"/><item><title>A Git repository with 2^28 commits—one for every 7-character shorthash</title><link>https://news.panz3r.dev/post/c808819f4ff5bba99ccf79ab7ab567312bd4b138ce2915cedec7925f2ef1b1d0/</link><pubDate>Fri, 09 Jul 2021 20:39:49 +0000</pubDate><guid>https://news.panz3r.dev/post/c808819f4ff5bba99ccf79ab7ab567312bd4b138ce2915cedec7925f2ef1b1d0/</guid><description>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hacker-News-Frontpage on Panz3r News</title><link>https://news.panz3r.dev/tags/hacker-news-frontpage/</link><description>Recent content in Hacker-News-Frontpage on news.panz3r.dev</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Panz3r 2021 | Vitae theme for Hugo</copyright><lastBuildDate>Sat, 10 Jul 2021 02:46:57 +0000</lastBuildDate><atom:link href="https://news.panz3r.dev/tags/hacker-news-frontpage/index.xml" rel="self" type="application/rss+xml"/><item><title>Cheating in FPS by using a second computer to move mouse</title><link>https://news.panz3r.dev/post/005e3efc7a46d6884a0cccf6ece194495e45d3aad95849957cf3890e82a5eedf/</link><pubDate>Sat, 10 Jul 2021 02:46:57 +0000</pubDate><guid>https://news.panz3r.dev/post/005e3efc7a46d6884a0cccf6ece194495e45d3aad95849957cf3890e82a5eedf/</guid><description>
+Article URL: https://arstechnica.com/?p=1779166
+Comments URL: https://news.ycombinator.com/item?id=27790723
+Points: 71
+# Comments: 41</description></item><item><title>Show HN: Unlimited, free intraday stock data API</title><link>https://news.panz3r.dev/post/5737c4625a6367a20d3cdcca11af0859d6be540280c8e85f66ed0f224e6f67bb/</link><pubDate>Sat, 10 Jul 2021 01:17:01 +0000</pubDate><guid>https://news.panz3r.dev/post/5737c4625a6367a20d3cdcca11af0859d6be540280c8e85f66ed0f224e6f67bb/</guid><description>
+Article URL: https://www.styvio.com/home
+Comments URL: https://news.ycombinator.com/item?id=27790278
+Points: 71
+# Comments: 45</description></item><item><title>Creep – a pretty sweet 4px wide pixel font</title><link>https://news.panz3r.dev/post/4c6198257414a3230d4bc7b58827afaef60fa6cfba533c6a638912200461d19f/</link><pubDate>Fri, 09 Jul 2021 23:39:55 +0000</pubDate><guid>https://news.panz3r.dev/post/4c6198257414a3230d4bc7b58827afaef60fa6cfba533c6a638912200461d19f/</guid><description>
+Article URL: https://github.com/romeovs/creep
+Comments URL: https://news.ycombinator.com/item?id=27789697
+Points: 243
+# Comments: 53</description></item><item><title>How I accidentally took down GitHub Actions (2019)</title><link>https://news.panz3r.dev/post/2d730e4dd826b96f323149a65ed154ccb2d1e931ed9ca2547de5535138dfa9c7/</link><pubDate>Fri, 09 Jul 2021 22:12:34 +0000</pubDate><guid>https://news.panz3r.dev/post/2d730e4dd826b96f323149a65ed154ccb2d1e931ed9ca2547de5535138dfa9c7/</guid><description>
+Article URL: https://blog.teddykatz.com/2019/11/12/github-actions-dos.html
+Comments URL: https://news.ycombinator.com/item?id=27789101 …</description></item><item><title>VPN – A Very Precarious Narrative</title><link>https://news.panz3r.dev/post/e80cce25b54c15b59a1bb092abc536ec68b6ea58bf4221845cded718a32e2ad9/</link><pubDate>Fri, 09 Jul 2021 21:25:55 +0000</pubDate><guid>https://news.panz3r.dev/post/e80cce25b54c15b59a1bb092abc536ec68b6ea58bf4221845cded718a32e2ad9/</guid><description>
+Article URL: https://overengineer.dev/blog/2019/04/08/very-precarious-narrative.html
+Comments URL: …</description></item><item><title>Generate a Git repository with 2^28 commits—one for every 7-character shorthash</title><link>https://news.panz3r.dev/post/c808819f4ff5bba99ccf79ab7ab567312bd4b138ce2915cedec7925f2ef1b1d0/</link><pubDate>Fri, 09 Jul 2021 20:39:49 +0000</pubDate><guid>https://news.panz3r.dev/post/c808819f4ff5bba99ccf79ab7ab567312bd4b138ce2915cedec7925f2ef1b1d0/</guid><description>
 Article URL: https://github.com/not-an-aardvark/every-git-commit-shorthash
 Comments URL: https://news.ycombinator.com/item?id=27788238 …</description></item><item><title>Uber and Lyft surge pricing drives SF customers back to taxis</title><link>https://news.panz3r.dev/post/9f1c5c6375c2597ece7c3dee893eb0684079f76d5298f43b2cd082671ff35a4e/</link><pubDate>Fri, 09 Jul 2021 20:36:50 +0000</pubDate><guid>https://news.panz3r.dev/post/9f1c5c6375c2597ece7c3dee893eb0684079f76d5298f43b2cd082671ff35a4e/</guid><description>
 Article URL: https://www.sfexaminer.com/news/rideshare-surge-pricing-drives-angry-sf-customers-back-to-taxis/
@@ -9,8 +25,8 @@ Article URL: …</description></item><item><title>Amazon tells bosses to conceal
 Article URL: …</description></item><item><title>Show HN: Earthly – Better Builds</title><link>https://news.panz3r.dev/post/04b3a39aaa3d6092218a81d8510280cab0473c6b7d55160e809ce2e9249f5f01/</link><pubDate>Fri, 09 Jul 2021 16:21:10 +0000</pubDate><guid>https://news.panz3r.dev/post/04b3a39aaa3d6092218a81d8510280cab0473c6b7d55160e809ce2e9249f5f01/</guid><description>
 Article URL: https://earthly.dev/
 Comments URL: https://news.ycombinator.com/item?id=27785323
-Points: 158
-# Comments: 45</description></item><item><title>Do patents kill innovation? The US patent office is asking</title><link>https://news.panz3r.dev/post/738506b874fd05a1d4a8ad5dba6f482dc21df6cf2b76b0e45d4968a5c7e7c0e6/</link><pubDate>Fri, 09 Jul 2021 16:14:51 +0000</pubDate><guid>https://news.panz3r.dev/post/738506b874fd05a1d4a8ad5dba6f482dc21df6cf2b76b0e45d4968a5c7e7c0e6/</guid><description>
+Points: 185
+# Comments: 56</description></item><item><title>Do patents kill innovation? The US patent office is asking</title><link>https://news.panz3r.dev/post/738506b874fd05a1d4a8ad5dba6f482dc21df6cf2b76b0e45d4968a5c7e7c0e6/</link><pubDate>Fri, 09 Jul 2021 16:14:51 +0000</pubDate><guid>https://news.panz3r.dev/post/738506b874fd05a1d4a8ad5dba6f482dc21df6cf2b76b0e45d4968a5c7e7c0e6/</guid><description>
 Article URL: https://www.eenewseurope.com/news/do-patents-kill-innovation-us-patent-office-asking
 Comments URL: …</description></item><item><title>Automating programming: AI is transforming the coding of computer programs</title><link>https://news.panz3r.dev/post/a12307adbabb7c5e11acec268ade630cd5882011f3f7cc5874a1fb79c66339f7/</link><pubDate>Fri, 09 Jul 2021 14:38:26 +0000</pubDate><guid>https://news.panz3r.dev/post/a12307adbabb7c5e11acec268ade630cd5882011f3f7cc5874a1fb79c66339f7/</guid><description>
 Article URL: https://www.economist.com/science-and-technology/2021/07/07/ai-is-transforming-the-coding-of-computer-programs
@@ -28,8 +44,8 @@ Article URL: https://www.abc.net.au/news/2021-07-09/global-temperature-record-mi
 Comments URL: …</description></item><item><title>SpriteStack Voxel Editor</title><link>https://news.panz3r.dev/post/13953bc9aef81c9d348395775b6cf7d525fa13c8add49811f039ab3ea372001e/</link><pubDate>Fri, 09 Jul 2021 13:33:24 +0000</pubDate><guid>https://news.panz3r.dev/post/13953bc9aef81c9d348395775b6cf7d525fa13c8add49811f039ab3ea372001e/</guid><description>
 Article URL: https://spritestack.io/
 Comments URL: https://news.ycombinator.com/item?id=27783490
-Points: 260
-# Comments: 48</description></item><item><title>F# is the best coding language today</title><link>https://news.panz3r.dev/post/f038fd6e24820d2c086b67caf2e2e7ce67643b928d1c4809a23a0113c7c945f9/</link><pubDate>Fri, 09 Jul 2021 12:41:46 +0000</pubDate><guid>https://news.panz3r.dev/post/f038fd6e24820d2c086b67caf2e2e7ce67643b928d1c4809a23a0113c7c945f9/</guid><description>
+Points: 288
+# Comments: 56</description></item><item><title>F# is the best coding language today</title><link>https://news.panz3r.dev/post/f038fd6e24820d2c086b67caf2e2e7ce67643b928d1c4809a23a0113c7c945f9/</link><pubDate>Fri, 09 Jul 2021 12:41:46 +0000</pubDate><guid>https://news.panz3r.dev/post/f038fd6e24820d2c086b67caf2e2e7ce67643b928d1c4809a23a0113c7c945f9/</guid><description>
 Article URL: https://danielbmarkham.com/fsharp-is-the-best-programming-language-today/
 Comments URL: …</description></item><item><title>Barry Diller: The movie business as before is finished and will never come back</title><link>https://news.panz3r.dev/post/1352481c1fa9b2d7941c8dbfb52d56fac701c1ea0f0721820b2398bddf7f07ba/</link><pubDate>Fri, 09 Jul 2021 12:08:05 +0000</pubDate><guid>https://news.panz3r.dev/post/1352481c1fa9b2d7941c8dbfb52d56fac701c1ea0f0721820b2398bddf7f07ba/</guid><description>
 Article URL: https://www.npr.org/2021/07/08/1014095135/barry-diller-headed-2-hollywood-studios-he-now-says-the-movie-business-is-dead …</description></item><item><title>NDA expired, let’s spill the beans on a weird startup</title><link>https://news.panz3r.dev/post/fa198c0e95e3c78725a6033d0b39000916f3a5fd210753be497a8e778e26f626/</link><pubDate>Fri, 09 Jul 2021 11:34:05 +0000</pubDate><guid>https://news.panz3r.dev/post/fa198c0e95e3c78725a6033d0b39000916f3a5fd210753be497a8e778e26f626/</guid><description>
@@ -57,10 +73,16 @@ Comments URL: …</description></item><item><title>Protect student privacy: Ban 
 Article URL: https://www.baneproctoring.com/#letter
 Comments URL: https://news.ycombinator.com/item?id=27781483
 Points: 396
-# Comments: 222</description></item><item><title>Trust in Software, an All Time Low</title><link>https://news.panz3r.dev/post/8e4b896fca6efe879983e0dbdc0cbc2b1551e7b9b405de15397241abfacf6ea2/</link><pubDate>Fri, 09 Jul 2021 05:59:14 +0000</pubDate><guid>https://news.panz3r.dev/post/8e4b896fca6efe879983e0dbdc0cbc2b1551e7b9b405de15397241abfacf6ea2/</guid><description>
+# Comments: 222</description></item><item><title>CMake Part 1 – The Dark Arts</title><link>https://news.panz3r.dev/post/ca52936bc5710c5a881e08776483c28079ced5a66216c7bf8c62c115741622cb/</link><pubDate>Fri, 09 Jul 2021 07:48:57 +0000</pubDate><guid>https://news.panz3r.dev/post/ca52936bc5710c5a881e08776483c28079ced5a66216c7bf8c62c115741622cb/</guid><description>
+Article URL: https://blog.feabhas.com/2021/07/cmake-part-1-the-dark-arts/
+Comments URL: https://news.ycombinator.com/item?id=27781377 …</description></item><item><title>A small town in Sweden fights to preserve Elfdalian, a dying forest language</title><link>https://news.panz3r.dev/post/ac97b9a020bfd2081482984a10af51acbf40c5d17f97cd680581bcd5e9c5a706/</link><pubDate>Fri, 09 Jul 2021 07:30:25 +0000</pubDate><guid>https://news.panz3r.dev/post/ac97b9a020bfd2081482984a10af51acbf40c5d17f97cd680581bcd5e9c5a706/</guid><description>
+Article URL: https://www.pri.org/stories/2021-05-06/small-town-sweden-fights-preserve-elfdalian-dying-forest-language
+Comments URL: …</description></item><item><title>Trust in Software, an All Time Low</title><link>https://news.panz3r.dev/post/8e4b896fca6efe879983e0dbdc0cbc2b1551e7b9b405de15397241abfacf6ea2/</link><pubDate>Fri, 09 Jul 2021 05:59:14 +0000</pubDate><guid>https://news.panz3r.dev/post/8e4b896fca6efe879983e0dbdc0cbc2b1551e7b9b405de15397241abfacf6ea2/</guid><description>
 Article URL: https://underjord.io/trust-in-software-an-all-time-low.html
 Comments URL: https://news.ycombinator.com/item?id=27780838
-Points: …</description></item><item><title>Apple founder Steve Wozniak backs right-to-repair movement</title><link>https://news.panz3r.dev/post/0e87691d920cba4f243c6b0c1a017e2a8dd9df6669cb7e88de400f9b77e670a3/</link><pubDate>Fri, 09 Jul 2021 02:24:34 +0000</pubDate><guid>https://news.panz3r.dev/post/0e87691d920cba4f243c6b0c1a017e2a8dd9df6669cb7e88de400f9b77e670a3/</guid><description>
+Points: …</description></item><item><title>Kmart In-Store Music Tapes [audio]</title><link>https://news.panz3r.dev/post/06e240a1f6e4a12bb21fbee62f7050abc314dcc9f09e1a1a4459be49712c894f/</link><pubDate>Fri, 09 Jul 2021 04:38:52 +0000</pubDate><guid>https://news.panz3r.dev/post/06e240a1f6e4a12bb21fbee62f7050abc314dcc9f09e1a1a4459be49712c894f/</guid><description>
+Article URL: https://forkeepspodcast.com/71-kmart-in-store-music-tapes-saved-by-mark-davis
+Comments URL: …</description></item><item><title>Apple founder Steve Wozniak backs right-to-repair movement</title><link>https://news.panz3r.dev/post/0e87691d920cba4f243c6b0c1a017e2a8dd9df6669cb7e88de400f9b77e670a3/</link><pubDate>Fri, 09 Jul 2021 02:24:34 +0000</pubDate><guid>https://news.panz3r.dev/post/0e87691d920cba4f243c6b0c1a017e2a8dd9df6669cb7e88de400f9b77e670a3/</guid><description>
 Article URL: https://www.bbc.com/news/technology-57763037
 Comments URL: https://news.ycombinator.com/item?id=27779907
 Points: 212
@@ -70,7 +92,9 @@ Comments URL: …</description></item><item><title>Google Internal Comics</title
 Article URL: https://goomics.net/
 Comments URL: https://news.ycombinator.com/item?id=27778774
 Points: 406
-# Comments: 159</description></item><item><title>Birds are dying in the United States and no one knows why</title><link>https://news.panz3r.dev/post/8a1e4d685f9c9179c94682b686657dd9641e014f0c0d9f85bbd4700394c8976b/</link><pubDate>Thu, 08 Jul 2021 22:13:42 +0000</pubDate><guid>https://news.panz3r.dev/post/8a1e4d685f9c9179c94682b686657dd9641e014f0c0d9f85bbd4700394c8976b/</guid><description>
+# Comments: 159</description></item><item><title>“Cat Person” and Me</title><link>https://news.panz3r.dev/post/1b4d4b39ca0bf9908de9ca58199f4b0bd92dc1be6c3cabc2bd726eef4b9189e5/</link><pubDate>Thu, 08 Jul 2021 23:03:59 +0000</pubDate><guid>https://news.panz3r.dev/post/1b4d4b39ca0bf9908de9ca58199f4b0bd92dc1be6c3cabc2bd726eef4b9189e5/</guid><description>
+Article URL: https://slate.com/human-interest/2021/07/cat-person-kristen-roupenian-viral-story-about-me.html
+Comments URL: …</description></item><item><title>Birds are dying in the United States and no one knows why</title><link>https://news.panz3r.dev/post/8a1e4d685f9c9179c94682b686657dd9641e014f0c0d9f85bbd4700394c8976b/</link><pubDate>Thu, 08 Jul 2021 22:13:42 +0000</pubDate><guid>https://news.panz3r.dev/post/8a1e4d685f9c9179c94682b686657dd9641e014f0c0d9f85bbd4700394c8976b/</guid><description>
 Article URL: https://www.dw.com/en/birds-are-dying-in-the-united-states-and-no-one-knows-why/a-58163063
 Comments URL: …</description></item><item><title>A better business model for video folks</title><link>https://news.panz3r.dev/post/24d7748db02ebc4af92f0985c71781597611ccc35b5f88f9534acc806e4e439a/</link><pubDate>Thu, 08 Jul 2021 21:36:13 +0000</pubDate><guid>https://news.panz3r.dev/post/24d7748db02ebc4af92f0985c71781597611ccc35b5f88f9534acc806e4e439a/</guid><description>
 Article URL: https://streambus.com/
@@ -193,7 +217,11 @@ Points: 140
 Article URL: https://archive.org/details/cbk?&sort=-downloads&page=1
 Comments URL: https://news.ycombinator.com/item?id=27768001
 Points: 155 …</description></item><item><title>Sub-zero water splitting marks a new dawn for solar hydrogen production</title><link>https://news.panz3r.dev/post/1e5be453ca75737ba0fbe9abb1d1694ee1293d83ccd64d57b9d10ea1b59a45e9/</link><pubDate>Thu, 08 Jul 2021 01:36:11 +0000</pubDate><guid>https://news.panz3r.dev/post/1e5be453ca75737ba0fbe9abb1d1694ee1293d83ccd64d57b9d10ea1b59a45e9/</guid><description>
-Article URL: https://www.chemistryworld.com/news/sub-zero-water-splitting-marks-a-new-dawn-for-solar-hydrogen-production/4013887.article …</description></item><item><title>Sri Lanka’s ancient, almost lost martial art</title><link>https://news.panz3r.dev/post/1771b4b51ac05ca918fcfd5e8f79b6a853fa6e40dc1d3a8147b74dd6db3467c7/</link><pubDate>Thu, 08 Jul 2021 00:19:44 +0000</pubDate><guid>https://news.panz3r.dev/post/1771b4b51ac05ca918fcfd5e8f79b6a853fa6e40dc1d3a8147b74dd6db3467c7/</guid><description>
+Article URL: https://www.chemistryworld.com/news/sub-zero-water-splitting-marks-a-new-dawn-for-solar-hydrogen-production/4013887.article …</description></item><item><title>The Private Life of a Cat (2020)</title><link>https://news.panz3r.dev/post/ca92ee7d756eae520f8064580435f27041e85f8c963c095cbb3f6fa2cd30fece/</link><pubDate>Thu, 08 Jul 2021 01:08:11 +0000</pubDate><guid>https://news.panz3r.dev/post/ca92ee7d756eae520f8064580435f27041e85f8c963c095cbb3f6fa2cd30fece/</guid><description>
+Article URL: https://daily.jstor.org/the-private-life-of-a-cat/
+Comments URL: https://news.ycombinator.com/item?id=27767494
+Points: 53
+# …</description></item><item><title>Sri Lanka’s ancient, almost lost martial art</title><link>https://news.panz3r.dev/post/1771b4b51ac05ca918fcfd5e8f79b6a853fa6e40dc1d3a8147b74dd6db3467c7/</link><pubDate>Thu, 08 Jul 2021 00:19:44 +0000</pubDate><guid>https://news.panz3r.dev/post/1771b4b51ac05ca918fcfd5e8f79b6a853fa6e40dc1d3a8147b74dd6db3467c7/</guid><description>
 Article URL: https://www.atlasobscura.com/articles/angampora-sri-lanka-martial-art
 Comments URL: …</description></item><item><title>Manual for a popular facial recognition tool shows how much the software tracks</title><link>https://news.panz3r.dev/post/9e3796703ba935b39c41a4b1cc5b7e2e6c57e1652385952f633aab1d0ced137f/</link><pubDate>Wed, 07 Jul 2021 23:43:57 +0000</pubDate><guid>https://news.panz3r.dev/post/9e3796703ba935b39c41a4b1cc5b7e2e6c57e1652385952f633aab1d0ced137f/</guid><description>
 Article URL: …</description></item><item><title>Runway – Create impossible video</title><link>https://news.panz3r.dev/post/3d00affea4e662f9dd8c619e0eeeefe056c2338d95114a95915267a9c5412e87/</link><pubDate>Wed, 07 Jul 2021 22:49:53 +0000</pubDate><guid>https://news.panz3r.dev/post/3d00affea4e662f9dd8c619e0eeeefe056c2338d95114a95915267a9c5412e87/</guid><description>
@@ -520,31 +548,4 @@ Comments URL: …</description></item><item><title>Probably Approximately Correc
 Article URL: https://jeremykun.com/2014/01/02/probably-approximately-correct-a-formal-theory-of-learning/
 Comments URL: …</description></item><item><title>How to get better at painting without painting anything (2015)</title><link>https://news.panz3r.dev/post/19784d042733a5dbea50761e5dc3f5767b05595061b5f079be8e8b02a46bd4fc/</link><pubDate>Mon, 05 Jul 2021 06:59:28 +0000</pubDate><guid>https://news.panz3r.dev/post/19784d042733a5dbea50761e5dc3f5767b05595061b5f079be8e8b02a46bd4fc/</guid><description>
 Article URL: http://www.learning-to-see.co.uk/how-to-get-better-at-painting-without-painting-anything
-Comments URL: …</description></item><item><title>Finra Orders Record Financial Penalties Against Robinhood Financial LLC</title><link>https://news.panz3r.dev/post/60ad6535a741c0e132498f8cc8c6ee05585078fbeaf0599d2f03eb43f6756fc4/</link><pubDate>Mon, 05 Jul 2021 05:55:44 +0000</pubDate><guid>https://news.panz3r.dev/post/60ad6535a741c0e132498f8cc8c6ee05585078fbeaf0599d2f03eb43f6756fc4/</guid><description>
-Article URL: https://www.finra.org/media-center/newsreleases/2021/finra-orders-record-financial-penalties-against-robinhood-financial …</description></item><item><title>Dabrowski’s Theory and Existential Depression in Gifted People (2020)</title><link>https://news.panz3r.dev/post/2dd4dd2e4bf278e320fd8f432425891d016a77b6bd115b2c29667cd07e083a79/</link><pubDate>Mon, 05 Jul 2021 05:54:33 +0000</pubDate><guid>https://news.panz3r.dev/post/2dd4dd2e4bf278e320fd8f432425891d016a77b6bd115b2c29667cd07e083a79/</guid><description>
-Article URL: https://www.davidsongifted.org/gifted-blog/dabrowskis-theory-and-existential-depression-in-gifted-children-and-adults/
-Comments …</description></item><item><title>Mental Poker [pdf]</title><link>https://news.panz3r.dev/post/393d22d10f9064741ef1d1c087e687fea80c574e67e1f24402b06a26d2c47f45/</link><pubDate>Mon, 05 Jul 2021 04:46:03 +0000</pubDate><guid>https://news.panz3r.dev/post/393d22d10f9064741ef1d1c087e687fea80c574e67e1f24402b06a26d2c47f45/</guid><description>
-Article URL: https://people.csail.mit.edu/rivest/pubs/SRA81.pdf
-Comments URL: https://news.ycombinator.com/item?id=27734693
-Points: 125
-# …</description></item><item><title>YouTube channel “TechLead” creator has created a crypto and pulled the rug</title><link>https://news.panz3r.dev/post/04e35b664934d8363109fb816595717396c9cdf5006a281b1ca5fc2ca737e566/</link><pubDate>Mon, 05 Jul 2021 04:37:15 +0000</pubDate><guid>https://news.panz3r.dev/post/04e35b664934d8363109fb816595717396c9cdf5006a281b1ca5fc2ca737e566/</guid><description>
-Article URL: https://old.reddit.com/r/CryptoCurrency/comments/odusa6/techlead_youtuber_with_11_million_subscribers_is/
-Comments URL: …</description></item><item><title>Garden Hermit</title><link>https://news.panz3r.dev/post/868392f15c6a67f08322cb3153ee91feb5616a2cbe9d8bde76b8d1b66b54915f/</link><pubDate>Mon, 05 Jul 2021 04:28:04 +0000</pubDate><guid>https://news.panz3r.dev/post/868392f15c6a67f08322cb3153ee91feb5616a2cbe9d8bde76b8d1b66b54915f/</guid><description>
-Article URL: https://en.wikipedia.org/wiki/Garden_hermit
-Comments URL: https://news.ycombinator.com/item?id=27734627
-Points: 99
-# Comments: …</description></item><item><title>The Good and the Limitations of Github Copilot</title><link>https://news.panz3r.dev/post/f4b565165aafb2ace48162d6c492b17d86bd9142383e1f3b1c2a2780c3fcf588/</link><pubDate>Mon, 05 Jul 2021 04:11:24 +0000</pubDate><guid>https://news.panz3r.dev/post/f4b565165aafb2ace48162d6c492b17d86bd9142383e1f3b1c2a2780c3fcf588/</guid><description>
-Article URL: https://blog.hrithwik.me/the-good-and-the-limitations-of-github-copilot
-Comments URL: …</description></item><item><title>Cryptocurrency Blockchains Don’t Need to Be Energy Intensive</title><link>https://news.panz3r.dev/post/5f78fdb2c0125929c6e75356c14cb0440f2e0fe4295b717819bd1d4196679b1b/</link><pubDate>Mon, 05 Jul 2021 03:51:24 +0000</pubDate><guid>https://news.panz3r.dev/post/5f78fdb2c0125929c6e75356c14cb0440f2e0fe4295b717819bd1d4196679b1b/</guid><description>
-Article URL: https://spectrum.ieee.org/computing/networks/cryptocurrency-blockchains-dont-need-to-be-energy-intensive
-Comments URL: …</description></item><item><title>The Programmer's Brain</title><link>https://news.panz3r.dev/post/07fc49c57c4e6542265662aa637f2ad4cd7bd38af884d32fe9d003876bb11c7e/</link><pubDate>Mon, 05 Jul 2021 03:46:19 +0000</pubDate><guid>https://news.panz3r.dev/post/07fc49c57c4e6542265662aa637f2ad4cd7bd38af884d32fe9d003876bb11c7e/</guid><description>
-Article URL: https://www.manning.com/books/the-programmers-brain
-Comments URL: https://news.ycombinator.com/item?id=27734473
-Points: 203
-# …</description></item><item><title>Students flee field as computer 'fad fades' (1987)</title><link>https://news.panz3r.dev/post/9e093f3c6767e65f394c06693bb3b5c3cce31bcdcb627cf23f68a8dd5751aa48/</link><pubDate>Mon, 05 Jul 2021 02:20:33 +0000</pubDate><guid>https://news.panz3r.dev/post/9e093f3c6767e65f394c06693bb3b5c3cce31bcdcb627cf23f68a8dd5751aa48/</guid><description>
-Article URL: https://pessimistsarchive.substack.com/p/1d7a427e-5028-470d-906d-6c3f9980d1de
-Comments URL: …</description></item><item><title>Stockfish 14</title><link>https://news.panz3r.dev/post/423c8e080185bc443ff3805bc1f19783fe3f412fa34692dc5cebb37f13b0b462/</link><pubDate>Sun, 04 Jul 2021 23:29:14 +0000</pubDate><guid>https://news.panz3r.dev/post/423c8e080185bc443ff3805bc1f19783fe3f412fa34692dc5cebb37f13b0b462/</guid><description>
-Article URL: https://stockfishchess.org/blog/2021/stockfish-14/
-Comments URL: https://news.ycombinator.com/item?id=27733455
-Points: 322
-# …</description></item></channel></rss>
+Comments URL: …</description></item></channel></rss>

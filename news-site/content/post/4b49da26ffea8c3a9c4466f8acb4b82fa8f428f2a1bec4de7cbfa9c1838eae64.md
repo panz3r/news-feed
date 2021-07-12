@@ -9,5 +9,5 @@ tags:
 
 <p>Article URL: <a href="https://www.expressivesuite.com/products/expressive-animator.html">https://www.expressivesuite.com/products/expressive-animator.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=27792387">https://news.ycombinator.com/item?id=27792387</a></p>
-<p>Points: 83</p>
-<p># Comments: 26</p>
+<p>Points: 117</p>
+<p># Comments: 32</p>

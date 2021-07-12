@@ -1,19 +1,54 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hacker-News-Frontpage on Panz3r News</title><link>https://news.panz3r.dev/tags/hacker-news-frontpage/</link><description>Recent content in Hacker-News-Frontpage on news.panz3r.dev</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Panz3r 2021 | Vitae theme for Hugo</copyright><lastBuildDate>Mon, 12 Jul 2021 07:09:28 +0000</lastBuildDate><atom:link href="https://news.panz3r.dev/tags/hacker-news-frontpage/index.xml" rel="self" type="application/rss+xml"/><item><title>Show HN: Obsidian for Mobile – Plain-text knowledge base on the go</title><link>https://news.panz3r.dev/post/6b89193a2708042561810756a2ba5d19960424ac9517e0ed7026d0477d206001/</link><pubDate>Mon, 12 Jul 2021 07:09:28 +0000</pubDate><guid>https://news.panz3r.dev/post/6b89193a2708042561810756a2ba5d19960424ac9517e0ed7026d0477d206001/</guid><description>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hacker-News-Frontpage on Panz3r News</title><link>https://news.panz3r.dev/tags/hacker-news-frontpage/</link><description>Recent content in Hacker-News-Frontpage on news.panz3r.dev</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Panz3r 2021 | Vitae theme for Hugo</copyright><lastBuildDate>Mon, 12 Jul 2021 16:19:13 +0000</lastBuildDate><atom:link href="https://news.panz3r.dev/tags/hacker-news-frontpage/index.xml" rel="self" type="application/rss+xml"/><item><title>Scenarios Tesla FSD Beta 9.0 fails</title><link>https://news.panz3r.dev/post/0ce0d99aa1d765733fa7e2b43444c31f1861d4667dff260d2ba16b06c340682d/</link><pubDate>Mon, 12 Jul 2021 16:19:13 +0000</pubDate><guid>https://news.panz3r.dev/post/0ce0d99aa1d765733fa7e2b43444c31f1861d4667dff260d2ba16b06c340682d/</guid><description>
+Article URL: https://twitter.com/giacaglia/status/1414605317841702914
+Comments URL: https://news.ycombinator.com/item?id=27811853
+Points: 54 …</description></item><item><title>Dead Startup Toys</title><link>https://news.panz3r.dev/post/f69dbf006c9bfa9cc5221aae71fd820481a273fe19d3a6cf9f619fb5a1fbaa6f/</link><pubDate>Mon, 12 Jul 2021 15:08:51 +0000</pubDate><guid>https://news.panz3r.dev/post/f69dbf006c9bfa9cc5221aae71fd820481a273fe19d3a6cf9f619fb5a1fbaa6f/</guid><description>
+Article URL: https://deadstartuptoys.com/
+Comments URL: https://news.ycombinator.com/item?id=27811047
+Points: 144
+# Comments: 49</description></item><item><title>U.S. Pacific Northwest heat wave bakes wheat, fruit crops</title><link>https://news.panz3r.dev/post/02ba94e3cc5dde781ae902d89a60a215d2cc987aee6e084fac2674afb32259a7/</link><pubDate>Mon, 12 Jul 2021 14:54:44 +0000</pubDate><guid>https://news.panz3r.dev/post/02ba94e3cc5dde781ae902d89a60a215d2cc987aee6e084fac2674afb32259a7/</guid><description>
+Article URL: https://www.reuters.com/world/us/wither-away-die-us-pacific-northwest-heat-wave-bakes-wheat-fruit-crops-2021-07-12/
+Comments …</description></item><item><title>Updating the Go Memory Model</title><link>https://news.panz3r.dev/post/ced3bb68411242ee4570c146273ea439147c00088cf4e55867bce2dea4d7e33c/</link><pubDate>Mon, 12 Jul 2021 14:11:15 +0000</pubDate><guid>https://news.panz3r.dev/post/ced3bb68411242ee4570c146273ea439147c00088cf4e55867bce2dea4d7e33c/</guid><description>
+Article URL: https://research.swtch.com/gomm
+Comments URL: https://news.ycombinator.com/item?id=27810459
+Points: 97
+# Comments: 35</description></item><item><title>I requested my photographs from the Department of Homeland Security (2015)</title><link>https://news.panz3r.dev/post/27e744d95893b838057211ba6757795c53897eca263d924f2ced21e2edb7e4e1/</link><pubDate>Mon, 12 Jul 2021 14:01:15 +0000</pubDate><guid>https://news.panz3r.dev/post/27e744d95893b838057211ba6757795c53897eca263d924f2ced21e2edb7e4e1/</guid><description>
+Article URL: https://arstechnica.com/tech-policy/2015/02/how-i-requested-my-photographs-from-the-department-of-homeland-security/
+Comments …</description></item><item><title>Javascript Object Signing and Encryption is a Bad Standard (2017)</title><link>https://news.panz3r.dev/post/190abf426a33f61a88dfcde71d288b40e7b03d4f9552fbb22fd3cd60721f954c/</link><pubDate>Mon, 12 Jul 2021 13:55:10 +0000</pubDate><guid>https://news.panz3r.dev/post/190abf426a33f61a88dfcde71d288b40e7b03d4f9552fbb22fd3cd60721f954c/</guid><description>
+Article URL: https://paragonie.com/blog/2017/03/jwt-json-web-tokens-is-bad-standard-that-everyone-should-avoid
+Comments URL: …</description></item><item><title>(Risp (In (Rust) (Lisp)))</title><link>https://news.panz3r.dev/post/4f53cfb387adccd3a8d5f52a474a64e8e0ba8b57530a563e01eab52a40a44ccf/</link><pubDate>Mon, 12 Jul 2021 13:45:52 +0000</pubDate><guid>https://news.panz3r.dev/post/4f53cfb387adccd3a8d5f52a474a64e8e0ba8b57530a563e01eab52a40a44ccf/</guid><description>
+Article URL: https://stopachka.essay.dev/post/5/risp-in-rust-lisp
+Comments URL: https://news.ycombinator.com/item?id=27810193
+Points: 62
+# …</description></item><item><title>My business might have 32 days before it's shut down by NYC [video]</title><link>https://news.panz3r.dev/post/85dea8a8ae9725e8ca8c9e2ca62fd269828279fc76f95396d0653b6a2b24d9a2/</link><pubDate>Mon, 12 Jul 2021 13:28:18 +0000</pubDate><guid>https://news.panz3r.dev/post/85dea8a8ae9725e8ca8c9e2ca62fd269828279fc76f95396d0653b6a2b24d9a2/</guid><description>
+Article URL: https://www.youtube.com/watch?v=5oDjSoic9Zk
+Comments URL: https://news.ycombinator.com/item?id=27810019
+Points: 301
+# Comments: …</description></item><item><title>NodeMCU ESP32-C3 WiFi and BLE IoT boards show up for about $4</title><link>https://news.panz3r.dev/post/a790e93067ffbcd6f208c8adb5b87d493f2fde330ae4b57c6c6ba1d09ed8d2ec/</link><pubDate>Mon, 12 Jul 2021 13:03:10 +0000</pubDate><guid>https://news.panz3r.dev/post/a790e93067ffbcd6f208c8adb5b87d493f2fde330ae4b57c6c6ba1d09ed8d2ec/</guid><description>
+Article URL: https://www.cnx-software.com/2021/07/12/nodemcu-esp32-c3-wifi-ble-iot-boards/
+Comments URL: …</description></item><item><title>Organic and regenerative agriculture are revitalizing rural Montana economies</title><link>https://news.panz3r.dev/post/b271925cff4d34139aaa0f30b13a7c448f3faabd318cacc3161f890c2409d2ff/</link><pubDate>Mon, 12 Jul 2021 11:43:11 +0000</pubDate><guid>https://news.panz3r.dev/post/b271925cff4d34139aaa0f30b13a7c448f3faabd318cacc3161f890c2409d2ff/</guid><description>
+Article URL: https://montanafreepress.org/2021/07/06/regenerative-agriculture-evitalizing-rural-montana-economies/
+Comments URL: …</description></item><item><title>Risk Assessment of GitHub Copilot</title><link>https://news.panz3r.dev/post/d373040806f314d6e32aea2f75a312f46dab786a9700efb5d0270317c05ba1ab/</link><pubDate>Mon, 12 Jul 2021 11:01:39 +0000</pubDate><guid>https://news.panz3r.dev/post/d373040806f314d6e32aea2f75a312f46dab786a9700efb5d0270317c05ba1ab/</guid><description>
+Article URL: https://gist.github.com/0xabad1dea/be18e11beb2e12433d93475d72016902
+Comments URL: https://news.ycombinator.com/item?id=27809059 …</description></item><item><title>Firefox 90 supports Fetch Metadata Request Headers</title><link>https://news.panz3r.dev/post/efd1880228088e7af575e5e8c6419c5637e7b43e1872ac262d729ef05a310983/</link><pubDate>Mon, 12 Jul 2021 10:56:45 +0000</pubDate><guid>https://news.panz3r.dev/post/efd1880228088e7af575e5e8c6419c5637e7b43e1872ac262d729ef05a310983/</guid><description>
+Article URL: https://blog.mozilla.org/security/2021/07/12/firefox-90-supports-fetch-metadata-request-headers/
+Comments URL: …</description></item><item><title>What Are Diffusion Models?</title><link>https://news.panz3r.dev/post/5adc8b9fb94fcbd29ffa5bc044ebe9d165e0cf29ea5a786f4685990d94ade437/</link><pubDate>Mon, 12 Jul 2021 10:49:13 +0000</pubDate><guid>https://news.panz3r.dev/post/5adc8b9fb94fcbd29ffa5bc044ebe9d165e0cf29ea5a786f4685990d94ade437/</guid><description>
+Article URL: https://lilianweng.github.io/lil-log/2021/07/11/diffusion-models.html
+Comments URL: …</description></item><item><title>Show HN: Obsidian for Mobile – Plain-text knowledge base on the go</title><link>https://news.panz3r.dev/post/6b89193a2708042561810756a2ba5d19960424ac9517e0ed7026d0477d206001/</link><pubDate>Mon, 12 Jul 2021 07:09:28 +0000</pubDate><guid>https://news.panz3r.dev/post/6b89193a2708042561810756a2ba5d19960424ac9517e0ed7026d0477d206001/</guid><description>
 Article URL: https://obsidian.md/mobile
 Comments URL: https://news.ycombinator.com/item?id=27807850
-Points: 267
-# Comments: 107</description></item><item><title>Tact Filters (1996)</title><link>https://news.panz3r.dev/post/d5d9891d6e0b825c638d18ec55b87892437fe48f2e9f4876e3519cc01178abe5/</link><pubDate>Mon, 12 Jul 2021 06:48:26 +0000</pubDate><guid>https://news.panz3r.dev/post/d5d9891d6e0b825c638d18ec55b87892437fe48f2e9f4876e3519cc01178abe5/</guid><description>
+Points: 519
+# Comments: 214</description></item><item><title>Tact Filters (1996)</title><link>https://news.panz3r.dev/post/d5d9891d6e0b825c638d18ec55b87892437fe48f2e9f4876e3519cc01178abe5/</link><pubDate>Mon, 12 Jul 2021 06:48:26 +0000</pubDate><guid>https://news.panz3r.dev/post/d5d9891d6e0b825c638d18ec55b87892437fe48f2e9f4876e3519cc01178abe5/</guid><description>
 Article URL: https://www.mit.edu/~jcb/tact.html
 Comments URL: https://news.ycombinator.com/item?id=27807769
 Points: 60
 # Comments: 8</description></item><item><title>I wrote a 231-byte Brainfuck compiler by abusing everything</title><link>https://news.panz3r.dev/post/f69990c89126e5c13ae0cc7b5fa9041bbf819e1ab000d4055b25762a23b533bb/</link><pubDate>Mon, 12 Jul 2021 06:10:32 +0000</pubDate><guid>https://news.panz3r.dev/post/f69990c89126e5c13ae0cc7b5fa9041bbf819e1ab000d4055b25762a23b533bb/</guid><description>
 Article URL: https://briancallahan.net/blog/20210710.html
 Comments URL: https://news.ycombinator.com/item?id=27807570
-Points: 77
-# Comments: …</description></item><item><title>Wayback Machine Downloader</title><link>https://news.panz3r.dev/post/61c3c9ea6d9bde132b55a45d9fcdfce297eaac270f6c6d3873985580629033d6/</link><pubDate>Mon, 12 Jul 2021 05:35:34 +0000</pubDate><guid>https://news.panz3r.dev/post/61c3c9ea6d9bde132b55a45d9fcdfce297eaac270f6c6d3873985580629033d6/</guid><description>
+Points: 128
+# …</description></item><item><title>Wayback Machine Downloader</title><link>https://news.panz3r.dev/post/61c3c9ea6d9bde132b55a45d9fcdfce297eaac270f6c6d3873985580629033d6/</link><pubDate>Mon, 12 Jul 2021 05:35:34 +0000</pubDate><guid>https://news.panz3r.dev/post/61c3c9ea6d9bde132b55a45d9fcdfce297eaac270f6c6d3873985580629033d6/</guid><description>
 Article URL: https://github.com/hartator/wayback-machine-downloader/
 Comments URL: https://news.ycombinator.com/item?id=27807376
-Points: 67 …</description></item><item><title>Amazon.com product pages are down</title><link>https://news.panz3r.dev/post/701bc01d4b4d5fd8ac3375fe5f7f04f7ef088370205cfb7517c4c49252f09a3a/</link><pubDate>Mon, 12 Jul 2021 03:23:31 +0000</pubDate><guid>https://news.panz3r.dev/post/701bc01d4b4d5fd8ac3375fe5f7f04f7ef088370205cfb7517c4c49252f09a3a/</guid><description>
+Points: 136 …</description></item><item><title>Amazon.com product pages are down</title><link>https://news.panz3r.dev/post/701bc01d4b4d5fd8ac3375fe5f7f04f7ef088370205cfb7517c4c49252f09a3a/</link><pubDate>Mon, 12 Jul 2021 03:23:31 +0000</pubDate><guid>https://news.panz3r.dev/post/701bc01d4b4d5fd8ac3375fe5f7f04f7ef088370205cfb7517c4c49252f09a3a/</guid><description>
 Article URL: https://www.amazon.com/gp/product/1784978515
 Comments URL: https://news.ycombinator.com/item?id=27806618
 Points: 183
@@ -93,8 +128,8 @@ Points: 55
 # Comments: …</description></item><item><title>People Staring at Computers</title><link>https://news.panz3r.dev/post/e333c2dc84f9e9efd6c3cfa76d17e44783f703fa196ed55bfdb9a05a3830ca0f/</link><pubDate>Sun, 11 Jul 2021 10:54:23 +0000</pubDate><guid>https://news.panz3r.dev/post/e333c2dc84f9e9efd6c3cfa76d17e44783f703fa196ed55bfdb9a05a3830ca0f/</guid><description>
 Article URL: https://kylemcdonald.net/psac/
 Comments URL: https://news.ycombinator.com/item?id=27799859
-Points: 430
-# Comments: 180</description></item><item><title>Show HN: A tiny web browser implementation with V8 JavaScript engine and Rust</title><link>https://news.panz3r.dev/post/97964a4ae537ad3622bfa92b0274df5f008df7deb2ac9014d88e7db8b39b893e/</link><pubDate>Sun, 11 Jul 2021 07:50:53 +0000</pubDate><guid>https://news.panz3r.dev/post/97964a4ae537ad3622bfa92b0274df5f008df7deb2ac9014d88e7db8b39b893e/</guid><description>
+Points: 670
+# Comments: 259</description></item><item><title>Show HN: A tiny web browser implementation with V8 JavaScript engine and Rust</title><link>https://news.panz3r.dev/post/97964a4ae537ad3622bfa92b0274df5f008df7deb2ac9014d88e7db8b39b893e/</link><pubDate>Sun, 11 Jul 2021 07:50:53 +0000</pubDate><guid>https://news.panz3r.dev/post/97964a4ae537ad3622bfa92b0274df5f008df7deb2ac9014d88e7db8b39b893e/</guid><description>
 Article URL: https://github.com/lmt-swallow/puppy-browser/
 Comments URL: https://news.ycombinator.com/item?id=27799135
 Points: 75
@@ -116,7 +151,9 @@ Comments URL: https://news.ycombinator.com/item?id=27796932
 Points: 68 …</description></item><item><title>Instagram Has Become SkyMall</title><link>https://news.panz3r.dev/post/61c30089d7cf8c7ba60a1b24444e836e1fe0ca2212a095c9d8c1c7238ef15f38/</link><pubDate>Sat, 10 Jul 2021 21:58:38 +0000</pubDate><guid>https://news.panz3r.dev/post/61c30089d7cf8c7ba60a1b24444e836e1fe0ca2212a095c9d8c1c7238ef15f38/</guid><description>
 Article URL: https://clivethompson.medium.com/instagram-has-become-skymall-68b9f2fbbc30
 Comments URL: …</description></item><item><title>What DeepMind’s AlphaFold 2 really achieved</title><link>https://news.panz3r.dev/post/07df4185d5dacf56c360764b113dd5fa6fd8ea56c6c817f1eb3e1d8135ddb202/</link><pubDate>Sat, 10 Jul 2021 21:50:49 +0000</pubDate><guid>https://news.panz3r.dev/post/07df4185d5dacf56c360764b113dd5fa6fd8ea56c6c817f1eb3e1d8135ddb202/</guid><description>
-Article URL: …</description></item><item><title>Solar is dirt-cheap and about to get even more powerful</title><link>https://news.panz3r.dev/post/7a3c3d4711efa76ca2155acec733d569f3ca90f052f8cbdd255c71d28b8d5c52/</link><pubDate>Sat, 10 Jul 2021 21:09:08 +0000</pubDate><guid>https://news.panz3r.dev/post/7a3c3d4711efa76ca2155acec733d569f3ca90f052f8cbdd255c71d28b8d5c52/</guid><description>
+Article URL: …</description></item><item><title>A Chemical Hunger: Mysteries</title><link>https://news.panz3r.dev/post/783a1b6f57ee824e68f5c8492ad2bea67d5de92fbc17888ceb377773c23202a8/</link><pubDate>Sat, 10 Jul 2021 21:22:19 +0000</pubDate><guid>https://news.panz3r.dev/post/783a1b6f57ee824e68f5c8492ad2bea67d5de92fbc17888ceb377773c23202a8/</guid><description>
+Article URL: https://slimemoldtimemold.com/2021/07/07/a-chemical-hunger-part-i-mysteries/
+Comments URL: …</description></item><item><title>Solar is dirt-cheap and about to get even more powerful</title><link>https://news.panz3r.dev/post/7a3c3d4711efa76ca2155acec733d569f3ca90f052f8cbdd255c71d28b8d5c52/</link><pubDate>Sat, 10 Jul 2021 21:09:08 +0000</pubDate><guid>https://news.panz3r.dev/post/7a3c3d4711efa76ca2155acec733d569f3ca90f052f8cbdd255c71d28b8d5c52/</guid><description>
 Article URL: https://www.bloomberg.com/news/articles/2021-07-05/solar-power-is-dirt-cheap-and-about-to-get-even-more-powerful
 Comments URL: …</description></item><item><title>Using IceWM and a Raspberry Pi as my main PC, sharing my theme, config and some</title><link>https://news.panz3r.dev/post/aa4217c7a59ad8065ac909a07c7c6f755aa897cf723b1c720dff490c58644bae/</link><pubDate>Sat, 10 Jul 2021 21:01:49 +0000</pubDate><guid>https://news.panz3r.dev/post/aa4217c7a59ad8065ac909a07c7c6f755aa897cf723b1c720dff490c58644bae/</guid><description>
 Article URL: https://raymii.org/s/blog/Using_IceWM_and_sharing_my_config_and_tips_tricks.html
@@ -492,55 +529,4 @@ Article URL: https://orbitalindex.com/archive/2021-07-07-Issue-124/#a-first-on-o
 Comments URL: …</description></item><item><title>The James Webb Space Telescope has passed the final mission analysis review</title><link>https://news.panz3r.dev/post/6299023ea1c3ffd6bb77977d96fcdbbebe352890f33e4b153b4860fedf2e78db/</link><pubDate>Wed, 07 Jul 2021 17:26:19 +0000</pubDate><guid>https://news.panz3r.dev/post/6299023ea1c3ffd6bb77977d96fcdbbebe352890f33e4b153b4860fedf2e78db/</guid><description>
 Article URL: https://www.asc-csa.gc.ca/eng/satellites/jwst/news.asp
 Comments URL: https://news.ycombinator.com/item?id=27763598
-Points: 383 …</description></item><item><title>Reverse Engineer the BL602 WiFi Driver</title><link>https://news.panz3r.dev/post/a255a73fc033a36fb32c754e64eefea0d4fd29078c48704edd8dd197c47c27ee/</link><pubDate>Wed, 07 Jul 2021 16:37:31 +0000</pubDate><guid>https://news.panz3r.dev/post/a255a73fc033a36fb32c754e64eefea0d4fd29078c48704edd8dd197c47c27ee/</guid><description>
-Article URL: https://lupyuen.github.io/articles/wifi
-Comments URL: https://news.ycombinator.com/item?id=27763031
-Points: 163
-# Comments: 31</description></item><item><title>The Old Computer Challenge</title><link>https://news.panz3r.dev/post/42952d5cf672aef969d7afb41fe8589a68f8df952bb76793687eac15ca44374b/</link><pubDate>Wed, 07 Jul 2021 16:33:48 +0000</pubDate><guid>https://news.panz3r.dev/post/42952d5cf672aef969d7afb41fe8589a68f8df952bb76793687eac15ca44374b/</guid><description>
-Article URL: https://dataswamp.org/~solene/2021-07-07-old-computer-challenge.html
-Comments URL: …</description></item><item><title>SVG favicons have some cool benefits</title><link>https://news.panz3r.dev/post/141720a9b1f944b31dff0aa41a3f8f176241ea325f0926682616b48c74d4a02d/</link><pubDate>Wed, 07 Jul 2021 16:32:07 +0000</pubDate><guid>https://news.panz3r.dev/post/141720a9b1f944b31dff0aa41a3f8f176241ea325f0926682616b48c74d4a02d/</guid><description>
-Article URL: https://austingil.com/svg-favicons/
-Comments URL: https://news.ycombinator.com/item?id=27762970
-Points: 154
-# Comments: 52</description></item><item><title>The cost of the “new way to message on instagram” (2020)</title><link>https://news.panz3r.dev/post/3312a00be8511c5570f83ac3efaea33b9691fe16289f75660c32d992c2396996/</link><pubDate>Wed, 07 Jul 2021 15:53:28 +0000</pubDate><guid>https://news.panz3r.dev/post/3312a00be8511c5570f83ac3efaea33b9691fe16289f75660c32d992c2396996/</guid><description>
-Article URL: https://www.eff.org/deeplinks/2020/10/cost-new-way-message-instagram
-Comments URL: …</description></item><item><title>Show HN: SQLite query inside a Bash function</title><link>https://news.panz3r.dev/post/e37600c01dd2def52a8f672a53c483928b7c3b061b403b1d8df5b6f8af256f16/</link><pubDate>Wed, 07 Jul 2021 15:28:23 +0000</pubDate><guid>https://news.panz3r.dev/post/e37600c01dd2def52a8f672a53c483928b7c3b061b403b1d8df5b6f8af256f16/</guid><description>
-Part of the workflow for building my website is the generation of a table in tab-separated column format (.tsv). The source data is found in …</description></item><item><title>Social Media Platforms as Common Carriers? [pdf]</title><link>https://news.panz3r.dev/post/5aedc6611f6223ee482d037df9c1522bace6c787e8a733e2a20d73e761d68592/</link><pubDate>Wed, 07 Jul 2021 15:23:14 +0000</pubDate><guid>https://news.panz3r.dev/post/5aedc6611f6223ee482d037df9c1522bace6c787e8a733e2a20d73e761d68592/</guid><description>
-Article URL: https://www2.law.ucla.edu/volokh/carrier.pdf
-Comments URL: https://news.ycombinator.com/item?id=27762145
-Points: 101
-# …</description></item><item><title>Coming to Terms with Tailwind</title><link>https://news.panz3r.dev/post/8c111fa2bbe10652c3bbfeb4670804903203ff4a6903258e186fb57f5b1ec75f/</link><pubDate>Wed, 07 Jul 2021 15:16:44 +0000</pubDate><guid>https://news.panz3r.dev/post/8c111fa2bbe10652c3bbfeb4670804903203ff4a6903258e186fb57f5b1ec75f/</guid><description>
-Article URL: https://johanronsse.be/2021/07/07/coming-to-terms-with-tailwind/
-Comments URL: https://news.ycombinator.com/item?id=27762072 …</description></item><item><title>Designing Our Serverless Engine: From Kubernetes to Nomad, Firecracker, and Kuma</title><link>https://news.panz3r.dev/post/446d483071effbc53fd60a2a96070a522760f52bae77f6e8b55a6eddeeae78ea/</link><pubDate>Wed, 07 Jul 2021 14:59:10 +0000</pubDate><guid>https://news.panz3r.dev/post/446d483071effbc53fd60a2a96070a522760f52bae77f6e8b55a6eddeeae78ea/</guid><description>
-Article URL: https://www.koyeb.com/blog/the-koyeb-serverless-engine-from-kubernetes-to-nomad-firecracker-and-kuma
-Comments URL: …</description></item><item><title>Neurons unexpectedly encode information in the timing of their firing</title><link>https://news.panz3r.dev/post/12de82d2aafb31b766107edc8a2c1a22e21dab9fb99d6273134c169664388454/</link><pubDate>Wed, 07 Jul 2021 14:47:51 +0000</pubDate><guid>https://news.panz3r.dev/post/12de82d2aafb31b766107edc8a2c1a22e21dab9fb99d6273134c169664388454/</guid><description>
-Article URL: https://www.quantamagazine.org/a-new-kind-of-information-coding-seen-in-the-human-brain-20210707/
-Comments URL: …</description></item><item><title>Ketchum, Idaho, Has Plenty of Available Jobs, but Workers Can’t Afford Housing</title><link>https://news.panz3r.dev/post/f85ef8ac2f704fef9673c721e7783cc684b788501a0af77103083288faa25615/</link><pubDate>Wed, 07 Jul 2021 14:41:13 +0000</pubDate><guid>https://news.panz3r.dev/post/f85ef8ac2f704fef9673c721e7783cc684b788501a0af77103083288faa25615/</guid><description>
-Article URL: https://www.wsj.com/articles/ketchum-idaho-has-plenty-of-available-jobs-but-workers-cant-afford-housing-11625659200
-Comments …</description></item><item><title>Microsoft Issues Emergency Patch for Windows Flaw</title><link>https://news.panz3r.dev/post/842374dced4da72d97f51e8166047f9cd160e1e6419e3f1800cd7e25c986771a/</link><pubDate>Wed, 07 Jul 2021 14:37:40 +0000</pubDate><guid>https://news.panz3r.dev/post/842374dced4da72d97f51e8166047f9cd160e1e6419e3f1800cd7e25c986771a/</guid><description>
-Article URL: https://krebsonsecurity.com/2021/07/microsoft-issues-emergency-patch-for-windows-flaw/
-Comments URL: …</description></item><item><title>Npm Audit: broken by design?</title><link>https://news.panz3r.dev/post/1908aa3ba268363739e1511c2ee1670477d3bcab2d73fd8a7aaecc0d47f104c1/</link><pubDate>Wed, 07 Jul 2021 14:13:07 +0000</pubDate><guid>https://news.panz3r.dev/post/1908aa3ba268363739e1511c2ee1670477d3bcab2d73fd8a7aaecc0d47f104c1/</guid><description>
-Article URL: https://overreacted.io/npm-audit-broken-by-design/
-Comments URL: https://news.ycombinator.com/item?id=27761334
-Points: 820
-# …</description></item><item><title>A classic Silicon Valley tactic – losing money to crush rivals – under scrutiny</title><link>https://news.panz3r.dev/post/3c36a667e7fa88896239553d796f728b45c6f1ff6560b1d0fcaf28c7beff1215/</link><pubDate>Wed, 07 Jul 2021 14:04:59 +0000</pubDate><guid>https://news.panz3r.dev/post/3c36a667e7fa88896239553d796f728b45c6f1ff6560b1d0fcaf28c7beff1215/</guid><description>
-Article URL: https://www.washingtonpost.com/technology/2021/07/06/facebook-bulletin-antitrust/
-Comments URL: …</description></item><item><title>Ideas in statistics that have powered AI</title><link>https://news.panz3r.dev/post/896e49b356d220da21f3c416280be39f6f47fef92bbda9a803f00c979bc7f56c/</link><pubDate>Wed, 07 Jul 2021 13:33:05 +0000</pubDate><guid>https://news.panz3r.dev/post/896e49b356d220da21f3c416280be39f6f47fef92bbda9a803f00c979bc7f56c/</guid><description>
-Article URL: https://news.columbia.edu/news/top-10-ideas-statistics-ai
-Comments URL: https://news.ycombinator.com/item?id=27760919
-Points: …</description></item><item><title>Complex game worlds, simple text interfaces (2015)</title><link>https://news.panz3r.dev/post/70c34b9f4784aeee7645f61c4148703e071f9acac02dc01bac3cafe9f0351b61/</link><pubDate>Wed, 07 Jul 2021 13:27:35 +0000</pubDate><guid>https://news.panz3r.dev/post/70c34b9f4784aeee7645f61c4148703e071f9acac02dc01bac3cafe9f0351b61/</guid><description>
-Article URL: https://egamebook.com/blog/complex-systems-simple-interface/
-Comments URL: https://news.ycombinator.com/item?id=27760863 …</description></item><item><title>Launch HN: Evidently AI (YC S21) – Track and Debug ML Models in Production</title><link>https://news.panz3r.dev/post/a2d280043a00775b57feb4edcc1f441daa984ea09d237936909c4754a70a8065/</link><pubDate>Wed, 07 Jul 2021 13:02:26 +0000</pubDate><guid>https://news.panz3r.dev/post/a2d280043a00775b57feb4edcc1f441daa984ea09d237936909c4754a70a8065/</guid><description>
-Hi HN, we are Elena and Emeli, co-founders of Evidently AI http://evidentlyai.com. We're building monitoring for machine learning models in …</description></item><item><title>Haiti’s President Is Assassinated</title><link>https://news.panz3r.dev/post/0cbf5ea6587a7df2708107e2a4d1de77e66d5274ccf3efcabf2a86ab6f2050bc/</link><pubDate>Wed, 07 Jul 2021 12:57:03 +0000</pubDate><guid>https://news.panz3r.dev/post/0cbf5ea6587a7df2708107e2a4d1de77e66d5274ccf3efcabf2a86ab6f2050bc/</guid><description>
-Article URL: https://www.nytimes.com/live/2021/07/07/world/jovenel-moise-assassinated-killed
-Comments URL: …</description></item><item><title>Project Oberon Emulator in JavaScript and Java</title><link>https://news.panz3r.dev/post/b374a1b61e2c97cde781c45b527817b58c4ec8cf8366b027aa9f8fd33db695e2/</link><pubDate>Wed, 07 Jul 2021 12:37:53 +0000</pubDate><guid>https://news.panz3r.dev/post/b374a1b61e2c97cde781c45b527817b58c4ec8cf8366b027aa9f8fd33db695e2/</guid><description>
-Article URL: https://schierlm.github.io/OberonEmulator/
-Comments URL: https://news.ycombinator.com/item?id=27760396
-Points: 135
-# Comments: …</description></item><item><title>Apple's “iCloud Private Relay” broke risk based authentication</title><link>https://news.panz3r.dev/post/217b77ef8dc8406ca1f12344c97e4a3d8c007a5d77cfd9525a6e2619de9aa829/</link><pubDate>Wed, 07 Jul 2021 12:37:39 +0000</pubDate><guid>https://news.panz3r.dev/post/217b77ef8dc8406ca1f12344c97e4a3d8c007a5d77cfd9525a6e2619de9aa829/</guid><description>
-Article URL: https://zitadel.ch/blog/imo-rba-is-broken/
-Comments URL: https://news.ycombinator.com/item?id=27760391
-Points: 156
-# Comments: …</description></item><item><title>Dbcritic: Constructively criticizing your Postgres schema (using Idris)</title><link>https://news.panz3r.dev/post/cebefc436253b2e84a8d3d2ad0cfb47235a132d514e002e0399aa3911fa15a6d/</link><pubDate>Wed, 07 Jul 2021 11:59:40 +0000</pubDate><guid>https://news.panz3r.dev/post/cebefc436253b2e84a8d3d2ad0cfb47235a132d514e002e0399aa3911fa15a6d/</guid><description>
-Article URL: https://www.channable.com/tech/dbcritic-constructively-criticizing-your-postgres-schema
-Comments URL: …</description></item></channel></rss>
+Points: 383 …</description></item></channel></rss>

@@ -1,4 +1,39 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hacker-News-Frontpage on Panz3r News</title><link>https://news.panz3r.dev/tags/hacker-news-frontpage/</link><description>Recent content in Hacker-News-Frontpage on news.panz3r.dev</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Panz3r 2021 | Vitae theme for Hugo</copyright><lastBuildDate>Tue, 13 Jul 2021 15:52:46 +0000</lastBuildDate><atom:link href="https://news.panz3r.dev/tags/hacker-news-frontpage/index.xml" rel="self" type="application/rss+xml"/><item><title>Ask HN: Introduction to Analog Synthesizers (Simulation OK)</title><link>https://news.panz3r.dev/post/8436d61805c2ec7936a7fba4006f3b8a6971e61903c7fbe8c2d3c759c0332963/</link><pubDate>Tue, 13 Jul 2021 15:52:46 +0000</pubDate><guid>https://news.panz3r.dev/post/8436d61805c2ec7936a7fba4006f3b8a6971e61903c7fbe8c2d3c759c0332963/</guid><description>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hacker-News-Frontpage on Panz3r News</title><link>https://news.panz3r.dev/tags/hacker-news-frontpage/</link><description>Recent content in Hacker-News-Frontpage on news.panz3r.dev</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Panz3r 2021 | Vitae theme for Hugo</copyright><lastBuildDate>Tue, 13 Jul 2021 20:33:11 +0000</lastBuildDate><atom:link href="https://news.panz3r.dev/tags/hacker-news-frontpage/index.xml" rel="self" type="application/rss+xml"/><item><title>Go 1.17 Release Candidate 1</title><link>https://news.panz3r.dev/post/d0896ffcd8ca104c2947fe4279377911d7e3c163d2182cd8df4fc1f1da25274b/</link><pubDate>Tue, 13 Jul 2021 20:33:11 +0000</pubDate><guid>https://news.panz3r.dev/post/d0896ffcd8ca104c2947fe4279377911d7e3c163d2182cd8df4fc1f1da25274b/</guid><description>
+Article URL: https://groups.google.com/g/golang-announce/c/gJE7OtHlRbM/m/21x8zAR-AAAJ
+Comments URL: …</description></item><item><title>RabbitMQ Streams Overview</title><link>https://news.panz3r.dev/post/0d5625d8998a46953ef4da26a74c8f258e0baac976ccb17e0e087adc0df1c994/</link><pubDate>Tue, 13 Jul 2021 20:28:15 +0000</pubDate><guid>https://news.panz3r.dev/post/0d5625d8998a46953ef4da26a74c8f258e0baac976ccb17e0e087adc0df1c994/</guid><description>
+Article URL: https://blog.rabbitmq.com/posts/2021/07/rabbitmq-streams-overview/
+Comments URL: https://news.ycombinator.com/item?id=27825889 …</description></item><item><title>A privacy war is raging inside the W3C</title><link>https://news.panz3r.dev/post/0b1937ac97ca9e8b67a55aca29a0ef7998228f5fcc48495d90fc0a0fd38ae28f/</link><pubDate>Tue, 13 Jul 2021 19:54:18 +0000</pubDate><guid>https://news.panz3r.dev/post/0b1937ac97ca9e8b67a55aca29a0ef7998228f5fcc48495d90fc0a0fd38ae28f/</guid><description>
+Article URL: https://www.protocol.com/policy/w3c-privacy-war
+Comments URL: https://news.ycombinator.com/item?id=27825510
+Points: 102
+# …</description></item><item><title>macOS Nix Setup (an alternative to Homebrew) (2020)</title><link>https://news.panz3r.dev/post/be3957ac6af9c343405d1bc09716e338193dae034cff17d96457ea579b83ef48/</link><pubDate>Tue, 13 Jul 2021 19:34:46 +0000</pubDate><guid>https://news.panz3r.dev/post/be3957ac6af9c343405d1bc09716e338193dae034cff17d96457ea579b83ef48/</guid><description>
+Article URL: https://wickedchicken.github.io/post/macos-nix-setup/
+Comments URL: https://news.ycombinator.com/item?id=27825240
+Points: 201
+# …</description></item><item><title>If you want to transform IT, start with finance</title><link>https://news.panz3r.dev/post/e577c5f9ff7c0b8059226a557a59a764f03ca7f67a23e270c2af169438e34c94/</link><pubDate>Tue, 13 Jul 2021 19:32:26 +0000</pubDate><guid>https://news.panz3r.dev/post/e577c5f9ff7c0b8059226a557a59a764f03ca7f67a23e270c2af169438e34c94/</guid><description>
+Article URL: https://zwischenzugs.com/2021/07/12/if-you-want-to-transform-it-start-with-finance/
+Comments URL: …</description></item><item><title>Why is standing more tiring than walking? [audio]</title><link>https://news.panz3r.dev/post/dfbbfae09ccfb84ef09a1e1dfaa5468493cbea5c634be9021b22de05d8ccfa8d/</link><pubDate>Tue, 13 Jul 2021 19:06:50 +0000</pubDate><guid>https://news.panz3r.dev/post/dfbbfae09ccfb84ef09a1e1dfaa5468493cbea5c634be9021b22de05d8ccfa8d/</guid><description>
+Article URL: https://www.bbc.co.uk/programmes/w3ct1pqm
+Comments URL: https://news.ycombinator.com/item?id=27824885
+Points: 64
+# Comments: 44 …</description></item><item><title>Reducing the Computational Cost of Deep Reinforcement Learning Research</title><link>https://news.panz3r.dev/post/b3cdc7c0c9522b8b76057611255e8bfd8fe47ac2206b29efd93f0b69fc7bda94/</link><pubDate>Tue, 13 Jul 2021 18:15:52 +0000</pubDate><guid>https://news.panz3r.dev/post/b3cdc7c0c9522b8b76057611255e8bfd8fe47ac2206b29efd93f0b69fc7bda94/</guid><description>
+Article URL: https://ai.googleblog.com/2021/07/reducing-computational-cost-of-deep.html
+Comments URL: …</description></item><item><title>AWS Cost Saving Recommendations</title><link>https://news.panz3r.dev/post/9e421923015cf56246783aaa18777e3aa3cd43dcf66a26040737c2c32ae60d64/</link><pubDate>Tue, 13 Jul 2021 17:43:14 +0000</pubDate><guid>https://news.panz3r.dev/post/9e421923015cf56246783aaa18777e3aa3cd43dcf66a26040737c2c32ae60d64/</guid><description>
+Article URL: https://www.vantage.sh/blog/vantage-launches-aws-cost-saving-recommendations
+Comments URL: …</description></item><item><title>Beating TimSort at Merging</title><link>https://news.panz3r.dev/post/795d2244fc5756e915e9161c9573837563311d8292798ec5c3ea249e928aa8ee/</link><pubDate>Tue, 13 Jul 2021 16:46:52 +0000</pubDate><guid>https://news.panz3r.dev/post/795d2244fc5756e915e9161c9573837563311d8292798ec5c3ea249e928aa8ee/</guid><description>
+Article URL: https://earthly.dev/blog/python-timsort-merge/
+Comments URL: https://news.ycombinator.com/item?id=27823180
+Points: 189
+# …</description></item><item><title>Give me /events, not webhooks</title><link>https://news.panz3r.dev/post/09c80e535858aff36d82dbd9e0e05f99ad1d6044912c671c76900d6f74185cab/</link><pubDate>Tue, 13 Jul 2021 16:41:38 +0000</pubDate><guid>https://news.panz3r.dev/post/09c80e535858aff36d82dbd9e0e05f99ad1d6044912c671c76900d6f74185cab/</guid><description>
+Article URL: https://blog.syncinc.so/events-not-webhooks
+Comments URL: https://news.ycombinator.com/item?id=27823109
+Points: 266
+# Comments: …</description></item><item><title>Launch HN: Café (YC S21) – Find the best days to go to the office</title><link>https://news.panz3r.dev/post/7bfe2bf1a98261377e6aff5ddecbf8cf1cb3c2c43db00313c96d9515e5f58ce6/</link><pubDate>Tue, 13 Jul 2021 16:31:36 +0000</pubDate><guid>https://news.panz3r.dev/post/7bfe2bf1a98261377e6aff5ddecbf8cf1cb3c2c43db00313c96d9515e5f58ce6/</guid><description>
+Hey HN, we're Arthur and Tom, 2 brothers from France and founders of Café (https://at.cafe/). Our app lets you decide where to work, …</description></item><item><title>$100M xPrize for Carbon Removal</title><link>https://news.panz3r.dev/post/f676e80b18c2f05a6324d4edc7d52cb617505990c46f45e82114d9c51d1b2dd5/</link><pubDate>Tue, 13 Jul 2021 16:08:14 +0000</pubDate><guid>https://news.panz3r.dev/post/f676e80b18c2f05a6324d4edc7d52cb617505990c46f45e82114d9c51d1b2dd5/</guid><description>
+Article URL: https://www.xprize.org/prizes/elonmusk
+Comments URL: https://news.ycombinator.com/item?id=27822694
+Points: 283
+# Comments: 290</description></item><item><title>Ask HN: Introduction to Analog Synthesizers (Simulation OK)</title><link>https://news.panz3r.dev/post/8436d61805c2ec7936a7fba4006f3b8a6971e61903c7fbe8c2d3c759c0332963/</link><pubDate>Tue, 13 Jul 2021 15:52:46 +0000</pubDate><guid>https://news.panz3r.dev/post/8436d61805c2ec7936a7fba4006f3b8a6971e61903c7fbe8c2d3c759c0332963/</guid><description>
 I realized I've had a long fascination with analog synthesizers going back to the first one I saw in 1977. The band teacher had one in his …</description></item><item><title>Subscription Changes for Computer Backup</title><link>https://news.panz3r.dev/post/53eac97d539e6b7a9f7db0f3eacc6c9d8ac195ceb990dfb7393e653ce8c515e2/</link><pubDate>Tue, 13 Jul 2021 15:19:18 +0000</pubDate><guid>https://news.panz3r.dev/post/53eac97d539e6b7a9f7db0f3eacc6c9d8ac195ceb990dfb7393e653ce8c515e2/</guid><description>
 Article URL: https://www.backblaze.com/blog/subscription-changes-for-computer-backup/
 Comments URL: …</description></item><item><title>Muse Group Continues Tone Deaf Handling of Audacity</title><link>https://news.panz3r.dev/post/ebcc292bd3c2438ceb9a191797f5ff12b2f09cdbfb9f019b867b231626c8b223/</link><pubDate>Tue, 13 Jul 2021 14:53:26 +0000</pubDate><guid>https://news.panz3r.dev/post/ebcc292bd3c2438ceb9a191797f5ff12b2f09cdbfb9f019b867b231626c8b223/</guid><description>
@@ -10,17 +45,17 @@ Article URL: https://livingafi.com/2015/03/09/building-a-vision-of-life-without-
 Comments URL: …</description></item><item><title>Firefox 90</title><link>https://news.panz3r.dev/post/a5a375c9cec3c221df6f95bf37bba33bbd2a31070b199160b40788630aa6210d/</link><pubDate>Tue, 13 Jul 2021 13:45:43 +0000</pubDate><guid>https://news.panz3r.dev/post/a5a375c9cec3c221df6f95bf37bba33bbd2a31070b199160b40788630aa6210d/</guid><description>
 Article URL: https://www.mozilla.org/en-US/firefox/90.0/releasenotes/
 Comments URL: https://news.ycombinator.com/item?id=27820881
-Points: 87 …</description></item><item><title>Show HN: maildog - Hosting email forwarding service on AWS with GitHub Actions</title><link>https://news.panz3r.dev/post/b92275df7dccbc552d2e0d2e48897b6a6d65a96843d0eefe21c3c36dd7d815c1/</link><pubDate>Tue, 13 Jul 2021 11:48:32 +0000</pubDate><guid>https://news.panz3r.dev/post/b92275df7dccbc552d2e0d2e48897b6a6d65a96843d0eefe21c3c36dd7d815c1/</guid><description>
+Points: …</description></item><item><title>Show HN: maildog - Hosting email forwarding service on AWS with GitHub Actions</title><link>https://news.panz3r.dev/post/b92275df7dccbc552d2e0d2e48897b6a6d65a96843d0eefe21c3c36dd7d815c1/</link><pubDate>Tue, 13 Jul 2021 11:48:32 +0000</pubDate><guid>https://news.panz3r.dev/post/b92275df7dccbc552d2e0d2e48897b6a6d65a96843d0eefe21c3c36dd7d815c1/</guid><description>
 Article URL: https://github.com/edmundhung/maildog
 Comments URL: https://news.ycombinator.com/item?id=27819814
-Points: 94
-# Comments: 29</description></item><item><title>MacKichan Software, maker of Scientific Word, has gone out of business</title><link>https://news.panz3r.dev/post/c0768a211c0301da336cdb7999279766cea0e45e9cde23d7370e9e751228df52/</link><pubDate>Tue, 13 Jul 2021 11:33:33 +0000</pubDate><guid>https://news.panz3r.dev/post/c0768a211c0301da336cdb7999279766cea0e45e9cde23d7370e9e751228df52/</guid><description>
+Points: 117
+# Comments: 39</description></item><item><title>MacKichan Software, maker of Scientific Word, has gone out of business</title><link>https://news.panz3r.dev/post/c0768a211c0301da336cdb7999279766cea0e45e9cde23d7370e9e751228df52/</link><pubDate>Tue, 13 Jul 2021 11:33:33 +0000</pubDate><guid>https://news.panz3r.dev/post/c0768a211c0301da336cdb7999279766cea0e45e9cde23d7370e9e751228df52/</guid><description>
 Article URL: https://www.mackichan.com/index.html?techtalk/407.htm~mainFrame
 Comments URL: https://news.ycombinator.com/item?id=27819736 …</description></item><item><title>Apache Heron: A realtime, distributed, fault-tolerant stream processing engine</title><link>https://news.panz3r.dev/post/e59e9d0d7ccb3257b758675e0dd9772f2bf3644544c3fee9d7ef78ae988d283c/</link><pubDate>Tue, 13 Jul 2021 11:16:03 +0000</pubDate><guid>https://news.panz3r.dev/post/e59e9d0d7ccb3257b758675e0dd9772f2bf3644544c3fee9d7ef78ae988d283c/</guid><description>
 Article URL: https://heron.incubator.apache.org/
 Comments URL: https://news.ycombinator.com/item?id=27819648
-Points: 94
-# Comments: 76</description></item><item><title>Lachlan Morton completes 5,510km Alt Tour, beating peloton to Paris by five days</title><link>https://news.panz3r.dev/post/198d0580fba62c6dc1589a0ae70a6f49fa544cd2313ff36ffff22af3cb8bf3cc/</link><pubDate>Tue, 13 Jul 2021 10:55:46 +0000</pubDate><guid>https://news.panz3r.dev/post/198d0580fba62c6dc1589a0ae70a6f49fa544cd2313ff36ffff22af3cb8bf3cc/</guid><description>
+Points: 144
+# Comments: 102</description></item><item><title>Lachlan Morton completes 5,510km Alt Tour, beating peloton to Paris by five days</title><link>https://news.panz3r.dev/post/198d0580fba62c6dc1589a0ae70a6f49fa544cd2313ff36ffff22af3cb8bf3cc/</link><pubDate>Tue, 13 Jul 2021 10:55:46 +0000</pubDate><guid>https://news.panz3r.dev/post/198d0580fba62c6dc1589a0ae70a6f49fa544cd2313ff36ffff22af3cb8bf3cc/</guid><description>
 Article URL: https://www.bikeradar.com/news/lachlan-morton-completes-alt-tour/
 Comments URL: https://news.ycombinator.com/item?id=27819545 …</description></item><item><title>Downgrade User Agent Client Hints to 'harmful'</title><link>https://news.panz3r.dev/post/80a1bc50e7a09e0ffb29260eb827a5a9abb7c161c4558de2246ef70884cca65c/</link><pubDate>Tue, 13 Jul 2021 10:40:39 +0000</pubDate><guid>https://news.panz3r.dev/post/80a1bc50e7a09e0ffb29260eb827a5a9abb7c161c4558de2246ef70884cca65c/</guid><description>
 Article URL: https://github.com/mozilla/standards-positions/issues/552
@@ -479,36 +514,4 @@ Comments URL: …</description></item><item><title>Google Internal Comics</title
 Article URL: https://goomics.net/
 Comments URL: https://news.ycombinator.com/item?id=27778774
 Points: 406
-# Comments: 159</description></item><item><title>“Cat Person” and Me</title><link>https://news.panz3r.dev/post/1b4d4b39ca0bf9908de9ca58199f4b0bd92dc1be6c3cabc2bd726eef4b9189e5/</link><pubDate>Thu, 08 Jul 2021 23:03:59 +0000</pubDate><guid>https://news.panz3r.dev/post/1b4d4b39ca0bf9908de9ca58199f4b0bd92dc1be6c3cabc2bd726eef4b9189e5/</guid><description>
-Article URL: https://slate.com/human-interest/2021/07/cat-person-kristen-roupenian-viral-story-about-me.html
-Comments URL: …</description></item><item><title>Birds are dying in the United States and no one knows why</title><link>https://news.panz3r.dev/post/8a1e4d685f9c9179c94682b686657dd9641e014f0c0d9f85bbd4700394c8976b/</link><pubDate>Thu, 08 Jul 2021 22:13:42 +0000</pubDate><guid>https://news.panz3r.dev/post/8a1e4d685f9c9179c94682b686657dd9641e014f0c0d9f85bbd4700394c8976b/</guid><description>
-Article URL: https://www.dw.com/en/birds-are-dying-in-the-united-states-and-no-one-knows-why/a-58163063
-Comments URL: …</description></item><item><title>A better business model for video folks</title><link>https://news.panz3r.dev/post/24d7748db02ebc4af92f0985c71781597611ccc35b5f88f9534acc806e4e439a/</link><pubDate>Thu, 08 Jul 2021 21:36:13 +0000</pubDate><guid>https://news.panz3r.dev/post/24d7748db02ebc4af92f0985c71781597611ccc35b5f88f9534acc806e4e439a/</guid><description>
-Article URL: https://streambus.com/
-Comments URL: https://news.ycombinator.com/item?id=27777894
-Points: 242
-# Comments: 83</description></item><item><title>California exodus is a myth, UC research project finds</title><link>https://news.panz3r.dev/post/ed1407998da8c916762d0d239b06a7b72ca7db90084b6cea5a1dc4fe3ecca2a3/</link><pubDate>Thu, 08 Jul 2021 21:36:04 +0000</pubDate><guid>https://news.panz3r.dev/post/ed1407998da8c916762d0d239b06a7b72ca7db90084b6cea5a1dc4fe3ecca2a3/</guid><description>
-Article URL: https://www.sfgate.com/local/article/California-exodus-is-just-a-myth-massive-UC-16301134.php
-Comments URL: …</description></item><item><title>Senior Google exec opposes remote work, moves to New Zealand to work remotely</title><link>https://news.panz3r.dev/post/e2f21a81b30b2d7203fd86d5e2033c9ad5ff4cd8303b7eced4fff7cecde23ab0/</link><pubDate>Thu, 08 Jul 2021 21:16:42 +0000</pubDate><guid>https://news.panz3r.dev/post/e2f21a81b30b2d7203fd86d5e2033c9ad5ff4cd8303b7eced4fff7cecde23ab0/</guid><description>
-Article URL: https://www.businessinsider.com/google-exec-reportedly-working-remote-after-opposing-it-for-staff-2021-7
-Comments URL: …</description></item><item><title>Building a data team at a mid-stage startup</title><link>https://news.panz3r.dev/post/9533f7e491acc408f73f960cfb11a98a6903f2d6aef49b1cb58f346ea52183a4/</link><pubDate>Thu, 08 Jul 2021 21:04:06 +0000</pubDate><guid>https://news.panz3r.dev/post/9533f7e491acc408f73f960cfb11a98a6903f2d6aef49b1cb58f346ea52183a4/</guid><description>
-Article URL: https://erikbern.com/2021/07/07/the-data-team-a-short-story.html
-Comments URL: https://news.ycombinator.com/item?id=27777594 …</description></item><item><title>TimeTrack Raspberry Pi</title><link>https://news.panz3r.dev/post/a833e479f8688cc90825759892dc26f8e6ad8ca0b8979f175a530076d260defb/</link><pubDate>Thu, 08 Jul 2021 20:16:45 +0000</pubDate><guid>https://news.panz3r.dev/post/a833e479f8688cc90825759892dc26f8e6ad8ca0b8979f175a530076d260defb/</guid><description>
-Article URL: https://city-of-bloomington.github.io/timetrack/
-Comments URL: https://news.ycombinator.com/item?id=27777077
-Points: 130
-# …</description></item><item><title>List of Special Elevator Modes</title><link>https://news.panz3r.dev/post/6ed964b9dc4253739db07a98aaaa4ab2925c79b4c3200bcc5a472ed234979cce/</link><pubDate>Thu, 08 Jul 2021 19:52:09 +0000</pubDate><guid>https://news.panz3r.dev/post/6ed964b9dc4253739db07a98aaaa4ab2925c79b4c3200bcc5a472ed234979cce/</guid><description>
-Article URL: https://elevation.fandom.com/wiki/List_of_elevator_special_modes
-Comments URL: https://news.ycombinator.com/item?id=27776830 …</description></item><item><title>I made a mistake with Terraform and Azure made it worse</title><link>https://news.panz3r.dev/post/c78034e4f70597247ca11259342078f03c640daaf3504679f7d2071da0f0dff0/</link><pubDate>Thu, 08 Jul 2021 19:51:53 +0000</pubDate><guid>https://news.panz3r.dev/post/c78034e4f70597247ca11259342078f03c640daaf3504679f7d2071da0f0dff0/</guid><description>
-Article URL: https://www.craigstuntz.com/posts/2021-07-08-how-i-made-a-giant-mistake-with-terraform.html
-Comments URL: …</description></item><item><title>EleutherAI One Year Retrospective</title><link>https://news.panz3r.dev/post/7902220831b86f09076dd1d9e58ef47b50309bde1057b4209e39b2f4123721ad/</link><pubDate>Thu, 08 Jul 2021 18:59:49 +0000</pubDate><guid>https://news.panz3r.dev/post/7902220831b86f09076dd1d9e58ef47b50309bde1057b4209e39b2f4123721ad/</guid><description>
-Article URL: https://blog.eleuther.ai/year-one/
-Comments URL: https://news.ycombinator.com/item?id=27776314
-Points: 125
-# Comments: 41</description></item><item><title>Death rates are declining for many common cancers in the U.S., report finds</title><link>https://news.panz3r.dev/post/907d7982112cad32bbb41c48aa7ffa4346e5b2f9410a47eb29382f2072f3948c/</link><pubDate>Thu, 08 Jul 2021 18:46:12 +0000</pubDate><guid>https://news.panz3r.dev/post/907d7982112cad32bbb41c48aa7ffa4346e5b2f9410a47eb29382f2072f3948c/</guid><description>
-Article URL: https://www.statnews.com/2021/07/08/cancer-death-rates-2021/
-Comments URL: https://news.ycombinator.com/item?id=27776184 …</description></item><item><title>Why geothermal isn't ubiquitous and how it might get that way</title><link>https://news.panz3r.dev/post/d88aa8356d2e29d4908898d8a0022d5306de1665517b2ef7ac9f09bf0885879e/</link><pubDate>Thu, 08 Jul 2021 18:24:12 +0000</pubDate><guid>https://news.panz3r.dev/post/d88aa8356d2e29d4908898d8a0022d5306de1665517b2ef7ac9f09bf0885879e/</guid><description>
-Article URL: https://austinvernon.eth.link/blog/geothermal.html
-Comments URL: https://news.ycombinator.com/item?id=27775927
-Points: 159
-# …</description></item></channel></rss>
+# Comments: 159</description></item></channel></rss>

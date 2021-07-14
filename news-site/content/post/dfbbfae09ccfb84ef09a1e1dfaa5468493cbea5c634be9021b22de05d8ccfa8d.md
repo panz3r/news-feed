@@ -9,5 +9,5 @@ tags:
 
 <p>Article URL: <a href="https://www.bbc.co.uk/programmes/w3ct1pqm">https://www.bbc.co.uk/programmes/w3ct1pqm</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=27824885">https://news.ycombinator.com/item?id=27824885</a></p>
-<p>Points: 64</p>
-<p># Comments: 44</p>
+<p>Points: 114</p>
+<p># Comments: 80</p>
